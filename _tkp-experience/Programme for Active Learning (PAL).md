@@ -85,3 +85,4 @@ In Tanjong Katong Primary, PAL is conducted within curriculum time on Thursdays 
 </tbody>
 </table>
 
+<h4 style="color:green">Key Programmes / Activities / Events</h4>
