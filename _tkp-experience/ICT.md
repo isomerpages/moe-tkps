@@ -58,3 +58,20 @@ We hope to provide opportunities for our students to be joyful and responsible d
   
 
 Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/ICT%20Framework.png" alt="MOE ICT Curriculum Framework" style="width:90%;">  
+  
+</body>  
+<br>
+
+<h5 style="color:green">Department’s ICT Strategy
+</h5>
+
+<h5 style="color:green">Tanjong Katong Primary School’s IT Roadmap</h5>
