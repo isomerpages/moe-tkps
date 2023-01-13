@@ -14,9 +14,7 @@ third_nav_title: Student Management
     
       
     
-    <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 363px; height: 271px;" class="ive_eobj_center" alt="Upbeat_1.jpg" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/Upbeat_1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 362px; height: 271px;" class="ive_eobj_center" alt="Upbeat_2.jpg" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/Upbeat_2.jpg"></td></tr></tbody></table>
-    
-    ![Upbeat_3.jpg](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/Upbeat_3.jpg)
+![Upbeat](/images/Upbeat.jpg)
     
 
   
