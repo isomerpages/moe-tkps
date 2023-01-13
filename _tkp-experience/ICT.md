@@ -43,3 +43,18 @@ description: ""
 3.  Students will be exposed to ICT hardware and software
 
 <h4 style="color:green">Key Programmes / Activities / Events</h4>
+<h5 style="color:green">MOE ICT Curriculum Framework</h5>
+
+In Tanjong Katong Primary School, we believe all students and staff play an active role in their individual learning with the seamless use of ICT skills and technology.
+
+  
+
+With sound values, we strongly believe that they can excel in their educational and self-development in an ICT enriched learning environment.
+
+  
+
+We hope to provide opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology.
+
+  
+
+Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products.
