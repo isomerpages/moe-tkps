@@ -16,7 +16,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Epson%20001.jpeg" alt="School History" style="width:70%;">  
+<body><img src="/images/Epson%20001.jpeg" alt="School History" style="width:75%;">  
   
 </body>  
 
