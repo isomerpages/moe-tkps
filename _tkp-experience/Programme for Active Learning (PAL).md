@@ -41,4 +41,6 @@ In order to attain the desired outcomes of PAL, PAL lessons are designed with th
 
 <h5 style="color:black">How does PAL look like in Tanjong Katong Primary?</h5>
 
+In Tanjong Katong Primary, PAL is conducted within curriculum time on Thursdays for Primary 1 and Fridays for Primary 2. The lessons consist of activities in all four domains and are different every term.
+
 <h5 style="color:black">An Overview of PAL modules at Tanjong Katong Primary School</h5>
