@@ -50,15 +50,14 @@ Tier 2
 Cross Level Buddy, programs provide students with exciting opportunities for learning and skill development. Our Primary 1 students especially enjoy the one-to-one attention they receive from their Primary 4 buddies.  
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 222px; height: 277px;" class="ive_eobj_center" alt="PSR_Tier2_1.png" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/PSR_Tier2_1.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 299px; height: 222px;" class="ive_eobj_center" alt="PSR_Tier2_2.png" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/PSR_Tier2_2.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 294px; height: 222px;" class="ive_eobj_center" alt="PSR_Tier2_3.png" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/PSR_Tier2_3.png"></td></tr></tbody></table>
+![Tier 2](/images/Tier%202.jpg)
 
   
 Tier 3  
 In this tier, a selected group of students who are trained to provide emotional and social support to peers, guided by the PSR Core Team of teachers. They are trained in skills using the CHEER model (Calm your friend, Hear them out, Encourage them, Empathise and Refer to a trusted adult).  
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 309px; height: 222px;" class="ive_eobj_center" alt="PSR_Tier3_1.png" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/PSR_Tier3_1.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 297px; height: 222px;" class="ive_eobj_center" alt="PSR_Tier3_2.png" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/PSR_Tier3_2.png"></td></tr></tbody></table>
-
+![](/images/Tier%203.jpg)
 Guiding Beliefs
 ---------------
 
