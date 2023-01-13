@@ -3,7 +3,6 @@ title: School History
 permalink: /about-us/school-history/
 description: ""
 ---
-  
 <style>  
 img {  
   display: block;  
@@ -14,4 +13,4 @@ img {
 <body><img src="/images/school%20uniform.jpg" alt="School History" style="width:70%;">  
   
 </body>  
-<p style="text-align:center;"><strong>LMAOOOO</strong></p>
+<figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
