@@ -39,6 +39,12 @@ img {
 
 Due to low enrollment, both Seraya School and Fowlie School merged in 1986. The new school was named Fowlie Primary School.
 
+#### Fowlie Primary School
+
+Fowlie Primary School began life as Fowlie School at Fowlie Road. The road was named after Dr Peter Fowlie, a leading medical practitioner who later became the Municipal Commissioner in 1912.
+
+When the school merged with Seraya School in 1986, the school was renamed Fowlie Primary School. In order to keep alive its link to Seraya School, the school had included Seraya’s flaming torch and four rings in its new badge.
+
 
 <style>  
 img {  
@@ -50,7 +56,13 @@ img {
 <body><img src="/images/Fowlie%20Primary%20School.jpeg" alt="School History" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
+<figcaption style="text-align:center;"><strong>Fowlie School’s Sports Day 1977</strong></figcaption>
+
+#### Haig Boys’ School
+
+Haig Boys’ School was founded on 10 September 1951. It was originally located at 25 Jalan Tembusu before it moved to 231 Mountbatten Road in 1988. The school took its name from Haig Road. The road was named after a high-ranking officer of the British Army, Douglas Haig (1861 - 1928).
+
+To help the boys get close to nature, the school started the Eco-Garden in 1981. Everyone in the school, from the principal to the teachers, from the school attendants to the students, worked very hard to build the garden and they were all very proud of it. Parents also helped out by donating frogs, tortoises and plants.
 
 
 <style>  
