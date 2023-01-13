@@ -11,12 +11,9 @@ third_nav_title: Student Management
 1.  UPBEAT
     
     This is a 3-day programme set aside on the first 3 days of the school year for form teachers and subject teachers to bond with their students. Besides bonding, teachers get to know their students, set a positive tone for the year, inculcate school values and help their students to settle down in school.
-    
       
     
 ![Upbeat](/images/Upbeat.jpg)
-    
-
   
 
 2.  One-on-One Chat
@@ -35,8 +32,7 @@ third_nav_title: Student Management
     3.  develop a sense of curiosity and of inquiry for lifelong learning; and
     4.  encourage learners to take responsibility for their own learning, be involved in decision-making, regard mistakes as learning opportunities, and express their views confidently.
     
-    <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 222px; height: 291px;" class="ive_eobj_center" alt="Creating a Positive Classroom_1.png" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/Creating%20a%20Positive%20Classroom_1.png"></td><td style="margin: 0px; outline: 0px; padding: 13px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 291px; height: 230px;" class="ive_eobj_center" alt="Creating a Positive Classroom_2.png" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/Creating%20a%20Positive%20Classroom_2.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 223px; height: 291px;" class="ive_eobj_center" alt="Creating a Positive Classroom_3.png" src="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Strengthening%20Culture%20of%20Care/Creating%20a%20Positive%20Classroom_3.png"></td></tr></tbody></table>
-    
+![Creating a positive classroom](/images/Creating%20a%20positive%20classroom.jpg)
 
 Peer Support and Relationships (PSR)
 ------------------------------------
