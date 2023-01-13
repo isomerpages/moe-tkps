@@ -44,3 +44,44 @@ In order to attain the desired outcomes of PAL, PAL lessons are designed with th
 In Tanjong Katong Primary, PAL is conducted within curriculum time on Thursdays for Primary 1 and Fridays for Primary 2. The lessons consist of activities in all four domains and are different every term.
 
 <h5 style="color:black">An Overview of PAL modules at Tanjong Katong Primary School</h5>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0td6{background-color:#F1F2F2;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-l7qz{background-color:#F1F2F2;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-36kn{background-color:#3A6E4E;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-36kn"><span style="font-weight:bold;color:#FFF;background-color:#3A6E4E">PAL Domain</span></th>
+    <th class="tg-36kn"><span style="font-weight:bold;color:#FFF;background-color:#3A6E4E">Sports &amp; Games</span></th>
+    <th class="tg-36kn"><span style="font-weight:bold;color:#FFF;background-color:#3A6E4E">Outdoor Education</span></th>
+    <th class="tg-36kn"><span style="font-weight:bold;color:#FFF;background-color:#3A6E4E">Visual Arts</span></th>
+    <th class="tg-36kn"><span style="font-weight:bold;color:#FFF;background-color:#3A6E4E">Performing Arts</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l7qz"><span style="color:#282828;background-color:#F1F2F2">Primary One</span></td>
+    <td class="tg-0td6">Adventures under the Sea<br><span style="color:#282828;background-color:#F1F2F2">Fundamental skills and games creation</span></td>
+    <td class="tg-0td6">Going on a school trip!<br><span style="color:#282828;background-color:#F1F2F2">Preparing for an outdoor journey</span></td>
+    <td class="tg-0td6">Imagination Alive!<br><span style="color:#282828;background-color:#F1F2F2">Imaginative exploration of art materials</span></td>
+    <td class="tg-0td6">PAL Drama!<br><span style="color:#282828;background-color:#F1F2F2">Perspective taking through role-playing</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828;background-color:#FFF">Primary Two</span></td>
+    <td class="tg-hr73">Olympics and Paralympics!<br><span style="color:#282828;background-color:#FFF">Fundamental movements skills and game creation</span></td>
+    <td class="tg-hr73">What is in My Garden?<br><span style="color:#282828;background-color:#FFF">Appreciating nature</span></td>
+    <td class="tg-hr73">Around the World!<br><span style="color:#282828;background-color:#FFF">Making Art Pieces representative of the countries</span></td>
+    <td class="tg-hr73">Code my Story!<br><span style="color:#282828;background-color:#FFF">Expressing perspective and emotion through coding</span></td>
+  </tr>
+</tbody>
+</table>
+
