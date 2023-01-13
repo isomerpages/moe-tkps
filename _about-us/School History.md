@@ -36,7 +36,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="School History" style="width:70%;">  
+<body><img src="![](/images/Fowlie%20Primary%20School.jpeg)" alt="School History" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
