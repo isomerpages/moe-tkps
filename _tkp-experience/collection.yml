@@ -2,6 +2,7 @@ collections:
   tkp-experience:
     output: true
     order:
+      - CCE/.keep
       - ICT.md
       - Programme for Active Learning (PAL).md
       - Student Management/Strengthening Culture of Care.md
