@@ -2,4 +2,5 @@ collections:
   tkp-experience:
     output: true
     order:
+      - CCA/CCA.md
       - CCA/.keep
