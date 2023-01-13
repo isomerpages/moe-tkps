@@ -69,7 +69,7 @@ img {
 <body><img src="/images/ICT%20Framework.png" alt="MOE ICT Curriculum Framework" style="width:90%;">  
   
 </body>  
-<br>
+<figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
 
 <h5 style="color:green">Department’s ICT Strategy
 </h5>
