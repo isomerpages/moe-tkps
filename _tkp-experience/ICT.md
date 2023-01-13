@@ -105,3 +105,25 @@ In designing learning with technology, teachers consider the following student-c
 *   How can students’ learning be advanced?
 
 <h5 style="color:green">Tanjong Katong Primary School’s IT Roadmap</h5>
+
+All students will undergo an IT training programme to equip them with IT skills that help to enhance their learning.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IT%20Training%20Programme.jpeg" alt="IT Training Programme" style="width:80%;">  
+  
+</body>  
+<figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
+
+<h4 style="color:green">Useful Links:</h4>
+
+1.  Digital Skills and Education: Singapore's ICT Master Planning for the School Sector <br>
+a. [https://repository.nie.edu.sg/bitstream/10497/15602/4/BC-DSE-2008-167.pdf](https://repository.nie.edu.sg/bitstream/10497/15602/4/BC-DSE-2008-167.pdf)
+
+3.  Student Learning Space \[SLS\] <br>
+b.  [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
