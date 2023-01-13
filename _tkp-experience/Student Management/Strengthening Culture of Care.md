@@ -36,7 +36,7 @@ third_nav_title: Student Management
 
 <h4 style="color:green">Peer Support and Relationships (PSR)</h4>
 
-Tier 1  
+<u>Tier 1</u>  
 The mind-set that all of us can show care to one another is cultivated. Explicit teaching of social and emotional competencies in CCE or FTGP curriculum to build resilience is done during our Home Period.  
   
 Each student is equipped with basic Peer Helping Skills such as Seeking Help and Giving Help.  
@@ -45,14 +45,14 @@ Each student is equipped with basic Peer Helping Skills such as Seeking Help and
 ![Tier 1](/images/Tier%201.jpg)
 
   
-Tier 2  
+<u>Tier 2</u> <br>
 Cross Level Buddy, programs provide students with exciting opportunities for learning and skill development. Our Primary 1 students especially enjoy the one-to-one attention they receive from their Primary 4 buddies.  
   
 
 ![Tier 2](/images/Tier%202.jpg)
 
   
-Tier 3  
+<u>Tier 3</u>  
 In this tier, a selected group of students who are trained to provide emotional and social support to peers, guided by the PSR Core Team of teachers. They are trained in skills using the CHEER model (Calm your friend, Hear them out, Encourage them, Empathise and Refer to a trusted adult).  
 
 <style>  
