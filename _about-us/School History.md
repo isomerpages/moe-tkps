@@ -49,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="School History" style="width:70%;">  
+<body><img src="![](/images/Haig%20Boys%20School.jpeg)" alt="School History" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
