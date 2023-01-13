@@ -1,4 +1,5 @@
 collections:
   tkp-experience:
     output: true
-    order: []
+    order:
+      - CCA/.keep
