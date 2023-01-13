@@ -34,7 +34,6 @@ third_nav_title: Student Management
     
 ![Creating a positive classroom](/images/Creating%20a%20positive%20classroom.jpg)
 
-
 <h4 style="color:green">Peer Support and Relationships (PSR)</h4>
 
 Tier 1  
@@ -59,8 +58,7 @@ In this tier, a selected group of students who are trained to provide emotional 
 
 ![](/images/Tier%203.jpg)
 
-Guiding Beliefs
----------------
+<h4 style="color:green">Guiding Beliefs</h4>
 
 **Take Care Of Yourself**
 
