@@ -2,6 +2,7 @@ collections:
   tkp-experience:
     output: true
     order:
+      - Student Management/Student Leadership.md
       - Student Management/.keep
       - CCA/CCA.md
       - CCA/.keep
