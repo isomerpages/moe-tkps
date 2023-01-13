@@ -4,10 +4,9 @@ permalink: /tkp-experience/student-management/strengthening-culture-of-care/
 description: ""
 third_nav_title: Student Management
 ---
-### Head of Department / Student Management:
+#### Head of Department / Student Management:
 
-Mrs Kumuda Vijay
-----------------
+### Mrs Kumuda Vijay
 
 1.  UPBEAT
     
