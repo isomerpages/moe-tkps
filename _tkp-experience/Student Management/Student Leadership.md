@@ -47,8 +47,7 @@ Platforms are provided for them in class, CCA, school events or beyond school fo
 The Student Leadership structure in TKP is 3-tiered and the first tier refers to the Class Leaders. In this tier, students take up class leadership positions where they focus on ‘Self Leadership’. TKP strongly believes that every student should be developed to be a leader and therefore such Student Leadership Development is made intentional in TKP. By the end of their Primary school education, students would have achieved at least one tier of the student leadership structure.
 
   
-
-![SL Structure.png](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/TKP%20Experience/Non-IP%20Departments/Student%20Management/Student%20Leadership/SL%20Structure.png)
+![SL Structure](/images/SL%20Structure.png)
 
   
 
