@@ -54,9 +54,18 @@ Cross Level Buddy, programs provide students with exciting opportunities for lea
   
 Tier 3  
 In this tier, a selected group of students who are trained to provide emotional and social support to peers, guided by the PSR Core Team of teachers. They are trained in skills using the CHEER model (Calm your friend, Hear them out, Encourage them, Empathise and Refer to a trusted adult).  
-  
 
-![](/images/Tier%203.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Tier%203.jpg" alt="Peer Support and Relationships (PSR)" style="width:80%;">  
+  
+</body>  
+<br> 
 
 <h4 style="color:green">Guiding Beliefs</h4>
 
