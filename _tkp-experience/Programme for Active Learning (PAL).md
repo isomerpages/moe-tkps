@@ -25,5 +25,4 @@ Develop learners to be healthy and competent movers, with an appreciation of the
 
 <h5 style="color:black">How does PAL look like in Tanjong Katong Primary?</h5>
 
-<h5 style="color:black">A Community of Individuals with a Love for Active Lifestyle and the Arts.</h5>
-
+<h5 style="color:black">An Overview of PAL modules at Tanjong Katong Primary School</h5>
