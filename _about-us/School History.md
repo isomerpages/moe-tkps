@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="School History" style="width:70%;">  
+<body><img src="![](/images/Epson%20001.jpeg)" alt="School History" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="School History" style="width:70%;">  
+<body><img src="![](/images/Seraya%20School.jpeg)" alt="School History" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
@@ -79,4 +79,3 @@ img {
   
 </body>  
 <figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
-
