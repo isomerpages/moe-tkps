@@ -35,3 +35,11 @@ Time and again, the students in the school’s CCAs have done themselves and the
   
 
 Ultimately, the category and exact CCA that a student opts for is up to the individual student and their parents. As far as possible, the school will try to accommodate every students’ choice of CCA.
+
+<h4 style="color:green">Clubs</h4>
+
+<h4 style="color:green">Performing Arts</h4>
+
+<h4 style="color:green">Sports</h4>
+
+<h4 style="color:green">Uniformed Groups</h4>
