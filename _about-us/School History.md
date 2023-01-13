@@ -32,7 +32,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Seraya%20School.jpeg" alt="School History" style="width:70%;">  
+<body><img src="/images/Seraya%20School.jpeg" alt="School History" style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>Seraya School’s Bugle and Fife Band performing at Jalan Besar Stadium on 29 April 1972</strong></figcaption>
@@ -53,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Fowlie%20Primary%20School.jpeg" alt="School History" style="width:70%;">  
+<body><img src="/images/Fowlie%20Primary%20School.jpeg" alt="School History" style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>Fowlie School’s Sports Day 1977</strong></figcaption>
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Haig%20Boys%20School.jpeg" alt="School History" style="width:70%;">  
+<body><img src="/images/Haig%20Boys%20School.jpeg" alt="School History" style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>Eco-Garden in Haig Boys’ School</strong></figcaption>
@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mountbatten%20Primary%20School.jpeg" alt="School History" style="width:70%;">  
+<body><img src="/images/Mountbatten%20Primary%20School.jpeg" alt="School History" style="width:80%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>Staff of Mounbatten Primary School</strong></figcaption>
@@ -110,7 +110,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG_0668.jpeg" alt="School History" style="width:70%;">  
+<body><img src="/images/IMG_0668.jpeg" alt="School History" style="width:80%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>TKP Heritage Gallery</strong></figcaption>
