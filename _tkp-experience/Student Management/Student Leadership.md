@@ -4,7 +4,7 @@ permalink: /tkp-experience/student-management/student-leadership/
 description: ""
 third_nav_title: Student Management
 ---
-**Overview**
+**<u>Overview</u>**
 
   
 
@@ -18,7 +18,7 @@ The school has put in place a leadership structure to develop the leadership com
 
   
 
-**Mode of Training Student Leaders: Equip and Practice**
+**<u>Mode of Training Student Leaders: Equip and Practice</u>**
 
   
 
@@ -26,13 +26,13 @@ The Student Leadership programmes are intentionally planned with the two tenets 
 
   
 
-**Equip:**
+**<u>Equip:</u>**
 
 Every TKP student is given an opportunity to be a leader. School’s core values are incorporated into co-curricular programmes. Training sessions are provided for the respective roles in order to equip them with the necessary technical skills and values to prepare them for their duties and responsibilities.
 
   
 
-**Practice:**
+**<u>Practice:</u>**
 
 Platforms are provided for them in class, CCA, school events or beyond school for the students to exemplify their leadership skills. These platforms are planned intentionally for the various groups of student leaders in order for them to have opportunities to apply the skills learnt.
 
@@ -40,7 +40,7 @@ Platforms are provided for them in class, CCA, school events or beyond school fo
 
   
 
-**3-Tier Approach/ Structure**
+**<u>3-Tier Approach/ Structure</u>**
 
   
 
@@ -65,7 +65,7 @@ Our school uses a whole school approach in providing students with broad experie
 
   
 
-**SLC- Service to School**
+**<u>SLC- Service to School</u>**
 
   
 
@@ -107,8 +107,7 @@ By the end of the each module, student leaders emerge with an increased awarenes
 
   
 
-**Primary 4 SLC VIA Project**
-
+**Primary 4 SLC VIA Project** <br>
 **Collaboration with Willing Hearts**
 
   
