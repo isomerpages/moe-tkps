@@ -74,4 +74,34 @@ img {
 <h5 style="color:green">Department’s ICT Strategy
 </h5>
 
+With the introduction of the Student Learning Space (SLS), learning with technology in Tanjong Katong Primary School is guided by the SLS Pedagogical Scaffold which enables teachers to design technology-enabled learning experiences to enhance students’ learning.
+
+  
+
+In designing learning with technology, teachers consider the following student-centric active learning process while planning a technology-enabled lesson:
+
+**<u>Activate Learning</u>**
+
+*   How will students’ focus and interest be oriented towards the learning objectives?
+
+  
+
+#### Promote Thinking and Discussion
+
+*   How will students think about ideas and concepts?
+*   What skills and processes will students perform?
+*   How will students build on their current understanding?
+
+  
+
+#### Facilitate Demonstration of Learning
+
+*   How will students demonstrate their understanding and new learning?
+
+  
+
+#### Monitor and Provide Feedback
+
+*   How can students’ learning be advanced?
+
 <h5 style="color:green">Tanjong Katong Primary School’s IT Roadmap</h5>
