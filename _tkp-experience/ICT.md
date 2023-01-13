@@ -86,7 +86,7 @@ In designing learning with technology, teachers consider the following student-c
 
   
 
-#### Promote Thinking and Discussion
+**<u>Promote Thinking and Discussion</u>**
 
 *   How will students think about ideas and concepts?
 *   What skills and processes will students perform?
@@ -94,13 +94,13 @@ In designing learning with technology, teachers consider the following student-c
 
   
 
-#### Facilitate Demonstration of Learning
+**<u>Facilitate Demonstration of Learning</u>**
 
 *   How will students demonstrate their understanding and new learning?
 
   
 
-#### Monitor and Provide Feedback
+**<u>Monitor and Provide Feedback</u>**
 
 *   How can students’ learning be advanced?
 
