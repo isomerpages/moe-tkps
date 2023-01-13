@@ -34,8 +34,8 @@ third_nav_title: Student Management
     
 ![Creating a positive classroom](/images/Creating%20a%20positive%20classroom.jpg)
 
-Peer Support and Relationships (PSR)
-------------------------------------
+
+<h3 style="color:green">Peer Support and Relationships (PSR)</h3>
 
 Tier 1  
 The mind-set that all of us can show care to one another is cultivated. Explicit teaching of social and emotional competencies in CCE or FTGP curriculum to build resilience is done during our Home Period.  
