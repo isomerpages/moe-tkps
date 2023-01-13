@@ -75,7 +75,13 @@ img {
 <body><img src="/images/Haig%20Boys%20School.jpeg" alt="School History" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
+<figcaption style="text-align:center;"><strong>Eco-Garden in Haig Boys’ School</strong></figcaption>
+
+#### Mountbatten Primary School
+
+Mountbatten Primary School took its name from Mountbatten Road. The road was named in honour of Lord Louis Mountbatten (1900 – 1979), a British Royal Navy officer who reached the highest rank of Admiral of the Fleet.
+
+There were originally two Mountbatten schools - Mountbatten English Primary School and Mountbatten Government Chinese Primary School. They merged in the early 1980s to form Mountbatten Primary School.
 
 
 <style>  
@@ -88,7 +94,13 @@ img {
 <body><img src="/images/Mountbatten%20Primary%20School.jpeg" alt="School History" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
+<figcaption style="text-align:center;"><strong>Staff of Mounbatten Primary School</strong></figcaption>
+
+#### Tanjong Katong Primary School
+
+In 2001, the three schools, Fowlie Primary, Haig Boys’ School and Mountbatten Primary School amalgamated and formed Tanjong Katong Primary School.
+
+To capture the unique history and heritage of Tanjong Katong Primary, the school has launched the TKP Heritage Gallery to encourage our students to learn our past and preserve what we can for the future generation.
 
 
 <style>  
@@ -101,4 +113,12 @@ img {
 <body><img src="/images/IMG_0668.jpeg" alt="School History" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
+<figcaption style="text-align:center;"><strong>TKP Heritage Gallery</strong></figcaption>
+
+#### Our Beliefs
+
+In TKP, we believe that every child is different and each comes with his/her unique talents and needs. As such, we are committed to nurturing each of them to fulfil his/her potential. We hope that through providing a holistic education that develop our students in the various domains, they will have opportunities to discover their strengths. We also hope that they would also be exposed to ways in which they can use what they have learnt to benefit others.
+
+Our Vision, ‘Passionate Learners, Caring Leaders, Global Citizens’, is an expression of aspiration for our students so that they will be prepared and equipped for the Volatile, Uncertain, Complex and Ambiguous (VUCA) world and the future ahead. We strive to provide a dynamic learning environment so that our students may develop a love of learning, not just learning during their schooling years but into their life, long after they have left school. We nurture them so that they could excel in their pursuits. When they succeed in life, we hope that they would have empathy and care about others; and contribute back to the society. We would also like to continue to tap on the unique profile of the students to cultivate the cross-cultural skills essential for them to thrive in a globalised world.
+
+To this cause, we will work with our partners, including parents, alumni and the community, to enrich the learning experiences of our students.
