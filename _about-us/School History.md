@@ -62,7 +62,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="School History" style="width:70%;">  
+<body><img src="![](/images/Mountbatten%20Primary%20School.jpeg)" alt="School History" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
@@ -75,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="School History" style="width:70%;">  
+<body><img src="![](/images/IMG_0668.jpeg)" alt="School History" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;"><strong>LMAOOOO</strong></figcaption>
