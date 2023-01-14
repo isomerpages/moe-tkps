@@ -75,7 +75,16 @@ img {
 <body><img src="![](/images/National%20Day.jpg)" alt="National Day" style="width:80%;">  
   
 </body>  
-<br>
+
+2.  **Infusion of National Education / Contemporary Issues in Subjects**
+
+While National Education is more commonly associated with Social Studies English and Mother Tongue, the students discuss contemporary issues across multiple subject areas which includes a more multi-dimensional and lively narrative.
+
+  
+
+3.  **NE Ambassadors**
+
+During our morning flag-raising ceremony, NE Ambassadors lead the pledge in the respective classrooms. This helps to reinforce our shared value as a nation. Our NE Ambassadors also attend training and play an active role in our NE and community events. They are also trained as docents for our community trails.
 
 <style>  
 img {  
@@ -84,10 +93,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/NE%20Ambassadors.jpeg)" alt="NE Ambassadors" style="width:80%;">  
   
 </body>  
-<br>
+
+4.  **Community Partnerships**
+
+**\-    Banners around Tanjong Katong**
+
+Our students are involved in the designing of community banners around the neighbourhood to raise awareness on social and environmental issues such as the Zika virus, Covid-19 and Stronger Together.
 
 <style>  
 img {  
@@ -96,7 +110,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/Banners%20around%20Tanjong%20Katong.jpg)" alt="Banners around Tanjong Katong" style="width:80%;">  
   
 </body>  
 <br>
