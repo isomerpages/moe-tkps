@@ -117,3 +117,6 @@ The Mother Tongue Language Fortnight usually takes place in term 1. A variety of
 Across the different levels, there would be interclass competitions such as singing, writing etc. This is to provide a platform for healthy competition, as well as arouse learning interest through the participation of the various activities.
 
 **P1**
+
+**P3 & P4**
+
