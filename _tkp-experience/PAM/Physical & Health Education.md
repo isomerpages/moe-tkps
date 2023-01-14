@@ -95,4 +95,10 @@ Through the many opportunities for **interactive** platforms such as pair/grou
 
 Making the PE curriculum come to life during PE lessons! Equipping our students with skills for healthy and active living.
 
-![](/images/Learn%20for%20life.png)
+![Learn for life](/images/Learn%20for%20life.png)
+
+##### Embrace all Learners
+
+Bringing swimming to all students in Primary 3 during the curriculum to ensure all have a chance to acquire this skill, at their own learning pace.
+
+![Embrace all learners](/images/Embrace%20all%20learners.png)
