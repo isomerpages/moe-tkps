@@ -26,3 +26,15 @@ _A school-based curriculum has been specially developed by the teachers for the 
 \-    School-Based Value Inculcation Lessons
 
 \-    Form Teacher Guidance Period (FTGP)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:75%;">  
+  
+</body>  
+<br>
