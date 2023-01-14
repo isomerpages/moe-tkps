@@ -27,7 +27,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/Total%20Defence%20Day.jpg)" alt="Total Defence Day" style="width:80%;">  
   
 </body>  
 <br>
