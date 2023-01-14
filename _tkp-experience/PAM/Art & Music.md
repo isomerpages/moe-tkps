@@ -156,9 +156,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/TK%20Buskers.jpeg)" alt="TK Buskers" style="width:85%;">  
   
 </body>  
+
+**<u>National Day Banner</u>** <br>
+In a bid to spread good cheer and national spirit in the community, students design banners with the year’s National Day theme in mind. Selected banners are hung around the neighbourhood in the days leading up to our nation’s birthday.
 
 <style>  
 img {  
@@ -167,6 +170,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/National%20Day%20Banner.jpg)" alt="Art & Music" style="width:85%;">  
   
 </body>
+
+##### Enhance student well-being
+
+The Aesthetics have the ability to develop extra-musical skills, including critical thinking skills, psychomotor skills, social awareness, and moral and cultural values, all of which contribute to the holistic development of a child.
