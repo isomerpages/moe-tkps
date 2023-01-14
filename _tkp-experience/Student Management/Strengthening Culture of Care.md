@@ -69,20 +69,17 @@ img {
 
 #### Guiding Beliefs
 
-**Take Care Of Yourself**
-
+**Take Care Of Yourself** <br>
 In ensuring personal safety and responsibilities, we hope our students to learn how to use various strategies taught, and implement them in a regular routine so that they can boost their well-being.
 
   
 
-**Take Care Of Others**
-
+**Take Care Of Others** <br>
 Providing a listening ear, noticing when someone needs help, and helping our community without seeking anything in return. This also entails being kind to others in words and actions, and being useful to the community.
 
   
 
-**Take Care Of Your Surroundings**
-
+**Take Care Of Your Surroundings** <br>
 Being aware of one’s environmental footprint to see how much impact just one person has one the world’s resources, and adjust accordingly. In addition, be cognizant of the immediate environment by keeping it clean and take personal responsibility for it.
 
   
