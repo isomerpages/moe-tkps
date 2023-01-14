@@ -6,21 +6,17 @@ third_nav_title: PAM
 ---
 ##### Head of Department:  
 
-##### Ms Serene Ng
-------------
+### Ms Serene Ng
 
-### Subject Head:
+##### Subject Head:
 
-Ms Jasmine Eng (Aesthetics)
----------------------------
+### Ms Jasmine Eng (Aesthetics)
 
-Department Vision
------------------
+#### Department Vision
 
-### A Community of Individuals with a Love for Active Lifestyle and the Arts.
+**A Community of Individuals with a Love for Active Lifestyle and the Arts.**
 
-Department Mission
-------------------
+#### Department Mission
 
 To nurture cultured students who are lifelong learners in the appreciation of Art and Music, through providing a vibrant environment.
 
