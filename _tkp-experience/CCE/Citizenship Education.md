@@ -60,7 +60,10 @@ img {
 <body><img src="![](/images/Racial%20Harmony%20Day.jpg)" alt="Racial Harmony Day" style="width:80%;">  
   
 </body>  
-<br>
+
+**d) National Day (9 August)**
+
+National Day marks our separation from Malaysia in 1965, and our emergence as an independent country in a community of nations. Each year, we commemorate National Day by holding an observance ceremony for students to have a greater sense of the historical importance and solemnity of National Day.
 
 <style>  
 img {  
@@ -69,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/National%20Day.jpg)" alt="National Day" style="width:80%;">  
   
 </body>  
 <br>
