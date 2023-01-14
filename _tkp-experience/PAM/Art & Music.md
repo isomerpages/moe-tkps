@@ -67,7 +67,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Museum%20based%20learning.jpg)" alt="Museum-based learning" style="width:85%;">  
+<body><img src="/images/Museum%20based%20learning.jpg" alt="Museum-based learning" style="width:85%;">  
   
 </body>  
 
@@ -81,7 +81,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Digital%20art%20and%20music_1.jpg)" alt="Digital Art & Music" style="width:85%;">  
+<body><img src="/images/Digital%20art%20and%20music_1.jpg" alt="Digital Art & Music" style="width:85%;">  
   
 </body>  
 <p style="text-align:center;">Students working on Photoshop during art lessons</p>
@@ -93,7 +93,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Digital%20art%20and%20music_2.jpg)" alt="Digital Art & Music" style="width:85%;">  
+<body><img src="/images/Digital%20art%20and%20music_2.jpg" alt="Digital Art & Music" style="width:85%;">  
   
 </body>  
 <p style="text-align:center;">Students working on iPad GarageBand.</p>
@@ -108,7 +108,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Instrumental%20skills_1.jpg)" alt="Instrumental Skills" style="width:85%;">  
+<body><img src="/images/Instrumental%20skills_1.jpg" alt="Instrumental Skills" style="width:85%;">  
   
 </body>  
 <p style="text-align:center;">Primary 5 students on World Percussions</p>
@@ -120,7 +120,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Insturmental%20skills_2.jpg)" alt="Instrumental Skills" style="width:85%;">  
+<body><img src="/images/Insturmental%20skills_2.jpg" alt="Instrumental Skills" style="width:85%;">  
   
 </body>  
 <p style="text-align:center;">Primary 6 students on the cajon</p>
@@ -142,7 +142,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TK%20Spotlight.jpg)" alt="TK Spotlight" style="width:85%;">  
+<body><img src="/images/TK%20Spotlight.jpg" alt="TK Spotlight" style="width:85%;">  
   
 </body>  
 
@@ -156,7 +156,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TK%20Buskers.jpeg)" alt="TK Buskers" style="width:85%;">  
+<body><img src="/images/TK%20Buskers.jpeg" alt="TK Buskers" style="width:85%;">  
   
 </body>  
 
@@ -170,7 +170,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/National%20Day%20Banner.jpg" alt="Art & Music" style="width:85%;">  
+<body><img src="/images/National%20Day%20Banner.jpg" alt="Art & Music" style="width:85%;">  
   
 </body>
 
