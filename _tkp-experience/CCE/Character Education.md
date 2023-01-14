@@ -91,7 +91,12 @@ img {
 <body><img src="![](/images/Student%20Leadership%20Programme.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
-<br>
+
+4.  [**Sexuality Education (for P5 and P6 only)**](/useful-information/parents/sexuality-education)
+
+  
+
+5.  **Cyberwellness Programme**
 
 <style>  
 img {  
@@ -100,7 +105,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/Cyberwellness%20Programme.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
