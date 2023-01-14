@@ -91,3 +91,29 @@ In TKP, we incorporate digital learning in our department curriculum to cultivat
 ##### CNY Celebration
 
 CNY Celebration is a yearly affair to usher in the New Year in accordance to the Chinese Lunar Calendar. The celebration would consist of a concert and classroom activities. Through the concert, students would acquire interesting knowledge about the festival, and selected students would also be able to showcase their talents through the concert. There would also be classroom activities related to the festival to engage the students. Students are encouraged to wear red that day to create the festive mood.
+
+# slide
+
+##### P4 Cultural Day Camp
+
+Opportunities are created for our Primary 4 pupils to learn more about our Chinese Culture through a 2-day Cultural Immersion Programme. Pupils will get to visit the "Chinatown Heritage Centre", "Thian Hock Keng Temple" and some shop houses situated along the streets of Chinatown. They would also be introduced to Teochew Opera, Traditional Chinese Medicine, famous novels like "Journey to the West", singing of nursery rhymes in the different dialects etc. All these activities help to arouse interest in the learning of the Chinese Culture.
+
+# slide
+
+##### P5 Beijing Overseas Immersion
+
+P5 Beijing Overseas Immersion takes place towards the end of term 3. A group of selected P5HCL students would be accompanied by Chinese Language teachers for a 5 day immersion trip. They will visit local schools to interact with the local students and to some places of interest. This is a great opportunity for authentic learning to take place as the students would be immersed in a Chinese speaking environment.
+
+# slide
+
+##### Mother Tongue Fortnight
+
+The Mother Tongue Language Fortnight usually takes place in term 1. A variety of activities were organized with the objective in creating an immersive environment for learning and appreciating Mother Tongue language and culture. Language activities such as role-play, signage design and poster design aim to provide pupils with opportunities to use their Mother Tongue Language. Cultural activities such as clay sculpture, Chinese chess and Wushu exposed the pupils to various aspects of their traditional culture.''
+
+# slide
+
+##### Interclass competitions
+
+Across the different levels, there would be interclass competitions such as singing, writing etc. This is to provide a platform for healthy competition, as well as arouse learning interest through the participation of the various activities.
+
+**P1**
