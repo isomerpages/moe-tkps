@@ -174,7 +174,30 @@ img {
 <body><img src="![](/images/ECG_4.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
-<br>
+
+We are very honoured to have these inspirational speakers to share their experiences with our P6 students. They come with different expertise and experiences from different industries.
+
+  
+
+Our students were exposed to a variety of career pathways. The speakers who are made up of parent volunteers, alumni and community friends inspire our pupils to dream and set targets for themselves. Our speakers emphasized on the skills, competencies and values which help them to overcome the challenges in life. The sessions turned out to be very engaging though the speakers were appearing in front of them on projected screens in their respective classrooms. It was heartening to see our students taking the opportunities to ask very good questions.
+
+  
+
+8.  **Student Recognition Awards**
+
+The school believes in affirming positive qualities demonstrated by the students and aims to highlight the importance of these qualities, as well as the students who consistently exhibit them. The following are the awards given to affirm the students.  
+
+  
+
+##### a) ECHA Award (National Award)
+
+Outstanding TKP students from Primary 5 and Primary 6 are nominated for his/ her exemplary character and excellent attitude. These students are role models who inspire others to do likewise.
+
+  
+
+##### b) Model Pupil of the Year (School-based)
+
+A deserving student from Primary 6 cohort each year is nominated for his/ her exemplary behaviour and excellent attitude.
 
 <style>  
 img {  
@@ -183,7 +206,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/Model%20Pupil%20of%20the%20Year%20School-based.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
