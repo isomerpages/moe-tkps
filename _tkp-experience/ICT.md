@@ -69,7 +69,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/ICT%20Framework.png" alt="MOE ICT Curriculum Framework" style="width:90%;">  
+<img style="width:90%;" alt="MOE ICT Curriculum Framework" src="/images/ICT%20Framework.png">  
   
   
 <figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
@@ -117,12 +117,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/IT%20Training%20Programme.jpeg" alt="IT Training Programme" style="width:80%;">  
+<img style="width:80%;" alt="IT Training Programme" src="/images/IT%20Training%20Programme.jpeg">  
   
   
 <figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
 
-<h4 style="color:green">Useful Links:</h4>
+#### Useful Links:
 
 1.  Digital Skills and Education: Singapore's ICT Master Planning for the School Sector <br>
 a. [https://repository.nie.edu.sg/bitstream/10497/15602/4/BC-DSE-2008-167.pdf](https://repository.nie.edu.sg/bitstream/10497/15602/4/BC-DSE-2008-167.pdf)
