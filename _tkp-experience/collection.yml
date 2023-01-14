@@ -2,6 +2,7 @@ collections:
   tkp-experience:
     output: true
     order:
+      - CCE/Character Education.md
       - CCE/Citizenship Education.md
       - CCE/CCE.md
       - CCE/.keep
