@@ -24,7 +24,67 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Science Department" style="width:50%;">  
+<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+  
+</body>  
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+  
+</body>  
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+  
+</body>  
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+  
+</body>  
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+  
+</body>  
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
   
 </body>  
 <br>
