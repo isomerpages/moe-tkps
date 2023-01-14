@@ -34,7 +34,7 @@ third_nav_title: Student Management
     
 ![Creating a positive classroom](/images/Creating%20a%20positive%20classroom.jpg)
 
-<h4 style="color:green">Peer Support and Relationships (PSR)</h4>
+#### Peer Support and Relationships (PSR)
 
 <u>Tier 1</u>  
 The mind-set that all of us can show care to one another is cultivated. Explicit teaching of social and emotional competencies in CCE or FTGP curriculum to build resilience is done during our Home Period.  
@@ -67,7 +67,7 @@ img {
 </body>  
 <br> 
 
-<h4 style="color:green">Guiding Beliefs</h4>
+#### Guiding Beliefs
 
 **Take Care Of Yourself**
 
