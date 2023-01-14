@@ -102,3 +102,9 @@ Making the PE curriculum come to life during PE lessons! Equipping our students 
 Bringing swimming to all students in Primary 3 during the curriculum to ensure all have a chance to acquire this skill, at their own learning pace.
 
 ![Embrace all learners](/images/Embrace%20all%20learners.png)
+
+##### Enhance student well-being
+
+Allowing many platforms for students to have collaborative and engaging learning, so as to make lessons come alive!
+
+![Enhance student well being](/images/Enhance%20student%20well%20being.png)
