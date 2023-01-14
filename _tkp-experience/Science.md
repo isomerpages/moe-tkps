@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Science%20Vision.jpeg)" alt="Science Department" style="width:85%;">  
+<body><img src="/images/Science%20Vision.jpeg" alt="Science Department" style="width:85%;">  
   
 </body>  
 
@@ -57,7 +57,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P3%20to%20P5%20Science%20Innovation%20Programme.jpg)" alt="Science Department" style="width:85%;">  
+<body><img src="/images/P3%20to%20P5%20Science%20Innovation%20Programme.jpg" alt="Science Department" style="width:85%;">  
   
 </body>  
 <p style="text-align:center;">They learn to create innovative solutions to prototype and test</p>
@@ -69,7 +69,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P3%20to%20P5%20Science%20Innovation%20Programme_2.png)" alt="Science Department" style="width:85%;">  
+<body><img src="/images/P3%20to%20P5%20Science%20Innovation%20Programme_2.png" alt="Science Department" style="width:85%;">  
   
 </body>  
 <p style="text-align:center;">Students also develop scientific attitudes like creativity, perseverance and open-mindedness</p>
@@ -88,7 +88,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/20170913_161101.jpeg)" alt="Science Department" style="width:85%;">  
+<body><img src="/images/20170913_161101.jpeg" alt="Science Department" style="width:85%;">  
   
 </body>  
 Students will use the microscope to identify micro-organisms and cells, and prepare sample slides using simple staining methods  
@@ -104,7 +104,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/20190424_150801.jpeg)" alt="Science Department" style="width:85%;">  
+<body><img src="/images/20190424_150801.jpeg" alt="Science Department" style="width:85%;">  
   
 </body>  
 <p style="text-align:center;">Students will be taught field techniques to catch and observe a variety of aquatic organisms in a pond community using a microscope. They will learn about relationships between organisms in a food web</p>
@@ -124,7 +124,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Environmental%20Education.png)" alt="Science Department" style="width:85%;">  
+<body><img src="/images/Environmental%20Education.png" alt="Science Department" style="width:85%;">  
   
 </body>  
 <br>
