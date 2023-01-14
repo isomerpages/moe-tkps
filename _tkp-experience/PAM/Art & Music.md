@@ -146,6 +146,9 @@ img {
   
 </body>  
 
+**<u>TK Buskers</u>** <br>
+With this opportunity to showcase their interests and talents in the Arts in a non-threatening and casual manner, students put up performances for their peers during recesses.
+
 <style>  
 img {  
   display: block;  
