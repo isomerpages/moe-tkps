@@ -27,7 +27,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Total%20Defence%20Day.jpg)" alt="Total Defence Day" style="width:80%;">  
+<body><img src="/images/Total%20Defence%20Day.jpg" alt="Total Defence Day" style="width:80%;">  
   
 </body>  
 
@@ -42,7 +42,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/International%20Friendship%20Day.jpg)" alt="International Friendship Day" style="width:80%;">  
+<body><img src="/images/International%20Friendship%20Day.jpg" alt="International Friendship Day" style="width:80%;">  
   
 </body>  
 
@@ -57,7 +57,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Racial%20Harmony%20Day.jpg)" alt="Racial Harmony Day" style="width:80%;">  
+<body><img src="/images/Racial%20Harmony%20Day.jpg" alt="Racial Harmony Day" style="width:80%;">  
   
 </body>  
 
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/National%20Day.jpg)" alt="National Day" style="width:80%;">  
+<body><img src="/images/National%20Day.jpg" alt="National Day" style="width:80%;">  
   
 </body>  
 
@@ -93,7 +93,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/NE%20Ambassadors.jpeg)" alt="NE Ambassadors" style="width:80%;">  
+<body><img src="/images/NE%20Ambassadors.jpeg" alt="NE Ambassadors" style="width:80%;">  
   
 </body>  
 
@@ -110,7 +110,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Banners%20around%20Tanjong%20Katong.jpg)" alt="Banners around Tanjong Katong" style="width:80%;">  
+<body><img src="/images/Banners%20around%20Tanjong%20Katong.jpg" alt="Banners around Tanjong Katong" style="width:80%;">  
   
 </body>  
 
@@ -131,7 +131,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Overseas%20Cultural%20Immersion%20Programme.jpg)" alt="Overseas Cultural Immersion Programme" style="width:80%;">  
+<body><img src="/images/Overseas%20Cultural%20Immersion%20Programme.jpg" alt="Overseas Cultural Immersion Programme" style="width:80%;">  
   
 </body>  
 
@@ -144,7 +144,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Overseas%20Cultural%20Programme_2.jpg)" alt="Overseas Cultural Programme" style="width:80%;">  
+<body><img src="/images/Overseas%20Cultural%20Programme_2.jpg" alt="Overseas Cultural Programme" style="width:80%;">  
   
 </body>  
 
@@ -157,7 +157,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P5%20NE%20Show.png)" alt="P5 NE Show" style="width:80%;">  
+<body><img src="/images/P5%20NE%20Show.png" alt="P5 NE Show" style="width:80%;">  
   
 </body>  
 
@@ -170,7 +170,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Home%20Period_Assembly%20Show.jpeg)" alt="Assembly Show" style="width:80%;">  
+<body><img src="/images/Home%20Period_Assembly%20Show.jpeg" alt="Assembly Show" style="width:80%;">  
   
 </body>  
 
@@ -183,7 +183,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Heritage%20Programme_1.jpeg)" alt="Heritage Programme" style="width:80%;">  
+<body><img src="/images/Heritage%20Programme_1.jpeg" alt="Heritage Programme" style="width:80%;">  
   
 </body>  
 <p style="text-align:center;"><strong>Katong Heritage i-Trail at Masjid Khalid</strong></p>
@@ -195,7 +195,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Heritage%20Programme_2.jpeg)" alt="Heritage Programme" style="width:80%;">  
+<body><img src="/images/Heritage%20Programme_2.jpeg" alt="Heritage Programme" style="width:80%;">  
   
 </body>  
 <p style="text-align:center;"><strong>Students learning about the old trades in Singapore</strong></p>
