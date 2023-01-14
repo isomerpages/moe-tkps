@@ -45,7 +45,10 @@ img {
 <body><img src="![](/images/International%20Friendship%20Day.jpg)" alt="International Friendship Day" style="width:80%;">  
   
 </body>  
-<br>
+
+**c) Racial Harmony Day (21 July)**
+
+RHD marks the anniversary of the 1964 racial riots. Our pupils commemorate RHD to celebrate Singapore as a harmonious society built on a rich diversity of cultures.
 
 <style>  
 img {  
@@ -54,7 +57,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/Racial%20Harmony%20Day.jpg)" alt="Racial Harmony Day" style="width:80%;">  
   
 </body>  
 <br>
