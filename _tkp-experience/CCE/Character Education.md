@@ -280,7 +280,12 @@ img {
 <body><img src="![](/images/DT%20Knowledge%20Skills.png)" alt="Character Education" style="width:75%;">  
   
 </body>  
-<br>
+
+By end of P6, students will strengthen their knowledge and skills relating to DT, deepen their entrepreneurship mind-set, and apply values (in alignment with school values) which develop students to be socially responsible citizens who contribute meaningfully to the community.  
+
+  
+
+[Applied Learning Programme (ALP)](/key-programmes/applied-learning-programme-alp)
 
 <style>  
 img {  
@@ -289,7 +294,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/VIA.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
