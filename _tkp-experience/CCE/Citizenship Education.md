@@ -173,7 +173,8 @@ img {
 <body><img src="![](/images/Home%20Period_Assembly%20Show.jpeg)" alt="Assembly Show" style="width:80%;">  
   
 </body>  
-<br>
+
+8.  **Heritage Programme**
 
 <style>  
 img {  
@@ -182,7 +183,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/Heritage%20Programme_1.jpeg)" alt="Heritage Programme" style="width:80%;">  
   
 </body>  
 <br>
