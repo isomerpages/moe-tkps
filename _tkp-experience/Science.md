@@ -60,7 +60,7 @@ img {
 <body><img src="![](/images/P3%20to%20P5%20Science%20Innovation%20Programme.jpg)" alt="Science Department" style="width:85%;">  
   
 </body>  
-<br>
+<p style="text-align:center;">They learn to create innovative solutions to prototype and test</p>
 
 <style>  
 img {  
@@ -69,10 +69,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+<body><img src="![](/images/P3%20to%20P5%20Science%20Innovation%20Programme_2.png)" alt="Science Department" style="width:85%;">  
   
 </body>  
-<br>
+<p style="text-align:center;">Students also develop scientific attitudes like creativity, perseverance and open-mindedness</p>
 
 <style>  
 img {  
