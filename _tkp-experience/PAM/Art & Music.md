@@ -24,6 +24,12 @@ To nurture cultured students who are lifelong learners in the appreciation of Ar
 
 Through programmes and activities for the _masses, keen, talented._
 
+![Department Approach](/images/Department%20Approach.png)
+
+TKP Art and Music curriculum is guided by the following broad themes:
+
+![Art and Music curriculum](/images/Art%20and%20Music%20curriculum.png)
+
 <style>  
 img {  
   display: block;  
