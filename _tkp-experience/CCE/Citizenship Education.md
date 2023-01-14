@@ -160,7 +160,8 @@ img {
 <body><img src="![](/images/P5%20NE%20Show.png)" alt="P5 NE Show" style="width:80%;">  
   
 </body>  
-<br>
+
+7.  **Home Period/ Assembly Show**
 
 <style>  
 img {  
@@ -169,7 +170,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/Home%20Period_Assembly%20Show.jpeg)" alt="Assembly Show" style="width:80%;">  
   
 </body>  
 <br>
