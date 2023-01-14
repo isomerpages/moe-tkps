@@ -125,7 +125,8 @@ img {
 <body><img src="![](/images/Environmental%20Education%20Programme.png)" alt="Character Education" style="width:75%;">  
   
 </body>  
-<br>
+
+7.  **Educational and Career Guidance Programme (ECG)**
 
 <style>  
 img {  
@@ -134,7 +135,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/ECG_1.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -146,7 +147,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/ECG_2.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -158,7 +159,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/ECG_3.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -170,7 +171,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/ECG_4.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
