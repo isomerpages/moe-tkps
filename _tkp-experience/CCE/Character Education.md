@@ -62,6 +62,11 @@ img {
   
 </body>  
 <br>
+Students learnt about the school values through the contributions of the healthcare workers at the frontline and made Thank You cards for them at the various hospitals.  
+
+  
+
+2.  [**Programme for Active Learning (PAL)**](/tkp-experience/programme-for-active-learning-pal)
 
 <style>  
 img {  
