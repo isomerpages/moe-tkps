@@ -3,29 +3,31 @@ title: ICT
 permalink: /tkp-experience/ict/
 description: ""
 ---
-<h4 style="color:green">Head of Department:</h4>
+#### Head of Department:
 
-<h3 style="color:black">Mr Sundram Letchemee</h3>
+### Mr Sundram Letchemee
 
-<h4 style="color:green">Subject Head:</h4>
+#### Subject Head:
 
-<h3 style="color:black">Ms Nuraishah Mahmood</h3>
+### Ms Nuraishah Mahmood
 
-<h4 style="color:green">Department Vision:</h4>
+### Department Vision:
 
 **1.  An IT-enriched teaching and learning environment** <br>
 **2.  A community of IT-savvy and passionate learners**
 
-<h4 style="color:green">Department Mission:</h4>
+### Department Mission: 
 
 1.  To integrate the use of IT in curriculum, instruction and assessment
 2.  To involve students in IT activities that promote higher-order thinking skills and collaboration
 3.  To build capacity of staff in the effective use of IT tools for teaching and learning
 4.  To provide IT support to various departments to improve work processes and efficiency
 
-<h4 style="color:green">ICT in Education – Masterplan 4</h4>
-<h5 style="color:black">“Deepening Learning, Sharpening Practices”</h5>
-<h5 style="color:green">Focus</h5>
+### ICT in Education – Masterplan 4
+
+#### “Deepening Learning, Sharpening Practices”
+
+##### Focus
 
 1.  Deepen student’s learning with quality ICT-enabled learning and design.
 2.  Sharpen the use of ICT in teaching and learning practices.
@@ -66,9 +68,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/ICT%20Framework.png" alt="MOE ICT Curriculum Framework" style="width:90%;">  
+<img style="width:90%;" alt="MOE ICT Curriculum Framework" src="/images/ICT%20Framework.png">  
   
-</body>  
+  
 <figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
 
 <h5 style="color:green">Department’s ICT Strategy
@@ -115,9 +117,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IT%20Training%20Programme.jpeg" alt="IT Training Programme" style="width:80%;">  
+<img style="width:80%;" alt="IT Training Programme" src="/images/IT%20Training%20Programme.jpeg">  
   
-</body>  
+  
 <figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
 
 <h4 style="color:green">Useful Links:</h4>
