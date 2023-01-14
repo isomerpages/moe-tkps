@@ -134,7 +134,8 @@ img {
 <body><img src="![](/images/Overseas%20Cultural%20Immersion%20Programme.jpg)" alt="Overseas Cultural Immersion Programme" style="width:80%;">  
   
 </body>  
-<br>
+
+In 2019, as part of our overseas cultural programme, our NE Ambassadors also went to Beijing to learn more about China’s rich history and culture.
 
 <style>  
 img {  
@@ -143,7 +144,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/Overseas%20Cultural%20Programme_2.jpg)" alt="Overseas Cultural Programme" style="width:80%;">  
   
 </body>  
 <br>
