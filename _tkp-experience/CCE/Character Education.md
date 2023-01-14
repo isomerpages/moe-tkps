@@ -224,7 +224,51 @@ img {
 <body><img src="![](/images/Star%20Award%20Pupil%20Presentation.jpg)" alt="Character Education" style="width:75%;">  
   
 </body>  
-<br>
+<p style="text-align:center;"><strong>Star Pupil Award Presentation</strong></p>
+
+9.  **Values in Action (VIA)**
+
+Values in Action (VIA) is a key student development experience that supports students' development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community.
+
+  
+
+As part of VIA, students reflect on: <br>
+√    Their experience. <br>
+√    The values they have put into practice. <br>
+√    How they can continue to contribute meaningfully.
+
+  
+
+The school uses learning experiences to support students’ development as socially responsible citizens by contributing meaningfully to the community via VIA (Values in Action). This also helps students to foster ownership as they contribute to the society. There is a total of 6 domains where each level focus on.
+
+  
+
+Primary 1: Self <br>
+Primary 2: Family <br>
+Primary 3: School <br>
+Primary 4: Community <br>
+Primary 5: Nation <br>
+Primary 6: Global
+
+  
+
+The school’s service learning program comprises of 3 key components: <br>
+*   **School-wide programmes**
+*   **Level programmes**
+*   **Staff VIA**
+
+  
+
+**VIA School-wide programme includes:** <br>
+*   Chinese New Year Hamper Making for the Elderly Homes
+*   Chinese New Year Donations for the Charitable Organizations
+*   Children Day’s Appeal Donations
+*   Annual Spring Cleaning of School
+
+  
+
+**VIA Level Programme:** <br>
+In TKP, all students will be equipped with the 5 stages of DT knowledge via Values-In-Action/ Project Work starting in Primary 1. Based on the age appropriateness, certain skills relevant to DT are emphasized in different levels. Through this progressive approach, students will be given opportunities to apply their DT knowledge and skills in problem based activities and acquire dispositions that encourage the development of 21CC:
 
 <style>  
 img {  
