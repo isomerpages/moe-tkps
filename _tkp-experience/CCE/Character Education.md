@@ -277,7 +277,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/DT%20Knowledge%20Skills.png)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
