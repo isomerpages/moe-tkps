@@ -32,36 +32,32 @@ TKP Art and Music curriculum is guided by the following broad themes:
 
 **WSA – Teaching & Learning of Art**
 
-> *   Art Talk through Let’s Talk About Art
->     
-> *   Thinking Routines from Harvard’s Project Zero
->     
-> *   Self-discovery through Inquiry-based learning
->     
+*   Art Talk through Let’s Talk About Art
+  
+*   Thinking Routines from Harvard’s Project Zero
+ 
+*   Self-discovery through Inquiry-based learning 
 
   
 
 **WSA – Teaching & Learning of Music**
 
-> *   E – Experience
->     
-> *   C – Concept
->     
-> *   A – Application
->     
-> *   With elements of Orff, Kodály and Dalcroze approaches
->     
+*   E – Experience
+ 
+*   C – Concept
+    
+*   A – Application
+  
+*   With elements of Orff, Kodály and Dalcroze approaches
+ 
 
-Key Programs / Activities / Events
-----------------------------------
+#### Key Programs / Activities / Events
 
-### Learn for Life
+##### Learn for Life
 
 Character and Citizenship education is infused in our Aesthetics curriculum, especially when students are taught about global and local cultures. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. Music, being an integral part of many cultures, also provides a means to raise global awareness amongst students. The art and music classroom is a natural platform to nurture core values, develop social and emotional competencies, as well as many 21st Century Competencies, which will better prepare our students to thrive in a fast-changing and highly-connected world.
 
-  
-
-#### Museum-based Learning
+**<u>Museum-based Learning</u>**
 
 The trip aims to provide students with an authentic learning experience. Students will be engaged in activities and discussions focussing on visual inquiry skills and art appreciation of local and international artists.
 
