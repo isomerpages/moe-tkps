@@ -47,8 +47,7 @@ Through the many opportunities for **interactive** platforms such as pair/grou
 
 **Inquiry**\-based learning in PE lessons are enhanced through MTV Routines and PE –Talk where Teachers use appropriate sports and games related language to enhance student’s knowledge of games and sports, so as to develop a life-long appreciation of physical activity.
 
-Key Programmes / Activities / Events
-------------------------------------
+#### Key Programmes / Activities / Events
 
 **Lower Primary Games Day**  
 
@@ -92,6 +91,8 @@ Key Programmes / Activities / Events
 
   
 
-### **Learn for Life**
+##### **Learn for Life**
 
 Making the PE curriculum come to life during PE lessons! Equipping our students with skills for healthy and active living.
+
+![](/images/Learn%20for%20life.png)
