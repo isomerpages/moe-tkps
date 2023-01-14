@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Home%20Period_1.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/Home%20Period_1.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -46,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Home%20Period_2.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/Home%20Period_2.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -58,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Home%20Period_3.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/Home%20Period_3.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -75,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/PAL.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/PAL.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 
@@ -88,7 +88,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Student%20Leadership%20Programme.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/Student%20Leadership%20Programme.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 
@@ -105,7 +105,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cyberwellness%20Programme.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/Cyberwellness%20Programme.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 
@@ -122,7 +122,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Environmental%20Education%20Programme.png)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/Environmental%20Education%20Programme.png" alt="Character Education" style="width:75%;">  
   
 </body>  
 
@@ -135,7 +135,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ECG_1.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/ECG_1.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -147,7 +147,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ECG_2.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/ECG_2.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -159,7 +159,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ECG_3.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/ECG_3.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -171,7 +171,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ECG_4.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/ECG_4.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 
@@ -206,7 +206,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Model%20Pupil%20of%20the%20Year%20School-based.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/Model%20Pupil%20of%20the%20Year%20School-based.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 
@@ -221,7 +221,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Star%20Award%20Pupil%20Presentation.jpg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/Star%20Award%20Pupil%20Presentation.jpg" alt="Character Education" style="width:75%;">  
   
 </body>  
 <p style="text-align:center;"><strong>Star Pupil Award Presentation</strong></p>
@@ -277,7 +277,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/DT%20Knowledge%20Skills.png)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/DT%20Knowledge%20Skills.png" alt="Character Education" style="width:75%;">  
   
 </body>  
 
@@ -294,7 +294,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/VIA.jpeg)" alt="Character Education" style="width:75%;">  
+<body><img src="/images/VIA.jpeg" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
