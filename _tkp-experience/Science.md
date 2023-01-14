@@ -74,17 +74,12 @@ img {
 </body>  
 <p style="text-align:center;">Students also develop scientific attitudes like creativity, perseverance and open-mindedness</p>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
-  
-</body>  
-<br>
+##### Embrace all Learners
+
+Authentic learning experiences are provided for students to explore, discover and experience science in everyday life and deepen concept learning. P5 to P6 students embark on the following Science Field Trips:  
+
+
+**P5: Diversity of Cells Practical Lab Work @ Science Centre**
 
 <style>  
 img {  
@@ -93,7 +88,23 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+<body><img src="![](/images/20170913_161101.jpeg)" alt="Science Department" style="width:85%;">  
+  
+</body>  
+Students will use the microscope to identify micro-organisms and cells, and prepare sample slides using simple staining methods  
+
+  
+
+**P6: Aquatic Animals and Plants Hands-on Activity @ Science Centre**
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/20190424_150801.jpeg)" alt="Science Department" style="width:85%;">  
   
 </body>  
 <br>
