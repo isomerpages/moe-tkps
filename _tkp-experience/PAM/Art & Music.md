@@ -20,8 +20,7 @@ third_nav_title: PAM
 
 To nurture cultured students who are lifelong learners in the appreciation of Art and Music, through providing a vibrant environment.
 
-Department Approach
--------------------
+#### Department Approach
 
 Through programmes and activities for the _masses, keen, talented._
 
