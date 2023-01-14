@@ -108,10 +108,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/Instrumental%20skills_1.jpg)" alt="Instrumental Skills" style="width:85%;">  
   
 </body>  
-<p style="text-align:center;">LMAOO</p>
+<p style="text-align:center;">Primary 5 students on World Percussions</p>
 
 <style>  
 img {  
@@ -120,10 +120,20 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/Insturmental%20skills_2.jpg)" alt="Instrumental Skills" style="width:85%;">  
   
 </body>  
-<p style="text-align:center;">LMAOO</p>
+<p style="text-align:center;">Primary 6 students on the cajon</p>
+
+**<u>Assessment</u>** <br>
+Assessment is integral to the teaching and learning process. Art and Music assessments take on a formative role and are carried out regularly to provide students with information about their strengths and to help them bridge learning gaps. Students submit termly art pieces for feedback. Music assessments take on a variety of ways such as aural, theory and practical formats.
+
+##### Embrace all Learners
+
+We believe that all children are musical and have the innate ability to listen, sing, dance, play and express themselves musically. We recognise students’ talents in the Arts by providing platforms to showcase their abilities.
+
+**<u>TK Spotlight!</u>** <br>
+This event is held annually to develop excellence in the Aesthetics as well as to promote the appreciation of the Arts amongst students. Students pit their talents against each other in categories such as Art, Instrumental, Pop Voice and Dance.
 
 <style>  
 img {  
@@ -132,7 +142,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/TK%20Spotlight.jpg)" alt="TK Spotlight" style="width:85%;">  
   
 </body>  
 
