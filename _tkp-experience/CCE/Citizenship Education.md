@@ -147,7 +147,8 @@ img {
 <body><img src="![](/images/Overseas%20Cultural%20Programme_2.jpg)" alt="Overseas Cultural Programme" style="width:80%;">  
   
 </body>  
-<br>
+
+6.  **P5 NE Show**
 
 <style>  
 img {  
@@ -156,7 +157,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/P5%20NE%20Show.png)" alt="P5 NE Show" style="width:80%;">  
   
 </body>  
 <br>
