@@ -39,11 +39,11 @@ In order to attain the desired outcomes of PAL, PAL lessons are designed with th
 *   Provide opportunities for children to create
 *   Incorporate values education and social emotional learning
 
-<h5 style="color:black">How does PAL look like in Tanjong Katong Primary?</h5>
+##### How does PAL look like in Tanjong Katong Primary?
 
 In Tanjong Katong Primary, PAL is conducted within curriculum time on Thursdays for Primary 1 and Fridays for Primary 2. The lessons consist of activities in all four domains and are different every term.
 
-<h5 style="color:black">An Overview of PAL modules at Tanjong Katong Primary School</h5>
+##### An Overview of PAL modules at Tanjong Katong Primary School
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -85,7 +85,7 @@ In Tanjong Katong Primary, PAL is conducted within curriculum time on Thursdays 
 </tbody>
 </table>
 
-<h4 style="color:green">Key Programmes / Activities / Events</h4>
+#### Key Programmes / Activities / Events
 
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 890px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 242px; height: 321px;" class="ive_eobj_center" alt="1.jpg" width="100%" src="/images/PAL_1.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">PAL Sports and Games – “Keeping the big ball in the air is not as easy as we thought!”</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 429px; height: 321px;" class="ive_eobj_center" alt="2.jpg" width="100%" src="/images/PAL_2.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">PAL Visual Art – “Our Art work is nice because everyone had a part in it!”</span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 430px; height: 321px;" class="ive_eobj_center" alt="3.jpg" width="100%" src="/images/PAL_3.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">PAL Outdoor Education – “I spy with my little eyes and I can see so many birds and plants around us!”</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 430px; height: 321px;" class="ive_eobj_center" alt="4.png" width="100%" src="/images/PAL_4.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">PAL Drama – “Guess what I am thinking of?”</span></div></td></tr></tbody></table>
