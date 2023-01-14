@@ -57,7 +57,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+<body><img src="![](/images/P3%20to%20P5%20Science%20Innovation%20Programme.jpg)" alt="Science Department" style="width:85%;">  
   
 </body>  
 <br>
