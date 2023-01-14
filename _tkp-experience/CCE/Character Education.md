@@ -108,7 +108,12 @@ img {
 <body><img src="![](/images/Cyberwellness%20Programme.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
-<br>
+
+Students were having a class debate during Home Period on the benefits of technology on learning.
+
+  
+
+6.  **Environmental Education Programme**
 
 <style>  
 img {  
@@ -117,7 +122,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/Environmental%20Education%20Programme.png)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
