@@ -22,3 +22,14 @@ description: ""
 #### Department Vision:
 
 ##### Passionate and self-driven learners of Mother Tongue language and Culture
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Mother%20Tongue.jpeg)" alt="Mother Tongue Department Vision" style="width:85%;">  
+  
+</body> 
