@@ -30,7 +30,10 @@ img {
 <body><img src="![](/images/Total%20Defence%20Day.jpg)" alt="Total Defence Day" style="width:80%;">  
   
 </body>  
-<br>
+
+**b) International Friendship Day (in April)**
+
+As a member of a global community of nations, we continue to leverage on Singapore’s geo-strategic position for economic growth as well as social and cultural cooperation, particularly with our ASEAN neighbours. Therefore, our IFD programme is designed to develop a better understanding of the people and cultures of countries in our region.
 
 <style>  
 img {  
@@ -39,7 +42,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/International%20Friendship%20Day.jpg)" alt="International Friendship Day" style="width:80%;">  
   
 </body>  
 <br>
