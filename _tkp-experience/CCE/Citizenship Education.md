@@ -113,7 +113,16 @@ img {
 <body><img src="![](/images/Banners%20around%20Tanjong%20Katong.jpg)" alt="Banners around Tanjong Katong" style="width:80%;">  
   
 </body>  
-<br>
+
+**\- Arts Performances @ Community Events**
+
+
+**\- Heritage Trails for New Citizens in Mountbatten**
+
+
+5.  **Overseas Cultural Immersion Programme (Surabaya and Beijing)**
+
+Our NE Ambassadors are appointed as buddies to our overseas guests from Elyon Christian School (Surabaya) and Da Chang Happy School (Beijing).
 
 <style>  
 img {  
@@ -122,7 +131,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/Overseas%20Cultural%20Immersion%20Programme.jpg)" alt="Overseas Cultural Immersion Programme" style="width:80%;">  
   
 </body>  
 <br>
