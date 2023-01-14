@@ -57,8 +57,7 @@ TKP Art and Music curriculum is guided by the following broad themes:
 
 Character and Citizenship education is infused in our Aesthetics curriculum, especially when students are taught about global and local cultures. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. Music, being an integral part of many cultures, also provides a means to raise global awareness amongst students. The art and music classroom is a natural platform to nurture core values, develop social and emotional competencies, as well as many 21st Century Competencies, which will better prepare our students to thrive in a fast-changing and highly-connected world.
 
-**<u>Museum-based Learning</u>**
-
+**<u>Museum-based Learning</u>** <br>
 The trip aims to provide students with an authentic learning experience. Students will be engaged in activities and discussions focussing on visual inquiry skills and art appreciation of local and international artists.
 
 <style>  
@@ -72,6 +71,9 @@ img {
   
 </body>  
 
+**<u>Digital Art and Music</u>** <br>
+To provide students with a holistic experience in the learning of Art, students will be introduced to harnessing technology to create art. They will use Photoshop as a tool to create posters and in the process, acquire skills to crop, fill and merge images together digitally. During music lessons, students will also be introduced to the know-hows of GarageBand and use smart instruments to create originals.
+
 <style>  
 img {  
   display: block;  
@@ -79,7 +81,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/Digital%20art%20and%20music_1.jpg)" alt="Digital Art & Music" style="width:85%;">  
   
 </body>  
 <p style="text-align:center;">LMAOO</p>
