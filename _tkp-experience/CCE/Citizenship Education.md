@@ -186,7 +186,7 @@ img {
 <body><img src="![](/images/Heritage%20Programme_1.jpeg)" alt="Heritage Programme" style="width:80%;">  
   
 </body>  
-<br>
+<p style="text-align:center;"><strong>Katong Heritage i-Trail at Masjid Khalid</strong></p>
 
 <style>  
 img {  
@@ -195,7 +195,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:80%;">  
+<body><img src="![](/images/Heritage%20Programme_2.jpeg)" alt="Heritage Programme" style="width:80%;">  
   
 </body>  
-<br>
+<p style="text-align:center;"><strong>Students learning about the old trades in Singapore</strong></p>
