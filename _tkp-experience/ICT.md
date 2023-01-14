@@ -33,19 +33,20 @@ description: ""
 2.  Sharpen the use of ICT in teaching and learning practices.
 3.  Strengthen the focus on Cyber Wellness and New Media Literacies.
 
-<h5 style="color:green">Student Outcomes</h5>
+##### Student Outcomes
 
 1.  Students will be responsible ICT users
 2.  Students will be able to learn independently and collaboratively with the support of ICT
 
-<h5 style="color:green">Approach</h5>
+##### Approach
 
 1.  Students will be provided with quality learning experiences supported by ICT
 2.  Students will be provided with quality instruction
 3.  Students will be exposed to ICT hardware and software
 
-<h4 style="color:green">Key Programmes / Activities / Events</h4>
-<h5 style="color:green">MOE ICT Curriculum Framework</h5>
+#### Key Programmes / Activities / Events
+
+##### MOE ICT Curriculum Framework
 
 In Tanjong Katong Primary School, we believe all students and staff play an active role in their individual learning with the seamless use of ICT skills and technology.
 
@@ -68,13 +69,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:90%;" alt="MOE ICT Curriculum Framework" src="/images/ICT%20Framework.png">  
+<img src="/images/ICT%20Framework.png" alt="MOE ICT Curriculum Framework" style="width:90%;">  
   
   
 <figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
 
-<h5 style="color:green">Department’s ICT Strategy
-</h5>
+##### Department’s ICT Strategy
 
 With the introduction of the Student Learning Space (SLS), learning with technology in Tanjong Katong Primary School is guided by the SLS Pedagogical Scaffold which enables teachers to design technology-enabled learning experiences to enhance students’ learning.
 
@@ -106,7 +106,7 @@ In designing learning with technology, teachers consider the following student-c
 
 *   How can students’ learning be advanced?
 
-<h5 style="color:green">Tanjong Katong Primary School’s IT Roadmap</h5>
+##### Tanjong Katong Primary School’s IT Roadmap
 
 All students will undergo an IT training programme to equip them with IT skills that help to enhance their learning.
 
@@ -117,7 +117,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:80%;" alt="IT Training Programme" src="/images/IT%20Training%20Programme.jpeg">  
+<img src="/images/IT%20Training%20Programme.jpeg" alt="IT Training Programme" style="width:80%;">  
   
   
 <figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
