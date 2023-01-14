@@ -32,21 +32,21 @@ TKP Art and Music curriculum is guided by the following broad themes:
 
 **WSA – Teaching & Learning of Art**
 
-*   Art Talk through Let’s Talk About Art
+*   <u>Art Talk</u> through Let’s Talk About Art
   
-*   Thinking Routines from Harvard’s Project Zero
+*   <u>Thinking Routines</u> from Harvard’s Project Zero
  
-*   Self-discovery through Inquiry-based learning 
+*   <u>Self-discovery</u> through Inquiry-based learning 
 
   
 
 **WSA – Teaching & Learning of Music**
 
-*   E – Experience
+*   <u>E</u> – Experience
  
-*   C – Concept
+*   <u>C</u> – Concept
     
-*   A – Application
+*   <u>A</u> – Application
   
 *   With elements of Orff, Kodály and Dalcroze approaches
  
