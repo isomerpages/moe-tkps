@@ -209,7 +209,10 @@ img {
 <body><img src="![](/images/Model%20Pupil%20of%20the%20Year%20School-based.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
-<br>
+
+##### c) Star Pupil of the Term (Class-based)
+
+A deserving student from every class is nominated each term for being exemplary in most of the school values consistently.
 
 <style>  
 img {  
@@ -218,7 +221,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/Star%20Award%20Pupil%20Presentation.jpg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
