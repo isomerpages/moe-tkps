@@ -107,7 +107,15 @@ img {
 <body><img src="![](/images/20190424_150801.jpeg)" alt="Science Department" style="width:85%;">  
   
 </body>  
-<br>
+<p style="text-align:center;">Students will be taught field techniques to catch and observe a variety of aquatic organisms in a pond community using a microscope. They will learn about relationships between organisms in a food web</p>
+
+##### Enhance student well-being
+
+The Environmental Education aims to raise awareness in the school community on how to care for our natural environment and help students learn to be responsible citizens through various activities such as:
+
+*   Earth Week and Water Week,
+*   School Talks
+*   Weekly Recycling
 
 <style>  
 img {  
@@ -116,7 +124,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Science Department" style="width:85%;">  
+<body><img src="![](/images/Environmental%20Education.png)" alt="Science Department" style="width:85%;">  
   
 </body>  
 <br>
