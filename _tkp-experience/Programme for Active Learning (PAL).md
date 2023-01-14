@@ -3,25 +3,25 @@ title: Programme for Active Learning (PAL)
 permalink: /tkp-experience/programme-for-active-learning-pal/
 description: ""
 ---
-<h4 style="color:green">Department Head:</h4>
+#### Department Head: 
 
-<h3 style="color:black">Ms Serene Ng</h3>
+### Ms Serene Ng
 
-<h4 style="color:green">PAL Co-ordinator:</h4>
+#### PAL Co-ordinator:
 
-<h3 style="color:black">Miss Seah Wen Hui</h3>
+### Miss Seah Wen Hui
 
-<h4 style="color:green">Department Vision</h4>
+#### Department Vision
 
-<h5 style="color:black">A Community of Individuals with a Love for Active Lifestyle and the Arts.</h5>
+##### A Community of Individuals with a Love for Active Lifestyle and the Arts. 
 
-<h4 style="color:green">Department Mission</h4>
+#### Department Mission
 
 Develop learners to be healthy and competent movers, with an appreciation of the outdoors so as to enjoy lifelong healthy and active living.
 
-<h4 style="color:green">Department Approach</h4>
+#### Department Approach
 
-<h5 style="color:black">What is PAL?</h5>
+##### What is PAL?
 
 The Programme for Active Learning (PAL) is a MOE recommendation that started since 2009. PAL aims to provide a greater emphasis in non-academic programmes for all Primary 1 and 2 students, through the exposure to varied and fun learning experiences in the four domains: Sports and Games, Outdoor Education, Performing Arts and Visual Arts. Students also learn socio-emotional competencies such as respecting others and responsible decision making. PAL nurtures confidence, curiosity and cooperation skills in students.
 
