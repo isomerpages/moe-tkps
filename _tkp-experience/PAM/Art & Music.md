@@ -84,7 +84,7 @@ img {
 <body><img src="![](/images/Digital%20art%20and%20music_1.jpg)" alt="Digital Art & Music" style="width:85%;">  
   
 </body>  
-<p style="text-align:center;">LMAOO</p>
+<p style="text-align:center;">Students working on Photoshop during art lessons</p>
 
 <style>  
 img {  
@@ -93,10 +93,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/Digital%20art%20and%20music_2.jpg)" alt="Digital Art & Music" style="width:85%;">  
   
 </body>  
-<p style="text-align:center;">LMAOO</p>
+<p style="text-align:center;">Students working on iPad GarageBand.</p>
+
+**<u>Instrumental Skills</u>** <br>
+At the end of 6 years in TKP, students would have had opportunities to pick up various classroom percussion instruments, as well as the recorder, ukulele and cajon.
 
 <style>  
 img {  
