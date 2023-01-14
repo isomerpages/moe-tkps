@@ -75,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/PAL.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
