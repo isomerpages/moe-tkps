@@ -21,3 +21,14 @@ third_nav_title: PAM
 Develop learners to be healthy and competent movers, with an appreciation of the outdoors so as to enjoy lifelong healthy and active living.
 
 #### Department Approach
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/3I%20approach.png)" alt="Department Approach" style="width:85%;">  
+  
+</body>  
