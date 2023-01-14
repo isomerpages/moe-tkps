@@ -4,6 +4,31 @@ permalink: /tkp-experience/pam/art-n-music/
 description: ""
 third_nav_title: PAM
 ---
+##### Head of Department:  
+
+##### Ms Serene Ng
+------------
+
+### Subject Head:
+
+Ms Jasmine Eng (Aesthetics)
+---------------------------
+
+Department Vision
+-----------------
+
+### A Community of Individuals with a Love for Active Lifestyle and the Arts.
+
+Department Mission
+------------------
+
+To nurture cultured students who are lifelong learners in the appreciation of Art and Music, through providing a vibrant environment.
+
+Department Approach
+-------------------
+
+Through programmes and activities for the _masses, keen, talented._
+
 <style>  
 img {  
   display: block;  
@@ -94,4 +119,4 @@ img {
 </style>  
 <body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
   
-</body>  
+</body>
