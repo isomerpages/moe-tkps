@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/Home%20Period_1.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -46,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/Home%20Period_2.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
@@ -58,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/Home%20Period_3.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
