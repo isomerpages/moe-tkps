@@ -2,6 +2,7 @@ collections:
   tkp-experience:
     output: true
     order:
+      - Mother Tongue.md
       - PAM/Physical & Health Education.md
       - PAM/Art & Music.md
       - PAM/.keep
