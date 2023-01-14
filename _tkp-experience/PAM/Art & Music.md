@@ -170,7 +170,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/National%20Day%20Banner.jpg)" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/National%20Day%20Banner.jpg" alt="Art & Music" style="width:85%;">  
   
 </body>
 
