@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Art & Music" style="width:85%;">  
+<body><img src="![](/images/Museum%20based%20learning.jpg)" alt="Museum-based learning" style="width:85%;">  
   
 </body>  
 
