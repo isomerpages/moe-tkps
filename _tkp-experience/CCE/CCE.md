@@ -26,10 +26,21 @@ To nurture a community of morally-upright students who are of good character wit
 #### Department Approach
 
 **CCE Key Approach: Equip-Practice**
-
   
 
 In TKP, we strive to equip our students with the knowledge, values, competencies and skills. On top of it, we design and create platforms for our students to practise what they have learnt. This is a continuous learning process.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/CCE%20key%20approach.png" alt="CCE key approach" style="width:75%;">  
+  
+</body>  
+<br>
 
 #### CCE FRAMEWORK
 
