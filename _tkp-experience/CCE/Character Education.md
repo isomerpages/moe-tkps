@@ -78,7 +78,8 @@ img {
 <body><img src="![](/images/PAL.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
-<br>
+
+3.  **Student Leadership Programme**
 
 <style>  
 img {  
@@ -87,7 +88,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Character Education" style="width:75%;">  
+<body><img src="![](/images/Student%20Leadership%20Programme.jpeg)" alt="Character Education" style="width:75%;">  
   
 </body>  
 <br>
