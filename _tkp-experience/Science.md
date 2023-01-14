@@ -15,3 +15,16 @@ description: ""
 
 **Passion for Science.** <br>
 **Independent and Lifelong Learners.**
+
+  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Science Department" style="width:50%;">  
+  
+</body>  
+<br>
