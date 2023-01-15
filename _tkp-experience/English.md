@@ -39,3 +39,5 @@ To equip our students with the relevant 21st century competencies, we integrate 
   
 
 Other digital resources such as web-based texts (e.g. online articles, blogs, wikis) and online learning sites are also used to facilitate teaching and provide close-to-real experiences in making learning more meaningful and authentic.
+
+![Project based ICT EL lessons](/images/Project%20based%20ICT%20EL%20lessons.png)
