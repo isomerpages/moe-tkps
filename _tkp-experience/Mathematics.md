@@ -34,4 +34,27 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="![](/images/Mathematics%20Department%20Approach.png)" alt="Mathematics Department Approach" style="width:85%;">  
+<img src="/images/Mathematics%20Department%20Approach.png" alt="Mathematics Department Approach" style="width:85%;">
+
+#### Key Programmes / Activities / Events
+
+##### Learn for Life
+
+In TKP, we believe in creating opportunities for our students to develop key competencies that are important in the 21st century through Games and Coding.
+
+##### Embrace all Learners
+
+We believe that all our students can learn Mathematics and we need to provide differentiated support to cater to the different abilities of our students.
+
+**<u>Learning Support for Mathematics (LSM)</u>**
+
+The P1 and P2 LSM programmes are early intervention programme to help our lower primary students attain their relevant Mathematics age. The lessons are conducted by trained LSM teachers using MOE developed LSM lesson packages.
+
+**<u>E2K (Maths) and Olympiad Programme</u>**
+
+For our high-abilities students, we have the E2K (Maths) and Olympiad training to further develop their interest and abilities in more advanced Mathematics concepts. The E2K (Maths) Programme are conducted by our trained school teachers while the Olympiad Programme are conducted by external vendors.
+
+#### Useful links
+
+*   [http://www.mathplayground.com/](http://www.mathplayground.com/) (Online Math games)
+*   [http://www.multiplication.com](http://www.multiplication.com/)/ (Online Math games)
