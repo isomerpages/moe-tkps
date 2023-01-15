@@ -69,3 +69,22 @@ We recognise and develop students’ talents in the English language by providin
 Our speech and drama programme for P1 and P2 students is designed to develop our students into proficient and confident speakers of English through fun and engaging activities and provide a platform for our young learners to showcase their oral communication skills at the end of their learning through a class performance to an audience. Conducted during the English classes for a term, this programme enables the students to acquire speech and drama skills such as voice projection, articulation and spatial awareness through play, games and mini group performances. Our students are provided with formative feedback to help them develop their self-confidence, communication and presentation skills.  We also hope our students will develop the love of learning EL from this programme.
 
 ![P1 and P2 Speech and drama programme](/images/P1%20and%20P2%20Speech%20and%20drama%20programme.png)
+
+**<u>Learning Support Programme (LSP), Reading Remediation Programme (RRP) & School-based Dyslexia Remediation (SDR)</u>**
+
+The LSP (P1 & P2), RRP (P3 & P4) and SDR (P3 & P4) are literacy support programmes that cater to the needs of struggling readers who are given additional support in reading to keep up with the standard EL curriculum better. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide the necessary remediation in reading through a comprehensive teaching package and guidelines developed by the Reading Unit of EL Curriculum Planning and Development Division.
+
+**<u>High-Ability (HA) Programme</u>**
+
+To provide an opportunity for our high-ability students to optimise their potential in the learning of the English language beyond the classroom, the following series of enrichment modules are conducted for the high-ability students in the various levels:
+
+  
+
+1.  Young Journalism module (Primary 4)
+2.  Writing Enrichment Programme (Primary 5 & 6)
+
+##### Experiential Learning
+
+  
+
+**P1 & P2 Learning Journey**
