@@ -51,3 +51,11 @@ We hope that students will be empowered by their participation in Team Sports an
 
 ![Our Approach](/images/Slide5.jpeg)
 <figcaption style=text-align:center;>The desired outcomes are achieved by these 2 ways.</figcaption>
+
+**Sports Pursuit:** <br>
+The other aim of our LLP seeks talent-identify and develop students who are interested and are high-achievers in sports. We do so through structured sports Talent-Identification during PE lessons, our competitive Team Sports CCAs and also through MOE JSA platforms. We hope that these students can be guided and directed in their areas of strengths in primary school and beyond.
+
+**Active Lifestyle:** <br>
+One aim of our LLP seeks to educate and encourage masses to participate in active lifestyle through Sports. Together with PE lessons and the various opportunities of recreational team sports, TKP House System competition and lessons through Games Education Packages, we hope students will have the knowledge, skills and passion to enjoy sports and be a team player in both sports and other aspects of life.
+
+#### Key Programmes / Activities / Events
