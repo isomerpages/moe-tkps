@@ -10,7 +10,7 @@ description: ""
 
 #### Department Vision
 
-**Effective & Affective Communicators** <br>**Confident Users of the English language**
+**Effective &amp; Affective Communicators** <br>**Confident Users of the English language**
 
 #### Department Mission
 
@@ -18,7 +18,7 @@ To provide an engaging learning environment that promotes creative inquiry and c
 
 #### Department Approach
 
-At TKP, we aim to equip students with a strong foundation in reading, writing, speaking, listening, viewing & representing skills for effective communication and provide an enjoyable language learning experience through explicit instruction and communicative approach to language development. Guided by the English Language Syllabus 2010 & 2020 (MOE, Singapore), we also incorporate experiential and interactive and inquiry-based learning into both STELLAR/STELLAR 2.0, the national English Language (EL) curriculum, and our school-based curriculum (SBC) that incorporate character and citizenship education and 21st century competencies through various visible thinking routines and inquiry-based strategies.
+At TKP, we aim to equip students with a strong foundation in reading, writing, speaking, listening, viewing &amp; representing skills for effective communication and provide an enjoyable language learning experience through explicit instruction and communicative approach to language development. Guided by the English Language Syllabus 2010 &amp; 2020 (MOE, Singapore), we also incorporate experiential and interactive and inquiry-based learning into both STELLAR/STELLAR 2.0, the national English Language (EL) curriculum, and our school-based curriculum (SBC) that incorporate character and citizenship education and 21st century competencies through various visible thinking routines and inquiry-based strategies.
 
 #### Key Programmes / Activities / Events
 
@@ -56,23 +56,23 @@ Guided by the principles of Assessment OF Learning (AoL) and Assessment FOR Lear
 
   
 
-1.  Performance-based assessment such as show-and-tell, speech & drama, reading aloud and stimulus-based conversation.
+1.  Performance-based assessment such as show-and-tell, speech &amp; drama, reading aloud and stimulus-based conversation.
 2.  Bite-size formative assessment
-3.  Pen-and-paper assessment which includes bite-size weighted assessment, the mid-year & year-end summative assessments.
+3.  Pen-and-paper assessment which includes bite-size weighted assessment, the mid-year &amp; year-end summative assessments.
 
 ##### Embrace all Learners
 
 We recognise and develop students’ talents in the English language by providing them the platform to showcase their abilities. We also provide differentiated support necessary both to level up and stretch our students to the best of their potential.
 
-**<u>P1 & P2 Speech & Drama Programme</u>**
+**<u>P1 &amp; P2 Speech &amp; Drama Programme</u>**
 
-Our speech and drama programme for P1 and P2 students is designed to develop our students into proficient and confident speakers of English through fun and engaging activities and provide a platform for our young learners to showcase their oral communication skills at the end of their learning through a class performance to an audience. Conducted during the English classes for a term, this programme enables the students to acquire speech and drama skills such as voice projection, articulation and spatial awareness through play, games and mini group performances. Our students are provided with formative feedback to help them develop their self-confidence, communication and presentation skills.  We also hope our students will develop the love of learning EL from this programme.
+Our speech and drama programme for P1 and P2 students is designed to develop our students into proficient and confident speakers of English through fun and engaging activities and provide a platform for our young learners to showcase their oral communication skills at the end of their learning through a class performance to an audience. Conducted during the English classes for a term, this programme enables the students to acquire speech and drama skills such as voice projection, articulation and spatial awareness through play, games and mini group performances. Our students are provided with formative feedback to help them develop their self-confidence, communication and presentation skills.&nbsp; We also hope our students will develop the love of learning EL from this programme.
 
 ![P1 and P2 Speech and drama programme](/images/P1%20and%20P2%20Speech%20and%20drama%20programme.png)
 
-**<u>Learning Support Programme (LSP), Reading Remediation Programme (RRP) & School-based Dyslexia Remediation (SDR)</u>**
+**<u>Learning Support Programme (LSP), Reading Remediation Programme (RRP) &amp; School-based Dyslexia Remediation (SDR)</u>**
 
-The LSP (P1 & P2), RRP (P3 & P4) and SDR (P3 & P4) are literacy support programmes that cater to the needs of struggling readers who are given additional support in reading to keep up with the standard EL curriculum better. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide the necessary remediation in reading through a comprehensive teaching package and guidelines developed by the Reading Unit of EL Curriculum Planning and Development Division.
+The LSP (P1 &amp; P2), RRP (P3 &amp; P4) and SDR (P3 &amp; P4) are literacy support programmes that cater to the needs of struggling readers who are given additional support in reading to keep up with the standard EL curriculum better. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide the necessary remediation in reading through a comprehensive teaching package and guidelines developed by the Reading Unit of EL Curriculum Planning and Development Division.
 
 **<u>High-Ability (HA) Programme</u>**
 
@@ -81,10 +81,22 @@ To provide an opportunity for our high-ability students to optimise their potent
   
 
 1.  Young Journalism module (Primary 4)
-2.  Writing Enrichment Programme (Primary 5 & 6)
+2.  Writing Enrichment Programme (Primary 5 &amp; 6)
 
 ##### Experiential Learning
 
+**P1 &amp; P2 Learning Journey**
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAEsIOPEml7l7qMmeLM0UXb0aVrZLMq9T8chGpocOuiTJCntTPiBJIbrbEf63DD5I_lB2eGtw7TZ86/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+##### STELLAR lessons
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDVBG7fEUcDuu5NiZEyyrYG56ayoAbfM0pvvEGa3Dh2bNk79dTGubQCTWUVZSSq2mhY9jsS-_kdsdM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+##### Drama In Education
+
+Experiential Learning P1 &amp; P2 Learning Journey Enchanted by the Elephant Show STELLAR lessons Group Writing during MLEA (2) Drama In Education In TKP, we believe that drama is a fun, learner-centred and non-threatening approach which encourages students to be active, imaginative, collaborative and interactive. It supports the four blocks of literacy development in listening, speaking, reading and writing. It also offers a wide spectrum of possibilities and is accessible to all levels of language proficiency as there are varieties of non-verbal and verbal roles that students can choose to participate in. Dramatisation builds fluency and enhances oral language development through repeated rereading and boost confidence in learners.
+
   
 
-**P1 & P2 Learning Journey**
+Considering our students’ strength in oral communication, we strive to provide platforms to uncover the joy in learning through different drama strategies to enhance idea generation for writing and reading comprehension in the lower and middle primary EL classroom. As a pre-writing tool, students explore different perspectives and viewpoints and learn either through acting out of a scene or through observing their classmates’ dramatisation of it. In reading comprehension, students get to explore, interact and engage with the texts that they read. These will increase their interest and comprehension of the text read.
