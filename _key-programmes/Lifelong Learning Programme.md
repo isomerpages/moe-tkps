@@ -59,3 +59,15 @@ The other aim of our LLP seeks talent-identify and develop students who are inte
 One aim of our LLP seeks to educate and encourage masses to participate in active lifestyle through Sports. Together with PE lessons and the various opportunities of recreational team sports, TKP House System competition and lessons through Games Education Packages, we hope students will have the knowledge, skills and passion to enjoy sports and be a team player in both sports and other aspects of life.
 
 #### Key Programmes / Activities / Events
+
+![Key Programmes](/images/Key%20Progammes.png)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:85%;" alt="Key Programmes / Activities / Events" src="/images/Getting%20excited%20for%20the%20finals.jpeg">
+<figcaption style=text-align:center;>Getting excited for the finals between Titans and Pegasus!</figcaption>
