@@ -67,3 +67,5 @@ We recognise and develop students’ talents in the English language by providin
 **<u>P1 & P2 Speech & Drama Programme</u>**
 
 Our speech and drama programme for P1 and P2 students is designed to develop our students into proficient and confident speakers of English through fun and engaging activities and provide a platform for our young learners to showcase their oral communication skills at the end of their learning through a class performance to an audience. Conducted during the English classes for a term, this programme enables the students to acquire speech and drama skills such as voice projection, articulation and spatial awareness through play, games and mini group performances. Our students are provided with formative feedback to help them develop their self-confidence, communication and presentation skills.  We also hope our students will develop the love of learning EL from this programme.
+
+![P1 and P2 Speech and drama programme](/images/P1%20and%20P2%20Speech%20and%20drama%20programme.png)
