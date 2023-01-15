@@ -30,7 +30,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:85%;" alt="Mother Tongue Department Vision" src="/images/Mother%20Tongue.jpeg">  
+<img src="/images/Mother%20Tongue.jpeg" alt="Mother Tongue Department Vision" style="width:85%;">  
   
 
 
@@ -92,25 +92,25 @@ In TKP, we incorporate digital learning in our department curriculum to cultivat
 
 CNY Celebration is a yearly affair to usher in the New Year in accordance to the Chinese Lunar Calendar. The celebration would consist of a concert and classroom activities. Through the concert, students would acquire interesting knowledge about the festival, and selected students would also be able to showcase their talents through the concert. There would also be classroom activities related to the festival to engage the students. Students are encouraged to wear red that day to create the festive mood.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRafh_RbUQGfjAGRkI-AdsDJujAVdCggLr82z536Df0_gZzLQ474Dt0lHbjxL88XmqVfHILF_5SsFJc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRafh_RbUQGfjAGRkI-AdsDJujAVdCggLr82z536Df0_gZzLQ474Dt0lHbjxL88XmqVfHILF_5SsFJc/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ##### P4 Cultural Day Camp
 
 Opportunities are created for our Primary 4 pupils to learn more about our Chinese Culture through a 2-day Cultural Immersion Programme. Pupils will get to visit the "Chinatown Heritage Centre", "Thian Hock Keng Temple" and some shop houses situated along the streets of Chinatown. They would also be introduced to Teochew Opera, Traditional Chinese Medicine, famous novels like "Journey to the West", singing of nursery rhymes in the different dialects etc. All these activities help to arouse interest in the learning of the Chinese Culture.
 
-# slide
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXe6Ge4zOzMPCRatUVQcN8rwdpVweGTw6lPadyc22HaaLW18c3LIeIcR5PyFRaoUfBctr6gq8Qu1eA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### P5 Beijing Overseas Immersion
 
 P5 Beijing Overseas Immersion takes place towards the end of term 3. A group of selected P5HCL students would be accompanied by Chinese Language teachers for a 5 day immersion trip. They will visit local schools to interact with the local students and to some places of interest. This is a great opportunity for authentic learning to take place as the students would be immersed in a Chinese speaking environment.
 
-# slide
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbp0-8k-VnOB41oKuY6Jml1Ap3PwM5-NaspCov60YNqHq7Go9Qsx8j5rPV_thwhb8Ekgsu8W6AQhWw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### Mother Tongue Fortnight
 
 The Mother Tongue Language Fortnight usually takes place in term 1. A variety of activities were organized with the objective in creating an immersive environment for learning and appreciating Mother Tongue language and culture. Language activities such as role-play, signage design and poster design aim to provide pupils with opportunities to use their Mother Tongue Language. Cultural activities such as clay sculpture, Chinese chess and Wushu exposed the pupils to various aspects of their traditional culture.''
 
-# slide
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRETikYX5G_gYQXpfoN0EaOxx33RQvk022NU1bmXvoYDwdDOqLy44EV2coA6o4Fa3XJPkC-ZPlJ988l/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### Interclass competitions
 
@@ -118,4 +118,8 @@ Across the different levels, there would be interclass competitions such as sing
 
 **P1**
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7tJ3R3h_--hEXDuFPt_GZ2sm_VGTVd4G5DHlDbJIVdd146pFvdi3Gc0cDLHkwkqnZdWA25ICF4fPC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 **P3 &amp; P4**
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrJCTGcGH5eull-QDEuRcTutJAlSJY5WqHZM-bUUrokYc6cI9_f7DtiRnRuexLdpkQJryGHunBUlrJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
