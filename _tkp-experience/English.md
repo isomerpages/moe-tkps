@@ -87,11 +87,11 @@ To provide an opportunity for our high-ability students to optimise their potent
 
 **P1 &amp; P2 Learning Journey**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAEsIOPEml7l7qMmeLM0UXb0aVrZLMq9T8chGpocOuiTJCntTPiBJIbrbEf63DD5I_lB2eGtw7TZ86/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAEsIOPEml7l7qMmeLM0UXb0aVrZLMq9T8chGpocOuiTJCntTPiBJIbrbEf63DD5I_lB2eGtw7TZ86/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ##### STELLAR lessons
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDVBG7fEUcDuu5NiZEyyrYG56ayoAbfM0pvvEGa3Dh2bNk79dTGubQCTWUVZSSq2mhY9jsS-_kdsdM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDVBG7fEUcDuu5NiZEyyrYG56ayoAbfM0pvvEGa3Dh2bNk79dTGubQCTWUVZSSq2mhY9jsS-_kdsdM/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ##### Drama In Education
 
@@ -100,3 +100,5 @@ Experiential Learning P1 &amp; P2 Learning Journey Enchanted by the Elephant Sho
   
 
 Considering our students’ strength in oral communication, we strive to provide platforms to uncover the joy in learning through different drama strategies to enhance idea generation for writing and reading comprehension in the lower and middle primary EL classroom. As a pre-writing tool, students explore different perspectives and viewpoints and learn either through acting out of a scene or through observing their classmates’ dramatisation of it. In reading comprehension, students get to explore, interact and engage with the texts that they read. These will increase their interest and comprehension of the text read.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4WmvQ83ZDrBxekRSdTR-Js0hGQMAQ1ZrX1NMd10Lso28o4hZMUW8KNrt7volQyKisHMP0p2JiSJEY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
