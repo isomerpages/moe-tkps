@@ -21,7 +21,7 @@ description: ""
 
 #### Department Vision:
 
-##### Passionate and self-driven learners of Mother Tongue language and Culture
+##### Passionate&nbsp;and&nbsp;self-driven&nbsp;learners of Mother Tongue language and Culture
 
 <style>  
 img {  
@@ -30,9 +30,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mother%20Tongue.jpeg" alt="Mother Tongue Department Vision" style="width:85%;">  
+<img style="width:85%;" alt="Mother Tongue Department Vision" src="/images/Mother%20Tongue.jpeg">  
   
-</body>
+
 
 The pictorial framework represents the philosophy of teaching of the Mother Tongue languages in Tanjong Katong Primary.  
 
@@ -46,7 +46,7 @@ To achieve this, both parents and teachers need to work together hand in hand.
 
 #### Department Mission:
 
-To ignite **passion** in pursuit of **excellence** in the teaching and learning of the Mother Tongue language and culture, shaping attitudes and values
+To ignite&nbsp;**passion**&nbsp;in pursuit of&nbsp;**excellence**&nbsp;in the teaching and learning of the Mother Tongue language and culture, shaping attitudes and values
 
 #### Department Approach
 
@@ -92,7 +92,7 @@ In TKP, we incorporate digital learning in our department curriculum to cultivat
 
 CNY Celebration is a yearly affair to usher in the New Year in accordance to the Chinese Lunar Calendar. The celebration would consist of a concert and classroom activities. Through the concert, students would acquire interesting knowledge about the festival, and selected students would also be able to showcase their talents through the concert. There would also be classroom activities related to the festival to engage the students. Students are encouraged to wear red that day to create the festive mood.
 
-# slide
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRafh_RbUQGfjAGRkI-AdsDJujAVdCggLr82z536Df0_gZzLQ474Dt0lHbjxL88XmqVfHILF_5SsFJc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### P4 Cultural Day Camp
 
@@ -118,5 +118,4 @@ Across the different levels, there would be interclass competitions such as sing
 
 **P1**
 
-**P3 & P4**
-
+**P3 &amp; P4**
