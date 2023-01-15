@@ -25,7 +25,7 @@ To provide quality and varied Mathematics programmes to engage the students in t
 
 #### Department Approach
 
-The learning of Mathematics in TKP is based on the Singapore Mathematics Curriculum Framework and the three phases of learning-Readiness, Engagement and Mastery. Instructional lessons are conducted using the Concrete-Pictorial-Abstract Approach by providing our students with opportunities to handle concrete manipulatives and solve word problems using the “RIGHT√” strategy. Teachers make use of Thinking routines and Maths Talk in classroom discussion in the inquiry-based learning of Mathematics concepts and skills.
+The learning of Mathematics in TKP is based on the Singapore Mathematics Curriculum Framework and the three phases of learning-Readiness, Engagement and Mastery. Instructional lessons are conducted using the Concrete-Pictorial-Abstract Approach by providing our students with opportunities to handle concrete manipulatives and solve word problems using the “RIGHT√” strategy. Teachers make use of Thinking routines and Maths Talk in classroom discussion in the inquiry-based learning of Mathematics concepts and&nbsp;skills.
 
 <style>  
 img {  
@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Mathematics%20Department%20Approach.png" alt="Mathematics Department Approach" style="width:85%;">
+<img style="width:85%;" alt="Mathematics Department Approach" src="/images/Mathematics%20Department%20Approach.png">
 
 #### Key Programmes / Activities / Events
 
@@ -56,5 +56,7 @@ For our high-abilities students, we have the E2K (Maths) and Olympiad training t
 
 #### Useful links
 
-*   [http://www.mathplayground.com/](http://www.mathplayground.com/) (Online Math games)
+*   [http://www.mathplayground.com/](http://www.mathplayground.com/)&nbsp;(Online Math games)
 *   [http://www.multiplication.com](http://www.multiplication.com/)/ (Online Math games)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlvl3B2RN8lB5qoAw7zAPDr8VjZmpDeQJYg-J_j0OnRaSCv3Aa6dastLg2LuhUy9qN0APJwIXitHtj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
