@@ -41,3 +41,29 @@ To equip our students with the relevant 21st century competencies, we integrate 
 Other digital resources such as web-based texts (e.g. online articles, blogs, wikis) and online learning sites are also used to facilitate teaching and provide close-to-real experiences in making learning more meaningful and authentic.
 
 ![Project based ICT EL lessons](/images/Project%20based%20ICT%20EL%20lessons.png)
+
+**<u>Explicit Teaching of Comprehension Skills using Children’s Literature</u>**
+
+Our students are also explicitly taught on how to make inferences and summarise the gist of the texts they read using authentic children’s literature. Teachers model and scaffold the thinking process in inferring and summarising using inquiry-based strategies such as surface and deep annotation strategies as well as visible thinking routines and various talk moves in the English classroom.
+
+  
+
+This encourages students to be active, engaged, discerning and strategic readers who will be able to make better sense of their reading.
+
+**<u>Assessment</u>**
+
+Guided by the principles of Assessment OF Learning (AoL) and Assessment FOR Learning (AfL), we monitor students’ learning through a wide range of assessment modes, which are used to provide feedback to facilitate future learning (formative) and to ascertain students’ level of language competency at that point in time (summative). The various modes of assessment include:
+
+  
+
+1.  Performance-based assessment such as show-and-tell, speech & drama, reading aloud and stimulus-based conversation.
+2.  Bite-size formative assessment
+3.  Pen-and-paper assessment which includes bite-size weighted assessment, the mid-year & year-end summative assessments.
+
+##### Embrace all Learners
+
+We recognise and develop students’ talents in the English language by providing them the platform to showcase their abilities. We also provide differentiated support necessary both to level up and stretch our students to the best of their potential.
+
+**<u>P1 & P2 Speech & Drama Programme</u>**
+
+Our speech and drama programme for P1 and P2 students is designed to develop our students into proficient and confident speakers of English through fun and engaging activities and provide a platform for our young learners to showcase their oral communication skills at the end of their learning through a class performance to an audience. Conducted during the English classes for a term, this programme enables the students to acquire speech and drama skills such as voice projection, articulation and spatial awareness through play, games and mini group performances. Our students are provided with formative feedback to help them develop their self-confidence, communication and presentation skills.  We also hope our students will develop the love of learning EL from this programme.
