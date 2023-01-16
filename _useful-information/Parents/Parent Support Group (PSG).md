@@ -29,7 +29,7 @@ img {
 }  
 </style>  
 
-<body><img src="![](/images/TKPS%20PSG.png)" alt="TKPS Parent Support Group" style="width:20%;">  
+<body><img src="/images/TKPS%20PSG.png" alt="TKPS Parent Support Group" style="width:60%;">  
   
 </body>  
 <br>
@@ -44,11 +44,7 @@ We sincerely thank the parents for your strong support all these years and striv
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 344px; height: 257px;" class="ive_eobj_center" alt="PSG EXCO 2020.jpg" src="![](/images/PSG%20EXCO%202020.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">PSG EXCO 2020</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 344px; height: 257px;" class="ive_eobj_center" alt="PSG CNY Celebrations.jpg" src="![](/images/PSG%20CNY%20Celebrations.jpeg)"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">PSG CNY Celebrations</span></div></td></tr></tbody></table>
-
-  
-
-![TKP PSG Connect.jpg](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/PSG/TKP%20PSG%20Connect.jpg)
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 344px; height: 257px;" class="ive_eobj_center" alt="PSG EXCO 2020.jpg" src="/images/PSG%20EXCO%202020.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">PSG EXCO 2020</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 344px; height: 257px;" class="ive_eobj_center" alt="PSG CNY Celebrations.jpg" src="/images/PSG%20CNY%20Celebrations.jpeg"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">PSG CNY Celebrations</span></div></td></tr></tbody></table>
 
 <style>  
 img {  
@@ -58,7 +54,7 @@ img {
 }  
 </style>  
 
-<body><img src="![](/images/TKP%20PSG%20Connect.jpeg)" alt="Parent Support Group Connect" style="width:20%;">  
+<body><img src="/images/TKP%20PSG%20Connect.jpeg" alt="Parent Support Group Connect" style="width:70%;">  
   
 </body>  
 <br>
