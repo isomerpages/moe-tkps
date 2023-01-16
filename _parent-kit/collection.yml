@@ -1,4 +1,5 @@
 collections:
   parent-kit:
     output: true
-    order: []
+    order:
+      - "Parent Kit: Do’s and Don’ts to help manage examination stress!.md"
