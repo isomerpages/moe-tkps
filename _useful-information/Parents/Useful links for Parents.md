@@ -29,7 +29,7 @@ third_nav_title: Parents
 [2022 P3 Parent Engagement Slides.pdf](/files/2022%20P3%20Parent%20Engagement%20Slides.pdf) <br>
 &nbsp;[2022 P4 Parent Engagement Slides.pdf](/files/2022%20P4%20Parent%20Engagement%20Slides.pdf) <br>
 [2022 P5 Parent Engagement Slides.pdf](/files/2022%20P5%20Parent%20Engagement%20Slides.pdf) <br>
-[2022 P6 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P6%20Parent%20Engagement%20Slides.pdf)  
+[2022 P6 Parent Engagement Slides.pdf](/files/2022%20P6%20Parent%20Engagement%20Slides.pdf) 
 
   
 
