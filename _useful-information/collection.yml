@@ -2,4 +2,5 @@ collections:
   useful-information:
     output: true
     order:
+      - Teachers/Useful Links for Teachers.md
       - Teachers/.keep
