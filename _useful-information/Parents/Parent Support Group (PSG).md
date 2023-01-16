@@ -25,6 +25,19 @@ Parents who serve with passion.
 
 ![TKPS PSG.png](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/PSG/TKPS%20PSG.png)  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+
+<body><img src="/images/LOA.jpeg" alt="TKPS Parent Support Group" style="width:20%;">  
+  
+</body>  
+<br>
+
 **Mission**
 
 To form a dynamic partnership with the school to nurture TKP students to become citizens of the world.
@@ -40,3 +53,16 @@ We sincerely thank the parents for your strong support all these years and striv
   
 
 ![TKP PSG Connect.jpg](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/PSG/TKP%20PSG%20Connect.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+
+<body><img src="/images/LOA.jpeg" alt="Parent Support Group Connect" style="width:20%;">  
+  
+</body>  
+<br>
