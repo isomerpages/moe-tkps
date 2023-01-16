@@ -66,7 +66,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20to%20P6%20Project%20Work.jpg)" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="/images/P1%20to%20P6%20Project%20Work.jpg" alt="Applied Learning Programme" style="width:80%;">  
   
 </body>  
 <br>
@@ -78,10 +78,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20to%20P6%20Project%20Work.png)" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="/images/P1%20to%20P6%20Project%20Work.png" alt="Applied Learning Programme" style="width:80%;">  
   
 </body>  
-<br>
+
+**<u>Tier 2: Experience</u>**
+
+All students will deepen understanding of Design Thinking (DT) knowledge and skills as well as strengthen dispositions through IP and Non-IP level programmes. They are given opportunities to apply them in authentic contexts.  DT is incorporated in teaching and learning through the level programmes.
 
 <style>  
 img {  
