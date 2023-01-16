@@ -18,71 +18,43 @@ third_nav_title: Parents
 
 **2022 Parents Engagement Presentation Slides**&nbsp;
 
-&nbsp;**P6 Webinar**&nbsp; &nbsp;&nbsp;  
-
+&nbsp;**P6 Webinar**&nbsp; &nbsp;&nbsp;  <br>
 [2022 Parent Engagement P6 Webinar.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Webinar/2022%20Parent%20Engagement%20P6%20Webinar.pdf)
 
   
 
-&nbsp;**Level Presentations** &nbsp; &nbsp;&nbsp;
-
-[2022 P1 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P1%20Parent%20Engagement%20Slides.pdf)
-
-[2022 P2 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P2%20Parent%20Engagement%20Slides.pdf)
-
-[2022 P3 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P3%20Parent%20Engagement%20Slides.pdf)
-
-&nbsp;[2022 P4 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P4%20Parent%20Engagement%20Slides.pdf)
-
-[2022 P5 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P5%20Parent%20Engagement%20Slides.pdf)
-
+&nbsp;**Level Presentations** &nbsp; &nbsp;&nbsp; <br>
+[2022 P1 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P1%20Parent%20Engagement%20Slides.pdf) <br>
+[2022 P2 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P2%20Parent%20Engagement%20Slides.pdf) <br>
+[2022 P3 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P3%20Parent%20Engagement%20Slides.pdf) <br>
+&nbsp;[2022 P4 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P4%20Parent%20Engagement%20Slides.pdf) <br>
+[2022 P5 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P5%20Parent%20Engagement%20Slides.pdf) <br>
 [2022 P6 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P6%20Parent%20Engagement%20Slides.pdf)  
 
   
 
-**Mother Tongue Language** &nbsp;&nbsp;
-
-&nbsp;**Chinese Language**&nbsp; &nbsp; &nbsp; &nbsp;  
-
-[2022\_P1 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P1%20CL%20Parent%20Engagement.pdf)
-
-[2022\_P2 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P2%20CL%20Parent%20Engagement.pdf)  
-
-[2022\_P3 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P3%20CL%20Parent%20Engagement.pdf)  
-
-[2022\_P4 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P4%20CL%20Parent%20Engagement.pdf)  
-
-[2022 P5 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022%20P5%20CL%20Parent%20Engagement.pdf)  
-
+**<u>Mother Tongue Language</u>** &nbsp;&nbsp; <br>
+&nbsp;**Chinese Language**&nbsp; &nbsp; &nbsp; &nbsp;  <br>
+[2022\_P1 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P1%20CL%20Parent%20Engagement.pdf) <br>
+[2022\_P2 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P2%20CL%20Parent%20Engagement.pdf)  <br>
+[2022\_P3 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P3%20CL%20Parent%20Engagement.pdf)  <br>
+[2022\_P4 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P4%20CL%20Parent%20Engagement.pdf)  <br>
+[2022 P5 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022%20P5%20CL%20Parent%20Engagement.pdf)  <br>
 [2022 P6 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022%20P6%20CL%20Parent%20Engagement.pdf)  
 
-  
 
-  
-
-&nbsp;**Malay Language** &nbsp;&nbsp;
-
-[2022 P1 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P1%20ML%20Parent%20Engagement.pdf)
-
-[2022 P2 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P2%20ML%20Parent%20Engagement.pdf)
-
-[2022 P3 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P3%20ML%20Parent%20Engagement.pdf)
-
-[2022 P4 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P4%20ML%20Parent%20Engagement.pdf)
-
-[2022 P5 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P5%20ML%20Parent%20Engagement.pdf)  
-
+&nbsp;**Malay Language** &nbsp;&nbsp; <br>
+[2022 P1 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P1%20ML%20Parent%20Engagement.pdf) <br>
+[2022 P2 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P2%20ML%20Parent%20Engagement.pdf) <br>
+[2022 P3 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P3%20ML%20Parent%20Engagement.pdf) <br>
+[2022 P4 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P4%20ML%20Parent%20Engagement.pdf) <br>
+[2022 P5 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P5%20ML%20Parent%20Engagement.pdf)  <br>
 [2022 P6 ML Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/ML/2022%20P6%20ML%20Parent%20Engagement.pdf)  
 
-&nbsp;**Tamil Language**  
-
-[2022 P1 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P1%20TL%20Parent%20Engagement.pdf)
-
-[2022 P2 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P2%20TL%20Parent%20Engagement.pdf)
-
-[2022 P3 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P3%20TL%20Parent%20Engagement.pdf)
-
-[2022 P4 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P4%20TL%20Parent%20Engagement.pdf)
-
-[2022 P5 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P5%20TL%20Parent%20Engagement.pdf)  
+&nbsp;**Tamil Language**  <br>
+[2022 P1 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P1%20TL%20Parent%20Engagement.pdf) <br>
+[2022 P2 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P2%20TL%20Parent%20Engagement.pdf) <br>
+[2022 P3 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P3%20TL%20Parent%20Engagement.pdf) <br>
+[2022 P4 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P4%20TL%20Parent%20Engagement.pdf) <br>
+[2022 P5 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P5%20TL%20Parent%20Engagement.pdf)  <br>
 [2022 P6 TL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/TL/2022%20P6%20TL%20Parent%20Engagement.pdf)
