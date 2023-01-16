@@ -8,3 +8,60 @@ third_nav_title: Teachers
 
 ### Home-Based Learning Tips for Teachers
 
+#### MOE Resources
+
+1.  [Zoom User Manual](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/Zoom%20User%20Manual.pdf)
+2.  [Zoom Do's and Don'ts](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/Zoom%20Do's%20and%20Don'ts.pdf)
+3.  [Zoom Uninvited Guests](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/Zoom%20Uninvited%20Guests.pdf)
+4.  [Zoom Security Measures](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/Zoom%20Security%20Measures.pdf)
+5.  [Zoom Checklist for Video Conferencing](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/Zoom%20Checklist%20for%20Video%20Conferencing.pdf)
+6.  [ICON Google Meet Guide](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/ICON%20Google%20Meet%20Guide.pdf)
+7.  [ICON Google Meet and YouTube Live](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/ICON%20Google%20Meet%20and%20YouTube%20Live.pdf)
+
+#### Additional Resources for Teachers
+
+[The teacher’s ultimate digital toolbox](https://www.nie.edu.sg/niews/june2020/the-teacher-ultimate-digital-toolbox.html)
+
+  
+
+[27 tips to set up your blended learning classroom](https://www.legendsoflearning.com/blog/27-tips-blended-learning)
+
+  
+
+[Video conference tips](https://sites.google.com/g.nie.edu.sg/nievideomeetingplatforms/video-conference-tips)
+
+  
+
+[Online teaching strategies](https://sites.google.com/g.nie.edu.sg/nievideomeetingplatforms/online-teaching-strategies)
+
+  
+
+[How to create engaging online learning amid Covid-19 pandemic: Lessons from Singapore](https://theconversation.com/how-to-create-engaging-online-learning-amid-covid-19-pandemic-lessons-from-singapore-138979)
+
+  
+
+[Teaching and Learning Continuity](https://sites.google.com/g.nie.edu.sg/in-learning-resource-sites/home)
+
+  
+
+[Digital learning in the time of a pandemic](https://singteach.nie.edu.sg/vsl-digital-learning)
+
+  
+
+[Covid-19: Practical tips for early years teaching and learning](https://www.teachermagazine.com.au/articles/covid-19-practical-tips-for-early-years-teaching-and-learning)
+
+  
+
+[Supporting the continuation of teaching and learning during the Covid-19 pandemic](http://www.oecd.org/education/Supporting-the-continuation-of-teaching-and-learning-during-the-COVID-19-pandemic.pdf)
+
+  
+
+[Covid-19: Will blended learning become the future of education?](https://eu-acerforeducation.acer.com/education-trends/covid-19-will-blended-learning-become-the-future-of-education)
+
+  
+
+[Blended learning built on teacher expertise](https://www.edutopia.org/article/blended-learning-built-teacher-expertise)
+
+  
+
+[Resources for Teaching Online due to School Closures](https://www.theedublogger.com/teaching-online-school-closures)
