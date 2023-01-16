@@ -41,4 +41,4 @@ img {
 </body>  
 <br>
 
-Application for student care services can be made through the website
+Application for student care services can be made through the website.
