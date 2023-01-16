@@ -67,4 +67,155 @@ OVERVIEW OF TANJONG KATONG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 
 
 ##### **Primary 5**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9qgj{background-color:#FFF;color:#414042;text-align:center;vertical-align:middle}
+.tg .tg-kmsb{background-color:#FFF;color:#414042;text-align:left;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gq82{background-color:#FFF;color:#414042;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">UNIT </th>
+    <th class="tg-a4yv">LESSONS / DURATION </th>
+    <th class="tg-a4yv">Lesson Objectives <br>At the end of the lesson, pupils will be able to: </th>
+    <th class="tg-a4yv">TIME PERIOD <br>(during Home Periods) </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gq82" rowspan="4">Unit 1:<br>Gosh! I Am Changing <br></td>
+    <td class="tg-9qgj">What Is Happening To Me? <br>(30 min) </td>
+    <td class="tg-kmsb">know what puberty is<br>identify the physical changes during puberty</td>
+    <td class="tg-9qgj">Term 1 Week 9<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">What Can I Do? (Part 1) <br>(30 min) </td>
+    <td class="tg-kmsb">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one's identity does not change even when one's body is experiencing change due to puberty</td>
+    <td class="tg-9qgj">Term 1 Week 9 <br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">What Can I Do? (Part 2) <br>(30 min) </td>
+    <td class="tg-kmsb">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one's identity does not change even when one's body is experiencing change due to puberty</td>
+    <td class="tg-9qgj">Term 1 Week  9 &amp;10<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">Main Task <br>(30 min) </td>
+    <td class="tg-gq82">Description of the Main Task:<br><span style="font-weight:400;color:#414042">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span> </td>
+    <td class="tg-9qgj">Term 1 Week 9 &amp;10<br> <br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-gq82">Unit 2:<br>Where I Belong <br></td>
+    <td class="tg-9qgj">What Are Families? <br>(30 min) <br><br></td>
+    <td class="tg-kmsb">know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need</td>
+    <td class="tg-9qgj">Term 1 Week 9 &amp;10<br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-gq82">Where I Belong</td>
+    <td class="tg-9qgj">Where is My Role?<br>(30 min) </td>
+    <td class="tg-kmsb">know that gender is about being male or female<br>choose not to stereotype by gender </td>
+    <td class="tg-9qgj">Term 1 Week 9 &amp;10<br></td>
+  </tr>
+  <tr>
+    <td class="tg-gq82" rowspan="2">Unit 3:<br>How Do I Keep Myself Safe? <br></td>
+    <td class="tg-9qgj">What is Safety? <br>(30 min) </td>
+    <td class="tg-kmsb">know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-9qgj">Term 1 Week 9 &amp;10<br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">Stop It! Run! Tell! <br>(30 min) </td>
+    <td class="tg-kmsb">protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm</td>
+    <td class="tg-9qgj">Term 1 Week 9 &amp;10</td>
+  </tr>
+</tbody>
+</table>
+
 ##### **Primary 6**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9qgj{background-color:#FFF;color:#414042;text-align:center;vertical-align:middle}
+.tg .tg-kmsb{background-color:#FFF;color:#414042;text-align:left;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gq82{background-color:#FFF;color:#414042;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">UNIT </th>
+    <th class="tg-a4yv">LESSONS / DURATION </th>
+    <th class="tg-a4yv">Lesson Objectives <br>At the end of the lesson, pupils will be able to: </th>
+    <th class="tg-a4yv">TIME PERIOD <br>(e.g. Term 1 Week 2) </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gq82" rowspan="5">Unit 4:<br>Are We More Than Friends? <br></td>
+    <td class="tg-9qgj">Who Are My Friends? <br>(30 min) </td>
+    <td class="tg-kmsb">identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship</td>
+    <td class="tg-9qgj">Term 1 Week 7 &amp; 8<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">Am I A Good Friend? <br>(30 min) </td>
+    <td class="tg-kmsb">identify the qualities that they have as a friend<br>recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td class="tg-9qgj">Term 1 Week 7 &amp; 8<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">What is Love? <br>(30 min) </td>
+    <td class="tg-kmsb">identify the characteristics of love and infatuation<br>distinguish between the characteristics of love versus infatuation<br>identify strong feelings arising from infatuation</td>
+    <td class="tg-9qgj">Term 1 Week 7 &amp; 8<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">Am I Falling In Love? <br>(30 min) </td>
+    <td class="tg-kmsb">manage strong feelings arising from infatuation<br>identify ways to manage and cope with teasing from peers</td>
+    <td class="tg-9qgj">Term 1 Week 7 &amp; 8<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">Main Task <br>(30 min) </td>
+    <td class="tg-gq82">Description of the Main Task: <span style="font-weight:400;color:#414042"> </span><br><span style="font-weight:400;color:#414042">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing. </span></td>
+    <td class="tg-9qgj">Term 1 Week 7 &amp; 8<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj" rowspan="3">Friends or Foes? </td>
+    <td class="tg-9qgj">Are You Really My Friend? <br>(30 min) </td>
+    <td class="tg-kmsb">identify the pros and cons of forming relationships through social networking websites<br>know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-9qgj">Term 1 Week 7 &amp; 8<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">Is It All Safe? <br>(30 min) </td>
+    <td class="tg-kmsb">know that some information (like pornography) received through the Internet may be harmful<br>know ways to keep themselves safe when using social networking websites or the Internet</td>
+    <td class="tg-9qgj">Term 1 Week 7 &amp; 8<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9qgj">Main Task <br>(30 min) </td>
+    <td class="tg-gq82">Description of the Main Task: <span style="font-weight:400;color:#414042"> </span><br><span style="font-weight:400;color:#414042">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span></td>
+    <td class="tg-9qgj">Term 1 Week 7 &amp; 8</td>
+  </tr>
+</tbody>
+</table>
+
+
+**INFORMATION FOR PARENTS**
+
+8.  Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+    
+      
+    
+9.  Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt-out%20form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 29/01/2021.
+    
+      
+    
+10.  Parents can contact the school at 63444728 or [tkps@moe.edu.sg](mailto:tkps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+    
+      
+    
+11.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
