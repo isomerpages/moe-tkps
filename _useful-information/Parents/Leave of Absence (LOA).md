@@ -16,4 +16,17 @@ QR Code
 
 [QR code for LOA application](https://go.gov.sg/jxh2c9)  
 
-![LOA.jpg](https://tanjongkatongpri.moe.edu.sg/qql/slot/u808/LOA.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+
+<body><img src="/images/LOA.jpeg" alt="Leave of Absence (LOA)" style="width:20%;">  
+  
+</body>  
+<br>
+
