@@ -53,7 +53,7 @@ To safeguard our students’ data, only parents who are registered in the offici
 
   
 
-**FAQs for your information:**
+**<u>FAQs for your information:</u>**
 
   
 
