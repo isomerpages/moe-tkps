@@ -35,8 +35,8 @@ third_nav_title: Parents
 
 **<u>Mother Tongue Language</u>** &nbsp;&nbsp; <br>
 &nbsp;**Chinese Language**&nbsp; &nbsp; &nbsp; &nbsp;  <br>
-[2022\_P1 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P1%20CL%20Parent%20Engagement.pdf) <br>
-[2022\_P2 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P2%20CL%20Parent%20Engagement.pdf)  <br>
+[2022\_P1 CL Parent Engagement.pdf](/files/2022_P1%20CL%20Parent%20Engagement.pdf) <br>
+[2022\_P2 CL Parent Engagement.pdf](/files/2022_P2%20CL%20Parent%20Engagement.pdf)  <br>
 [2022\_P3 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P3%20CL%20Parent%20Engagement.pdf)  <br>
 [2022\_P4 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022_P4%20CL%20Parent%20Engagement.pdf)  <br>
 [2022 P5 CL Parent Engagement.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/MTL/2022%20P5%20CL%20Parent%20Engagement.pdf)  <br>
