@@ -36,7 +36,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Student%20Care%20Centre.jpeg)" alt="Student Care Centre" style="width:50%;">  
+<body><img src="/images/Student%20Care%20Centre.jpeg" alt="Student Care Centre" style="width:65%;">  
   
 </body>  
 <br>
+
+Application for student care services can be made through the website
