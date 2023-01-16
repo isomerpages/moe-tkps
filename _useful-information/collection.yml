@@ -1,4 +1,5 @@
 collections:
   useful-information:
     output: true
-    order: []
+    order:
+      - Teachers/.keep
