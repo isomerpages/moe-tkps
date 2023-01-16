@@ -28,3 +28,15 @@ Based within the primary schools itself, we go beyond providing a continuum of c
   
 
 With over 8 locations in various primary schools across Singapore, we are partners with parents and teachers in helping to develop children through an integrated learning experience throughout the school year.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Student%20Care%20Centre.jpeg)" alt="Student Care Centre" style="width:50%;">  
+  
+</body>  
+<br>
