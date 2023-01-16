@@ -19,12 +19,12 @@ third_nav_title: Parents
 **<u>2022 Parents Engagement Presentation Slides</u>**&nbsp;
 
 &nbsp;**P6 Webinar**&nbsp; &nbsp;&nbsp;  <br>
-[2022 Parent Engagement P6 Webinar.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Webinar/2022%20Parent%20Engagement%20P6%20Webinar.pdf)
+[2022 Parent Engagement P6 Webinar.pdf](/files/2022%20Parent%20Engagement%20P6%20Webinar.pdf)
 
   
 
 &nbsp;**Level Presentations** &nbsp; &nbsp;&nbsp; <br>
-[2022 P1 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P1%20Parent%20Engagement%20Slides.pdf) <br>
+[2022 P1 Parent Engagement Slides.pdf](/files/2022%20P1%20Parent%20Engagement%20Slides.pdf) <br>
 [2022 P2 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P2%20Parent%20Engagement%20Slides.pdf) <br>
 [2022 P3 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P3%20Parent%20Engagement%20Slides.pdf) <br>
 &nbsp;[2022 P4 Parent Engagement Slides.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2022%20Parents%20Engagement/Level%20Slides/2022%20P4%20Parent%20Engagement%20Slides.pdf) <br>
