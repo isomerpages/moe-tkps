@@ -2,6 +2,7 @@ collections:
   parent-kit:
     output: true
     order:
+      - "Parent Kit: Part 2: Home–Based Learning – Don’t Worry Be Steady!.md"
       - "Parent Kit: Part 3: Stay Home, Stay Safe, Stay Curious.md"
       - "Parent Kit: Stay Home, Stay Safe, Stay Curious – School Holiday
         Edition.md"
