@@ -2,5 +2,7 @@ collections:
   parent-kit:
     output: true
     order:
+      - "Parent Kit: Stay Home, Stay Safe, Stay Curious – School Holiday
+        Edition.md"
       - "Parent Kit: My Independent Learner!.md"
       - "Parent Kit: Do’s and Don’ts to help manage examination stress!.md"
