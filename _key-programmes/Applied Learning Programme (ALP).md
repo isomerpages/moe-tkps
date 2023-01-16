@@ -93,10 +93,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Table%20for%20Tier%202%20Programmes.jpeg)" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="/images/Table%20for%20Tier%202%20Programmes.jpeg" alt="Applied Learning Programme" style="width:70%;">  
   
 </body>  
-<br>
+
+_P3-5 Science Innovation_
 
 <style>  
 img {  
@@ -105,7 +106,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="![](/images/P3-5%20Science%20Innovation.jpg)" alt="Applied Learning Programme" style="width:50%;">  
   
 </body>  
 <br>
