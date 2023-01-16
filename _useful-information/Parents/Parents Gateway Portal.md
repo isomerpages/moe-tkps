@@ -18,7 +18,7 @@ img {
 }  
 </style>  
 
-<body><img src="![](/images/PG.png)" alt="Parent Gateway Portal" style="width:60%;">  
+<body><img src="/images/PG.png" alt="Parent Gateway Portal" style="width:40%;">  
   
 </body>  
 <br>
