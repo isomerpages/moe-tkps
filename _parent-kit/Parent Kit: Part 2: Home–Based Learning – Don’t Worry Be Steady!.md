@@ -39,4 +39,4 @@ Please click on the link below to watch the video
 
 [bit.ly/pk2fullhbl](http://bit.ly/pk2fullhbl)
 
-[](/files/Resource%20Kit%20-%20HBL%20Part%202.pdf)
+[Resource Kit - HBL Part 2.pdf](/files/Resource%20Kit%20-%20HBL%20Part%202.pdf)
