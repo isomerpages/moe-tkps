@@ -10,7 +10,7 @@ third_nav_title: Parents
 [Instructions for onboarding Parents Gateway](/files/Instructions%20for%20onboarding%20Parents%20Gateway.pdf) <br>
 [Parents Guide for PG Travel Declaration Instructions](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%20PG.pdf) <br>
 [TKPS Quick Guide Google Meet (Parents)](/files/TKPS%20Quick%20Guide%20Google%20Meet%20Parents.pdf) <br>
-[Student iCON Onboarding Guide – TKP (Updated 28 Apr 21)](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/Student%20iCON%20Onboarding%20Guide_TkpsUpdated%2028%20Apr%2021.pptx)  <br>
+[Student iCON Onboarding Guide – TKP (Updated 28 Apr 21)](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/Student%20iCON%20Onboarding%20Guide_TkpsUpdated%2028%20Apr%2021.pptx)  (PPT file)<br>
 [Cyber-wellness for Parents](/useful-information/parents/useful-links-for-parents/cyber-wellness-for-parents) <br>
 [COVID-19 Vaccination Exercise for Students in Schools and Institutes of Higher Learning](/tkp/announcements)  
 
