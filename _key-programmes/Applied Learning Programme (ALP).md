@@ -93,7 +93,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="![](/images/Table%20for%20Tier%202%20Programmes.jpeg)" alt="Applied Learning Programme" style="width:50%;">  
   
 </body>  
 <br>
