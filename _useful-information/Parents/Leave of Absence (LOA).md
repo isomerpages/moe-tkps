@@ -10,11 +10,8 @@ Please scan the QR code below or click the link given to apply for  LOA.
 
 Thank you.
 
-  
+<p style="text-align:center;">QR Code<br><a href="https://go.gov.sg/jxh2c9">QR code for LOA application</a></p>
 
-QR Code
-
-[QR code for LOA application](https://go.gov.sg/jxh2c9)  
 
 
 <style>  
@@ -29,4 +26,3 @@ img {
   
 </body>  
 <br>
-
