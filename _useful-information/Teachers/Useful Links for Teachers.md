@@ -14,9 +14,9 @@ third_nav_title: Teachers
 2.  [Zoom Do's and Don'ts](/files/Zoom%20Do's%20and%20Don'ts.pdf)
 3.  [Zoom Uninvited Guests](/files/Zoom%20Uninvited%20Guests.pdf)
 4.  [Zoom Security Measures](/files/Zoom%20Security%20Measures.pdf)
-5.  [Zoom Checklist for Video Conferencing](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/Zoom%20Checklist%20for%20Video%20Conferencing.pdf)
-6.  [ICON Google Meet Guide](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/ICON%20Google%20Meet%20Guide.pdf)
-7.  [ICON Google Meet and YouTube Live](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Teachers/HBL%20Tips%20for%20Teachers/ICON%20Google%20Meet%20and%20YouTube%20Live.pdf)
+5.  [Zoom Checklist for Video Conferencing](/files/Zoom%20Checklist%20for%20Video%20Conferencing.pdf)
+6.  [ICON Google Meet Guide](/files/ICON%20Google%20Meet%20Guide.pdf)
+7.  [ICON Google Meet and YouTube Live](/files/ICON%20Google%20Meet%20and%20YouTube%20Live.pdf)
 
 #### Additional Resources for Teachers
 
