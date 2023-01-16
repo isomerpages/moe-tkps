@@ -1,0 +1,4 @@
+collections:
+  parent-kit:
+    output: true
+    order: []
