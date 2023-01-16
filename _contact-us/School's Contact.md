@@ -50,3 +50,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31910.262889305905!2d103.900336!3d1.30538!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x311fb8b93296f4a6!2sTanjong%20Katong%20Primary%20School!5e0!3m2!1sen!2ssg!4v1673831883334!5m2!1sen!2ssg"></iframe>
