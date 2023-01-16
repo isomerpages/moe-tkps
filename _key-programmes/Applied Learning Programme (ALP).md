@@ -122,7 +122,8 @@ img {
 <body><img src="![](/images/P4%20Math%20Games.jpg)" alt="Applied Learning Programme" style="width:50%;">  
   
 </body>  
-<br>
+
+_P6 EL/ICT Project_
 
 <style>  
 img {  
@@ -131,7 +132,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="![](/images/P6%20EL%20and%20ICT%20Project.jpg)" alt="Applied Learning Programme" style="width:50%;">  
   
 </body>  
 <br>
