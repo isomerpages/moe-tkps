@@ -39,10 +39,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="/images/3E.png" alt="Applied Learning Programme" style="width:50%;">  
   
 </body>  
-<br>
+
+**<u>Tier 1: Explore</u>**
+
+All students will be equipped with the 5 stages of DT knowledge and certain skills relevant to DT are emphasized in different levels during P1 to P6 VIA and Project Work. Through the progressive approach, students are given opportunities to apply their DT knowledge and skills in problem based activities and acquire dispositions that encourage the development of 21CC.
 
 <style>  
 img {  
@@ -51,7 +54,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="/images/Tier%201%20Explore%20Table.png" alt="Applied Learning Programme" style="width:80%;">  
   
 </body>  
 <br>
