@@ -159,7 +159,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P6%20VIA%20Online%20Site.jpeg)" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="/images/P6%20VIA%20Online%20Site.jpeg" alt="Applied Learning Programme" style="width:70%;">  
   
 </body>  
 <br>
@@ -171,7 +171,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P6%20VIA%20Products.jpeg)" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="/images/P6%20VIA%20Products.jpeg" alt="Applied Learning Programme" style="width:50%;">  
   
 </body>  
 <br>
@@ -183,7 +183,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P6%20VIA%20Advertisements.jpeg)" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="/images/P6%20VIA%20Advertisements.jpeg" alt="Applied Learning Programme" style="width:70%;">  
   
 </body>  
 <br>
