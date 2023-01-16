@@ -66,7 +66,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Applied Learning Programme" style="width:50%;">  
+<body><img src="![](/images/P1%20to%20P6%20Project%20Work.jpg)" alt="Applied Learning Programme" style="width:50%;">  
   
 </body>  
 <br>
