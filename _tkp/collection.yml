@@ -2,6 +2,8 @@ collections:
   tkp:
     output: true
     order:
+      - "Announcements/Gratitude to Our TKP Teachers: Post your Happy Teacher’s
+        Day Wishes.md"
       - Announcements/Announcements.md
       - Announcements/.keep
       - Disclaimer.md
