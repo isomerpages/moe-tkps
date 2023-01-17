@@ -108,32 +108,32 @@ Please click [here](/tkp/announcements/schoolbag-article-featuring-science-less
 
 ##### \[Parent Kit\] Do’s and Don’ts to help manage examination stress!
 
-In this issue of Parent Kit, we provide you with practical tips to manage the examination stress, and invite you to hear from fellow parents how they support their children through examination periods. Click [here](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/useful-information/parents/parent-kit/parent-kit-do-s-and-don-ts-to-help-manage-examination-stress) to find out more.
+In this issue of Parent Kit, we provide you with practical tips to manage the examination stress, and invite you to hear from fellow parents how they support their children through examination periods. Click [here](/useful-information/parents/parent-kit/parent-kit-do-s-and-don-ts-to-help-manage-examination-stress) to find out more.
 
 ##### \[Parent Kit\] My Independent Learner!
 
-To encourage and motivate more parents to support their children to be independent, we offer you tips on how you can give your child space to learn and grow in confidence. Please [click](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/useful-information/parents/parent-kit/parent-kit-my-independent-learner) the subject head for more details.
+To encourage and motivate more parents to support their children to be independent, we offer you tips on how you can give your child space to learn and grow in confidence. Please [click](/useful-information/parents/parent-kit/parent-kit-my-independent-learner) the subject head for more details.
 
 ##### \[Parent Kit\] Stay Home, Stay Safe, Stay Curious – School Holiday Edition
 
-Let’s continue to do our part to fight the virus as we stay home, stay safe and stay curious this season! Please [click](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/useful-information/parents/parent-kit/parent-kit-stay-home-stay-safe-stay-curious-school-holiday-edition) the subject head for more details.
+Let’s continue to do our part to fight the virus as we stay home, stay safe and stay curious this season! Please [click](/useful-information/parents/parent-kit/parent-kit-stay-home-stay-safe-stay-curious-school-holiday-edition) the subject head for more details.
 
 ##### \[Parent Kit\] Part 3: Stay Home, Stay Safe, Stay Curious
 
-Let us all learn together and adapt to the new challenges... Please [click](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/useful-information/parents/parent-kit/parent-kit-part-3-stay-home-stay-safe-stay-curious) the subject head for more details.
+Let us all learn together and adapt to the new challenges... Please [click](/useful-information/parents/parent-kit/parent-kit-part-3-stay-home-stay-safe-stay-curious) the subject head for more details.
 
 ##### \[Parent Kit\] Part 2: Home-Based Learning – Don’t Worry, Be Steady!
 
-Stay home, stay safe, stay curious... Please [click](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/useful-information/parents/parent-kit/parent-kit-part-2-home-based-learning-don-t-worry-be-steady) the subject head for more details.
+Stay home, stay safe, stay curious... Please [click](/useful-information/parents/parent-kit/parent-kit-part-2-home-based-learning-don-t-worry-be-steady) the subject head for more details.
 
 ##### \[Parent Kit\] Home-Based Learning – Don’t worry, be steady!
 
-Join MOE’s Facebook Live Session, “Ask Me Anything About… [Home-Based Learning](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/useful-information/parents/parent-kit/parent-kit-home-based-learning-don-t-worry-be-steady)” on 1 April 2020, 8pm, to learn more about what HBL really means and the role you can play in your child’s HBL. Join us now....
+Join MOE’s Facebook Live Session, “Ask Me Anything About… [Home-Based Learning](/useful-information/parents/parent-kit/parent-kit-home-based-learning-don-t-worry-be-steady)” on 1 April 2020, 8pm, to learn more about what HBL really means and the role you can play in your child’s HBL. Join us now....
 
 ##### Schoolbag article - "We are all learning something new"
 
-"We are all learning something new......" Please [click](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/tkp/announcements/schoolbag-article-we-are-all-learning-something-new) the subject head for more details.
+"We are all learning something new......" Please [click](/tkp/announcements/schoolbag-article-we-are-all-learning-something-new) the subject head for more details.
 
 ##### COVID-19 Infection precautionary measures
 
-[COVID-19 Infection precautionary measures](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/tkp/announcements/covid-19-infection-precautionary-measures)
+[COVID-19 Infection precautionary measures](/tkp/announcements/covid-19-infection-precautionary-measures)
