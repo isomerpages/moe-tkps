@@ -78,43 +78,43 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 
   
 
-**Step 1:** <br>
+**<u>Step 1:</u>** <br>
 **You can self-reset password using Password Reset Link** <br>
 **Present** "Password Reset Email Address" (under 'My Profile' page) for this to work. <br>
 Remember to click on the password reset link sent to your email.
 
   
 
-**Step 2:** <br>
+**<u>Step 2:</u>** <br>
 **You can self-reset password by Answering Security Questions** <br>
 **Present** answers to the "Security Questions" (under 'My Profile' Page) for this to work.
 
   
 
-**Step 3:** <br>
+**<u>Step 3:</u>** <br>
 Ask your Form / Subject Teacher to reset your password.
 
   
 
-**Step 4:** <br>
+**<u>Step 4:</u>** <br>
 Contact SLS Helpdesk at 6702 6513 to reset your password.
 
 
-**Question 2: I forgot my username.**
+**<u>Question 2: I forgot my username.</u>**
 
   
 
-**Step 1:** <br>
+**<u>Step 1:</u>** <br>
 Get help from the SLS Login Troubleshooting page
 
   
 
-**Step 2:** <br>
+**<u>Step 2:</u>** <br>
 Ask your Form / Subject Teacher to reset your username.
 
   
 
-**Step 3:** <br>
+**<u>Step 3:</u>** <br>
 Contact School at 6344 4728 to reset your username.
 
 
