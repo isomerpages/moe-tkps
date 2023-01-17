@@ -4,17 +4,13 @@ permalink: /tkp-experience/cca/sports/netball/
 description: ""
 third_nav_title: Sports Group
 ---
-### Teacher IC:
+##### Teacher IC:
 
-Mdm Carolyn June De Souza
--------------------------
+### Mdm Carolyn June De Souza
 
-  
+##### CCA Teachers:
 
-### CCA Teachers:
-
-Mdm Tiffany Tan, Mdm Amalina Mardhiah Bte Nasarudin, Miss Meng Yuqi, Mrs Tan Peining, Mdm&nbsp;Tiffany Tan, Mdm Sophia Lo Sing Hui, Mdm Sophia Lo Sing Hui
------------------------------------------------------------------------------------------------------------------------------------------------------
+### Mdm Tiffany Tan, Mdm Amalina Mardhiah Bte Nasarudin, Miss Meng Yuqi, Mrs Tan Peining, Mdm&nbsp;Tiffany Tan, Mdm Sophia Lo Sing Hui, Mdm Sophia Lo Sing Hui
 
 Netball is a popular sporting game for the girls in TKP. They learn the basic knowledge, skills and attitudes in Netball. In the game, there are seven players per team. Each player is given a "position" that defines his/her responsibility and restricts their role to a specified area of the court (roughly a third). The objective of the game is for teams to pass a ball around and to shoot it into the goal ring to score goals.
 
@@ -30,24 +26,19 @@ The Junior Team consists of players from P5 level. They revisit the fundamental 
 
 The Senior Team consists of players from P6 level. Increased knowledge of court strategies are taught during this stage to increase their knowledge of the game. These aim to increase players' decision making skills on and off court.
 
-Objectives
-----------
+#### Objectives
 
 Through the comprehensive training programme for the different teams, the CCA aims to develop students into thinking players and to reinforce the school values of TK PR2IDE. The training program provides our netballers with the relevant and necessary skills and knowledge to prepare them adequately for life. It also teaches the players to work together, and improve their social and verbal skills. It also helps to develop good hand-eye coordination, depth perception, and reaction time.
 
-CCA Schedule / Venue:
----------------------
+#### CCA Schedule / Venue:
 
-### P4, P5 &amp; P6 teams
+##### P4, P5 &amp; P6 teams
 
-Tuesday: 3.30pm to 5.30pm
-
-Friday: 3.30pm to 5.30pm
-
+Tuesday: 3.30pm to 5.30pm <br>
+Friday: 3.30pm to 5.30pm <br>
 Venue: ISH
 
-Useful links
-------------
+#### Useful links
 
 [www.netball.org.sg](http://www.netball.org.sg/)
 
