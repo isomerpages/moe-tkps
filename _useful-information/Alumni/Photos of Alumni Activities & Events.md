@@ -61,7 +61,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Alumni Activities & Events" style="width:75%;">  
+<body><img src="![](/images/2019%20Alumni%20Movie%20Night.jpg)" alt="2019 Alumni Movie Night" style="width:75%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
+<figcaption style="text-align:center;">2019 Alumni Movie Night</figcaption>
