@@ -2,6 +2,7 @@ collections:
   tkp:
     output: true
     order:
+      - School Calendar.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/PSLE Infosheet 2021.md
