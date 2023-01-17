@@ -152,7 +152,7 @@ Please get ready answers to your Security Questions. <br>
 
   
 
-**SLS Helpdesk Operating Hours** <br>
+**<u>SLS Helpdesk Operating Hours</u>** <br>
 Mondays ― Fridays: 9:00 am ― 9:00 pm <br>
 Saturdays: 9:00 am ― 3:00 pm <br>
 **\*Closed on Sundays & Public Holidays**
