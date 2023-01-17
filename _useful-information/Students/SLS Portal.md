@@ -61,13 +61,9 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 **You may also download the instructions below:**
 
   
-
-[SLS-Student-Instructions.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/SLS%20Portal/SLS-Student-Instructions.pdf)   <br>
-[SLS Account Management - Guide for P2 to P6 Students.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/SLS%20Portal/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf)  <br>
-[TKPS Quick Guide Google Meet Students.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/SLS%20Portal/TKPS%20Quick%20Guide%20Google%20Meet%20Students.pdf)  
-
-  
-
+[SLS-Student-Instructions.pdf](/files/SLS-Student-Instructions.pdf)   <br>
+[SLS Account Management - Guide for P2 to P6 Students.pdf](/files/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf) <br>
+[TKPS Quick Guide Google Meet Students.pdf](/files/TKPS%20Quick%20Guide%20Google%20Meet%20Students.pdf)
   
 
 **<u>FREQUENTLY ASKED QUESTIONS</u>**
