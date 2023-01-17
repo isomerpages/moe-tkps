@@ -8,10 +8,7 @@ third_nav_title: Students
 
   
 [Student iCON Onboarding Guide – TKP (Updated 28 Apr 21)](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/Student%20iCON%20Onboarding%20Guide_TkpsUpdated%2028%20Apr%2021.pptx)  <br>
-[Video Conferencing with Zoom (students)](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/Video%20Conferencing%20with%20Zoom%20students.pdf)
-
-[10 Good Habits for Successful Home-based Learning Experience](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/10%20Good%20Habits%20for%20Successful%20Home-based%20Learning%20Experience.pdf)
-
-[How to keep up with your studies when you are away from school](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/How%20to%20keep%20up%20with%20your%20studies%20when%20you%20are%20away%20from%20school.pdf)
-
+[Video Conferencing with Zoom (students)](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/Video%20Conferencing%20with%20Zoom%20students.pdf) <br>
+[10 Good Habits for Successful Home-based Learning Experience](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/10%20Good%20Habits%20for%20Successful%20Home-based%20Learning%20Experience.pdf) <br>
+[How to keep up with your studies when you are away from school](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/How%20to%20keep%20up%20with%20your%20studies%20when%20you%20are%20away%20from%20school.pdf) <br>
 [Reading during HBL (full)](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/Reading%20during%20HBL%20full.pdf)
