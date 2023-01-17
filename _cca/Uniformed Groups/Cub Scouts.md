@@ -57,7 +57,7 @@ The highest award in this section is the Akela Award, where a Cub Scout must hol
 #### Objectives
 
 *   A group environment which is intellectually stimulating, physically vital and directed towards satisfying the child’s basic need to face and overcome challenges
-*   Self-developmental activities as vital components of the overall drive towards encouraging “Fun & Discovery” amongst the Cubs
+*   Self-developmental activities as vital components of the overall drive towards encouraging “Fun &amp; Discovery” amongst the Cubs
 *   Group activities that are based on the natural sense of fun and enthusiasm of the age group and thus the training is achieved largely through games, interaction in small groups and activities
 
 #### CCA Schedule / Venue:
@@ -68,4 +68,6 @@ CCA Room 1 (F01-18)
 
 #### Useful links
 
-The Singapore Scout Association Website: [https://scout.sg/](https://scout.sg/)
+The Singapore Scout Association Website:&nbsp;[https://scout.sg/](https://scout.sg/)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjss4F0PBOIRktERLik3N-UskZnZh2i683kaMcUAmJlc7MHsG51rLIXyo6jljjGHufuyxjbOB26sg9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
