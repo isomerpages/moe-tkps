@@ -6,10 +6,9 @@ third_nav_title: Students
 ---
 Students are expected to uphold the good name of the school and practise good behaviour at all times.
 
-School Rules
-------------
+#### School Rules
 
-### Dress Code
+##### Dress Code
 
 *   Students are to wear the prescribed school uniform and modification to the uniform is not allowed. 
 *   Students are strongly encouraged to have name tags on their school uniform and PE attire.
