@@ -13,11 +13,11 @@ description: ""
 6.  [HBL 6: Transitioning back to school](/files/hbl-part-6.pdf)
 7.  [Supporting your child during full HBL](/files/Supporting%20your%20child%20during%20Full%20HBL.pdf)
 8.  [Experiencing blended learning](/files/experiencing-blended-learning.pdf)
-9.  [My independent learner](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/my-independent-learner.pdf)
-10.  [Manage examination stress](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/manage-examination-stress.pdf)
-11.  [Are you a PSLE parent?](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/are-you-a-PSLE-parent.pdf)
-12.  [Choosing a Secondary School with your child](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/Choosing%20a%20Secondary%20School%20With%20Your%20Child.pdf)
-13.  [Why vaccinate your child?](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/why-vaccinate-your-child.pdf)
+9.  [My independent learner](/files/my-independent-learner.pdf)
+10.  [Manage examination stress](/files/manage-examination-stress.pdf)
+11.  [Are you a PSLE parent?](/files/are-you-a-PSLE-parent.pdf)
+12.  [Choosing a Secondary School with your child](/files/Choosing%20a%20Secondary%20School%20With%20Your%20Child.pdf)
+13.  [Why vaccinate your child?](/files/why-vaccinate-your-child.pdf)
 
 ### Additional Resources for Parents
 
