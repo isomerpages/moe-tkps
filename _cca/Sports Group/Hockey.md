@@ -4,17 +4,13 @@ permalink: /tkp-experience/cca/sports/hockey/
 description: ""
 third_nav_title: Sports Group
 ---
-### Teacher IC:
+##### Teacher IC:
 
-Ms Rachel Wang
---------------
+### Ms Rachel Wang
 
-  
+##### CCA Teachers:&nbsp;
 
-### CCA Teachers:&nbsp;
-
-Ms Aisyah Abu Bakar,&nbsp;&nbsp;Mdm Jasmine Soo, Mr Jimmy Tan
----------------------------------------------------
+### Ms Aisyah Abu Bakar,&nbsp;&nbsp;Mdm Jasmine Soo, Mr Jimmy Tan
 
 Hockey is one of the niche CCA for the boys only in Tanjong Katong Primary School. The Hockey CCA aims to nurture students' interest and passion for the game of Hockey as they learn the basic skills and rules of the sport.
 
@@ -26,18 +22,15 @@ Students will be taught the basic techniques of Hockey, game concepts and strate
 
 For competitions, the game is played outdoor. Our most recent achievement include the Senior Boys Team clinching 2nd place in both 2018 and 2019 during the National School Games!
 
-Objectives
-----------
+#### Objectives
 
 1.  Learn and acquire the necessary skills for the students new to the sport
 2.  In-depth training for competitive preparation for school team players
 3.  Develop teamwork, leadership skills and competencies in sports management and service to the school and community
 
-CCA Schedule / Venue:
----------------------
+#### CCA Schedule / Venue:
 
-P5 – Friday, 2.30 pm to 4.30 pm
-
+P5 – Friday, 2.30 pm to 4.30 pm <br>
 P6 – Tuesday, 3.30 pm to 5.30 pm
 
   
