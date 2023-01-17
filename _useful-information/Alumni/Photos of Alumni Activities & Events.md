@@ -11,10 +11,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Alumni Activities & Events" style="width:75%;">  
+<body><img src="![](/images/Alumni.jpeg)" alt="Alumni Activities & Events" style="width:75%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
+
+#### Alumni Activities/Events
 
 <style>  
 img {  
@@ -23,10 +24,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Alumni Activities & Events" style="width:75%;">  
+<body><img src="![](/images/2017%20Alumni%20Hi-Tea.jpeg)" alt="Alumni Hi-Tea
+" style="width:75%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
+<figcaption style="text-align:center;">2018 Alumni Hi-Tea</figcaption>
 
 <style>  
 img {  
