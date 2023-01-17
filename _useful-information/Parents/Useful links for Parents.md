@@ -59,6 +59,6 @@ third_nav_title: Parents
 [2022 P5 TL Parent Engagement.pdf](/files/2022%20P5%20TL%20Parent%20Engagement.pdf)  <br>
 [2022 P6 TL Parent Engagement.pdf](/files/2022%20P6%20TL%20Parent%20Engagement.pdf)
 
-## Cyber-wellness for Parents
+## [Cyber-wellness for Parents](/useful-information/parents/useful-links-for-parents/cyber-wellness-for-parents/)
 
-## Home-Based Learning Tips for Parents
+## [Home-Based Learning Tips for Parents](/useful-information/parents/useful-links-for-parents/home-based-learning-tips-for-parents/)
