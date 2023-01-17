@@ -94,7 +94,7 @@ We look forward to your generous support!
 
 We would like to thank parents who had made time to attend the parents’ engagement sessions held virtually on  22 January, Saturday.
 
-Please click on the link [https://tanjongkatongpri.moe.edu.sg/useful-information/parents/useful-links-for-parents](https://tanjongkatongpri.moe.edu.sg/useful-information/parents/useful-links-for-parents)  for the shared slides.. 
+Please click on the link [Useful link for Parents](/useful-information/parents/useful-links-for-parents)  for the shared slides.. 
 
 We hope the briefing has enabled better home-school link and stronger partnership between parents and the school for the holistic development of our students. 
 
