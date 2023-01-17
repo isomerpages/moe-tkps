@@ -2,6 +2,8 @@ collections:
   tkp:
     output: true
     order:
+      - Announcements/.keep
+      - Announcements/Announcements.md
       - Announcements/PSLE Infosheet 2021.md
       - Announcements/Letters to Parents 2022.md
       - Announcements/Schoolbag article featuring Science Lessons.md
@@ -12,7 +14,5 @@ collections:
       - Announcements/Our home @ Seraya.md
       - "Announcements/Gratitude to Our TKP Teachers: Post your Happy Teacher’s
         Day Wishes.md"
-      - Announcements/Announcements.md
-      - Announcements/.keep
       - Disclaimer.md
       - Privacy Policy.md
