@@ -2,4 +2,5 @@ collections:
   tkp:
     output: true
     order:
+      - Disclaimer.md
       - Privacy Policy.md
