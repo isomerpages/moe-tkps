@@ -16,7 +16,8 @@ Students are expected to uphold the good name of the school and practise good be
 *   PE t-shirts must be tucked in at all times.
 
 ![TK Attire](/images/0001.jpeg)
-### Appearance
+
+##### Appearance
 
 *   Male students:
 
