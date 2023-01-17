@@ -25,8 +25,7 @@ During school operating hours, students should contact the School-based Helpline
 
   
 
-School-based Helpline: 6344 1751
-
+School-based Helpline: 6344 1751 <br>
 Mondays - Fridays: 8:00 am - 4:00 pm
 
   
@@ -47,10 +46,8 @@ SLS Helpdesk: 6702 6513
 
   
 
-Mondays - Fridays: 4:00 pm - 9:00 pm
-
-Saturdays: 9:00 am - 9:00 pm
-
+Mondays - Fridays: 4:00 pm - 9:00 pm <br>
+Saturdays: 9:00 am - 9:00 pm <br>
 \*Closed on Sundays & Public Holidays
 
   
@@ -65,10 +62,8 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 
   
 
-[SLS-Student-Instructions.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/SLS%20Portal/SLS-Student-Instructions.pdf)  
-
-[SLS Account Management - Guide for P2 to P6 Students.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/SLS%20Portal/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf)  
-
+[SLS-Student-Instructions.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/SLS%20Portal/SLS-Student-Instructions.pdf)   <br>
+[SLS Account Management - Guide for P2 to P6 Students.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/SLS%20Portal/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf)  <br>
 [TKPS Quick Guide Google Meet Students.pdf](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/SLS%20Portal/TKPS%20Quick%20Guide%20Google%20Meet%20Students.pdf)  
 
   
@@ -83,56 +78,43 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 
   
 
-**Step 1:**
-
-**You can self-reset password using Password Reset Link**
-
-**Present** "Password Reset Email Address" (under 'My Profile' page) for this to work.
-
+**Step 1:** <br>
+**You can self-reset password using Password Reset Link** <br>
+**Present** "Password Reset Email Address" (under 'My Profile' page) for this to work. <br>
 Remember to click on the password reset link sent to your email.
 
   
 
-**Step 2:**
-
-**You can self-reset password by Answering Security Questions**
-
+**Step 2:** <br>
+**You can self-reset password by Answering Security Questions** <br>
 **Present** answers to the "Security Questions" (under 'My Profile' Page) for this to work.
 
   
 
-**Step 3:**
-
+**Step 3:** <br>
 Ask your Form / Subject Teacher to reset your password.
 
   
 
-**Step 4:**
-
+**Step 4:** <br>
 Contact SLS Helpdesk at 6702 6513 to reset your password.
 
-  
-
-  
 
 **Question 2: I forgot my username.**
 
   
 
-**Step 1:**
-
+**Step 1:** <br>
 Get help from the SLS Login Troubleshooting page
 
   
 
-**Step 2:**
-
+**Step 2:** <br>
 Ask your Form / Subject Teacher to reset your username.
 
   
 
-**Step 3:**
-
+**Step 3:** <br>
 Contact School at 6344 4728 to reset your username.
 
   
@@ -145,42 +127,32 @@ Your account will be locked after 6 consecutive attempts to log in with an incor
 
   
 
-**Step 1:**
-
+**Step 1:** <br>
 Try self-help to reset your password first
 
   
 
-**Step 2:**
-
+**Step 2:** <br>
 Ask your Form / Subject Teacher to reset your password.
 
   
 
-**Step 3:**
-
+**Step 3:** <br>
 Contact SLS Helpdesk to reset your password.
 
   
 
   
 
-**You may go to 'SLS Login Troubleshooting Page' for self-help tips!**
-
-If you can't find your answers there, you can contact SLS Helpdesk.
-
-Please get ready answers to your Security Questions.
-
-**SLS Email:** [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
-
+**You may go to 'SLS Login Troubleshooting Page' for self-help tips!** <br>
+If you can't find your answers there, you can contact SLS Helpdesk. <br>
+Please get ready answers to your Security Questions. <br>
+**SLS Email:** [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) <br>
 **Tel:** (65) 6702 6513
 
   
 
-**SLS Helpdesk Operating Hours**
-
-Mondays ― Fridays: 9:00 am ― 9:00 pm
-
-Saturdays: 9:00 am ― 3:00 pm
-
+**SLS Helpdesk Operating Hours** <br>
+Mondays ― Fridays: 9:00 am ― 9:00 pm <br>
+Saturdays: 9:00 am ― 3:00 pm <br>
 **\*Closed on Sundays & Public Holidays**
