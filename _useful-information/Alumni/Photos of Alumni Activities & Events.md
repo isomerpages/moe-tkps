@@ -28,7 +28,7 @@ img {
 " style="width:75%;">  
   
 </body>  
-<figcaption style="text-align:center;">2018 Alumni Hi-Tea</figcaption>
+<figcaption style="text-align:center;">2018 Alumni Hi-Tea</figcaption><br>
 
 <style>  
 img {  
@@ -37,10 +37,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Alumni Activities & Events" style="width:75%;">  
+<body><img src="![](/images/2018%20Homecoming.png)" alt="Alumni Activities & Events" style="width:75%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
+<figcaption style="text-align:center;">2018 Homecoming</figcaption><br>
 
 <style>  
 img {  
