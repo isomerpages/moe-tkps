@@ -34,7 +34,7 @@ Students are expected to uphold the good name of the school and practise good be
 
   
 
-### Ornaments, Jewellery or Valuables
+##### Ornaments, Jewellery or Valuables
 
 *   No jewellery of any form, ornaments or fancy watches is to be worn by students. 
 *   Female students are allowed to wear a pair of small plain ear studs in plain gold or silver. Earrings and multiple ear studs are strictly not allowed.
@@ -45,7 +45,7 @@ Students are expected to uphold the good name of the school and practise good be
 
   
 
-### Attendance and Punctuality
+##### Attendance and Punctuality
 
 *   All students must attend school during school days.
 *   All students must report punctually for school **by 7.30am**.
@@ -58,7 +58,7 @@ Students are expected to uphold the good name of the school and practise good be
 
   
 
-### Use of Electronic Devices
+##### Use of Electronic Devices
 
 *   No electronic devices, mobile phones and toys should be brought to school by students without permission from the teacher. If a student is caught using his / her mobile phone in the school premises without adhering to the rules, the phone will be taken away by the teacher and given to the General Office for collection by parents.
 *   If students do bring mobile phones to school, they must adhere strictly to the rules on use of electronic devices so that there is no disruption to learning during curriculum and school-based activities. 
@@ -70,14 +70,14 @@ Students are expected to uphold the good name of the school and practise good be
 
   
 
-### Consumption of Food
+##### Consumption of Food
 
 *   To ensure the cleanliness of the school compound, students are to consume all food in the canteen. 
 *   For recess in the classroom or snack break, food can only be consumed under the supervision of a teacher.
 
   
 
-### Co-curricular Activities
+##### Co-curricular Activities
 
 *   Participation in CCAs is strongly encouraged for all students from P3. Students who do not choose a CCA by P3 will be assigned one and no appeal will be entertained.
 *   Students must attend CCA sessions regularly.
@@ -85,7 +85,7 @@ Students are expected to uphold the good name of the school and practise good be
 
   
 
-### Citizenship Education
+##### Citizenship Education
 
 *   All students must attend the Flag Raising Ceremony. 
 *   Students who are Singapore Citizens must sing the National Anthem and take the Pledge.
@@ -94,7 +94,7 @@ Students are expected to uphold the good name of the school and practise good be
       
     
 
-### Traffic Rules
+##### Traffic Rules
 
 *   All students must obey traffic rules at all times.
 *   Students must use only designated pedestrian crossings (e.g. zebra crossings. signalised pedestrian crossings, under pass and overhead bridges).  
@@ -104,7 +104,7 @@ Students are expected to uphold the good name of the school and practise good be
 
   
 
-### Examination Matters
+##### Examination Matters
 
 *   Students are to behave appropriately during the course of the examination.
 *   Students are not to cheat during examinations.
