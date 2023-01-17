@@ -16,9 +16,8 @@ _Many of you would be very keen to convey your wishes to your teachers at TKP f
 _Here is the link: [https://tinyurl.com/TKPadlet](https://tinyurl.com/TKPadlet)_
 
   
-
-![Teacher Day.jpg](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u742/2020/Announcements/Post%20your%20Happy%20Teachers%20Day%20Wishes/Teacher%20Day.jpg)  
-
+<img src="/images/Teacher%20Day.jpeg"  
+style="width:25%">
   
 
 _All the TKP teachers will be able to read your posts! Do note that Padlet is on the public domain._
