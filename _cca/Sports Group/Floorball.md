@@ -31,8 +31,8 @@ Our coaches and teachers will be there for our players guiding them through trai
 #### Objectives
 
 1.  To equip the students with skills and knowledge
-2.  To introduce various activities that would help enhance their skills as Floorball players
-3.  To cater to different needs of players through different learning opportunities
+2.  To introduce various activities that would help enhance&nbsp;their skills as Floorball players
+3.  To cater to different needs of players through different&nbsp;learning opportunities
 4.  To develop students passion in the activity
 5.  To enable students to learn values of teamwork
 
@@ -41,3 +41,5 @@ Our coaches and teachers will be there for our players guiding them through trai
 Tuesday (Senior, Junior and Developmental Team)
 
 Friday (Senior, Junior and Recreational Team)/ Indoor Sports Hall (ISH)/ A03-12
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAsZrmI66oRP28v2JsTQXZVRXG84gw-EMCYYiLDw5EgHM15J-YrPekA2LtMx06c6apXaQ8xRT4DEXx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
