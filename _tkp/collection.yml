@@ -2,6 +2,7 @@ collections:
   tkp:
     output: true
     order:
+      - Announcements/Announcements.md
       - Announcements/.keep
       - Disclaimer.md
       - Privacy Policy.md
