@@ -49,5 +49,154 @@ P6 students will be having Zoom lessons on Monday and Tuesday during the three d
 
   
 
-**P6 Study Break Schedule  
-MONDAY 27 SEP**
+**<u>P6 Study Break Schedule  
+MONDAY 27 SEP</u>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Subject</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Time</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Subject</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Time</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix">6A</td>
+    <td class="tg-nrix">SC</td>
+    <td class="tg-nrix">8:00-9:00</td>
+    <td class="tg-nrix">EL</td>
+    <td class="tg-nrix">9:30-10:30</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6B</td>
+    <td class="tg-nrix">SC</td>
+    <td class="tg-nrix">8:00-9:00</td>
+    <td class="tg-nrix">EL</td>
+    <td class="tg-nrix">9:30-10:30</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6C<br></td>
+    <td class="tg-nrix">SC</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">EL<br></td>
+    <td class="tg-nrix">10:30-11:30</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6D<br></td>
+    <td class="tg-nrix">SC</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">EL<br></td>
+    <td class="tg-nrix">9:30-10:30<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6E<br></td>
+    <td class="tg-nrix">EL</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">SC</td>
+    <td class="tg-nrix">9:30-10:30<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6F<br></td>
+    <td class="tg-nrix">EL</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">SC</td>
+    <td class="tg-nrix">9:00-10:00</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6O<br></td>
+    <td class="tg-nrix">SC</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">EL<br></td>
+    <td class="tg-nrix">11:30-12:30</td>
+  </tr>
+</tbody>
+</table>
+
+**<u>TUESDAY 28 SEP</u>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Subject</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Time</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Subject</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Time</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix">6A</td>
+    <td class="tg-nrix">MATH</td>
+    <td class="tg-nrix">8:00-9:00</td>
+    <td class="tg-nrix">MT</td>
+    <td class="tg-nrix">10:30-11:30</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6B</td>
+    <td class="tg-nrix">MATH</td>
+    <td class="tg-nrix">8:00-9:00</td>
+    <td class="tg-nrix">MT</td>
+    <td class="tg-nrix">10:30-11:30</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6C<br></td>
+    <td class="tg-nrix">MATH</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">MT<br></td>
+    <td class="tg-nrix">10:30-11:30</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6D<br></td>
+    <td class="tg-nrix">MATH</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">MT<br></td>
+    <td class="tg-nrix">10:30-11:30<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6E<br></td>
+    <td class="tg-nrix">MATH</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">MT</td>
+    <td class="tg-nrix">10:30-11:30<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6F<br></td>
+    <td class="tg-nrix">MATH</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">MT</td>
+    <td class="tg-nrix">10:30-11:30</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6O<br></td>
+    <td class="tg-nrix">MATH</td>
+    <td class="tg-nrix">8:00-9:00<br></td>
+    <td class="tg-nrix">MT<br></td>
+    <td class="tg-nrix">10:30-11:30</td>
+  </tr>
+</tbody>
+</table>
+
+**<u>WEDNESDAY 29 SEP</u>**  <br>
+NO ZOOM LESSONS
