@@ -26,14 +26,13 @@ For our recreational squads, we aim to create a respectful, positive and healthy
 
 Through the guidance expertise of our dedicated and experienced coaches and teachers. We not only focus on developing and honing the technical skills of our players, such as dribbling, passing and tackling, but also to develop them into responsible self-leaders and an active contributors to the society. Other values such as commitment, perseverance, confidence, respect and camaraderie are inculcated in the students to develop them to not just be competent players but better individuals.
 
-Objectives
-----------
+#### Objectives
 
 Football in TKP is made up of the Competitive squads, Recreational squads and the Developmental squads.
 
   
 
-### Key Objectives of the whole Programme:
+##### Key Objectives of the whole Programme:
 
 1.  To develop students’ passion in the sport
 2.  To develop students’ skills
@@ -41,13 +40,13 @@ Football in TKP is made up of the Competitive squads, Recreational squads and th
 
   
 
-### Key Outcomes of the whole Programme:
+##### Key Outcomes of the whole Programme:
 
 1.  Students should be able to master the basic techniques and skills of Football so as to play the game correctly
 2.  Students should be able to play football at the recreational and competitive level for beginners and advanced players respectively
 3.  Students should be able to demonstrate good sportsmanship and values of fair play, teamwork and discipline through playing football
 
-CCA Schedule / Venue:
+#### CCA Schedule / Venue:
 ---------------------
 
 1.  School Field @Seraya
@@ -55,20 +54,14 @@ CCA Schedule / Venue:
 
   
 
-### Schedule:
+##### Schedule:
 
 The competitive and developmental squads train twice a week on Tuesdays and Fridays. However there will be occasions when the days are changed due to matches. The teacher in charge will update parents and students on the schedule and venue accordingly.
 
   
 
-Time: 3:30pm -5:30pm
-
-  
-
-The recreational squads train once a week on Fridays.
-
-  
-
+Time: 3:30pm -5:30pm <br><br>
+The recreational squads train once a week on Fridays. <br><br>
 Time: 3:30pm -5:30pm
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1J4e7xHSMp7-LizLZrVtZKa6Akmwg4ebvA7s9IGaZy3oUHXaNOHrPJrx9yEaomwZ4vUvlJTJST5YU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
