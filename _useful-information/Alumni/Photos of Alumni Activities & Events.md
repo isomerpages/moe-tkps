@@ -15,3 +15,51 @@ img {
   
 </body>  
 <figcaption style="text-align:center;">LMAOOOO</figcaption>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Alumni Activities & Events" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Alumni Activities & Events" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Alumni Activities & Events" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Alumni Activities & Events" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
