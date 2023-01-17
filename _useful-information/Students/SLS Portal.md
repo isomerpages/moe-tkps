@@ -70,7 +70,7 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 
   
 
-**FREQUENTLY ASKED QUESTIONS**
+**<u>FREQUENTLY ASKED QUESTIONS</u>**
 
   
 
