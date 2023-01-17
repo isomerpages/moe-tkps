@@ -15,8 +15,7 @@ Students are expected to uphold the good name of the school and practise good be
 *   All shoes must be predominantly black and accompanied by ONLY black laces with full-length black school socks. Socks with sports brand logos and low ankle socks are not permitted.
 *   PE t-shirts must be tucked in at all times.
 
-![0001.jpg](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Code%20of%20Conduct/0001.jpg)  
-
+![TK Attire](/images/0001.jpeg)
 ### Appearance
 
 *   Male students:
