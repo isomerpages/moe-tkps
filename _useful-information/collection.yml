@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Alumni/Register as an Alumni.md
       - Alumni/Photos of Alumni Activities & Events.md
       - Alumni/.keep
       - Students/Useful Links for Students.md
