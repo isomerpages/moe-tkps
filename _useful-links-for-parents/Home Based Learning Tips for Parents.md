@@ -5,8 +5,8 @@ description: ""
 ---
 ### MOE Resources
 
-1.  [HBL 1: Don’t worry, be steady](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/hbl-part-1.pdf)
-2.  [HBL 2: Don’t worry, be steady](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/hbl-part-2.pdf)
+1.  [HBL 1: Don’t worry, be steady](/files/hbl-part-1.pdf)
+2.  [HBL 2: Don’t worry, be steady](/files/hbl-part-2.pdf)
 3.  [HBL 3: Stay Home, Stay Safe, Stay Curious!](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/hbl-part-3.pdf)
 4.  [HBL 4: Stay Home, Stay Safe, Stay Curious!](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/hbl-part-4.pdf)
 5.  [HBL 5: Stay Home, Stay Safe, Stay Curious! Holiday Edition](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/HBL%20Tips%20for%20Parents/hbl-part-5.pdf)
