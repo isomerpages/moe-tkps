@@ -100,11 +100,11 @@ We hope the briefing has enabled better home-school link and stronger partnershi
 
 ##### Letters to Parents 2022
 
-Dear Parents, please [click](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/tkp/announcements/letters-to-parents-2022) the subject header for our monthly newsletters for 2022.
+Dear Parents, please [click](/tkp/announcements/letters-to-parents-2022) the subject header for our monthly newsletters for 2022.
 
 ##### Schoolbag article featuring Science Lessons
 
-Please click [here](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/tkp/announcements/schoolbag-article-featuring-science-lessons) for more information.
+Please click [here](/tkp/announcements/schoolbag-article-featuring-science-lessons) for more information.
 
 ##### \[Parent Kit\] Do’s and Don’ts to help manage examination stress!
 
