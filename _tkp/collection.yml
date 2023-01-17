@@ -2,6 +2,7 @@ collections:
   tkp:
     output: true
     order:
+      - Announcements/Schoolbag article featuring Science Lessons.md
       - Announcements/COVID 19 Infection precautionary measures.md
       - "Announcements/Schoolbag article: We are all learning something new.md"
       - Announcements/Transitioning Back to School – It’s a New Normal for Us
