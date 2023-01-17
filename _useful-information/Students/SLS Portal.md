@@ -117,34 +117,30 @@ Ask your Form / Subject Teacher to reset your username.
 **Step 3:** <br>
 Contact School at 6344 4728 to reset your username.
 
-  
 
-  
-
-**Question 3: I am no longer able to login after many failed attempts.**
-
+**<u>Question 3: I am no longer able to login after many failed attempts.</u>** <br>
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.
 
   
 
-**Step 1:** <br>
+**<u>Step 1:</u>** <br>
 Try self-help to reset your password first
 
   
 
-**Step 2:** <br>
+**<u>Step 2:</u>** <br>
 Ask your Form / Subject Teacher to reset your password.
 
   
 
-**Step 3:** <br>
+**<u>Step 3:</u>** <br>
 Contact SLS Helpdesk to reset your password.
 
   
 
   
 
-**You may go to 'SLS Login Troubleshooting Page' for self-help tips!** <br>
+**<u>You may go to 'SLS Login Troubleshooting Page' for self-help tips!</u>** <br>
 If you can't find your answers there, you can contact SLS Helpdesk. <br>
 Please get ready answers to your Security Questions. <br>
 **SLS Email:** [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) <br>
