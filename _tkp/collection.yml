@@ -2,6 +2,7 @@ collections:
   tkp:
     output: true
     order:
+      - Announcements/PSLE Infosheet 2021.md
       - Announcements/Letters to Parents 2022.md
       - Announcements/Schoolbag article featuring Science Lessons.md
       - Announcements/COVID 19 Infection precautionary measures.md
