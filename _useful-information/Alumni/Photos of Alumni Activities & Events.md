@@ -52,7 +52,7 @@ img {
 <body><img src="/images/2018%20Alumni%20Core%20Meeting.jpeg" alt="2018 Alumni Core Meeting" style="width:75%;">  
   
 </body>  
-<figcaption style="text-align:center;">2018 Alumni Core Meeting</figcaption>
+<figcaption style="text-align:center;">2018 Alumni Core Meeting</figcaption><br>
 
 <style>  
 img {  
