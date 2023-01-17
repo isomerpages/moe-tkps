@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Students/SLS Portal.md
       - Students/.keep
       - Parents/Home Based Learning (HBL).md
       - Parents/Useful links for Parents.md
