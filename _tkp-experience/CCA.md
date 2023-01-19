@@ -49,11 +49,11 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <thead>
   <tr>
     <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 </thead>
 </table>
@@ -71,13 +71,13 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
-		 <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+		 <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 </thead>
 </table>
@@ -95,12 +95,12 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 </thead>
 </table>
@@ -118,6 +118,6 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
 </thead>
 </table>
