@@ -3,7 +3,6 @@ title: CCA
 permalink: /tkp-experience/cca/
 description: ""
 ---
-
 <h4 style="color:green">Head of Department:</h4>
 
 <h3 style="color:black">Ms Serene Ng</h3>
@@ -37,6 +36,27 @@ Time and again, the students in the school’s CCAs have done themselves and the
 Ultimately, the category and exact CCA that a student opts for is up to the individual student and their parents. As far as possible, the school will try to accommodate every students’ choice of CCA.
 
 <h4 style="color:green">Clubs</h4>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><img src="https://www.tablesgenerator.com/images/Introduction%20to%20clay%20art.jpeg" alt="Art Club" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc">English Language Drama &amp; Debate Club (ELDDC)</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+	 <tr>
+    <td class="tg-0lax"><img src="https://www.tablesgenerator.com/images/Introduction%20to%20clay%20art.jpeg" alt="Art Club" width="400" height="300"></td>
+  </tr>
+</thead>
+</table>
 
 <h4 style="color:green">Performing Arts</h4>
 
