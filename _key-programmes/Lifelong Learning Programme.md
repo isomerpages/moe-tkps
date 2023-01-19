@@ -71,4 +71,5 @@ img {
 }  
 </style>  
 <img style="width:85%;" alt="Key Programmes / Activities / Events" src="/images/Getting%20excited%20for%20the%20finals.jpeg">
+
 <figcaption style=text-align:center;>Getting excited for the finals between Titans and Pegasus!</figcaption>
