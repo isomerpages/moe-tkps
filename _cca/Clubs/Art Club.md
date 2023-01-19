@@ -4,17 +4,13 @@ permalink: /tkp-experience/cca/clubs/art-club/
 description: ""
 third_nav_title: Clubs
 ---
-### Teacher IC:&nbsp;
+##### Teacher IC:&nbsp;
 
-Mdm Mastura Ahmad
------------------
+### Mdm Mastura Ahmad
 
-  
+##### CCA Teachers:&nbsp;
 
-### CCA Teachers:&nbsp;
-
-Mdm 'Aishah Sidik, Mdm Suhaili Nasir &amp; Mdm Ho Siew Min
-------------------------------------------------------
+### Mdm 'Aishah Sidik, Mdm Suhaili Nasir &amp; Mdm Ho Siew Min
 
 The Art Club is a place for student artists to hone in on skills, develop their techniques and create bonds with friends of different age group. Through the art making process, members of the Art Club have learnt to build on their self-esteem and confidence.
 
@@ -22,18 +18,15 @@ The Art Club is a place for student artists to hone in on skills, develop their 
 
 In 2020, the focus was on Clay Art making. Students developed ideas for their sculpture in response to discussion, observation, and experimentation with clay. For Teachers’ Day they explored and experimented molding to create beautiful little sculptures for their teachers in school.
 
-Objectives
-----------
+#### Objectives
 
 1.  To develop creativity and imagination through a range of activities.
 2.  To develop increasing confidence in the use of visual and tactile elements and materials.
 3.  To foster an enjoyment and appreciation of the visual arts.
 
-CCA Schedule / Venue:
----------------------
+#### CCA Schedule / Venue:
 
-Fridays (F2F - 3.30 p.m. to 5.30 p.m.)
-
+Fridays (F2F - 3.30 p.m. to 5.30 p.m.) <br>
 Tuesdays (eCCA - 3.30 p.m. to 5.00 p.m.)
 
   
