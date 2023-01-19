@@ -50,6 +50,7 @@ These outcomes are aligned to our school’s vision of developing Passionate Lea
 We hope that students will be empowered by their participation in Team Sports and grow to become passion leaders, caring leaders and global citizens of the community.
 
 ![Our Approach](/images/Slide5.jpeg)
+
 <figcaption style=text-align:center;>The desired outcomes are achieved by these 2 ways.</figcaption>
 
 **Sports Pursuit:** <br>
