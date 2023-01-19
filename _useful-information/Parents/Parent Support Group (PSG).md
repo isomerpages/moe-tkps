@@ -29,7 +29,7 @@ img {
 }  
 </style>  
 
-<body><img src="/images/TKPS%20PSG.png" alt="TKPS Parent Support Group" style="width:60%;">  
+<body><img src="/images/TKPS%20PSG.png" alt="TKPS Parent Support Group" style="width:40%;">  
   
 </body>  
 <br>
