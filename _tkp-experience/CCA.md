@@ -48,12 +48,12 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/"><img src="![](/images/ELDDC.jpeg)" alt="English Language Drama & Debate Club (ELDDC)" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/"><div align="center"><strong>English Language Drama & Debate Club (ELDDC)</strong></div></a></td>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/art-club/"><img src="![](/images/Art-Club.jpeg)" alt="Art Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/art-club/"><div align="center"><strong>Art Club</strong></div></a></td>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/infocomm-club/"><img src="![](/images/Infocomm.jpeg)" alt="Infocomm Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/infocomm-club/"><div align="center"><strong>Inforcomm Club</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/"><img src="/images/ELDDC.jpeg" alt="English Language Drama & Debate Club (ELDDC)" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/"><div align="center"><strong>English Language Drama & Debate Club (ELDDC)</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/art-club/"><img src="/images/Art-Club.jpeg" alt="Art Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/art-club/"><div align="center"><strong>Art Club</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/infocomm-club/"><img src="/images/Infocomm.jpeg" alt="Infocomm Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/infocomm-club/"><div align="center"><strong>Inforcomm Club</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/sports-recreation-club/"><img src="![](/images/SRC.jpeg)" alt="Sports Recreation Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/sports-recreation-club/"><div align="center"><strong>Sports Recreation Club</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/sports-recreation-club/"><img src="/images/SRC.jpeg" alt="Sports Recreation Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/sports-recreation-club/"><div align="center"><strong>Sports Recreation Club</strong></div></a></td>
   </tr>
 </thead>
 </table>
@@ -71,13 +71,13 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/choir/"><img src="![](/images/Choir.jpeg)" alt="Choir" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/choir/"><div align="center"><strong>Choir</strong></div></a></td>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/guitar-ensemble/"><img src="![](/images/Guitar.jpeg)" alt="Guitar Ensemble" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/guitar-ensemble/"><div align="center"><strong>Guitar Ensemble</strong></div></a></td>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/chinese-dance/"><img src="![](/images/Chinese-Dance.jpeg)" alt="Chinese Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/chinese-dance/"><div align="center"><strong>Chinese Dance</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/choir/"><img src="/images/Choir.jpeg" alt="Choir" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/choir/"><div align="center"><strong>Choir</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/guitar-ensemble/"><img src="/images/Guitar.jpeg" alt="Guitar Ensemble" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/guitar-ensemble/"><div align="center"><strong>Guitar Ensemble</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/chinese-dance/"><img src="/images/Chinese-Dance.jpeg" alt="Chinese Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/chinese-dance/"><div align="center"><strong>Chinese Dance</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/malay-dance/"><img src="![](/images/Malay%20Dance.jpeg)" alt="Malay Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/malay-dance/"><div align="center"><strong>Malay Dance</strong></div></a></td>
-		 <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/modern-dance/"><img src="![](/images/Modern%20Dance.jpeg)" alt="Modern Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/modern-dance/"><div align="center"><strong>Modern Dance</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/malay-dance/"><img src="/images/Malay%20Dance.jpeg" alt="Malay Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/malay-dance/"><div align="center"><strong>Malay Dance</strong></div></a></td>
+		 <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/modern-dance/"><img src="/images/Modern%20Dance.jpeg" alt="Modern Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/modern-dance/"><div align="center"><strong>Modern Dance</strong></div></a></td>
   </tr>
 </thead>
 </table>
@@ -95,12 +95,12 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/football/"><img src="![](/images/Football.jpeg)" alt="Football" width="400" height="300"></a><a href="/tkp-experience/cca/sports/football/"><div align="center"><strong>Football</strong></div></a></td>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/floorball/"><img src="![](/images/Floorball.jpeg)" alt="Floorball" width="400" height="300"></a><a href="/tkp-experience/cca/sports/floorball/"><div align="center"><strong>Floorball</strong></div></a></td>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/netball/"><img src="![](/images/Netball.jpeg)" alt="Netball" width="400" height="300"></a><a href="/tkp-experience/cca/sports/netball/"><div align="center"><strong>Netball</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/football/"><img src="/images/Football.jpeg" alt="Football" width="400" height="300"></a><a href="/tkp-experience/cca/sports/football/"><div align="center"><strong>Football</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/floorball/"><img src="/images/Floorball.jpeg" alt="Floorball" width="400" height="300"></a><a href="/tkp-experience/cca/sports/floorball/"><div align="center"><strong>Floorball</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/netball/"><img src="/images/Netball.jpeg" alt="Netball" width="400" height="300"></a><a href="/tkp-experience/cca/sports/netball/"><div align="center"><strong>Netball</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/hockey/"><img src="![](/images/Hockey.jpeg)" alt="Hockey" width="400" height="300"></a><a href="/tkp-experience/cca/sports/hockey/"><div align="center"><strong>Hockey</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/hockey/"><img src="/images/Hockey.jpeg" alt="Hockey" width="400" height="300"></a><a href="/tkp-experience/cca/sports/hockey/"><div align="center"><strong>Hockey</strong></div></a></td>
   </tr>
 </thead>
 </table>
@@ -118,6 +118,6 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/uniformed-groups/cub-scouts/"><img src="![](/images/Scouts%20NDP.jpeg)" alt="Cub Scouts" width="400" height="300"></a><a href="/tkp-experience/cca/uniformed-groups/cub-scouts/"><div align="center"><strong>Cub Scouts</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/uniformed-groups/cub-scouts/"><img src="/images/Scouts%20NDP.jpeg" alt="Cub Scouts" width="400" height="300"></a><a href="/tkp-experience/cca/uniformed-groups/cub-scouts/"><div align="center"><strong>Cub Scouts</strong></div></a></td>
 </thead>
 </table>
