@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Alumni.jpeg" alt="Alumni Activities & Events" style="width:75%;">  
+<body><img src="/images/Alumni.jpeg" alt="Alumni Activities & Events" style="width:55%;">  
   
 </body>  
 
@@ -25,7 +25,7 @@ img {
 }  
 </style>  
 <body><img src="/images/2017%20Alumni%20Hi-Tea.jpeg" alt="Alumni Hi-Tea
-" style="width:75%;">  
+" style="width:55%;">  
   
 </body>  
 <figcaption style="text-align:center;">2018 Alumni Hi-Tea</figcaption><br>
