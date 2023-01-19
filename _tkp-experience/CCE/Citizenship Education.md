@@ -93,7 +93,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NE%20Ambassadors.jpeg" alt="NE Ambassadors" style="width:80%;">  
+<body><img src="/images/NE%20Ambassadors.jpeg" alt="NE Ambassadors" style="width:60%;">  
   
 </body>  
 
