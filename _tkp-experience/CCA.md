@@ -53,7 +53,7 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
     <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/infocomm-club/"><img src="![](/images/Infocomm.jpeg)" alt="Infocomm Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/infocomm-club/"><div align="center"><strong>Inforcomm Club</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/sports-recreation-club/"><img src="![](/images/SRC.jpeg)" alt="Sports Recreation Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/sports-recreation-club/"><div align="center"><strong>Sports Recreation Club</strong></div></a></td>
   </tr>
 </thead>
 </table>
