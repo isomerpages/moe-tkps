@@ -118,6 +118,6 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/uniformed-groups/cub-scouts/"><img src="/images/Scouts%20NDP.jpeg" alt="Cub Scouts" width="400" height="300"></a><a href="/tkp-experience/cca/uniformed-groups/cub-scouts/"><div align="center"><strong>Cub Scouts</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/uniformed-groups/cub-scouts/"><img src="/images/Scouts%20NDP.jpeg" alt="Cub Scouts" width="400" height="300"></a><a href="/tkp-experience/cca/uniformed-groups/cub-scouts/"><div align="center"><strong>Cub Scouts</strong></div></a></td></tr>
 </thead>
 </table>
