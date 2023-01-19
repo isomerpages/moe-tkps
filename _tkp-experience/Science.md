@@ -104,7 +104,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/20190424_150801.jpeg" alt="Science Department" style="width:85%;">  
+<body><img src="/images/20190424_150801.jpeg" alt="Science Department" style="width:60%;">  
   
 </body>  
 <p style="text-align:center;">Students will be taught field techniques to catch and observe a variety of aquatic organisms in a pond community using a microscope. They will learn about relationships between organisms in a food web</p>
