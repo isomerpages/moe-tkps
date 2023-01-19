@@ -20,15 +20,13 @@ The Infocomm Club CCA aims to excite students about Information Communication an
 
 The Infocomm Club offers students an exciting ICT programme. Under the guidance of our trainers and teachers, students learn “Beginner Programs” such as Microsoft Office Applications (Word Functions, Basic & Advance PowerPoint Presentation), Basic Photography, Movie Maker and “Advance Programs” such as Basic Flash Animation, Basic Videography, Website Creation, Advance Videography, Coding software.
 
-Objectives
-----------
+#### Objectives
 
 1.  To ignite the joy in learning meaningful ICT tools.
 2.  To equip students with relevant ICT skills.
 3.  To inculcate school values such as Respect, Responsibility, Perseverance, Integrity, Empathy and Discipline, and socio-emotional competencies such as Critical and Inventive Thinking and Communication, Collaboration & Information Skills.
 
-CCA Schedule / Venue:
----------------------
+#### CCA Schedule / Venue:
 
 Fridays – 2 to 4pm
 
