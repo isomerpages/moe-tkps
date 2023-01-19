@@ -73,7 +73,7 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
   <tr>
     <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/choir/"><img src="![](/images/Choir.jpeg)" alt="Choir" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/choir/"><div align="center"><strong>Choir</strong></div></a></td>
     <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/guitar-ensemble/"><img src="![](/images/Guitar.jpeg)" alt="Guitar Ensemble" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/guitar-ensemble/"><div align="center"><strong>Guitar Ensemble</strong></div></a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/chinese-dance/"><img src="![](/images/Chinese-Dance.jpeg)" alt="Chinese Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/chinese-dance/"><div align="center"><strong>Chinese Dance</strong></div></a></td>
   </tr>
 	 <tr>
     <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
