@@ -48,12 +48,12 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><img src="https://www.tablesgenerator.com/images/Introduction%20to%20clay%20art.jpeg" alt="Art Club" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><strong>English Language Drama &amp; Debate Club (ELDDC)</strong></a></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><img src="https://www.tablesgenerator.com/images/Introduction%20to%20clay%20art.jpeg" alt="Art Club" width="400" height="300"></td>
+    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 </thead>
 </table>
