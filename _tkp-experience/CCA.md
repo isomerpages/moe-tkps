@@ -77,7 +77,7 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
   </tr>
 	 <tr>
     <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/malay-dance/"><img src="![](/images/Malay%20Dance.jpeg)" alt="Malay Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/malay-dance/"><div align="center"><strong>Malay Dance</strong></div></a></td>
-		 <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+		 <td class="tg-0lax"><a href="/tkp-experience/cca/performing-arts/modern-dance/"><img src="![](/images/Modern%20Dance.jpeg)" alt="Modern Dance" width="400" height="300"></a><a href="/tkp-experience/cca/performing-arts/modern-dance/"><div align="center"><strong>Modern Dance</strong></div></a></td>
   </tr>
 </thead>
 </table>
