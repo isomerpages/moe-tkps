@@ -5,8 +5,126 @@ description: ""
 ---
 #### School Management Committee
 
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3 ive_eobj_right" style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border-collapse: collapse; float: right; border: 1px solid rgb(170, 170, 170); width: 890px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 386.156px;"><a href="mailto:tkps@moe.edu.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Seah Lay Tin (Mrs)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 492.844px;">Principal<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 386.156px;"><a href="mailto:tkps@moe.edu.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Toh Leng Leng (Mdm)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 492.844px;">Vice-Principal<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:tkps@moe.edu.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Ong Chu Xian (Ms)</a></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Vice-Principal&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:tkps@moe.edu.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Vijaya Ganesh (Mrs)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Vice-Principal Administration<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:koh_choon_huat@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Andrew Koh (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">School Staff Developer<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:anissa_ferdaus_md_salleh@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Anissa Ferdaus (Mdm)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Head of Department, English Language<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:tan_boon_tiong@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Tan Boon Tiong (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Head of Department, Mother Tongue Language<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:phang_li_ling@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Yeo Li Ling (Mrs)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Head of Department, Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:eliza_lokadjaja@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Eliza Ee (Mrs)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Head of Department, Science<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:sundram_letchemee@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Sundram Letchemee (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Head of Department, ICT<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:Kumuda_Kaliyaperumal@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Kumuda Vijay (Mrs)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Head of Department, Student Management</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:serene_a_ng@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Serene Ng (Miss)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Head of Department, Physical Education &amp; CCA<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:wong_pih_may@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Rae Wong (Ms)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Head of Department, Character &amp; Citizenship Education<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Mohamed Ashiq (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Year Head, Upper Primary (P5 &amp; P6)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:kwek_yee_ping@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Melody Leong (Mrs)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Year Head, Middle Primary (P3 &amp; P4)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:koh_puai_boon_danny@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Danny Koh (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Year Head, Lower Primary (P1 &amp; P2)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:tan_tick_khin_jimmy@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Jimmy Tan (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Level Head, Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:ho_siew_min@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Ho Siew Min (Mdm)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Subject Head, Chinese Language<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:arlinah_arsad@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Arlinah Arsad (Mdm)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Subject Head, Malay Language<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:nuraishah_mahmood@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Nuraishah Mahmood (Ms)</a></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Subject Head, ICT<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:eng_huiling_jasmine@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Jasmine Eng Huiling (Miss)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Subject Head, Aesthetics<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:nur_ashikin_tahir@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Nur Ashikin Bte Tahir (Ms)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Subject Head, CE<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:hoon_thing_ming@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Hoon Thing Ming (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Subject Head, Science<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:ong_kong_seong@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Ong Kong Seong (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Administration Manager<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:roslan_mohamed_pawi@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Roslan Bin Mohamed Pawi (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Operations Manager<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="mailto:ting_koh_ling@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;">Colin Ting Koh Ling (Mr)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Operations Manager<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kmsb{background-color:#FFF;color:#414042;text-align:left;vertical-align:top}
+.tg .tg-cy91{background-color:#FFF;color:#414042;text-align:left;vertical-align:middle}
+.tg .tg-0qnb{background-color:#FFF;color:#21088A;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0qnb"><a href="mailto:tkps@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Seah Lay Tin (Mrs)</span></a><br></th>
+    <th class="tg-kmsb">Principal<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:tkps@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Toh Leng Leng (Mdm)</span></a><br></td>
+    <td class="tg-kmsb">Vice-Principal<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:tkps@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Ong Chu Xian (Ms)</span></a></td>
+    <td class="tg-cy91">Vice-Principal </td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:tkps@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Vijaya Ganesh (Mrs)</span></a><br></td>
+    <td class="tg-cy91">Vice-Principal Administration<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:koh_choon_huat@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Andrew Koh (Mr)</span></a><br></td>
+    <td class="tg-kmsb">School Staff Developer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:anissa_ferdaus_md_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Anissa Ferdaus (Mdm)</span></a><br></td>
+    <td class="tg-kmsb">Head of Department, English Language<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:tan_boon_tiong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Tan Boon Tiong (Mr)</span></a><br></td>
+    <td class="tg-cy91">Head of Department, Mother Tongue Language<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:phang_li_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Yeo Li Ling (Mrs)</span></a><br></td>
+    <td class="tg-cy91">Head of Department, Mathematics<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:eliza_lokadjaja@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Eliza Ee (Mrs)</span></a><br></td>
+    <td class="tg-kmsb">Head of Department, Science<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:sundram_letchemee@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Sundram Letchemee (Mr)</span></a><br></td>
+    <td class="tg-cy91">Head of Department, ICT<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:Kumuda_Kaliyaperumal@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Kumuda Vijay (Mrs)</span></a><br></td>
+    <td class="tg-cy91">Head of Department, Student Management</td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:serene_a_ng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Serene Ng (Miss)</span></a><br></td>
+    <td class="tg-kmsb">Head of Department, Physical Education &amp; CCA<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:wong_pih_may@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Rae Wong (Ms)</span></a><br></td>
+    <td class="tg-cy91">Head of Department, Character &amp; Citizenship Education<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Mohamed Ashiq (Mr)</span></a><br></td>
+    <td class="tg-kmsb">Year Head, Upper Primary (P5 &amp; P6)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:kwek_yee_ping@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Melody Leong (Mrs)</span></a><br></td>
+    <td class="tg-kmsb">Year Head, Middle Primary (P3 &amp; P4)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:koh_puai_boon_danny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Danny Koh (Mr)</span></a><br></td>
+    <td class="tg-cy91">Year Head, Lower Primary (P1 &amp; P2)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:tan_tick_khin_jimmy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jimmy Tan (Mr)</span></a><br></td>
+    <td class="tg-cy91">Level Head, Mathematics<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:ho_siew_min@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Ho Siew Min (Mdm)</span></a><br></td>
+    <td class="tg-cy91">Subject Head, Chinese Language<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:arlinah_arsad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Arlinah Arsad (Mdm)</span></a><br></td>
+    <td class="tg-cy91">Subject Head, Malay Language<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:nuraishah_mahmood@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Nuraishah Mahmood (Ms)</span></a></td>
+    <td class="tg-kmsb">Subject Head, ICT<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:eng_huiling_jasmine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jasmine Eng Huiling (Miss)</span></a><br></td>
+    <td class="tg-cy91">Subject Head, Aesthetics<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:nur_ashikin_tahir@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Nur Ashikin Bte Tahir (Ms)</span></a><br></td>
+    <td class="tg-cy91">Subject Head, CE<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:hoon_thing_ming@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Hoon Thing Ming (Mr)</span></a><br></td>
+    <td class="tg-kmsb">Subject Head, Science<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:ong_kong_seong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Ong Kong Seong (Mr)</span></a><br></td>
+    <td class="tg-kmsb">Administration Manager<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:roslan_mohamed_pawi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Roslan Bin Mohamed Pawi (Mr)</span></a><br></td>
+    <td class="tg-cy91">Operations Manager<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnb"><a href="mailto:ting_koh_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Colin Ting Koh Ling (Mr)</span></a><br></td>
+    <td class="tg-cy91">Operations Manager</td>
+  </tr>
+</tbody>
+</table>
   
 
 #### Primary 1
