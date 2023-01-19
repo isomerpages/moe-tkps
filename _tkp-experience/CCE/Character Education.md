@@ -21,7 +21,7 @@ _A school-based curriculum has been specially developed by the teachers for the 
 
 #### Key Programmes for Character Education:
 
-1.  **Home Period**
+1. **Home Period**
 
 \-    School-Based Value Inculcation Lessons
 
@@ -64,9 +64,7 @@ img {
 <br>
 Students learnt about the school values through the contributions of the healthcare workers at the frontline and made Thank You cards for them at the various hospitals.  
 
-  
-
-2.  [**Programme for Active Learning (PAL)**](/tkp-experience/programme-for-active-learning-pal)
+2. [**Programme for Active Learning (PAL)**](/tkp-experience/programme-for-active-learning-pal)
 
 <style>  
 img {  
@@ -79,7 +77,7 @@ img {
   
 </body>  
 
-3.  **Student Leadership Programme**
+3. **Student Leadership Programme**
 
 <style>  
 img {  
@@ -92,11 +90,9 @@ img {
   
 </body>  
 
-4.  [**Sexuality Education (for P5 and P6 only)**](/useful-information/parents/sexuality-education)
+4. [**Sexuality Education (for P5 and P6 only)**](/useful-information/parents/sexuality-education)
 
-  
-
-5.  **Cyberwellness Programme**
+5. **Cyberwellness Programme**
 
 <style>  
 img {  
@@ -111,9 +107,7 @@ img {
 
 Students were having a class debate during Home Period on the benefits of technology on learning.
 
-  
-
-6.  **Environmental Education Programme**
+6. **Environmental Education Programme**
 
 <style>  
 img {  
@@ -126,7 +120,7 @@ img {
   
 </body>  
 
-7.  **Educational and Career Guidance Programme (ECG)**
+7. **Educational and Career Guidance Programme (ECG)**
 
 <style>  
 img {  
@@ -181,9 +175,7 @@ We are very honoured to have these inspirational speakers to share their experie
 
 Our students were exposed to a variety of career pathways. The speakers who are made up of parent volunteers, alumni and community friends inspire our pupils to dream and set targets for themselves. Our speakers emphasized on the skills, competencies and values which help them to overcome the challenges in life. The sessions turned out to be very engaging though the speakers were appearing in front of them on projected screens in their respective classrooms. It was heartening to see our students taking the opportunities to ask very good questions.
 
-  
-
-8.  **Student Recognition Awards**
+8. **Student Recognition Awards**
 
 The school believes in affirming positive qualities demonstrated by the students and aims to highlight the importance of these qualities, as well as the students who consistently exhibit them. The following are the awards given to affirm the students.  
 
@@ -226,7 +218,7 @@ img {
 </body>  
 <p style="text-align:center;"><strong>Star Pupil Award Presentation</strong></p>
 
-9.  **Values in Action (VIA)**
+9. **Values in Action (VIA)**
 
 Values in Action (VIA) is a key student development experience that supports students' development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community.
 
