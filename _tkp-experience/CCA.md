@@ -96,7 +96,7 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <thead>
   <tr>
     <td class="tg-0lax"><a href="/tkp-experience/cca/sports/football/"><img src="![](/images/Football.jpeg)" alt="Football" width="400" height="300"></a><a href="/tkp-experience/cca/sports/football/"><div align="center"><strong>Football</strong></div></a></td>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/floorball/"><img src="![](/images/Floorball.jpeg)" alt="Floorball" width="400" height="300"></a><a href="/tkp-experience/cca/sports/floorball/"><div align="center"><strong>Floorball</strong></div></a></td>
     <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
   </tr>
 	 <tr>
