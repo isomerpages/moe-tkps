@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:85%;" alt="Mathematics Department Approach" src="/images/Mathematics%20Department%20Approach.png">
+<img style="width:65%;" alt="Mathematics Department Approach" src="/images/Mathematics%20Department%20Approach.png">
 
 #### Key Programmes / Activities / Events
 
