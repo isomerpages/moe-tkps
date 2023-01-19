@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs/Infocomm Club.md
       - Clubs/Sports Recreation Club.md
       - Clubs/.keep
       - Performing Arts/Chinese Dance.md
