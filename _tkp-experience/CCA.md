@@ -100,7 +100,7 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
     <td class="tg-0lax"><a href="/tkp-experience/cca/sports/netball/"><img src="![](/images/Netball.jpeg)" alt="Netball" width="400" height="300"></a><a href="/tkp-experience/cca/sports/netball/"><div align="center"><strong>Netball</strong></div></a></td>
   </tr>
 	 <tr>
-    <td class="tg-0lax"><a href="LMAOO"><img src="LMAOO" alt="LMAOO" width="400" height="300"></a><a href="LMAOO"><div align="center"><strong>LMAOO</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/sports/hockey/"><img src="![](/images/Hockey.jpeg)" alt="Hockey" width="400" height="300"></a><a href="/tkp-experience/cca/sports/hockey/"><div align="center"><strong>Hockey</strong></div></a></td>
   </tr>
 </thead>
 </table>
