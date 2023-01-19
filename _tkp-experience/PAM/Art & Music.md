@@ -156,7 +156,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/TK%20Buskers.jpeg" alt="TK Buskers" style="width:85%;">  
+<body><img src="/images/TK%20Buskers.jpeg" alt="TK Buskers" style="width:63%;">  
   
 </body>  
 
