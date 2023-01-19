@@ -69,7 +69,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:90%;" alt="MOE ICT Curriculum Framework" src="/images/ICT%20Framework.png">  
+<img src="/images/ICT%20Framework.png" alt="MOE ICT Curriculum Framework" style="width:70%;">  
   
   
 <figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
@@ -117,7 +117,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:80%;" alt="IT Training Programme" src="/images/IT%20Training%20Programme.jpeg">  
+<img src="/images/IT%20Training%20Programme.jpeg" alt="IT Training Programme" style="width:80%;">  
   
   
 <figcaption style="text-align:center;">Diagram: ICT baseline Framework</figcaption>
