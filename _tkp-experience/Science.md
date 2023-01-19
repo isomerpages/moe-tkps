@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Science%20Vision.jpeg" alt="Science Department" style="width:85%;">  
+<body><img src="/images/Science%20Vision.jpeg" alt="Science Department" style="width:60%;">  
   
 </body>  
 
