@@ -27,7 +27,7 @@ img {
 
   
 
-1.    [View the Step-by-Step Guide Video](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/Parents%20Gateway%20Portal/Parents-Gateway-Video.mp4)
+1.    [View the Step-by-Step Guide Video](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Parents/Parents%20Gateway%20Portal/Parents-Gateway-Video.mp4) (MP4 file!)
 
 2.    [Refer to the Parents User Guide.pdf](/files/Parents%20User%20Guide%20for%20Parents%20Gateway.pdf)
 
