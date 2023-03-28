@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/Uniform.md
       - Contact Us/.keep
       - Contact Us/School's Contact.md
       - Contact Us/School Bookshop.md
