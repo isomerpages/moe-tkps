@@ -54,29 +54,15 @@ Through the **Interactive** learning platforms such as group work and Google p
 
 Through the P3 to P5 Science Innovation Programme, students will apply their scientific knowledge, process skills and use Design Thinking to take part in the scientific process of problem solving, investigation and decision-making.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/P3%20to%20P5%20Science%20Innovation%20Programme.jpg" alt="Science Department" style="width:85%;">  
-  
-</body>  
-<p style="text-align:center;">They learn to create innovative solutions to prototype and test</p>
+<img src="/images/Science Pic 1.png" style="width:50%">
+<img src="/images/Science Pic 2.png" style="width:50%">
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/P3%20to%20P5%20Science%20Innovation%20Programme_2.png" alt="Science Department" style="width:85%;">  
-  
-</body>  
-<p style="text-align:center;">Students also develop scientific attitudes like creativity, perseverance and open-mindedness</p>
+<center>Students learn to create innovative solutions to prototype and test.</center>
+
+<img src="/images/Science Pic 3.png" style="width:50%">
+<img src="/images/Science Pic 4.png" style="width:50%">
+
+<center>Students also develop scientific attitudes like creativity, perseverance and open-mindedness</center>
 
 ##### Embrace all Learners
 
