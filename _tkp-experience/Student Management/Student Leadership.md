@@ -43,3 +43,21 @@ Training sessions are provided for the respective roles in order to equip them w
 
 **Practice:**<br>
 Platforms are provided for them in class, CCA, school events or beyond school for the students to exemplify their leadership skills. These platforms are planned intentionally for the various groups of student leaders in order for them to have opportunities to apply the skills learnt.
+
+#### Student Leaders Council – Serve. Lead. Inspire
+
+<img src="/images/Picture 4.png" style="width:40%">
+
+At the end of P3, students will be nominated through the rating tools by their form teachers for Student Leaders Council selection. Nominated students will undergo a selection process by the Student Management Department teachers to be shortlisted as student leaders in P4.
+
+<u>SLC- Service to the School</u>
+
+Student Leaders contribute to the school by ensuring the safety and discipline of their peers. They are given the opportunities to help in school events and activities to showcase their leadership skills and in leading their peers.
+
+<u>SLC- Service to the Community</u>
+
+**Primary 4 and 5 SLC VIA Project**   
+
+Our student leaders embark on VIA projects to further expand their leadership skills in leading and contributing to the Community.  
+
+Building on our school’s Applied Learning Programme on Developing Resilient InnoVative Entrepreneurs, student leaders will apply Design Thinking framework into their VIA projects. Through these projects, they experience and learn the values R.E.S.P.E.C.T – Respect, Empathy, Sincerity, Patience, Ethical, Compassionate and Teamwork.   With the spirit of giving and empathy in mind, we hope our student leaders will continue to Serve, Lead and Inspire for years to come.
