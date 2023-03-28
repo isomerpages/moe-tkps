@@ -4,16 +4,18 @@ permalink: /tkp-experience/student-management/strengthening-culture-of-care/
 description: ""
 third_nav_title: Student Management
 ---
-##### Head of Department / Student Management:
+#### Head of Department / Student Management:
 
-#### Mrs Kumuda Vijay
+**Mrs Kumuda Vijay**
 
-1.  UPBEAT
+1 \.  UPBEAT
     
-    This is a 3-day programme set aside on the first 3 days of the school year for form teachers and subject teachers to bond with their students. Besides bonding, teachers get to know their students, set a positive tone for the year, inculcate school values and help their students to settle down in school.
+This is a 3-day programme set aside on the first 3 days of the school year for form teachers and subject teachers to bond with their students. Besides bonding, teachers get to know their students, set a positive tone for the year, inculcate school values and help their students to settle down in school.
       
-    
-![Upbeat](/images/Upbeat.jpg)
+<img src="/images/up1.jpg" style="width:50%">
+<img src="/images/up2.jpg" style="width:50%">
+<img src="/images/up3.jpeg" style="width:50%">
+<img src="/images/up4.jpg" style="width:50%">
   
 
 2.  One-on-One Chat
