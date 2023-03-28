@@ -92,3 +92,14 @@ From Primary 4 to Primary 6, Student Leaders attend mentoring sessions and a var
 
 Through the leadership workshops, we aim to nurture the leadership potential of our student leaders to their fullest. We hope to cultivate leaders who possess competent leadership traits, sound moral qualities and social responsibility. Additionally, student leaders are given opportunities to attend workshops to equip them with good public speaking and team building skills. By the end of primary school, student leaders emerge with an increased awareness and confidence required for their student leadership roles.
 
+<figure>
+<img src="/images/Presentation 1.jpg" style="width:50%">
+<figcaption>  Student leaders doing a presentation during the workshop
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Presentation 2.jpg" style="width:90%">
+<figcaption>  Student leaders presenting to their peers
+ </figcaption>
+</figure>
