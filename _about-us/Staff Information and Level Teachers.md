@@ -196,17 +196,14 @@ description: ""
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
+| 6 Altruism  | [Jasmine Eng Huiling (Miss)](mailto:eng_huiling_jasmine@schools.gov.sg)  | [Shen Baiyue (Mr)](mailto:shen_baiyue@schools.gov.sg)  |   |
+| 6 Benevolence  | [Nur Ashikin Bte Tahir (Ms)](mailto:nur_ashikin_tahir@moe.edu.sg)  | [Sundram Letchemee (Mr)](mailto:sundram_letchemee@schools.gov.sg)  |   |
+| 6 Charity  | [Noraini Bte Mohd Bolhim (Mdm)](mailto:noraini_mohd_bolhim@schools.gov.sg)  | [Law Kim Hwee (Miss)](mailto:law_kim_hwee@schools.gov.sg)  |   |
+| 6 Diligence  |[Arlinah Arsad (Mdm)](mailto:arlinah_arsad@moe.edu.sg)   | [Yeo Li Ling (Mrs)](mailto:phang_li_ling@schools.gov.sg)  |   |
+| 6 Empathy  | [Camelia Ortega (Miss)](mailto:camelia_ortega@schools.gov.sg)  | [Andrew Koh (Mr)](mailto:koh_choon_huat@schools.gov.sg)  |   |
+| 6 Faith  | [Isliana Bte Mohamed (Mdm)](mailto:isliana_mohamad@schools.gov,sg)  | [Anissa Ferdaus Bte Md Salleh (Mdm)](mailto:anissa_ferdaus_md_salleh@schools.gov.sg)  |   |
+| 6 Grace  | [Tang Shu Fang (Mrs)](mailto:song_shu_fang@schools.gov.sg)  | [Lee Kai (Mdm)](mailto:lee_kai@schools.gov.sg)  |   |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
+#### Mother Tongue Teachers
+
