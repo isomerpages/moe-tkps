@@ -183,6 +183,19 @@ description: ""
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
+| 5 Altruism  | [Anjana (Miss)](mailto:anjana_a@schools.gov.sg)  |  [Mohamed Ashiq Mohamed Hashim (Mr)](mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg) |   |
+| 5 Benevolence  | [Gurmit Singh Nee Gurcharan K (Mrs)](mailto:gurcharan_k@schools.gov.sg)  | [Shirlene Liew (Mrs)](mailto:Yeo_Shirlene@schools.gov.sg)  |   |
+| 5 Charity  | [Drusilla Quek Jia Yin (Miss)](mailto:drusilla_quek_jia_yin@schools.gov.sg)  | [Ng Li Hoon (Miss)](mailto:ng_li_hoon@schools.gov.sg)  |   |
+| 5 Diligence  | [Chiah Soo Ting (Mdm)](mailto:chiah_soo_ting@schools.gov.sg)  |   [Narayanan Kalaiarasi (Mdm)](mailto:narayanan_kalaiarasi@schools.gov.sg)|   |
+| 5 Empathy  | [Serene Poh (Mrs)](mailto:poh_yan_ni_serene@schools.gov.sg)  | [Nurhanin Bte Abdul Hamid (Mdm)](mailto:nurhanin_abdul_hamid@schools.gov.sg)  |   |
+| 5 Faith  |  [Nur Hafizah Bte Abdul Manan (Mdm)](mailto:nur_hafizah_abdul_manan@schools.gov.sg) | [Eliza Ee (Mrs)](mailto:eliza_lokadjaja@schools.gov.sg)  |   |
+| 5 Grace  | [Halimah Lin (Ms)](mailto:halimah_lin_ami@schools.gov.sg)  | [Kumuda Vijay (Mrs)](mailto:Kumuda_Kaliyaperumal@schools.gov.sg)  |   |
+|   |   |   |   |
+
+#### Primary 6
+
+| **Class**  | **Form Teachers**  |   |   |
+|:-:|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
