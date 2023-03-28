@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Contact Us/.keep
-      - Contact Us/School Bookshop.md
       - School History.md
       - Vision, Mission & Values.md
       - School Song.md
