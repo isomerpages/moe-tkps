@@ -171,6 +171,18 @@ description: ""
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
+| 4 Altruism  | [Farah Binte Abdul Malik (Mdm)](mailto:farah_abd_malik@schools.gov.sg)  | [Serene Ng (Miss)](mailto:serene_a_ng@schools.gov.sg)  |   |
+| 4 Benevolence  |  [Aslinda Bte Hamid (Mdm)](mailto:aslinda_hamid@schools.gov.sg) | [Rachel Wang (Ms)](mailto:Rachel_Wang_Yun@schools.gov.sg)  |   |
+| 4 Charity  | [Chan Mei Teng (Mdm)](mailto:chan_mei_teng@schools.gov.sg)  | [Ho Siew Min (Mdm)](mailto:ho_siew_min@schools.gov.sg)  |   |
+| 4 Diligence  | [Sophia Lo Sing Hui (Mdm)](mailto:lo_sing_hui_sophia@schools.gov.sg)  |   |   |
+| 4 Empathy  | [Mastura Ahmad (Mdm)](mailto:mastura_ahmad_b@schools.gov.sg)  | [Tan Boon Tiong (Mr)](mailto:tan_boon_tiong@schools.gov.sg)  |   |
+| 4 Faith  | [Serene Soh (Ms)](mailto:soh_shini_serene@schools.gov.sg)  | [Aisyah Abu Bakar (Mdm)](mailto:aisyah_abu_bakar@moe.edu.sg)  |   |
+|   |   |   |   |
+
+#### Primary 5
+
+| **Class**  | **Form Teachers**  |   |   |
+|:-:|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
