@@ -25,7 +25,7 @@ For urgent dental treatment when the clinic is closed, please call to enquire
 
   
 
-1.  **CHIJ Katong Primary Dental Clinic** <br>63454107
-2.  **Haig Girls Primary Dental Clinic** <br>63445585
-3.  **MDC 11** <br>92379145
-4.  **HPB, School Dental Service** <br>64353782
+1 \.  **CHIJ Katong Primary Dental Clinic** <br>63454107 <br>
+2 \.  **Haig Girls Primary Dental Clinic** <br>63445585<br>
+3 \.  **MDC 11** <br>92379145<br>
+4 \.  **HPB, School Dental Service** <br>64353782
