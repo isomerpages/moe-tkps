@@ -85,17 +85,16 @@ Authentic learning experiences are provided for students to explore, discover an
 The Environmental Education aims to raise awareness in the school community on how to care for our natural environment and help students learn to be responsible citizens through various activities such as:
 
 *   Earth Week and Water Week,
-*   School Talks
+*   Recess  Activities
 *   Weekly Recycling
+*   Green Projects
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Environmental%20Education.png" alt="Science Department" style="width:85%;">  
-  
-</body>  
-<br>
+<img src="/images/Science Pic 9.png" style="width:50%">
+<img src="/images/Picture 10.jpg" style="width:50%">
+
+<center>Students are involved in green initiatives and pledge to save the environment.</center>
+
+<img src="/images/Picture 11.jpg" style="width:50%">
+<img src="/images/Science Pic 12.png" style="width:50%">
+
+<center>Green Monitors participate in Compost Making as part of their effort to manage food waste in school. They also embark on green projects to promote conservation and inculcate green habits.</center>
