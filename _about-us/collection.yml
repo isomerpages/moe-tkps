@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/School's Contact.md
       - Contact Us/.keep
       - School History.md
       - Vision, Mission & Values.md
