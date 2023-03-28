@@ -3,9 +3,9 @@ title: English
 permalink: /tkp-experience/english/
 description: ""
 ---
-##### Head of Department:  
+#### Head of Department:  
 
-### Mdm Anissa Ferdaus Md Salleh
+**Mdm Anissa Ferdaus Md Salleh**
 
 
 #### Department Vision
@@ -28,7 +28,9 @@ We infuse character and citizenship education in our EL curriculum to instil val
 
 **<u>Newspaper-based EL lessons</u>**
 
-The P5 and P6 students subscribe to the What’s Up, a newspaper for children, which is used in the teaching of language components such as reading comprehension, reinforcement of grammar and vocabulary building. Students are also taught to discuss and respond to the current affairs in the various articles Reading Journal and Writer’s Notebook for greater appreciation of contemporary issues.
+The P5 and P6 students subscribe to the What’s Up, a newspaper for children, which is used in the teaching of language components such as reading comprehension, reinforcement of grammar and vocabulary building. 
+
+Students are also taught to discuss and respond to the current affairs in the various articles Reading Journal and Writer’s Notebook for greater appreciation of contemporary issues.
 
 ![Newspaper based English Language lessons](/images/Newspaper%20based%20EL%20lessons.png)
 
