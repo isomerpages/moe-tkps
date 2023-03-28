@@ -238,3 +238,12 @@ description: ""
 
 #### Allied Educators
 
+|   |
+|:-:|
+| [Lim Shi Kai (Mr)](mailto:lim_shi_kai@schools.gov.sg) (School Counsellor)  |
+| [Nur Elviana Binte Mohamed Salleh (Mdm)](mailto:nur_elviana_mohamed_salleh@schools.gov.sg) (School Counsellor)  |
+| [Lee Yen Ping Evelyn (Ms)](mailto:Lee_Yen_Ping_Evelyn@schools.gov.sg) (SEN Officer)  |
+| [Saleha Abu Hassan (Mdm)](mailto:saleha_abu_hassan@schools.gov.sg) (SEN Officer)  |
+| [Wasylah Binte Saud Marie (Ms)](mailto:wasylah_saud_marie@schools.gov.sg) (SEN Officer)  |
+| [Tan Sock Cheng (Mrs)](mailto:tan_sock_cheng@schools.gov.sg) (Teaching and Learning)  |
+|   |
