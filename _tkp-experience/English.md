@@ -87,11 +87,15 @@ ii.  Writing Enrichment Programme (Primary 5 &amp; 6)
 
 **P1 &amp; P2 Learning Journey**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAEsIOPEml7l7qMmeLM0UXb0aVrZLMq9T8chGpocOuiTJCntTPiBJIbrbEf63DD5I_lB2eGtw7TZ86/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<img src="/images/lj1.jpeg" style="width:85%"><br>
+<img src="/images/lj2.jpeg" style="width:85%"><br>
+<img src="/images/lj3.jpeg" style="width:85%">
 
 ##### STELLAR lessons
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDVBG7fEUcDuu5NiZEyyrYG56ayoAbfM0pvvEGa3Dh2bNk79dTGubQCTWUVZSSq2mhY9jsS-_kdsdM/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<img src="/images/sl1.jpg" style="width:85%"><br>
+<img src="/images/sl2.jpg" style="width:85%"><br>
+<img src="/images/sl3.jpg" style="width:85%">
 
 ##### Drama In Education
 
