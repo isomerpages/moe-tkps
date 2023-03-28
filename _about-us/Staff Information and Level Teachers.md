@@ -131,3 +131,13 @@ description: ""
 
 #### Primary 1
 
+| **Class**  | **Form Teachers**  |   |   |
+|:-:|---|---|---|
+| 1 Altruism  | [Elizabeth Yeow (Mrs)](mailto:elizabeth_chin_si_min@schools.gov.sg)  | [Goh Ying Shan (Mdm)](mailto:goh_ying_shan@schools.gov.sg)  | [Tan Yi Yun Florence (Ms)](mailto:Tan_Yi_Yun_Florence@schools.gov.sg)  |
+| 1 Benevolence  | [Deborah Tan (Mrs)](mailto:ng_gek_ean@schools.gov.sg)  | [Nuraishah Mahmood (Ms)](mailto:nuraishah_mahmood@schools.gov.sg)  |   |
+| 1 Charity  | [Weng Si Ying (Miss)](mailto:Weng_SIYING@schools.gov.sg)  |  [Amalina Mardhiah Bte Nasarudin (Mdm)](mailto:amalina_mardhiah_nasarudin@schools.gov.sg) |   |
+| 1 Diligence  | [Nur Sabrina Binte Harun (Mdm)](mailto:nur_sabrina_harun@schools.gov.sg)  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |   |
+| 1 Empathy  | [Mahendran Rudrarani (Ms)](mailto:mahendran_rudrarani@schools.gov.sg)  | [Danny Koh (Mr)](mailto:koh_puai_boon_danny@schools.gov.sg)  |   |
+| 1 Faith  | [Jerald Wong (Mr)](mailto:jerald_wong@schools.gov.sg)  | [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)  |   |
+| 1 Grace  | [Sim Wei Sheng (Mr)](mailto:sim_wei_sheng@schools.gov.sg)  | [Tiffany Tan Huan Xuan (Mdm)](mailto:tan_huan_xuan_tiffany@schools.gov.sg)  |   |
+|   |   |   |   |
