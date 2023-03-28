@@ -4,13 +4,13 @@ permalink: /tkp-experience/pam/physical-n-health-education/
 description: ""
 third_nav_title: PAM
 ---
-##### Head of Department:  
+#### Head of Department:  
 
-### Ms Serene Ng
+**Ms Serene Ng**
 
-##### Subject Head:
+#### Subject Head:
 
-### Mr Mohd Faizal
+**Mr Mohd Faizal**
 
 #### Department Vision
 
