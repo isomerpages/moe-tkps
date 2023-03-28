@@ -66,38 +66,19 @@ Through the P3 to P5 Science Innovation Programme, students will apply their sci
 
 ##### Embrace all Learners
 
-Authentic learning experiences are provided for students to explore, discover and experience science in everyday life and deepen concept learning. P5 to P6 students embark on the following Science Field Trips:  
+Authentic learning experiences are provided for students to explore, discover and experience science in everyday life and deepen concept learning.
 
+**Science/ICT Integration**
 
-**P5: Diversity of Cells Practical Lab Work @ Science Centre**
+<img src="/images/Science Pic 5.png" style="width:50%">
+<img src="/images/Science Pic 6.png" style="width:50%">
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/20170913_161101.jpeg" alt="Science Department" style="width:85%;">  
-  
-</body>  
-Students will use the microscope to identify micro-organisms and cells, and prepare sample slides using simple staining methods  
+<center>During P3 Mobile Trail, students study the diversity of living things at the ABC Garden.</center>
 
-  
+<img src="/images/Science Pic 7.png" style="width:50%">
+<img src="/images/Science Pic 8.png" style="width:50%">
 
-**P6: Aquatic Animals and Plants Hands-on Activity @ Science Centre**
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/20190424_150801.jpeg" alt="Science Department" style="width:60%;">  
-  
-</body>  
-<p style="text-align:center;">Students will be taught field techniques to catch and observe a variety of aquatic organisms in a pond community using a microscope. They will learn about relationships between organisms in a food web</p>
+<center>P6 students carry out research, present their findings to the class and consolidate learning through differentiated work.</center>
 
 ##### Enhance student well-being
 
