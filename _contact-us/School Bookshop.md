@@ -7,10 +7,7 @@ In view of the security and safety of the school and students, the bookshop is o
 
 #### Pacific Bookstores Pte Ltd
 
-Tel: 6464 0111   
-
-Fax: 6464 0110
-
-Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
-
+Tel: 6464 0111   <br>
+Fax: 6464 0110<br>
+Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)<br>
 Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)
