@@ -61,3 +61,34 @@ Student Leaders contribute to the school by ensuring the safety and discipline o
 Our student leaders embark on VIA projects to further expand their leadership skills in leading and contributing to the Community.  
 
 Building on our school’s Applied Learning Programme on Developing Resilient InnoVative Entrepreneurs, student leaders will apply Design Thinking framework into their VIA projects. Through these projects, they experience and learn the values R.E.S.P.E.C.T – Respect, Empathy, Sincerity, Patience, Ethical, Compassionate and Teamwork.   With the spirit of giving and empathy in mind, we hope our student leaders will continue to Serve, Lead and Inspire for years to come.
+
+<figure>
+<img src="/images/P45 SLC Training.jpg" style="width:90%">
+<figcaption>  P4 and P5 VIA SLC Project
+ </figcaption>
+</figure>
+
+**Mentoring and Training**   
+
+From Primary 4 to Primary 6, Student Leaders attend mentoring sessions and a variety of workshops. During the mentoring sessions, using the 4 TK Practices, student leaders are actively engaged with multi-modal learning materials that explore leadership values and traits. They collaboratively grapple with ethical and moral case studies and seek solutions to them. Students also undergo self-reflection to process and make meaning of the learning experiences.
+
+<figure>
+<img src="/images/CAMP ACE.jpg" style="width:90%">
+<figcaption>  Student leaders having fun at CAMP ACE
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Mentoring.jpg" style="width:50%">
+<figcaption> Student leaders in mentoring sessions
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Brainstorming for mindmap.jpg" style="width:90%">
+<figcaption>  Student leaders brainstorming to create a mindmap
+ </figcaption>
+</figure>
+
+Through the leadership workshops, we aim to nurture the leadership potential of our student leaders to their fullest. We hope to cultivate leaders who possess competent leadership traits, sound moral qualities and social responsibility. Additionally, student leaders are given opportunities to attend workshops to equip them with good public speaking and team building skills. By the end of primary school, student leaders emerge with an increased awareness and confidence required for their student leadership roles.
+
