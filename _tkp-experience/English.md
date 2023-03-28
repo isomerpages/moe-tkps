@@ -80,10 +80,8 @@ The LSP (P1 &amp; P2), RRP (P3 &amp; P4) and SDR (P3 &amp; P4) are literacy supp
 
 To provide an opportunity for our high-ability students to optimise their potential in the learning of the English language beyond the classroom, the following series of enrichment modules are conducted for the high-ability students in the various levels:
 
-  
-
-1.  Young Journalism module (Primary 4)
-2.  Writing Enrichment Programme (Primary 5 &amp; 6)
+i.  Young Journalism module (Primary 4)<br>
+ii.  Writing Enrichment Programme (Primary 5 &amp; 6)
 
 ##### Experiential Learning
 
