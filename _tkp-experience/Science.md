@@ -3,30 +3,34 @@ title: Science
 permalink: /tkp-experience/science/
 description: ""
 ---
-##### Head of Department:
+#### Head of Department:
 
-### Mrs Eliza Ee
+**Mrs Eliza Ee**
 
-##### Subject Head:
+#### Subject Head:
 
-### Mr Hoon Thing Ming
+**Mr Hoon Thing Ming**
+
+#### Senior Teacher:
+
+**Mrs Aileen Tam**
 
 #### Department Vision
 
 **Passion for Science.** <br>
 **Independent and Lifelong Learners.**
 
-  
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Science%20Vision.jpeg" alt="Science Department" style="width:60%;">  
-  
-</body>  
+<figure>
+<figcaption>  For P3
+ </figcaption>
+<img src="/images/Science Dept Vision Pic 1.png" style="width:40%">
+</figure>
+
+<figure>
+<figcaption> For P4 to P6
+ </figcaption>
+<img src="/images/Science Vision.jpg" style="width:50%">
+</figure>
 
 #### Department Mission
 
