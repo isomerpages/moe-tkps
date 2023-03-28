@@ -38,9 +38,9 @@ Students are also taught to discuss and respond to the current affairs in the va
 
 To equip our students with the relevant 21st century competencies, we integrate information and communication technology (ICT) into our EL curriculum through the various level-specific project-based lessons such as touch-typing, MS Office, digital storytelling, podcast and video-editing.
 
-  
-
 Other digital resources such as web-based texts (e.g. online articles, blogs, wikis) and online learning sites are also used to facilitate teaching and provide close-to-real experiences in making learning more meaningful and authentic.
+
+Using ICT to drive e-Pedagogy in our English lessons also enables students to be curious, apply understanding and assess their learning in creative ways.
 
 ![Project based ICT EL lessons](/images/Project%20based%20ICT%20EL%20lessons.png)
 
@@ -58,9 +58,9 @@ Guided by the principles of Assessment OF Learning (AoL) and Assessment FOR Lear
 
   
 
-1.  Performance-based assessment such as show-and-tell, speech &amp; drama, reading aloud and stimulus-based conversation.
-2.  Bite-size formative assessment
-3.  Pen-and-paper assessment which includes bite-size weighted assessment, the mid-year &amp; year-end summative assessments.
+a.  Performance-based assessment such as show-and-tell, speech &amp; drama, reading aloud and stimulus-based conversation.<br>
+b.  Bite-size formative assessment<br>
+c.  Pen-and-paper assessment which includes bite-size weighted assessment, the mid-year &amp; year-end summative assessments.
 
 ##### Embrace all Learners
 
