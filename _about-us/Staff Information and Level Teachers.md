@@ -207,3 +207,20 @@ description: ""
 
 #### Mother Tongue Teachers
 
+| **Chinese Language Teachers**  | **Malay Language Teachers**  | **Tamil Language Teachers**  |
+|:-:|---|---|
+| [Tan Boon Tiong (Mr)](mailto:tan_boon_tiong@schools.gov.sg)  | [Arlinah Bte Arsad (Mdm](mailto:arlinah_arsad@schools.gov.sg))  |  [Magayshvari d/o Krishnasamy (Mdm)](mailto:magayshvari_krishnasamy@schools.gov.sg) |
+| [Ho Siew Min (Mdm)](mailto:ho_siew_min@schools.gov.sg)  | [Aisyah Abu Bakar (Mdm)](mailto:aisyah_abu_bakar@schools.gov.sg)  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |
+| [Shen Baiyue (Mr)](mailto:shen_baiyue@schools.gov.sg)  | [Amalina Mardhiah Bte Nasarudin (Mdm)](mailto:amalina_mardhiah_nasarudin@schools.gov.sg)  | [Selvi D/O Goval (Mdm)](mailto:selvi_goval@moe.edu.sg)  |
+| [Goh Ying Shan (Mdm)](mailto:goh_ying_shan@schools.gov.sg)  | [Nuraishah Mahmood (Ms)](mailto:nuraishah_mahmood@schools.gov.sg)  |   |
+| [Huang Cong (Mdm)](mailto:huang_cong@schools.gov.sg)  | [Aishah Binte Sidik (Miss)](mailto:aishah_sidik@schools.gov.sg)  |   |
+| [Lim Pei Yee (Mdm)](mailto:lim_pei_yee@schools.gov.sg)  | [Nur Ashikin Bte Tahir (Miss)](mailto:nur_ashikin_tahir@schools.gov.sg)  |   |
+| [Law Kim Hwee (Miss)](mailto:law_kim_hwee@schools.gov.sg)  |   |   |
+|[Meng Yuqi (Miss)](mailto:meng_yuqi@schools.gov.sg)   |   |   |
+| [Ng Li Hoon (Miss)](mailto:ng_li_hoon@schools.gov.sg)  |   |   |
+| [Phang Shiak Chien (Miss)](mailto:phang_shiak_chien@moe.edu.sg)  |   |   |
+| [Su Tze Han (Mdm)](mailto:su_tze-han@schools.gov.sg)  |   |   |
+| [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)  |   |   |
+|  [Tan Mei Leng (Mdm)](mailto:tan_mei_leng@schools.gov.sg) |   |   |
+| [Tiffany Tan Huan Xuan (Mdm)](mailto:tan_huan_xuan_tiffany@schools.gov.sg)  |   |   |
+|   |   |   |
