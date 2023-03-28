@@ -97,6 +97,16 @@ ii.  Writing Enrichment Programme (Primary 5 &amp; 6)
 <img src="/images/sl2.jpg" style="width:85%"><br>
 <img src="/images/sl3.jpg" style="width:85%">
 
+##### EL Carnival
+
+The EL Carnival is a biennial event to promote the learning and use of English Language through authentic and engaging activities and experiences. Students immerse themselves in a range of exciting activities from creating poems, playing grammar games, writing letters to their favourite authors to dressing as book characters.
+
+<img src="/images/el1.jpg" style="width:85%"><br>
+<img src="/images/el2.jpg" style="width:85%"><br>
+<img src="/images/el3.jpg" style="width:85%">
+
+
+
 ##### Drama In Education
 
 Experiential Learning P1 &amp; P2 Learning Journey Enchanted by the Elephant Show STELLAR lessons Group Writing during MLEA (2) Drama In Education In TKP, we believe that drama is a fun, learner-centred and non-threatening approach which encourages students to be active, imaginative, collaborative and interactive. It supports the four blocks of literacy development in listening, speaking, reading and writing. It also offers a wide spectrum of possibilities and is accessible to all levels of language proficiency as there are varieties of non-verbal and verbal roles that students can choose to participate in. Dramatisation builds fluency and enhances oral language development through repeated rereading and boost confidence in learners.
