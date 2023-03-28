@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us/.keep
       - School History.md
       - Vision, Mission & Values.md
       - School Song.md
