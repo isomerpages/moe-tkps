@@ -1,0 +1,24 @@
+collections:
+  useful-information:
+    output: true
+    order:
+      - Teachers/.keep
+      - Teachers/Useful Links for Teachers.md
+      - Parents/.keep
+      - Parents/Home Based Learning (HBL).md
+      - Parents/Useful links for Parents.md
+      - Parents/Parents Gateway Portal.md
+      - Parents/Sexuality Education.md
+      - Parents/Parent Support Group (PSG).md
+      - Parents/Leave of Absence (LOA).md
+      - Parents/P1 Registration.md
+      - Parents/Forms for Parents.md
+      - Parents/Parent Kit.md
+      - Students/.keep
+      - Students/Useful Links for Students.md
+      - Students/Home Based Learning (HBL).md
+      - Students/Code of Conduct.md
+      - Students/SLS Portal.md
+      - Alumni/.keep
+      - Alumni/Register as an Alumni.md
+      - Alumni/Photos of Alumni Activities & Events.md

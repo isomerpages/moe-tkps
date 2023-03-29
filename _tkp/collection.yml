@@ -1,0 +1,19 @@
+collections:
+  tkp:
+    output: true
+    order:
+      - School Calendar.md
+      - Announcements/.keep
+      - Announcements/Announcements.md
+      - Announcements/PSLE Infosheet 2021.md
+      - Announcements/Letters to Parents 2022.md
+      - Announcements/Schoolbag article featuring Science Lessons.md
+      - Announcements/COVID 19 Infection precautionary measures.md
+      - "Announcements/Schoolbag article: We are all learning something new.md"
+      - Announcements/Transitioning Back to School – It’s a New Normal for Us
+        All.md
+      - Announcements/Our home @ Seraya.md
+      - "Announcements/Gratitude to Our TKP Teachers: Post your Happy Teacher’s
+        Day Wishes.md"
+      - Disclaimer.md
+      - Privacy Policy.md

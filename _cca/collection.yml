@@ -1,0 +1,22 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Clubs/Art Club.md
+      - Clubs/English Language Drama & Debate Club (ELDDC).md
+      - Clubs/Infocomm Club.md
+      - Clubs/Sports Recreation Club.md
+      - Clubs/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/.keep
+      - Sports Group/Floorball.md
+      - Sports Group/Football.md
+      - Sports Group/Hockey.md
+      - Sports Group/Netball.md
+      - Sports Group/.keep
+      - Uniformed Groups/Cub Scouts.md
+      - Uniformed Groups/.keep

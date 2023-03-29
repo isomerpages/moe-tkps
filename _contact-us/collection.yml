@@ -1,0 +1,10 @@
+collections:
+  contact-us:
+    output: true
+    order:
+      - School's Contact.md
+      - School Bookshop.md
+      - Uniform.md
+      - Bus Service Provider.md
+      - Dental Clinic.md
+      - Student Care Centre.md

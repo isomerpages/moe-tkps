@@ -1,0 +1,21 @@
+collections:
+  tkp-experience:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - PAM/.keep
+      - PAM/Physical & Health Education.md
+      - PAM/Art & Music.md
+      - Science.md
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/Character Education.md
+      - CCE/Citizenship Education.md
+      - ICT.md
+      - Programme for Active Learning (PAL).md
+      - Student Management/.keep
+      - Student Management/Strengthening Culture of Care.md
+      - Student Management/Student Leadership.md
+      - CCA.md
