@@ -3,7 +3,7 @@ title: MK@Tanjong Katong
 permalink: /mk-at-tanjong-katong/
 description: ""
 ---
-Click on the MK logo to access MOE Kindergarten’s website.
+Click on the link below the MK logo to access MOE Kindergarten’s website.
 
 ![](/images/MOE%20Kindergarten.jpeg)
 [MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten )
@@ -20,7 +20,3 @@ You may also access the following webpage links to find out more about the [MK C
 
 Please refer to the link below for Tanjong Katong MK Waitlist Application Form:
 https://form.gov.sg/63d749288de0970012e7765d
-
-
-
-
