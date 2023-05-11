@@ -14,16 +14,17 @@ description: ""
 |  Muslim Noodle    | 04/06/2023     |      |
 
 **Application Procedure**
+
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 * [Application Form](/files/appexistingsch.pdf)
 
-1. Attached the following documents together with the application form:
+2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
 
-2. Submit the completed application form and documents by closing date via email OR to the 
+3. Submit the completed application form and documents by closing date via email OR to the 
 
 School’s General Office
 
@@ -38,11 +39,13 @@ Email: ong_kong_seong@schools.gov.sg
 Contact Person: Mr Ong Kong Seong
 
 **How to get there?**
+
 * Nearest MRT: Dakota MRT
 * Bus number: 10 and 32 (stop at Tanjong Katong Shopping Centre)
 * Walking distance: 5-10 mins
 
-**Interest applicants must meet the following criteria:**
+**Interested applicants must meet the following criteria:**
+
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Program (HMSP)’ guidelines (see https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
