@@ -18,4 +18,19 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-information/teachers/useful-links-for-teachers/
+        - title: ""
+          description: ""
+          url: ""
+  - infobar:
+      title: School Canteen Advertisement
+      subtitle: Advertisement
+      description: For more information
+      button: Click Here
+      url: http://www.google.com
+  - infobar:
+      title: School Bus Service
+      subtitle: Advertisement
+      description: For more information
+      button: Click Here
+      url: http://www.google.com
 ---
