@@ -11,7 +11,7 @@ Nothing but the best
 
 #### Vision
 
-*   Passionate learners
+*   Passionate Learners
 *   Caring Leaders
 *   Global Citizens
 
