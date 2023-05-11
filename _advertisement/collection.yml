@@ -1,4 +1,5 @@
 collections:
   advertisement:
     output: true
-    order: []
+    order:
+      - Advertisement.md
