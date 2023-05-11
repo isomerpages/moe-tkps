@@ -26,7 +26,7 @@ sections:
       subtitle: Advertisement
       description: For more information
       button: Click Here
-      url: http://www.google.com
+      url: /advertisement/permalink/schoolcanteenadvertisement/
   - infobar:
       title: School Bus Service
       subtitle: Advertisement
