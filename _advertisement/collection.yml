@@ -2,4 +2,5 @@ collections:
   advertisement:
     output: true
     order:
+      - School Bus Service.md
       - School Canteen Advertisement.md
