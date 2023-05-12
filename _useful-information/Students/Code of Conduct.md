@@ -10,7 +10,7 @@ Students are expected to uphold the good name of the school and practise good be
 
 ##### Dress Code
 
-*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed. 
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.&nbsp;
 *   Students are strongly encouraged to have name tags on their school uniform and PE attire.
 *   All shoes must be predominantly black and accompanied by ONLY black laces with full-length black school socks. Socks with sports brand logos and low ankle socks are not permitted.
 *   PE t-shirts must be tucked in at all times.
@@ -24,10 +24,10 @@ Students are expected to uphold the good name of the school and practise good be
 *   hair must not cover the ears or touch the collar, with short sideburns and a short fringe.
 *   must be neat in appearance, clean shaven and no facial hair is allowed.
 
-*   Female students: 
+*   Female students:&nbsp;
 
 *   hair must be neat and tidy with a short fringe; long fringe (over the eyebrows) should be secured with a dark green / black clip or hairband
-*   long hair must be tied neatly with a dark green / black ribbon or band. 
+*   long hair must be tied neatly with a dark green / black ribbon or band.&nbsp;
 
 *   Dyeing or highlighting of hair is strictly not allowed.
 *   Nails must be kept short and without nail polish.
@@ -36,7 +36,7 @@ Students are expected to uphold the good name of the school and practise good be
 
 ##### Ornaments, Jewellery or Valuables
 
-*   No jewellery of any form, ornaments or fancy watches is to be worn by students. 
+*   No jewellery of any form, ornaments or fancy watches is to be worn by students.&nbsp;
 *   Female students are allowed to wear a pair of small plain ear studs in plain gold or silver. Earrings and multiple ear studs are strictly not allowed.
 *   Male students are not allowed to have their ears pierced or wear earrings / ear studs.
 *   No valuables, expensive items, toys or sharp objects should be brought to school.
@@ -45,14 +45,14 @@ Students are expected to uphold the good name of the school and practise good be
 
   
 
-##### Attendance and Punctuality
+##### Attendance&nbsp;and Punctuality
 
 *   All students must attend school during school days.
-*   All students must report punctually for school **by 7.30am**.
+*   All students must report punctually for school&nbsp;**by 7.30am**.
 *   All students are to report punctually for, and attend all lessons (including LSP, LSM, Supplementary and Remedial).
-*   Students who report to school after the Flag Raising Ceremony will be deemed as late. 
+*   Students who report to school after the Flag Raising Ceremony will be deemed as late.&nbsp;
 *   During school hours, no student is allowed to leave the classroom or school premises without permission from the teacher, Vice-Principal or Principal.
-*   Students must be accompanied by their parents or guardians if they need to leave the school premises before dismissal time.  
+*   Students must be accompanied by their parents or guardians if they need to leave the school premises before dismissal time.&nbsp;&nbsp;
 *   Students are to sit for all examinations and assessments unless certified medically unfit by a doctor.
 *   A medical certificate or letter from parents is required when a student is absent from any school activities. Should a student be absent from a test or examination, a medical certificate must be produced. Students absent from school for medical reasons should stay at home for the duration indicated on the medical certificate. A student absent without letters or medical certificates will be considered as absent without valid reason.
 
@@ -61,8 +61,8 @@ Students are expected to uphold the good name of the school and practise good be
 ##### Use of Electronic Devices
 
 *   No electronic devices, mobile phones and toys should be brought to school by students without permission from the teacher. If a student is caught using his / her mobile phone in the school premises without adhering to the rules, the phone will be taken away by the teacher and given to the General Office for collection by parents.
-*   If students do bring mobile phones to school, they must adhere strictly to the rules on use of electronic devices so that there is no disruption to learning during curriculum and school-based activities. 
-*   Students must switch off their electronic devices upon arrival at school. 
+*   If students do bring mobile phones to school, they must adhere strictly to the rules on use of electronic devices so that there is no disruption to learning during curriculum and school-based activities.&nbsp;
+*   Students must switch off their electronic devices upon arrival at school.&nbsp;
 *   Students have to be responsible for their mobile phones. The school is not responsible for any damage and / or loss of the phone.
 *   Students can only use their mobile phones if they have obtained permission from the teachers.
 *   Students should not be using their electronic devices to take photographs or for entertainment purposes while in the school premises.
@@ -72,7 +72,7 @@ Students are expected to uphold the good name of the school and practise good be
 
 ##### Consumption of Food
 
-*   To ensure the cleanliness of the school compound, students are to consume all food in the canteen. 
+*   To ensure the cleanliness of the school compound, students are to consume all food in the canteen.&nbsp;
 *   For recess in the classroom or snack break, food can only be consumed under the supervision of a teacher.
 
   
@@ -87,7 +87,7 @@ Students are expected to uphold the good name of the school and practise good be
 
 ##### Citizenship Education
 
-*   All students must attend the Flag Raising Ceremony. 
+*   All students must attend the Flag Raising Ceremony.&nbsp;
 *   Students who are Singapore Citizens must sing the National Anthem and take the Pledge.
 *   Students will take the Pledge with the right fist placed over the heart.
 *   Students who are not Singapore Citizens must stand at attention and observe the Flag Raising and Pledge Taking ceremony with respect.  
@@ -123,4 +123,4 @@ The table below shows the list of offences and their possible consequences.
 
   
 
-The table above serves only as a guide.  It is not possible to list the details of all offences and their consequences.  Thus, the school reserves the right to take the necessary action(s) in the best interests of our students, staff and the community.
+The table above serves only as a guide.&nbsp; It is not possible to list the details of all offences and their consequences.&nbsp; Thus, the school reserves the right to take the necessary action(s) in the best interests of our students, staff and the community.
