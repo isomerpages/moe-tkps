@@ -28,7 +28,7 @@ description: ""
 
 School’s General Office
 
-Address: 10 Seraya Road 
+Address: 10 Seraya Road
 
 Singapore 437259
 
@@ -37,6 +37,7 @@ Contact No: 6344 4728
 Email: ong_kong_seong@schools.gov.sg 
 
 Contact Person: Mr Ong Kong Seong
+
 
 **How to get there?**
 
