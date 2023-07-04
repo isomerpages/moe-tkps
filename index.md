@@ -26,7 +26,7 @@ sections:
       subtitle: Announcement
       description: For more information
       button: Click HERE
-      url: /useful-information/parents/permalink/
+      url: /useful-information/parents/permalink/echanomination2023/
   - infobar:
       title: School Canteen Advertisement
       subtitle: Advertisement
