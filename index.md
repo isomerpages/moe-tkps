@@ -22,6 +22,12 @@ sections:
           description: ""
           url: ""
   - infobar:
+      title: ECHA Nomination 2023
+      subtitle: Announcement
+      description: For more information
+      button: Click HERE
+      url: /useful-information/parents/permalink/
+  - infobar:
       title: School Canteen Advertisement
       subtitle: Advertisement
       description: For more information
