@@ -6,4 +6,4 @@ third_nav_title: Parents
 ---
 Dear Parents,
 
-Please click here[](/files/nomination%20form_2023_4july2023.pdf) to download the form. 
+Please click here to download the form.
