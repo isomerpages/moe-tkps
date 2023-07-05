@@ -6,12 +6,11 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1. ‘PDF’ Call for Proposal
-2. ‘PDF’ Agreement for Appointment of School 
-Bus Operator
+1. [Call for Proposal](/files/call%20for%20proposals%20by%20school_tkps.pdf)
+2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator_tkps.pdf)
 
 **Application Procedure**
-1. Complete the ‘PDF’ Call for Proposal – Annex A
+1. Complete the ‘PDF’ Call for Proposal – [Annex A](/files/call%20for%20proposal%20-%20annex%20a_tkps.pdf)
 2. Submit the completed Call for Proposal – Annex A by closing date, 14 Jul 2023 to the School’s General Office.
 * Address: 10 Seraya Road Singapore 437259
 * Contact No.: 63444728
@@ -22,4 +21,3 @@ Bus Operator
 * Nearest MRT: Dakota MRT
 * Bus number: 10 and 32 (stop at Tanjong Katong Shopping Centre)
 * Walking distance: 5-10 mins
-
