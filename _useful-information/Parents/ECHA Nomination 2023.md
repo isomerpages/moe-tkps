@@ -1,6 +1,6 @@
 ---
 title: ECHA Nomination 2023
-permalink: /useful-information/parents/permalink/
+permalink: /useful-information/parents/permalink/echanomination2023/
 description: ""
 third_nav_title: Parents
 ---

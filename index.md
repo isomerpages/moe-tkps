@@ -26,17 +26,17 @@ sections:
       subtitle: Announcement
       description: For more information
       button: Click HERE
-      url: /useful-information/parents/permalink/
+      url: /useful-information/parents/permalink/echanomination2023/
   - infobar:
-      title: School Canteen Advertisement
+      title: School Bus Advertisement
       subtitle: Advertisement
       description: For more information
       button: Click Here
-      url: /advertisement/permalink/schoolcanteenadvertisement/
+      url: /advertisement/permalink/schoolbusadvertisement/
   - infobar:
       title: School Bus Service
-      subtitle: Advertisement
-      description: For more information
+      subtitle: NEW INFORMATION
+      description: FOR MORE INFORMATION
       button: Click Here
       url: /advertisement/permalink/schoolbusservice/
 ---
