@@ -163,7 +163,7 @@ description: ""
 | 3 Benevolence  | [Hema Devi Ultrakumaran (Ms)](mailto:hema_devi_utrakumaran@schools.gov.sg)  | [Huang Cong (Mdm)](mailto:huang_cong@schools.gov.sg)  |   |
 | 3 Charity  | [Chin Ying Xin (Ms)](mailto:chin_ying_xin@schools.gov.sg)  | [Karen Ong (Ms)](mailto:lim_chew_kuat@schools.gov.sg)  |   |
 | 3 Diligence  | [Kristel Seet (Miss)](mailto:kristel_seet@schools.gov.sg)  | [Aileen Tam (Ms)](mailto:tam_aileen@moe.edu.sg)  |   |
-| 3 Empathy  |[Farhana Bte Osman (Mdm)](mailto:farhana_osman@schools.gov.sg)   | [Phang Shiak Chien (Miss)](mailto:phang_shiak_chien@moe.edu.sg)  |  [Tan Peining (Ms)](mailto:tan_peining@schools.gov.sg) |
+| 3 Empathy  |[Farhana Bte Osman (Mdm)](mailto:farhana_osman@schools.gov.sg)   | [Lim Pei Yee (Ms)](mailto:lim_pei_yee@schools.gov.sg)  |  [Tan Peining (Ms)](mailto:tan_peining@schools.gov.sg) |
 |  3 Faith | [Suhaili Bte Nasir (Miss)](mailto:suhaili_nasir@schools.gov.sg)  | [Magayshvari D/O Krishnasamy (Mdm)](mailto:magayshvari_krishnasamy@schools.gov.sg)  |   |
 |   |   |   |   |
 
@@ -176,7 +176,7 @@ description: ""
 | 4 Charity  | [Chan Mei Teng (Mdm)](mailto:chan_mei_teng@schools.gov.sg)  | [Ho Siew Min (Mdm)](mailto:ho_siew_min@schools.gov.sg)  |   |
 | 4 Diligence  | [Sophia Lo Sing Hui (Mdm)](mailto:lo_sing_hui_sophia@schools.gov.sg)  |   |   |
 | 4 Empathy  | [Mastura Ahmad (Mdm)](mailto:mastura_ahmad_b@schools.gov.sg)  | [Tan Boon Tiong (Mr)](mailto:tan_boon_tiong@schools.gov.sg)  |   |
-| 4 Faith  | [Serene Soh (Ms)](mailto:soh_shini_serene@schools.gov.sg)  | [Aisyah Abu Bakar (Mdm)](mailto:aisyah_abu_bakar@moe.edu.sg)  |   |
+| 4 Faith  | [Serene Soh (Ms)](mailto:soh_shini_serene@schools.gov.sg)  | [Aisyah Abu Bakar&nbsp;(Mdm)](mailto:aisyah_abu_bakar@moe.edu.sg)  |   |
 |   |   |   |   |
 
 #### Primary 5
@@ -225,7 +225,7 @@ description: ""
 | [Tiffany Tan Huan Xuan (Mdm)](mailto:tan_huan_xuan_tiffany@schools.gov.sg)  |   |   |
 |   |   |   |
 
-#### Non-Form Teachers 
+#### Non-Form Teachers&nbsp;
 
 |   |   |   |
 |:-:|---|---|
@@ -240,10 +240,10 @@ description: ""
 
 |   |
 |:-:|
-| [Lim Shi Kai (Mr)](mailto:lim_shi_kai@schools.gov.sg) (School Counsellor)  |
-| [Nur Elviana Binte Mohamed Salleh (Mdm)](mailto:nur_elviana_mohamed_salleh@schools.gov.sg) (School Counsellor)  |
-| [Lee Yen Ping Evelyn (Ms)](mailto:Lee_Yen_Ping_Evelyn@schools.gov.sg) (SEN Officer)  |
-| [Saleha Abu Hassan (Mdm)](mailto:saleha_abu_hassan@schools.gov.sg) (SEN Officer)  |
-| [Wasylah Binte Saud Marie (Ms)](mailto:wasylah_saud_marie@schools.gov.sg) (SEN Officer)  |
-| [Tan Sock Cheng (Mrs)](mailto:tan_sock_cheng@schools.gov.sg) (Teaching and Learning)  |
+| [Lim Shi Kai (Mr)](mailto:lim_shi_kai@schools.gov.sg)&nbsp;(School Counsellor)  |
+| [Nur Elviana Binte Mohamed Salleh (Mdm)](mailto:nur_elviana_mohamed_salleh@schools.gov.sg)&nbsp;(School Counsellor)  |
+| [Lee Yen Ping Evelyn (Ms)](mailto:Lee_Yen_Ping_Evelyn@schools.gov.sg)&nbsp;(SEN Officer)  |
+| [Saleha Abu Hassan (Mdm)](mailto:saleha_abu_hassan@schools.gov.sg)&nbsp;(SEN Officer)  |
+| [Wasylah Binte Saud Marie (Ms)](mailto:wasylah_saud_marie@schools.gov.sg)&nbsp;(SEN Officer)  |
+| [Tan Sock Cheng (Mrs)](mailto:tan_sock_cheng@schools.gov.sg)&nbsp;(Teaching and Learning)  |
 |   |
