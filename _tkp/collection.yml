@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Calendar.md
+      - Announcements/P1 Orientation 2023.md
       - Announcements/ECHA Nomination 2023.md
       - Announcements/.keep
       - Announcements/Announcements.md
