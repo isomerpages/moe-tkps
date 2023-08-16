@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Calendar.md
-      - Announcements/Home Based Learning (HBL).md
       - Announcements/Phase 2B Parent Volunteer.md
       - Announcements/P1 Orientation 2023.md
       - Announcements/.keep
