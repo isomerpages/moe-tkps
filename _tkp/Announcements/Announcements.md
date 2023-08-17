@@ -4,6 +4,22 @@ permalink: /tkp/announcements/
 description: ""
 third_nav_title: Announcements
 ---
+##### Full Subject Based Banding (FSBB) Webinar  -  11 Aug 23
+
+Dear Parents,
+
+The school shared on Full Subject Based Banding (FSBB) via a Webinar on 11 Aug 23. 
+ 
+Please click on the link below  for slides that was shared during the session.  
+    
+Thank you.
+
+[2023 Full Subject Based Banding (FSBB) Webinar Slides](/files/2023%20full%20subject%20based%20banding(fsbb)webinar%20_11%20august%202023_pdf.pdf)
+
+[2023 Full Subject Based Banding (FSBB) Webinar Video](https://drive.google.com/file/d/1grba3jCyeEG7J-GdOK_-Th3XHd2_4xz5/view?usp=sharing)
+
+
+
 ##### P1 Orientation 2023
 
 Dear Parents,  
