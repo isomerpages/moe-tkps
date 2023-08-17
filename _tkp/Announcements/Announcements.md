@@ -4,13 +4,13 @@ permalink: /tkp/announcements/
 description: ""
 third_nav_title: Announcements
 ---
-##### Full Subject Based Banding (FSBB) Webinar  -  14 Aug 23
+##### Full Subject Based Banding (FSBB) Webinar  -  11 Aug 23
 
 Dear Parents,
 
-The school shared on Full Subject Based Banding (FSBB) via a Webinar on 14 Aug 23. 
+The school shared on Full Subject Based Banding (FSBB) via a Webinar on 11 Aug 23. 
  
-Please click on the link below  to for slides that was shared during the session for more information.  
+Please click on the link below  for slides that was shared during the session.  
     
 Thank you.
 
