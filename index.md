@@ -22,12 +22,6 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: ECHA Nomination 2023
-      subtitle: Announcement
-      description: For more information
-      button: Click HERE
-      url: /useful-information/parents/permalink/echanomination2023/
-  - infobar:
       title: School Bus Advertisement
       subtitle: Advertisement
       description: For more information
