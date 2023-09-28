@@ -23,14 +23,14 @@ sections:
           url: ""
   - infobar:
       title: Student Care Centre Service 2024
-      subtitle: New Information for P1 Parents
+      subtitle: New Info for P1/2024 Parents
       id: infobar
       description: FOR MORE INFORMATION
       button: Click here
       url: https://tanjongkatongpri.moe.edu.sg/tkp/announcements/
   - infobar:
       title: School Bus Service
-      subtitle: NEW INFORMATION
+      subtitle: NEW INFO
       description: FOR MORE INFORMATION
       button: Click Here
       url: /advertisement/permalink/schoolbusservice/
