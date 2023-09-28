@@ -27,7 +27,7 @@ sections:
       id: infobar
       description: FOR MORE INFORMATION
       button: Click here
-      url: https://tanjongkatongpri.moe.edu.sg/tkp/announcements/
+      url: https://tanjongkatongpri.moe.edu.sg/contact-us/student-care-centre/
   - infobar:
       title: School Bus Service
       subtitle: NEW INFO
