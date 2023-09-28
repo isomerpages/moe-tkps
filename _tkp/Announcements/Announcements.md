@@ -6,7 +6,7 @@ third_nav_title: Announcements
 ---
 ##### 2024 P1 Registration to Raffles Student Care Centre
 
-Dear Parent/Guardian,
+Dear P1/2024 Parent,
 
 Registration for Raffles Student Care Centre will start on Monday, 2 October 2023. Please complete the Registration Form at www.rafflesstudentcare.com/Registration by Tuesday, 17 October 2023 if you intend to place your child in Raffles SCC. Please refer to the attached handout for more details.
 
