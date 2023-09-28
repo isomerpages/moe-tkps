@@ -22,11 +22,12 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: School Bus Advertisement
-      subtitle: Advertisement
-      description: For more information
-      button: Click Here
-      url: /advertisement/permalink/schoolbusadvertisement/
+      title: Student Care Centre Service 2024
+      subtitle: New Information
+      id: infobar
+      description: FOR MORE INFORMATION
+      button: Click here
+      url: https://tanjongkatongpri.moe.edu.sg/contact-us/student-care-centre/
   - infobar:
       title: School Bus Service
       subtitle: NEW INFORMATION
