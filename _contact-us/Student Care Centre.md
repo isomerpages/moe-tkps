@@ -11,11 +11,10 @@ Website:&nbsp;[https://rafflesstudentcare.com](https://rafflesstudentcare.com/)
 
 Application for student care services can be made through the website.
 
+#### P1/2024 Registration to Raffles Student Care Centre
 
-#### New Information
-
-Dear Parent/Guardian,
+Dear P1/2024 Parent,
 
 Registration for Raffles Student Care Centre will start on **Monday, 2 October 2023**. Please complete the Registration Form at www.rafflesstudentcare.com/Registration by Tuesday, **17 October 2023** if you intend to place your child in Raffles SCC. Please refer to the attached handout for more details.
 
-Click here for the handout.
+Click [**here**](/files/tk%20raffles%20scc%20introductory%20letter%20to%20p1%202024.pdf) for the handout.
