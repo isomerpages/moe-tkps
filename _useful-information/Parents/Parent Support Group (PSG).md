@@ -4,6 +4,9 @@ permalink: /useful-information/parents/parent-support-group-psg/
 description: ""
 third_nav_title: Parents
 ---
+
+![Join The TKP PSG](/images/tkp%20psg%20connect_banner.jpeg)
+
 The Parent Support Group at Tanjong Katong Primary is a vibrant group that fosters a collaborative environment for parents to engage with the school. The PSG plays a vital role in empowering parents to actively participate in our students’ educational journey. Together, TKP staff and parents work hand-in-hand to create a positive impact on the lives of our students, ensuring they receive the holistic support they need to flourish academically, emotionally, and socially.
 
 **PURPOSE OF TKP PSG**
@@ -25,7 +28,12 @@ We sincerely thank the parents for your strong support all these years and striv
 
 
 
+**PSG Executive Committee 2023**
 
+![CNY 2023](/images/psg_pic2.jpg)
+Chinese New Year Lo-Hei with PSG EXCO! 
+
+![PSG Welcome Tea 2023](/images/psg_pic3.jpg)
 
 
 
