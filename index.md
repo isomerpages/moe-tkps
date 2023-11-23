@@ -34,4 +34,11 @@ sections:
       description: FOR MORE INFORMATION
       button: Click Here
       url: /advertisement/permalink/schoolbusservice/
+  - infobar:
+      title: P1 Orientation 2023 Slides
+      subtitle: NEW INFO
+      id: infobar
+      description: FOR MORE INFORMATION
+      button: CLICK HERE
+      url: /useful-information/parents/permalink/p1orientation2023
 ---
