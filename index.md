@@ -22,6 +22,13 @@ sections:
           description: ""
           url: ""
   - infobar:
+      title: P1 Orientation 2023 Slides
+      subtitle: NEW INFO
+      id: infobar
+      description: FOR MORE INFORMATION
+      button: CLICK HERE
+      url: /useful-information/parents/permalink/p1orientation2023
+  - infobar:
       title: Student Care Centre Service 2024
       subtitle: New Info for P1/2024 Parents
       id: infobar
