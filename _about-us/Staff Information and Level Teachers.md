@@ -180,13 +180,12 @@ variant: markdown
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
-| 5 Altruism  | [Anjana (Miss)](mailto:anjana_a@schools.gov.sg)  |  [Mohamed Ashiq Mohamed Hashim (Mr)](mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg) |   |
-| 5 Benevolence  | [Gurmit Singh Nee Gurcharan K (Mrs)](mailto:gurcharan_k@schools.gov.sg)  | [Shirlene Liew (Mrs)](mailto:Yeo_Shirlene@schools.gov.sg)  |   |
-| 5 Charity  | [Drusilla Quek Jia Yin (Miss)](mailto:drusilla_quek_jia_yin@schools.gov.sg)  | [Ng Li Hoon (Miss)](mailto:ng_li_hoon@schools.gov.sg)  |   |
-| 5 Diligence  | [Chiah Soo Ting (Mdm)](mailto:chiah_soo_ting@schools.gov.sg)  |   [Joyce Chui (Ms)](mailto:chui_jia_hui_joyce@moe.edu.sg)|   |
-| 5 Empathy  | [Serene Poh (Mrs)](mailto:poh_yan_ni_serene@schools.gov.sg)  | [Nurhanin Bte Abdul Hamid (Mdm)](mailto:nurhanin_abdul_hamid@schools.gov.sg)  |   |
-| 5 Faith  |  [Nur Hafizah Bte Abdul Manan (Mdm)](mailto:nur_hafizah_abdul_manan@schools.gov.sg) | [Eliza Ee (Mrs)](mailto:eliza_lokadjaja@schools.gov.sg)  |   |
-| 5 Grace  | [Halimah Lin (Ms)](mailto:halimah_lin_ami@schools.gov.sg)  | [Kumuda Vijay (Mrs)](mailto:Kumuda_Kaliyaperumal@schools.gov.sg)  |   |
+| 5 Altruism  | [Sundram Letchemee (Mr)](mailto:sundram_letchemee@schools.gov.sg)  |  [Arlinah Arsad (Mdm)](mailto:arlinah_arsad@moe.edu.sg) |   |
+| 5 Benevolence  | [Narayanan Kalaiarasi (Mdm)](mailto:narayanan_kalaiarasi@schools.gov.sg)  | [Nur Ashikin Bte Tahir (Ms)](mailto:nur_ashikin_tahir@schools.gov.sg)  |   |
+| 5 Charity  | [Noraini Bte Mohd Bolhim (Mdm)](mailto:noraini_mohd_bolhim@schools.gov.sg)  | [Andrew Koh (Mr)](mailto:koh_choon_huat@schools.gov.sg)  |   |
+| 5 Diligence  | [Camelia Ortega (Ms)](mailto:camelia_ortega@schools.gov.sg)  |   [Chan Mei Teng (Mdm)](mailto:chan_mei_teng@schools.gov.sg)|   |
+| 5 Empathy  | [Wong Sau Yin Cindy (Mdm)](mailto:wong_sau_yin_cindy@schools.gov.sg)  | [Kumuda Vijay (Mrs)](mailto:Kumuda_Kaliyaperumal@schools.gov.sg)  |   |
+| 5 Faith  |  [Jasmine Eng Huiling (Ms)](mailto:eng_huiling_jasmine@schools.gov.sg) | [Lee Kai (Mdm)](mailto:lee_kai@schools.gov.sg)  |   |
 |   |   |   |   |
 
 #### Primary 6
