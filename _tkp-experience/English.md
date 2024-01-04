@@ -10,7 +10,7 @@ variant: markdown
 
 #### Level Head:  
 
-**Mdm Sophia Lo Sing Hui **
+Mdm Sophia Lo Sing Hui 
 
 
 #### Department Vision
