@@ -192,13 +192,13 @@ variant: markdown
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
-| 6 Altruism  | [Jasmine Eng Huiling (Miss)](mailto:eng_huiling_jasmine@schools.gov.sg)  | [Shen Baiyue (Mr)](mailto:shen_baiyue@schools.gov.sg)  |   |
-| 6 Benevolence  | [Nur Ashikin Bte Tahir (Ms)](mailto:nur_ashikin_tahir@moe.edu.sg)  | [Sundram Letchemee (Mr)](mailto:sundram_letchemee@schools.gov.sg)  |   |
-| 6 Charity  | [Noraini Bte Mohd Bolhim (Mdm)](mailto:noraini_mohd_bolhim@schools.gov.sg)  | [Law Kim Hwee (Miss)](mailto:law_kim_hwee@schools.gov.sg)  |   |
-| 6 Diligence  |[Arlinah Arsad (Mdm)](mailto:arlinah_arsad@moe.edu.sg)   | [Yeo Li Ling (Mrs)](mailto:phang_li_ling@schools.gov.sg)  |   |
-| 6 Empathy  | [Camelia Ortega (Miss)](mailto:camelia_ortega@schools.gov.sg)  | [Andrew Koh (Mr)](mailto:koh_choon_huat@schools.gov.sg)  |   |
-| 6 Faith  | [Isliana Bte Mohamed (Mdm)](mailto:isliana_mohamad@schools.gov,sg)  | [Anissa Ferdaus Bte Md Salleh (Mdm)](mailto:anissa_ferdaus_md_salleh@schools.gov.sg)  |   |
-| 6 Grace  | [Tang Shu Fang (Mrs)](mailto:song_shu_fang@schools.gov.sg)  | [Lee Kai (Mdm)](mailto:lee_kai@schools.gov.sg)  |   |
+| 6 Altruism  | [Anjana (Ms)](mailto:anjana_a@schools.gov.sg)  | [Mohamed Ashiq Mohamed Hashim (Mr)](mailto:mohamed_ashiq_mohamed_hashim@schools.gov.sg)  |   |
+| 6 Benevolence  | [Gurmit Singh Nee Gurcharan K (Mrs)](mailto:gurcharan_k@schools.gov.sg)  | [Yeo Li Ling (Mrs)](mailto:phang_li_ling@schools.gov.sg)  |   |
+| 6 Charity  | [Drusilla Quek Jia Yin (Ms)](mailto:drusilla_quek_jia_yin@schools.gov.sg)  | [Lim Pei Yee (Mdm)](mailto:lim_pei_yee@schools.gov.sg)  |   |
+| 6 Diligence  |[Chiah Soo Ting (Mdm)](mailto:chiah_soo_ting@schools.gov.sg)   | [Tan Boon Tiong (Mr)](mailto:tan_boon_tiong@schools.gov.sg)  |   |
+| 6 Empathy  | [Serene Poh (Mrs)](mailto:poh_yan_ni_serene@schools.gov.sg)  | [Nurhanin Bte Abdul Hamid (Mdm)](mailto:nurhanin_abdul_hamid@schools.gov.sg)  |   |
+| 6 Faith  | [Nur Hafizah Bte Abdul Manan (Mdm)](mailto:nur_hafizah_abdul_manan@schools.gov.sg)  | [Eliza Ee (Mrs)](mailto:eliza_lokadjaja@schools.gov.sg)  |   |
+| 6 Grace  | [Anissa Ferdaus Bte Md Salleh (Mdm)](mailto:anissa_ferdaus_md_salleh@schools.gov.sg)  | [Hoon Thing Ming (Mr)](mailto:hoon_thing_ming@schools.gov.sg)  |   |
 |   |   |   |   |
 
 #### Mother Tongue Teachers
