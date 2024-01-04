@@ -77,8 +77,8 @@ variant: markdown
     <td class="tg-kmsb">Year Head, Upper Primary (P5 &amp; P6)<br></td>
   </tr>
   <tr>
-    <td class="tg-0qnb"><a href="mailto:kwek_yee_ping@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Melody Leong (Mrs)</span></a><br></td>
-    <td class="tg-kmsb">Year Head, Middle Primary (P3 &amp; P4)<br></td>
+    <td class="tg-0qnb"><a href="mailto:aslinda_hamid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Aslinda Bte Hamid (Mdm)</span></a><br></td>
+    <td class="tg-kmsb">Assistant Year Head, Middle Primary (P3 &amp; P4)<br></td>
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:koh_puai_boon_danny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Danny Koh (Mr)</span></a><br></td>
@@ -90,7 +90,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:su_tze-han@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Su Tze Han (Mdm)</span></a><br></td>
-    <td class="tg-cy91">Subject Head, Chinese Language<br></td>
+    <td class="tg-cy91">Level Head, Chinese Language<br></td>
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:arlinah_arsad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Arlinah Arsad (Mdm)</span></a><br></td>
@@ -111,6 +111,10 @@ variant: markdown
   <tr>
     <td class="tg-0qnb"><a href="mailto:hoon_thing_ming@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Hoon Thing Ming (Mr)</span></a><br></td>
     <td class="tg-kmsb">Subject Head, Science<br></td>
+  </tr>
+	<tr>
+    <td class="tg-0qnb"><a href="mailto:lo_sing_hui_sophia@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Sophia Lo Sing Hui (Mdm)</span></a><br></td>
+    <td class="tg-kmsb">Level Head, English Language<br></td>
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:ong_kong_seong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Ong Kong Seong (Mr)</span></a><br></td>
@@ -216,18 +220,20 @@ variant: markdown
 | [Ng Li Hoon (Miss)](mailto:ng_li_hoon@schools.gov.sg)  |   |   |
 | [Tan Mei Leng (Mdm)](mailto:tan_mei_leng@schools.gov.sg)  |   |   |
 | [Ho Siew Min (Mdm)](mailto:ho_siew_min@schools.gov.sg)  |   |   |
-| [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)  |   |   | |   |   |   |   |
+| [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)
+[Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg)  |   
+[Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)|   | |   |   |   |   |
 |   |   |   |
 
 #### Non-Form Teachers&nbsp;
 
 |   |   |   |
 |:-:|---|---|
-| [Pamela Oon (Mrs)](mailto:Pamela_Oon@schools.gov.sg)  | [Jennifer Tee Qirong (Mdm)](mailto:tee_qirong_jennifer@schools.gov.sg)  |  [Toh Kah Lok (Mr)](mailto:Toh_Kah_Lok_A@schools.gov.sg) |
-|[Estelle Tan Jia Ying (Miss)](mailto:Tan_Jia_Ying_Estelle@schools.gov.sg)   | [Goh Chih Yi Aileen (Ms)](mailto:Goh_Chih_Yi_Aileen@schools.gov.sg)  |[Chua Suia Nee Sherry (Ms)](mailto:Chua_Suia_Nee@schools.gov.sg)   |
-|  [Lim Poh Heng Rhoda (Mrs)](mailto:kua_rhoda@schools.gov.sg) | [Ho Chin Wern Heather (Ms)](mailto:Ho_Chin_Wern_Heather@schools.gov.sg)  | [Wong Sau Yin Cindy (Mdm)](mailto:wong_sau_yin_cindy@schools.gov.sg)  |
-|  [Poh Wee Hoon (Mdm)](mailto:Poh_Wee_Hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) | [Selvi d/o Goval (Mdm)](mailto:Selvi_Goval@schools.gov.sg)  |
-| [Norjanah Bte Mohamed Yusope (Ms)](mailto:Norjanah_M_Yusope@schools.gov.sg)  |  Wu Chin Min (Mdm) |   |
+| [Pamela Oon (Mrs)](mailto:Pamela_Oon@schools.gov.sg)  | [Jennifer Tee Qirong (Mdm)](mailto:tee_qirong_jennifer@schools.gov.sg)  |  [Selvi D/O Goval (Mdm)](mailto:selvi_goval@moe.edu.sg) |
+|[Dazzalyn De Cruz (Ms)](mailto:dazzalyn_decruz@schools.gov.sg)   | [Goh Chih Yi Aileen (Ms)](mailto:Goh_Chih_Yi_Aileen@schools.gov.sg)  |[Chua Suia Nee Sherry (Ms)](mailto:Chua_Suia_Nee@schools.gov.sg)   |
+|  [Lim Poh Heng Rhoda (Mrs)](mailto:kua_rhoda@schools.gov.sg) | [Ho Chin Wern Heather (Ms)](mailto:Ho_Chin_Wern_Heather@schools.gov.sg)  | [Shainaz Banu (Ms)](mailto:shainaz_banu@moe.edu.sg)  |
+|  [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) | [Selvi d/o Goval (Mdm)](mailto:Selvi_Goval@schools.gov.sg)
+[Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)| |   |
 |   |   |   |
 
 #### Allied Educators
