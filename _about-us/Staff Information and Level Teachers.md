@@ -143,13 +143,13 @@ variant: markdown
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
-| 2 Altruism  | [Khan Chee Yee (Miss)](mailto:khan_chen_yee@schools.gov.sg)  | [Jimmy Tan (Mr)](mailto:tan_tick_khin_jimmy@schools.gov.sg)  |   |
-| 2 Benevolence  | [Noormala Bte Ahmat (Mdm)](mailto:noormala_ahmat@schools.gov.sg)]  | [Rae Wong (Ms)](mailto:wong_pih_may@schools.gov.sg)  |   |
-| 2 Charity  | [Jasmine Soo Aili (Mdm)](mailto:soo_aili_jasmine@schools.gov.sg)  | [Aishah Binte Sidik (Miss)](mailto:aishah_sidik@schools.gov.sg)  |   |
-| 2 Diligence  | [Carolyn De Souza (Mdm)](mailto:de_souza_carolyn_june@schools.gov.sg)  |  [Tan Mei Leng (Mdm)](mailto:tan_mei_leng@schools.gov.sg) |   |
-| 2 Empathy  | [Rohaya Bte Mohamad (Mdm)](mailto:rohaya_mohamad@schools.gov.sg)  | [Meng Yuqi (Miss)](mailto:meng_yuqi@schools.gov.sg)  |   |
-| 2 Faith  | [Seah Wen Hui (Miss)](mailto:seah_wen_hui@schools.gov.sg)  | [Gail Li Ming Ai (Mdm)](mailto:gail_li_ming_ai@schools.gov.sg)  |   |
-| 2 Grace  | [Lee Ruo Xin (Mrs)](mailto:lim_ruo_xin@schools.gov.sg)  | [Su Tze Han (Mdm)](mailto:su_tze-han@schools.gov.sg)  |   |
+| 2 Altruism  | [Elizabeth Yeow (Mrs)](mailto:elizabeth_chin_si_min@schools.gov.sg)  | [Goh Ying Shan (Mdm)](mailto:goh_ying_shan@schools.gov.sg)  |   |
+| 2 Benevolence  | [Deborah Tan (Mrs)](mailto:ng_gek_ean@schools.gov.sg)]  | [Nuraishah Mahmood (Ms)](mailto:nuraishah_mahmood@schools.gov.sg)  |   |
+| 2 Charity  | [Weng Siying (Ms)](mailto:Weng_SIYING@schools.gov.sg)  | [Amalina Mardhiah Bte Nasarudin (Mdm)](mailto:amalina_mardhiah_nasarudin@schools.gov.sg)  |   |
+| 2 Diligence  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |  [Seah Wen Hui (Ms)](mailto:seah_wen_hui@schools.gov.sg) |   |
+| 2 Empathy  | [Mahendran Rudrarani (Ms)](mailto:mahendran_rudrarani@schools.gov.sg)  | [Danny Koh (Mr)](mailto:koh_puai_boon_danny@schools.gov.sg)  |   |
+| 2 Faith  | [Jerald Wong (Mr)](mailto:jerald_wong@schools.gov.sg)  | [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)  |   |
+| 2 Grace  | [Sim Wei Sheng (Mr)](mailto:sim_wei_sheng@schools.gov.sg)  | [Magayshvari D/O Krishnasamy (Mdm)](mailto:magayshvari_krishnasamy@schools.gov.sg)  |   |
 |   |   |   |   |
 
 #### Primary 3
