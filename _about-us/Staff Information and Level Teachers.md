@@ -168,12 +168,12 @@ variant: markdown
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
-| 4 Altruism  | [Farah Binte Abdul Malik (Mdm)](mailto:farah_abd_malik@schools.gov.sg)  | [Serene Ng (Miss)](mailto:serene_a_ng@schools.gov.sg)  |   |
-| 4 Benevolence  |  [Aslinda Bte Hamid (Mdm)](mailto:aslinda_hamid@schools.gov.sg) | [Rachel Wang (Ms)](mailto:Rachel_Wang_Yun@schools.gov.sg)  |   |
-| 4 Charity  | [Chan Mei Teng (Mdm)](mailto:chan_mei_teng@schools.gov.sg)  | [Ho Siew Min (Mdm)](mailto:ho_siew_min@schools.gov.sg)  |   |
-| 4 Diligence  | [Sophia Lo Sing Hui (Mdm)](mailto:lo_sing_hui_sophia@schools.gov.sg)  |   |   |
-| 4 Empathy  | [Mastura Ahmad (Mdm)](mailto:mastura_ahmad_b@schools.gov.sg)  | [Tan Boon Tiong (Mr)](mailto:tan_boon_tiong@schools.gov.sg)  |   |
-| 4 Faith  | [Serene Soh (Ms)](mailto:soh_shini_serene@schools.gov.sg)  | [Aisyah Abu Bakar&nbsp;(Mdm)](mailto:aisyah_abu_bakar@moe.edu.sg)  |   |
+| 4 Altruism  | [Farhana Abdul Aziz (Mdm)](mailto:farhana_abdul_aziz@schools.gov.sg)  | [Melody Leong (Mrs)](mailto:kwek_yee_ping@schools.gov.sg)  |   |
+| 4 Benevolence  |  [Serene Soh (Ms)](mailto:soh_shini_serene@schools.gov.sg) | [Meng Yuqi (Ms)](mailto:meng_yuqi@schools.gov.sg)  |   |
+| 4 Charity  | [Chin Ying Xin (Ms)](mailto:chin_ying_xin@schools.gov.sg)  | [Karen Ong (Ms)](mailto:lim_chew_kuat@schools.gov.sg)  |   |
+| 4 Diligence  | [Kristel Seet (Ms)](mailto:kristel_seet@schools.gov.sg)  |  [Aileen Tam (Ms)](mailto:tam_aileen@moe.edu.sg) |   |
+| 4 Empathy  | [Sophia Lo Sing Hui (Mdm)](mailto:lo_sing_hui_sophia@schools.gov.sg)  | [Laila Sari Arifin (Mdm)](mailto:laila_sari_arifin@schools.gov.sg)  |   |
+| 4 Faith  | [Suhaili Bte Nasir (Ms)](mailto:suhaili_nasir@schools.gov.sg)  | [Faizal Bin Mak Said Muhammad;(Mr)](mailto:muhammad_faizal_mak_said@schools.gov.sg)  |   |
 |   |   |   |   |
 
 #### Primary 5
