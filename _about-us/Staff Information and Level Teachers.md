@@ -156,12 +156,12 @@ variant: markdown
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
-| 3 Altruism  | [Farhana Abdul Aziz (Mdm)](mailto:farhana_abdul_aziz@schools.gov.sg)  | [Melody Leong (Mrs)](mailto:kwek_yee_ping@schools.gov.sg)  |   |
-| 3 Benevolence  | [Hema Devi Utrakumaran (Ms)](mailto:hema_devi_utrakumaran@schools.gov.sg)  | [Huang Cong (Mdm)](mailto:huang_cong@schools.gov.sg)  |   |
-| 3 Charity  | [Chin Ying Xin (Ms)](mailto:chin_ying_xin@schools.gov.sg)  | [Karen Ong (Ms)](mailto:lim_chew_kuat@schools.gov.sg)  |   |
-| 3 Diligence  | [Kristel Seet (Miss)](mailto:kristel_seet@schools.gov.sg)  | [Aileen Tam (Ms)](mailto:tam_aileen@moe.edu.sg)  |   |
-| 3 Empathy  |[Farhana Bte Osman (Mdm)](mailto:farhana_osman@schools.gov.sg)   | [Lim Pei Yee (Ms)](mailto:lim_pei_yee@schools.gov.sg)  |  [Tan Peining (Ms)](mailto:tan_peining@schools.gov.sg) |
-|  3 Faith | [Suhaili Bte Nasir (Miss)](mailto:suhaili_nasir@schools.gov.sg)  | [Magayshvari D/O Krishnasamy (Mdm)](mailto:magayshvari_krishnasamy@schools.gov.sg)  |   |
+| 3 Altruism  | [Farah Binte Abdul Malik (Mdm)](mailto:farah_abd_malik@schools.gov.sg)  | [Piragatheeswari   Sigamani (Mdm)](mailto:piragatheeswari_sigamani@schools.gov.sg)  |   |
+| 3 Benevolence  | [Aslinda Bte Hamid (Mdm)](mailto:aslinda_hamid@schools.gov.sg)  | [Halimah Lin (Mdm)](mailto:halimah_lin_ami@schools.gov.sg)  |   |
+| 3 Charity  | [Tang Shu Fang (Mrs)](mailto:song_shu_fang@schools.gov.sg)  | [Serene Ng (Ms)](mailto:serene_a_ng@schools.gov.sg)  |   |
+| 3 Diligence  | [Isliana Bte Mohamed (Mdm)](mailto:isliana_mohamad@schools.gov.sg)  )  | [Rachel Wang (Ms)](mailto:Rachel_Wang_Yun@schools.gov.sg)  |   |
+| 3 Empathy  |[Masturah Bte Ahmad (Mdm)](mailto:mastura_ahmad_b@schools.gov.sg)   | [Law Kim Hwee (Ms)](mailto:law_kim_hwee@schools.gov.sg)  | 
+|  3 Faith | [Shirlene Liew (Mrs)](mailto:Yeo_Shirlene@schools.gov.sg)  | [Aisyah Abu Bakar (Mdm)](mailto:aisyah_abu_bakar@schools.gov.sg)  |   |
 |   |   |   |   |
 
 #### Primary 4
