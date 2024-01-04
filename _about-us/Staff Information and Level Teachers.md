@@ -2,6 +2,7 @@
 title: Staff Information and Level Teachers
 permalink: /about-us/staff-information-level-teachers/
 description: ""
+variant: markdown
 ---
 #### School Management Committee
 
@@ -88,7 +89,7 @@ description: ""
     <td class="tg-cy91">Level Head, Mathematics<br></td>
   </tr>
   <tr>
-    <td class="tg-0qnb"><a href="mailto:ho_siew_min@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Ho Siew Min (Mdm)</span></a><br></td>
+    <td class="tg-0qnb"><a href="mailto:su_tze-han@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Su Tze Han (Mdm)</span></a><br></td>
     <td class="tg-cy91">Subject Head, Chinese Language<br></td>
   </tr>
   <tr>
@@ -119,10 +120,6 @@ description: ""
     <td class="tg-0qnb"><a href="mailto:roslan_mohamed_pawi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Roslan Bin Mohamed Pawi (Mr)</span></a><br></td>
     <td class="tg-cy91">Operations Manager<br></td>
   </tr>
-  <tr>
-    <td class="tg-0qnb"><a href="mailto:ting_koh_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Colin Ting Koh Ling (Mr)</span></a><br></td>
-    <td class="tg-cy91">Operations Manager</td>
-  </tr>
 </tbody>
 </table>
   
@@ -133,13 +130,13 @@ description: ""
 
 | **Class**  | **Form Teachers**  |   |   |
 |:-:|---|---|---|
-| 1 Altruism  | [Elizabeth Yeow (Mrs)](mailto:elizabeth_chin_si_min@schools.gov.sg)  | [Goh Ying Shan (Mdm)](mailto:goh_ying_shan@schools.gov.sg)  | [Tan Yi Yun Florence (Ms)](mailto:Tan_Yi_Yun_Florence@schools.gov.sg)  |
-| 1 Benevolence  | [Deborah Tan (Mrs)](mailto:ng_gek_ean@schools.gov.sg)  | [Nuraishah Mahmood (Ms)](mailto:nuraishah_mahmood@schools.gov.sg)  |   |
-| 1 Charity  | [Weng Si Ying (Miss)](mailto:Weng_SIYING@schools.gov.sg)  |  [Amalina Mardhiah Bte Nasarudin (Mdm)](mailto:amalina_mardhiah_nasarudin@schools.gov.sg) |   |
-| 1 Diligence  | [Nur Sabrina Binte Harun (Mdm)](mailto:nur_sabrina_harun@schools.gov.sg)  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |   |
-| 1 Empathy  | [Mahendran Rudrarani (Ms)](mailto:mahendran_rudrarani@schools.gov.sg)  | [Danny Koh (Mr)](mailto:koh_puai_boon_danny@schools.gov.sg)  |   |
-| 1 Faith  | [Jerald Wong (Mr)](mailto:jerald_wong@schools.gov.sg)  | [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)  |   |
-| 1 Grace  | [Sim Wei Sheng (Mr)](mailto:sim_wei_sheng@schools.gov.sg)  | [Tiffany Tan Huan Xuan (Mdm)](mailto:tan_huan_xuan_tiffany@schools.gov.sg)  |   |
+| 1 Altruism  | [Jasmine Soo Aili (Mdm)](mailto:soo_aili_jasmine@schools.gov.sg)  | [Tan Mei Leng (Mdm)](mailto:tan_mei_leng@schools.gov.sg)  | 
+| 1 Benevolence  | [Noormala Bte Ahmat (Mdm)](mailto:noormala_ahmat@schools.gov.sg)  | [Rae Wong (Ms)](mailto:mailto:wong_pih_may@schools.gov.sg)  |   |
+| 1 Charity  | [Jennifer Tee Qirong (Mdm)](mailto:tee_qirong_jennifer@schools.gov.sg)  |  [Tan Peining (Ms)](mailto:tan_peining@schools.gov.sg) |   |
+| 1 Diligence  | [Khan Chen Yee (Ms)](mailto:khan_chen_yee@schools.gov.sg)  | [Huang Cong (Mdm)](mailto:huang_cong@schools.gov.sg)  |   |
+| 1 Empathy  | [Carolyn De Souza (Mdm)](mailto:de_souza_carolyn_june@schools.gov.sg)  | [Su Tze Han (Mdm)](mailto:su_tze-han@schools.gov.sg)  |   |
+| 1 Faith  | [Joyce Chui (Ms)](mailto:chui_jia_hui_joyce@moe.edu.sg)  | [Gail Li Ming Ai (Mdm)](mailto:gail_li_ming_ai@schools.gov.sg)  |   |
+| 1 Grace  | [Lee Ruo Xin (Mrs)](mailto:lim_ruo_xin@schools.gov.sg)  | [Tiffany Tan Huan Xuan (Mdm)](mailto:tan_huan_xuan_tiffany@schools.gov.sg)  |   |
 |   |   |   |   |
 
 #### Primary 2
