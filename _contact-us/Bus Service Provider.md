@@ -2,16 +2,18 @@
 title: Bus Service Provider
 permalink: /contact-us/bus-service-provider/
 description: ""
+variant: markdown
 ---
-#### Comfort Bus Pte Ltd
+#### Tong Tar Transport Service Pte Ltd
 
-Website: [http://www.comfortdelgrobus.com.sg/](http://www.comfortdelgrobus.com.sg/)  
+Website: https://www.tongtar.com
 
-  
+Click [here](https://www.tongtar.com/school-bus-registration/tanjong-katong/) for School Bus Application Form.
 
-Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=pnkm9eBEWE-tpUHsRpar7sDDPGupczxBshqarBlPt5tUQ1VJQTZVTlRQNk4xQldRRFVDTk9KRU9UNy4u) for School Bus Application Form.
 
-  
+Telephone: 62615537
 
-Telephone: 6553 3838<br>
-Fax: 6456 0922
+Fax: 62686620
+
+Email: transport@tongtar.com
+
