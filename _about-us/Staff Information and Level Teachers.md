@@ -122,8 +122,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:roslan_mohamed_pawi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Roslan Bin Mohamed Pawi (Mr)</span></a><br></td>
-    <td class="tg-cy91">Operations Manager<br></td>
+		  <td class="tg-kmsb">Operations Manager<br></td>
+   </tr><tr>
+    <td class="tg-0qnb"><a href="mailto:tho_yong_huat@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Tho Yong Huat (Mr)</span></a><br></td>
+    <td class="tg-kmsb">Operations Manager<br></td>
   </tr>
+  
+  
 </tbody>
 </table>
   

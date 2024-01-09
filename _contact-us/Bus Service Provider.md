@@ -16,4 +16,3 @@ Telephone: 62615537
 Fax: 62686620
 
 Email: transport@tongtar.com
-
