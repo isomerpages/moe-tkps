@@ -249,6 +249,5 @@ variant: markdown
 | [Nur Elviana Binte Mohamed Salleh (Mdm)](mailto:nur_elviana_mohamed_salleh@schools.gov.sg)&nbsp;(School Counsellor)  |
 | [Lee Yen Ping Evelyn (Ms)](mailto:Lee_Yen_Ping_Evelyn@schools.gov.sg)&nbsp;(SEN Officer)  |
 | [Saleha Abu Hassan (Mdm)](mailto:saleha_abu_hassan@schools.gov.sg)&nbsp;(SEN Officer)  |
-| [Wasylah Binte Saud Marie (Ms)](mailto:wasylah_saud_marie@schools.gov.sg)&nbsp;(SEN Officer)  |
-| [Tan Sock Cheng (Mrs)](mailto:tan_sock_cheng@schools.gov.sg)&nbsp;(Teaching and Learning)  |
+| [Wasylah Binte Saud Marie (Ms)](mailto:wasylah_saud_marie@schools.gov.sg)&nbsp;(SEN Officer)  
 |   |
