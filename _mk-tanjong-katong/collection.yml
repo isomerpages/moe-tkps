@@ -1,4 +1,5 @@
 collections:
   mk-tanjong-katong:
     output: true
-    order: []
+    order:
+      - MK@Tanjong Katong.md
