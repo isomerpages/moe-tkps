@@ -2,4 +2,5 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
+      - MK Staff Information.md
       - MK@Tanjong Katong.md
