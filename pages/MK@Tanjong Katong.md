@@ -4,50 +4,6 @@ permalink: /mk-at-tanjong-katong/
 description: ""
 variant: markdown
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Family Handbook [Family Handbook]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Click on the link below the MK logo to access MOE Kindergarten’s website.
 
 ![](/images/MOE%20Kindergarten.jpeg)
