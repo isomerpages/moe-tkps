@@ -1,0 +1,7 @@
+collections:
+  mk-tanjong-katong:
+    output: true
+    order:
+      - MK Staff Information.md
+      - MK Uniform.md
+      - Family Handbook.md
