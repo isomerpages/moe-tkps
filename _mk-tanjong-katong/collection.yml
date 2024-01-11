@@ -2,7 +2,6 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
-      - MK@Tanjong Katong.md
       - MK Staff Information.md
       - Family Handbook.md
       - MK Uniform.md
