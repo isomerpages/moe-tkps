@@ -1,6 +1,6 @@
 ---
 title: MK Uniform
-permalink: /mk-tanjong-katong/permalink/
+permalink: /mk-tanjong-katong/permalink/mkuniform/
 variant: tiptap
 description: ""
 ---

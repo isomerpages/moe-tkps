@@ -1,6 +1,6 @@
 ---
 title: Family Handbook
-permalink: /mk-tanjong-katong/permalink/
+permalink: /mk-tanjong-katong/permalink/familyhandbook/
 variant: tiptap
 description: ""
 ---

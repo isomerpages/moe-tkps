@@ -1,6 +1,6 @@
 ---
 title: MK Staff Information
-permalink: /mk-tanjong-katong/permalink/
+permalink: /mk-tanjong-katong/permalink/mkstaffinformation/
 variant: tiptap
 description: ""
 ---

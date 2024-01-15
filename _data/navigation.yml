@@ -6,9 +6,7 @@ links:
     collection: tkp-experience
   - title: Key Programmes
     collection: key-programmes
-  - title: MK@Tanjong Katong
-    url: /mk-tanjong-katong/permalink/
   - title: Contact Us
     collection: contact-us
-  - title: Staff Information
-    url: /permalink
+  - title: MK@Tanjong Katong
+    collection: mk-tanjong-katong
