@@ -227,7 +227,7 @@ variant: markdown
 | [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)
 [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg)  |   
 [Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)|   | |   |   |   |   |
-|[Zhang Ying (Ms)](Zhang_Ying_B@schools.gov.sg)   |   |   |
+|[Zhang Ying (Ms)](mailto:Zhang_Ying_B@schools.gov.sg)   |   |   |
 
 #### Non-Form Teachers&nbsp;
 
@@ -237,7 +237,7 @@ variant: markdown
 |[Dazzalyn De Cruz (Ms)](mailto:dazzalyn_decruz@schools.gov.sg)   | [Goh Chih Yi Aileen (Ms)](mailto:Goh_Chih_Yi_Aileen@schools.gov.sg)  |[Chua Suia Nee Sherry (Ms)](mailto:Chua_Suia_Nee@schools.gov.sg)   |
 |  [Lim Poh Heng Rhoda (Mrs)](mailto:kua_rhoda@schools.gov.sg) | [Ho Chin Wern Heather (Ms)](mailto:Ho_Chin_Wern_Heather@schools.gov.sg)  | [Shainaz Banu (Ms)](mailto:shainaz_banu@moe.edu.sg)  |
 |  [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) | [Selvi d/o Goval (Mdm)](mailto:Selvi_Goval@schools.gov.sg)
-[Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)|[Zhang Ying (Ms)](Zhang_Ying_B@schools.gov.sg)|   |
+[Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)|[Zhang Ying (Ms)](mailto:Zhang_Ying_B@schools.gov.sg)|   |
 |   |   |   |
 
 #### Allied Educators
