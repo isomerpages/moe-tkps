@@ -244,10 +244,15 @@ variant: markdown
 
 |   |
 |:-:|
-| [Lim Shi Kai (Mr)](mailto:lim_shi_kai@schools.gov.sg)&nbsp;(School Counsellor)  |
-| [Nur Elviana Binte Mohamed Salleh (Mdm)](mailto:nur_elviana_mohamed_salleh@schools.gov.sg)&nbsp;(School Counsellor)  |
-| [Lee Yen Ping Evelyn (Ms)](mailto:Lee_Yen_Ping_Evelyn@schools.gov.sg)&nbsp;(SEN Officer)  |
-[Nur Amirah Binte Mohammad Noor (Ms)](nur_amirah_mohammad_noor@schools.gov.sg) (SEN Officer)
-| [Saleha Abu Hassan (Mdm)](mailto:saleha_abu_hassan@schools.gov.sg)&nbsp;(SEN Officer)  |
-| [Wasylah Binte Saud Marie (Ms)](mailto:wasylah_saud_marie@schools.gov.sg)&nbsp;(SEN Officer)  
-|   |
+| [Lim Shi Kai (Mr)](mailto:lim_shi_kai@schools.gov.sg)&nbsp;
+(School Counsellor)  |
+| [Nur Elviana Binte Mohamed Salleh (Mdm)](mailto:nur_elviana_mohamed_salleh@schools.gov.sg)&nbsp;
+(School Counsellor)  |
+| [Lee Yen Ping Evelyn (Ms)](mailto:Lee_Yen_Ping_Evelyn@schools.gov.sg)&nbsp;
+(SEN Officer)  |
+[Nur Amirah Binte Mohammad Noor (Ms)](nur_amirah_mohammad_noor@schools.gov.sg) 
+(SEN Officer)
+| [Saleha Abu Hassan (Mdm)](mailto:saleha_abu_hassan@schools.gov.sg)&nbsp;
+(SEN Officer)  |
+| [Wasylah Binte Saud Marie (Ms)](mailto:wasylah_saud_marie@schools.gov.sg)&nbsp;
+(SEN Officer)  
