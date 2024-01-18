@@ -2,11 +2,11 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
-      - Contact Us.md
-      - Withdrawal Form.md
-      - Waitlist Application.md
       - MK Curriculum.md
       - Uniform Matters.md
       - Learning Environment.md
       - Family Handbook.md
+      - Withdrawal Form.md
+      - Waitlist Application.md
+      - Contact Us.md
       - MK Staff Information.md
