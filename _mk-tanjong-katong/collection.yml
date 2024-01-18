@@ -2,6 +2,7 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
+      - MK Curriculum.md
       - Learning Environment.md
       - MK Staff Information.md
       - Uniform Matters.md
