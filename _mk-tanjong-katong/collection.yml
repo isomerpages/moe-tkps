@@ -2,6 +2,7 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
+      - Contact Us.md
       - Withdrawal Form.md
       - Waitlist Application.md
       - MK Curriculum.md
