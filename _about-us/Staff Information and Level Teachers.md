@@ -222,13 +222,12 @@ variant: markdown
 | [Lim Pei Yee (Mdm)](mailto:lim_pei_yee@schools.gov.sg)  | [Nur Ashikin Bte Tahir (Miss)](mailto:nur_ashikin_tahir@schools.gov.sg)  |   |
 | [Law Kim Hwee (Miss)](mailto:law_kim_hwee@schools.gov.sg)  |   |   |
 |[Meng Yuqi (Miss)](mailto:meng_yuqi@schools.gov.sg)   |   |   |
-| [Ng Li Hoon (Miss)](mailto:ng_li_hoon@schools.gov.sg)  |   |   |
-| [Tan Mei Leng (Mdm)](mailto:tan_mei_leng@schools.gov.sg)  |   |   |
+|[Tan Mei Leng (Mdm)](mailto:tan_mei_leng@schools.gov.sg)  |   |   |
 | [Ho Siew Min (Mdm)](mailto:ho_siew_min@schools.gov.sg)  |   |   |
 | [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)
 [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg)  |   
 [Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)|   | |   |   |   |   |
-|   |   |   |
+|Zhang Ying (Ms)   |   |   |
 
 #### Non-Form Teachers&nbsp;
 
@@ -238,7 +237,7 @@ variant: markdown
 |[Dazzalyn De Cruz (Ms)](mailto:dazzalyn_decruz@schools.gov.sg)   | [Goh Chih Yi Aileen (Ms)](mailto:Goh_Chih_Yi_Aileen@schools.gov.sg)  |[Chua Suia Nee Sherry (Ms)](mailto:Chua_Suia_Nee@schools.gov.sg)   |
 |  [Lim Poh Heng Rhoda (Mrs)](mailto:kua_rhoda@schools.gov.sg) | [Ho Chin Wern Heather (Ms)](mailto:Ho_Chin_Wern_Heather@schools.gov.sg)  | [Shainaz Banu (Ms)](mailto:shainaz_banu@moe.edu.sg)  |
 |  [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) | [Selvi d/o Goval (Mdm)](mailto:Selvi_Goval@schools.gov.sg)
-[Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)| |   |
+[Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)|Zhang Ying (Ms) |   |
 |   |   |   |
 
 #### Allied Educators
@@ -248,6 +247,7 @@ variant: markdown
 | [Lim Shi Kai (Mr)](mailto:lim_shi_kai@schools.gov.sg)&nbsp;(School Counsellor)  |
 | [Nur Elviana Binte Mohamed Salleh (Mdm)](mailto:nur_elviana_mohamed_salleh@schools.gov.sg)&nbsp;(School Counsellor)  |
 | [Lee Yen Ping Evelyn (Ms)](mailto:Lee_Yen_Ping_Evelyn@schools.gov.sg)&nbsp;(SEN Officer)  |
+[Nur Amirah Binte Mohammad Noor (Ms)](nur_amirah_mohammad_noor@schools.gov.sg) (SEN Officer)
 | [Saleha Abu Hassan (Mdm)](mailto:saleha_abu_hassan@schools.gov.sg)&nbsp;(SEN Officer)  |
 | [Wasylah Binte Saud Marie (Ms)](mailto:wasylah_saud_marie@schools.gov.sg)&nbsp;(SEN Officer)  
 |   |
