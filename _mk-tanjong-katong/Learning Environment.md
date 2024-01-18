@@ -4,4 +4,4 @@ permalink: /mk-tanjong-katong/permalink/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>We are in the process of doing this short video clip and will pass over to you when we have completed it.</p>
