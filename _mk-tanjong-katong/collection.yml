@@ -2,6 +2,7 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
+      - Withdrawal Form.md
       - Waitlist Application.md
       - MK Curriculum.md
       - Uniform Matters.md
