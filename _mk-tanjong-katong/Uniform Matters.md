@@ -1,5 +1,5 @@
 ---
-title: MK Uniform
+title: Uniform Matters
 permalink: /mk-tanjong-katong/permalink/mkuniform/
 variant: tiptap
 description: ""
