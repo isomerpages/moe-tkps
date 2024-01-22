@@ -4,4 +4,4 @@ permalink: /mk-tanjong-katong/permalink/learningenvironment/
 variant: tiptap
 description: ""
 ---
-<p>We are in the process of doing this short video clip and will pass over to you when we have completed it.</p>
+<p>Work in Progress.</p>
