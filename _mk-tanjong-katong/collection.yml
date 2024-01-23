@@ -2,6 +2,7 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
+      - MK Openhouse 2024.md
       - MK Curriculum.md
       - Uniform Matters.md
       - Learning Environment.md
