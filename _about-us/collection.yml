@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School History.md
+      - Vision, Mission & Values.md
+      - School Song.md
+      - Staff Information and Level Teachers.md
+      - School Advisory Committee (SAC).md
+      - School Hours.md
+      - School Gate Opening Hours.md
+      - Achievements/2023.md
+      - Achievements/2022.md
+      - Achievements/.keep
+      - Achievements/Achievements.md
+      - Achievements/2021.md
+      - Achievements/2020.md
+      - Achievements/2019.md
+      - Achievements/2018.md

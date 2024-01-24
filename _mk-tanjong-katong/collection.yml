@@ -1,0 +1,13 @@
+collections:
+  mk-tanjong-katong:
+    output: true
+    order:
+      - MK Openhouse 2024.md
+      - MK Curriculum.md
+      - Uniform Matters.md
+      - Learning Environment.md
+      - Family Handbook.md
+      - Waitlist Application.md
+      - Withdrawal Form.md
+      - MK Staff Information.md
+      - Contact Us.md

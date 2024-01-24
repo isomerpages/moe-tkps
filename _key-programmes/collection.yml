@@ -1,0 +1,6 @@
+collections:
+  key-programmes:
+    output: true
+    order:
+      - Applied Learning Programme (ALP).md
+      - Lifelong Learning Programme.md

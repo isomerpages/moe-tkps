@@ -1,0 +1,12 @@
+logo: /images/tkps logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: TKP Experience
+    collection: tkp-experience
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Contact Us
+    collection: contact-us
+  - title: MK@Tanjong Katong
+    collection: mk-tanjong-katong
