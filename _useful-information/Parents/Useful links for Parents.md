@@ -19,17 +19,20 @@ variant: markdown
 
 **<u>2024 Parents Engagement Presentation Slides</u>**&nbsp;
 
-&nbsp;**P6 Webinar**&nbsp; &nbsp;&nbsp;  
-
+&nbsp;**P6 Webinar**&nbsp; &nbsp;&nbsp;   <br>
+[2024 Parent_Engagement_P6 Webinar_Final.pdf](/files/2024%20PE/2024_Parent_Engagement_Webinar_Final_Updated_30_Jan_2024_Updated_.pdf)
   
 
 &nbsp;**Level Presentations** &nbsp; &nbsp;&nbsp; <br>
+[2024_P1_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P1_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
+[2024_P2_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P2_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
+[2024_P3_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P3_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
+[2024_P4_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P4_2024_Parent_Engagement_Slides_Condesned_.pdf)<br>[2024_P5_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P5_2024_Parent_Engagement_Slides__Condensed_.pdf)<br>
+[2024_P6_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P6_2024_Parent_Engagement_Slides_Condensed_.pdf)
 
-[2022 P2 Parent Engagement Slides.pdf](/files/2022%20P2%20Parent%20Engagement%20Slides.pdf) <br>
-[2022 P3 Parent Engagement Slides.pdf](/files/2022%20P3%20Parent%20Engagement%20Slides.pdf) <br>
-&nbsp;[2022 P4 Parent Engagement Slides.pdf](/files/2022%20P4%20Parent%20Engagement%20Slides.pdf) <br>
-[2022 P5 Parent Engagement Slides.pdf](/files/2022%20P5%20Parent%20Engagement%20Slides.pdf) <br>
-[2022 P6 Parent Engagement Slides.pdf](/files/2022%20P6%20Parent%20Engagement%20Slides.pdf) 
+
+
+
 
   
 
@@ -40,24 +43,34 @@ variant: markdown
 [2024 P3_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P3_CL_Parent_Engagement_Slides.pdf)<br>
 [2024 P4_CL_Parent_Engagement_Slides.pdf  ](/files/2024%20PE/CL/2024_P4_CL_Parent_Engagement_Slides.pdf)<br>
 [2024 P5_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P5_CL_Parent_Engagement_Slides.pdf)<br>
-[2024 P6_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P6_CL_Parent_Engagement_Slides.pdf)
+[2024 P6_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P6_CL_Parent_Engagement_Slides.pdf)<br>
+
 
 
 
 
 
 &nbsp;**Malay Language** &nbsp;&nbsp; <br>
-[2024_P1_ML_Parents_Engagement](/files/2024%20PE/ML/2024_P1_ML_Parents_Engagement.pdf)<br>
-
-
+[2024_P1_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P1_ML_Parents_Engagement.pdf)<br>
+[2024_P2_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P2_ML_Parents_Engagement.pdf)
+<br>
+[2024_P3_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P3_ML_Parents_Engagement.pdf)
+<br>
+[2024_P4_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P4_ML_Parents_Engagement.pdf)
+<br>
+[2024_P5_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P5_ML_Parents_Engagement.pdf)
+<br>
+[2024_P6_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P6_ML_Parents_Engagement.pdf)
 
 &nbsp;**Tamil Language**  <br>
-[2022 P1 TL Parent Engagement.pdf](/files/2022%20P1%20TL%20Parent%20Engagement.pdf)<br>
-[2022 P2 TL Parent Engagement.pdf](/files/2022%20P2%20TL%20Parent%20Engagement.pdf)<br>
-[2022 P3 TL Parent Engagement.pdf](/files/2022%20P3%20TL%20Parent%20Engagement.pdf) <br>
-[2022 P4 TL Parent Engagement.pdf](/files/2022%20P4%20TL%20Parent%20Engagement.pdf) <br>
-[2022 P5 TL Parent Engagement.pdf](/files/2022%20P5%20TL%20Parent%20Engagement.pdf)  <br>
-[2022 P6 TL Parent Engagement.pdf](/files/2022%20P6%20TL%20Parent%20Engagement.pdf)
+[2024_P1_TL_Parent_Engagement_Slides.pdf](/files/2024%20PE/TL/2024_P1_TL_Parent_Engagement_Slides.pdf)<br>
+[2024_P2_TL_Parent_Engagement_Slides.pdf](/files/2024%20PE/TL/2024_P2_TL_Parent_Engagement_Slides.pdf)<br>
+[2024_P3_TL_Parent_Engagement_Slides.pdf](/files/2024%20PE/TL/2024_P3_TL_Parent_Engagement_Slides.pdf)<br>
+[2024_P4_TL_Parent_Engagement_Slides.pdf](/files/2024%20PE/TL/2024_P4_TL_Parent_Engagement_Slides.pdf)<br>
+[2024_P5_TL_Parent_Engagement_Slides.pdf](/files/2024%20PE/TL/2024_P5_TL_Parent_Engagement_Slides.pdf)<br>
+[2024_P6_TL_Parent_Engagement_Slides.pdf](/files/2024%20PE/TL/2024_P6_TL_Parent_Engagement_Slides.pdf)
+
+
 
 ## [Cyber-wellness for Parents](/useful-information/parents/useful-links-for-parents/cyber-wellness-for-parents/)
 
