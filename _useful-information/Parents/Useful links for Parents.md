@@ -38,6 +38,11 @@ variant: markdown
 [2024 P1_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P1_CL_Parent_Engagement_Slides.pdf)<br>
 [2024 P2_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P2_CL_Parent_Engagement_Slides.pdf)<br>
 [2024 P3_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P3_CL_Parent_Engagement_Slides.pdf)<br>
+[2024 P4_CL_Parent_Engagement_Slides.pdf  ](/files/2024%20PE/CL/2024_P4_CL_Parent_Engagement_Slides.pdf)<br>
+[2024 P5_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P5_CL_Parent_Engagement_Slides.pdf)<br>
+[2024 P6_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P6_CL_Parent_Engagement_Slides.pdf)
+
+
 
 
 
