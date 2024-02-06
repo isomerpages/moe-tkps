@@ -60,7 +60,9 @@ variant: markdown
 [2024_P6_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P6_ML_Parents_Engagement.pdf)
 
 &nbsp;**Tamil Language**  <br>
-[2024_P1_TL_Parent_Engagement_Slid.pdf](/files/2024%20PE/TL/2024_P1_TL_Parent_Engagement_Slides.pdf)
+[2024_P1_TL_Parent_Engagement_Slid.pdf](/files/2024%20PE/TL/2024_P1_TL_Parent_Engagement_Slides.pdf)<br>
+[2024_P2_TL_Parent_Engagement_Slides.pdf](/files/2024%20PE/TL/2024_P2_TL_Parent_Engagement_Slides.pdf)<br>
+
 
 ## [Cyber-wellness for Parents](/useful-information/parents/useful-links-for-parents/cyber-wellness-for-parents/)
 
