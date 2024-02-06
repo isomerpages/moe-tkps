@@ -40,11 +40,6 @@ variant: markdown
 [2024 P5_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P5_CL_Parent_Engagement_Slides.pdf)<br>
 [2024 P6_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P6_CL_Parent_Engagement_Slides.pdf)<br>
 
-
-
-
-
-
 &nbsp;**Malay Language** &nbsp;&nbsp; <br>
 [2024_P1_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P1_ML_Parents_Engagement.pdf)<br>
 [2024_P2_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P2_ML_Parents_Engagement.pdf)
