@@ -27,7 +27,8 @@ variant: markdown
 [P1_2024_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P1_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
 [P2_2024_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P2_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
 [P3_2024_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P3_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
-[P4_2024_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P4_2024_Parent_Engagement_Slides_Condesned_.pdf)<br>[P5_2024_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P5_2024_Parent_Engagement_Slides__Condensed_.pdf)
+[P4_2024_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P4_2024_Parent_Engagement_Slides_Condesned_.pdf)<br>[P5_2024_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P5_2024_Parent_Engagement_Slides__Condensed_.pdf)<br>
+[P6_2024_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P6_2024_Parent_Engagement_Slides_Condensed_.pdf)
 
 
 
