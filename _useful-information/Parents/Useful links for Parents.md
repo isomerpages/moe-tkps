@@ -18,21 +18,21 @@ variant: markdown
 
 **<u>2024 Parents Engagement Presentation Slides</u>**&nbsp;
 
-&nbsp;**P6 Webinar**&nbsp; &nbsp;&nbsp;   <br>
-[2024 Parent_Engagement_P6 Webinar_Final.pdf](/files/2024%20PE/2024_Parent_Engagement_Webinar_Final_Updated_30_Jan_2024_Updated_.pdf)
+&nbsp;**P6 Webinar Presentation**&nbsp; &nbsp;&nbsp;   <br>
+[2024 P6 Parent_Engagement Webinar_Final.pdf](/files/2024%20PE/2024_Parent_Engagement_Webinar_Final_Updated_30_Jan_2024_Updated_.pdf)
+
+&nbsp;**P6 Webinar Video**&nbsp; &nbsp;&nbsp;   <br>
+[2024 P6 Webinar Video](https://drive.google.com/file/d/1Axfk42WscykW4DVwgyKTu-X_f5Q2Np7b/view?usp=sharing)
   
 &nbsp;**Level Presentations** &nbsp; &nbsp;&nbsp; <br>
-[2024_P1_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P1_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
-[2024_P2_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P2_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
-[2024_P3_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P3_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
-[2024_P4_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P4_2024_Parent_Engagement_Slides_Condesned_.pdf)<br>[2024_P5_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P5_2024_Parent_Engagement_Slides__Condensed_.pdf)<br>
-[2024_P6_Parent_Engagement_Slides(Condensed).pdf](/files/2024%20PE/P6_2024_Parent_Engagement_Slides_Condensed_.pdf)
+[2024_P1_Parent_Engagement_Slides_Final_.pdf](/files/2024%20PE/P1_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
+[2024_P2_Parent_Engagement_Slides_Final_.pdf](/files/2024%20PE/P2_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
+[2024_P3_Parent_Engagement_Slides_Final_.pdf](/files/2024%20PE/P3_2024_Parent_Engagement_Slides_Condensed_.pdf)<br>
+[2024_P4_Parent_Engagement_Slides_Final_.pdf](/files/2024%20PE/P4_2024_Parent_Engagement_Slides_Condesned_.pdf)<br>
+[2024_P5_Parent_Engagement_Slides__Final_.pdf](/files/2024%20PE/P5_2024_Parent_Engagement_Slides__Condensed_.pdf)<br>
+[2024_P6_Parent_Engagement_Slides_Final_.pdf](/files/2024%20PE/P6_2024_Parent_Engagement_Slides_Condensed_.pdf)
 
 
-
-
-
-  
 
 **<u>Mother Tongue Language</u>** &nbsp;&nbsp; <br>
 &nbsp;**Chinese Language**&nbsp; &nbsp; &nbsp; &nbsp;  <br>
@@ -42,11 +42,6 @@ variant: markdown
 [2024 P4_CL_Parent_Engagement_Slides.pdf  ](/files/2024%20PE/CL/2024_P4_CL_Parent_Engagement_Slides.pdf)<br>
 [2024 P5_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P5_CL_Parent_Engagement_Slides.pdf)<br>
 [2024 P6_CL_Parent_Engagement_Slides.pdf](/files/2024%20PE/CL/2024_P6_CL_Parent_Engagement_Slides.pdf)<br>
-
-
-
-
-
 
 &nbsp;**Malay Language** &nbsp;&nbsp; <br>
 [2024_P1_ML_Parents_Engagement.pdf](/files/2024%20PE/ML/2024_P1_ML_Parents_Engagement.pdf)<br>
