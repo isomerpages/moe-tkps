@@ -127,8 +127,7 @@ variant: markdown
     <td class="tg-0qnb"><a href="mailto:tho_yong_huat@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Tho Yong Huat (Mr)</span></a><br></td>
     <td class="tg-kmsb">Operations Manager<br></td>
   </tr>
-  
-	<tr><td class="tg-0qnb"><a href="mailto:norhafisza_mohamed_noor@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Norhafisza Mohamed Noor (Ms)</span></a><br></td>
+  <tr><td class="tg-0qnb"><a href="mailto:norhafisza_mohamed_noor@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Norhafisza Mohamed Noor (Ms)</span></a><br></td>
     <td class="tg-kmsb">ICT Manager<br></td>
   </tr>
   
