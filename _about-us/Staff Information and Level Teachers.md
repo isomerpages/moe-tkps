@@ -4,7 +4,7 @@ permalink: /about-us/staff-information-level-teachers/
 description: ""
 variant: markdown
 ---
-#### School Management Committee
+ School Management Committee
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
