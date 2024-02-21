@@ -21,4 +21,5 @@ The school gates operating hours are as follows:
 | Gate 3<br>(along Seraya Road)  | 6.30 am  | 7.00 pm  | *   P1 &amp; P2 school dismissal at Parents’ Waiting Area near Guard Post - parents’ pick up point.  |
 | Gate 5<br>(along Haig Road)  | 6.45 am<br>1.30 pm  | 7.30 am<br>2.00 pm  |  *   Please proceed to Gate 3 if you arrive after 7.30 am |
 | Gate 7<br>(along Fowlie Road)  | 6.45 am<br>1.30 pm  |  7.30 am<br>2.00 pm | *   Please proceed to Gate 3 if you arrive after 7.30 am<br>*   Turnstile use for exit till 6.00 p.m. only  |
+
 |   |   |   |   |
