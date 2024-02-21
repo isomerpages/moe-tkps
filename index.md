@@ -28,4 +28,10 @@ sections:
       description: FOR MORE INFORMATION
       button: CLICK HERE
       url: /useful-information/parents/permalink/p1orientation2023
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
