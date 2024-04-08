@@ -4,7 +4,7 @@ permalink: /about-us/staff-information-level-teachers/
 description: ""
 variant: markdown
 ---
- School Management Committee
+School Management Committee
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -160,7 +160,7 @@ variant: markdown
 | 2 Diligence  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |  [Seah Wen Hui (Ms)](mailto:seah_wen_hui@schools.gov.sg) |   |
 | 2 Empathy  | [Mahendran Rudrarani (Ms)](mailto:mahendran_rudrarani@schools.gov.sg)  | [Danny Koh (Mr)](mailto:koh_puai_boon_danny@schools.gov.sg)  |   |
 | 2 Faith  | [Jerald Wong (Mr)](mailto:jerald_wong@schools.gov.sg)  | [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)  |   |
-| 2 Grace  | [Sim Wei Sheng (Mr)](mailto:sim_wei_sheng@schools.gov.sg)  | [Magayshvari D/O Krishnasamy (Mdm)](mailto:magayshvari_krishnasamy@schools.gov.sg)  |   |
+| 2 Grace  | [Sim Wei Sheng (Mr)](mailto:sim_wei_sheng@schools.gov.sg)  | [Tan Yi Yun Florence (Mrs)](mailto:tan_yi_yun_florence@schools.gov.sg)  |   |
 |   |   |   |   |
 
 #### Primary 3
