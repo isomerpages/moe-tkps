@@ -68,6 +68,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Wu Shang Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wu_shang_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_shang_chin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ng Yu Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,6 +140,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Cheng Shu-Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheng_shu_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_shu_chan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Wang Cuiping</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,18 +176,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nurul Asyiqin Binte Samsudin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_asyiqin_samsudin@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">nurul_asyiqin_samsudin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Norwyldayanti Binte Wisam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +194,9 @@ description: ""
 <p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:swetha_sri_kumaseran@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">swetha_sri_kumaseran@schools.gov.sg</a>
+<p><a href="mailto:swetha_sri_kumaseran@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">swetha_sri_kumaseran@schools.</a>
+</p>
+<p><a href="mailto:swetha_sri_kumaseran@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>
 </p>
 </td>
 </tr>
