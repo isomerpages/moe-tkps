@@ -4,7 +4,12 @@ permalink: /mk-tanjong-katong/permalink/mkstaffinformation/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -146,7 +151,7 @@ description: ""
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_shu_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_shu_chan@schools.gov.sg</a>
+<p><a href="mailto:cheng_shuchan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_shuchan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
