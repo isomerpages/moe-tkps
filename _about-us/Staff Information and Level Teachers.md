@@ -62,7 +62,7 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:Kumuda_Kaliyaperumal@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Kumuda Vijay (Mrs)</span></a><br></td>
-    <td class="tg-cy91">Head of Department, Student Management</td>
+		<td class="tg-cy91">Head of Department, Student Management</td>
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:serene_a_ng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Serene Ng (Miss)</span></a><br></td>
