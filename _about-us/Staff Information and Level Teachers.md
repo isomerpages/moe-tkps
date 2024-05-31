@@ -236,9 +236,9 @@ School Management Committee
 |   |   |   |  
 |:-:|---|---|
 | [Pamela Oon (Mrs)](mailto:Pamela_Oon@schools.gov.sg) |[Chua Suia Nee Sherry (Ms)](mailto:Chua_Suia_Nee@schools.gov.sg)
-|[Zhang Ying (Ms)](mailto:Zhang_Ying_B@schools.gov.sg)|  [Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)   
+|[Zhang Ying (Ms)](mailto:Zhang_Ying_B@schools.gov.sg)|[Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)   
 | [Lim Poh Heng Rhoda (Mrs)](mailto:kua_rhoda@schools.gov.sg)| [Ho Chin Wern Heather (Ms)](mailto:Ho_Chin_Wern_Heather@schools.gov.sg) |  
-|  [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) 
+| [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) |
    |   |   |
 
 #### Allied Educators
