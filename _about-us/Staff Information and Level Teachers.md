@@ -106,7 +106,7 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:nur_ashikin_tahir@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Nur Ashikin Bte Tahir (Ms)</span></a><br></td>
-    <td class="tg-cy91">Subject Head, CE<br></td>
+    <td class="tg-cy91">Subject Head, CCE<br></td>
   </tr>
   <tr>
     <td class="tg-0qnb"><a href="mailto:hoon_thing_ming@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Hoon Thing Ming (Mr)</span></a><br></td>
@@ -144,7 +144,7 @@ School Management Committee
 | 1 Altruism  | [Jasmine Soo Aili (Mdm)](mailto:soo_aili_jasmine@schools.gov.sg)  | [Tan Mei Leng (Mdm)](mailto:tan_mei_leng@schools.gov.sg)  | 
 | 1 Benevolence  | [Noormala Bte Ahmat (Mdm)](mailto:noormala_ahmat@schools.gov.sg)  | [Rae Wong (Ms)](mailto:mailto:wong_pih_may@schools.gov.sg)  |   |
 | 1 Charity  | [Jennifer Tee Qirong (Mdm)](mailto:tee_qirong_jennifer@schools.gov.sg)  |  [Tan Peining (Ms)](mailto:tan_peining@schools.gov.sg) |   |
-| 1 Diligence  | [Khan Chen Yee (Ms)](mailto:khan_chen_yee@schools.gov.sg)  | [Huang Cong (Mdm)](mailto:huang_cong@schools.gov.sg)  |   |
+| 1 Diligence  | [Khan Chen Yee (Ms)](mailto:khan_chen_yee@schools.gov.sg)  | [Huang Cong (Mdm)](mailto:huang_cong@schools.gov.sg)  | [Sui Yang (Miss)](mailto:sui_yang@schools.gov.sg)   |  |
 | 1 Empathy  | [Carolyn De Souza (Mdm)](mailto:de_souza_carolyn_june@schools.gov.sg)  | [Su Tze Han (Mdm)](mailto:su_tze-han@schools.gov.sg)  |   |
 | 1 Faith  | [Joyce Chui (Ms)](mailto:chui_jia_hui_joyce@moe.edu.sg)  | [Gail Li Ming Ai (Mdm)](mailto:gail_li_ming_ai@schools.gov.sg)  |   |
 | 1 Grace  | [Lee Ruo Xin (Mrs)](mailto:lim_ruo_xin@schools.gov.sg)  | [Tiffany Tan Huan Xuan (Mdm)](mailto:tan_huan_xuan_tiffany@schools.gov.sg)  |   |
@@ -157,7 +157,7 @@ School Management Committee
 | 2 Altruism  | [Elizabeth Yeow (Mrs)](mailto:elizabeth_chin_si_min@schools.gov.sg)  | [Goh Ying Shan (Mdm)](mailto:goh_ying_shan@schools.gov.sg)  |   |
 | 2 Benevolence  | [Deborah Tan (Mrs)](mailto:ng_gek_ean@schools.gov.sg)]  | [Nuraishah Mahmood (Ms)](mailto:nuraishah_mahmood@schools.gov.sg)  |   |
 | 2 Charity  | [Weng Siying (Ms)](mailto:Weng_SIYING@schools.gov.sg)  | [Amalina Mardhiah Bte Nasarudin (Mdm)](mailto:amalina_mardhiah_nasarudin@schools.gov.sg)  |   |
-| 2 Diligence  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |  [Seah Wen Hui (Ms)](mailto:seah_wen_hui@schools.gov.sg) |   |
+| 2 Diligence  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |  [Seah Wen Hui (Ms)](mailto:seah_wen_hui@schools.gov.sg) | [Tashalini K P Sathasivam ](mailto:tashalini_k_p sathasivam@schools.gov.sg) |  |
 | 2 Empathy  | [Mahendran Rudrarani (Ms)](mailto:mahendran_rudrarani@schools.gov.sg)  | [Danny Koh (Mr)](mailto:koh_puai_boon_danny@schools.gov.sg)  |   |
 | 2 Faith  | [Jerald Wong (Mr)](mailto:jerald_wong@schools.gov.sg)  | [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)  |   |
 | 2 Grace  | [Sim Wei Sheng (Mr)](mailto:sim_wei_sheng@schools.gov.sg)  | [Tan Yi Yun Florence (Mrs)](mailto:tan_yi_yun_florence@schools.gov.sg)  |   |
@@ -171,7 +171,7 @@ School Management Committee
 | 3 Benevolence  | [Aslinda Bte Hamid (Mdm)](mailto:aslinda_hamid@schools.gov.sg)  | [Halimah Lin (Mdm)](mailto:halimah_lin_ami@schools.gov.sg)  |   |
 | 3 Charity  | [Tang Shu Fang (Mrs)](mailto:song_shu_fang@schools.gov.sg)  | [Serene Ng (Ms)](mailto:serene_a_ng@schools.gov.sg)  |   |
 | 3 Diligence  | [Isliana Bte Mohamed (Mdm)](mailto:isliana_mohamad@schools.gov.sg)  )  | [Rachel Wang (Ms)](mailto:Rachel_Wang_Yun@schools.gov.sg)  |   |
-| 3 Empathy  |[Masturah Bte Ahmad (Mdm)](mailto:mastura_ahmad_b@schools.gov.sg)   | [Law Kim Hwee (Ms)](mailto:law_kim_hwee@schools.gov.sg)  | 
+| 3 Empathy  |[Masturah Bte Ahmad (Mdm)](mailto:mastura_ahmad_b@schools.gov.sg)   | [Ho Siew Min (Mdm)](mailto:ho_ siew_Min @schools.gov.sg)  | 
 |  3 Faith | [Shirlene Liew (Mrs)](mailto:Yeo_Shirlene@schools.gov.sg)  | [Aisyah Abu Bakar (Mdm)](mailto:aisyah_abu_bakar@schools.gov.sg)  |   |
 |   |   |   |   |
 
@@ -218,7 +218,7 @@ School Management Committee
 |:-:|---|---|
 | [Tan Boon Tiong (Mr)](mailto:tan_boon_tiong@schools.gov.sg)  | [Arlinah Bte Arsad (Mdm](mailto:arlinah_arsad@schools.gov.sg))  |  [Magayshvari d/o Krishnasamy (Mdm)](mailto:magayshvari_krishnasamy@schools.gov.sg) |
 | [Su Tze Han (Mdm)](mailto:su_tze-han@schools.gov.sg)  | [Aisyah Abu Bakar (Mdm)](mailto:aisyah_abu_bakar@schools.gov.sg)  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |
-[Tiffany Tan Huan Xuan (Mdm)](mailto:tan_huan_xuan_tiffany@schools.gov.sg)  | [Ummi Salamah Ismail (Mdm)](mailto:ummi_salamah_ismail@schools.gov.sg)  | [Selvi D/O Goval (Mdm)](mailto:selvi_goval@moe.edu.sg)
+[Tiffany Tan Huan Xuan (Mdm)](mailto:tan_huan_xuan_tiffany@schools.gov.sg)  | [Ummi Salamah Ismail (Mdm)](mailto:ummi_salamah_ismail@schools.gov.sg)  | [Tashalini K P Sathasivam (Miss)](mailto:tashalini_k_p_sathasivam@moe.edu.sg)
 | [Goh Ying Shan (Mdm)](mailto:goh_ying_shan@schools.gov.sg)  | [Nuraishah Mahmood (Ms)](mailto:nuraishah_mahmood@schools.gov.sg)  |   |
 | [Huang Cong (Mdm)](mailto:huang_cong@schools.gov.sg)  | [Laila Sari Arifin (Mdm)](mailto:laila_sari_arifin@schools.gov.sg)  |   |
 | [Lim Pei Yee (Mdm)](mailto:lim_pei_yee@schools.gov.sg)  | [Nur Ashikin Bte Tahir (Miss)](mailto:nur_ashikin_tahir@schools.gov.sg)  |   |
@@ -238,7 +238,7 @@ School Management Committee
 | [Pamela Oon (Mrs)](mailto:Pamela_Oon@schools.gov.sg) |[Chua Suia Nee Sherry (Ms)](mailto:Chua_Suia_Nee@schools.gov.sg)
 |[Zhang Ying (Ms)](mailto:Zhang_Ying_B@schools.gov.sg)|[Ren Yanjie (Ms)](mailto:ren_yanjie@schools.gov.sg)   
 | [Lim Poh Heng Rhoda (Mrs)](mailto:kua_rhoda@schools.gov.sg)| [Ho Chin Wern Heather (Ms)](mailto:Ho_Chin_Wern_Heather@schools.gov.sg) |  
-| [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) |
+| [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) |[Low Boon Siang (Mr))](mailto:low_ boon_ siang@schools.gov.sg) |[Roy Wong (Mr)](mailto:roy_wong@schools.gov.sg) |Vivien Lim (Mdm)](mailto:vivien_lim:@schools.gov.sg) |[Muru (Mrs)](mailto:muru@schools.gov.sg) |
    |   |   |
 
 #### Allied Educators
