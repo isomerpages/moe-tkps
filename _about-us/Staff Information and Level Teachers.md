@@ -157,7 +157,7 @@ School Management Committee
 | 2 Altruism  | [Elizabeth Yeow (Mrs)](mailto:elizabeth_chin_si_min@schools.gov.sg)  | [Goh Ying Shan (Mdm)](mailto:goh_ying_shan@schools.gov.sg)  |   |
 | 2 Benevolence  | [Deborah Tan (Mrs)](mailto:ng_gek_ean@schools.gov.sg)]  | [Nuraishah Mahmood (Ms)](mailto:nuraishah_mahmood@schools.gov.sg)  |   |
 | 2 Charity  | [Weng Siying (Ms)](mailto:Weng_SIYING@schools.gov.sg)  | [Amalina Mardhiah Bte Nasarudin (Mdm)](mailto:amalina_mardhiah_nasarudin@schools.gov.sg)  |   |
-| 2 Diligence  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |  [Seah Wen Hui (Ms)](mailto:seah_wen_hui@schools.gov.sg) | [Tashalini K P Sathasivam ](mailto:tashalini_k_p sathasivam@schools.gov.sg) |  |
+| 2 Diligence  | [Parathi Manoonmany (Mrs)](mailto:R_Manoonmany_Mrs_Parathi@schools.gov.sg)  |  [Seah Wen Hui (Ms)](mailto:seah_wen_hui@schools.gov.sg) |  [Tashalini K P Sathasivam(Miss)](mailto:tashalini_k_psathasivam@schools.gov.sg) |  |
 | 2 Empathy  | [Mahendran Rudrarani (Ms)](mailto:mahendran_rudrarani@schools.gov.sg)  | [Danny Koh (Mr)](mailto:koh_puai_boon_danny@schools.gov.sg)  |   |
 | 2 Faith  | [Jerald Wong (Mr)](mailto:jerald_wong@schools.gov.sg)  | [Tan Hoon Hoon (Mdm)](mailto:tan_hoon_hoon@schools.gov.sg)  |   |
 | 2 Grace  | [Sim Wei Sheng (Mr)](mailto:sim_wei_sheng@schools.gov.sg)  | [Tan Yi Yun Florence (Mrs)](mailto:tan_yi_yun_florence@schools.gov.sg)  |   |
@@ -170,8 +170,8 @@ School Management Committee
 | 3 Altruism  | [Farah Binte Abdul Malik (Mdm)](mailto:farah_abd_malik@schools.gov.sg)  | [Piragatheeswari   Sigamani (Mdm)](mailto:piragatheeswari_sigamani@schools.gov.sg)  |   |
 | 3 Benevolence  | [Aslinda Bte Hamid (Mdm)](mailto:aslinda_hamid@schools.gov.sg)  | [Halimah Lin (Mdm)](mailto:halimah_lin_ami@schools.gov.sg)  |   |
 | 3 Charity  | [Tang Shu Fang (Mrs)](mailto:song_shu_fang@schools.gov.sg)  | [Serene Ng (Ms)](mailto:serene_a_ng@schools.gov.sg)  |   |
-| 3 Diligence  | [Isliana Bte Mohamed (Mdm)](mailto:isliana_mohamad@schools.gov.sg)  )  | [Rachel Wang (Ms)](mailto:Rachel_Wang_Yun@schools.gov.sg)  |   |
-| 3 Empathy  |[Masturah Bte Ahmad (Mdm)](mailto:mastura_ahmad_b@schools.gov.sg)   | [Ho Siew Min (Mdm)](mailto:ho_ siew_Min @schools.gov.sg)  | 
+| 3 Diligence  | [Isliana Bte Mohamed (Mdm)](mailto:isliana_mohamad@schools.gov.sg)  | [Rachel Wang (Ms)](mailto:Rachel_Wang_Yun@schools.gov.sg)  |   |
+| 3 Empathy  |[Masturah Bte Ahmad (Mdm)](mailto:mastura_ahmad_b@schools.gov.sg) |[Ho Siew Min (Mdm)](mailto:ho_siew_min@schools.gov.sg) |   |
 |  3 Faith | [Shirlene Liew (Mrs)](mailto:Yeo_Shirlene@schools.gov.sg)  | [Aisyah Abu Bakar (Mdm)](mailto:aisyah_abu_bakar@schools.gov.sg)  |   |
 |   |   |   |   |
 
