@@ -242,8 +242,7 @@ School Management Committee
 |[Low Boon Siang(Mr)](mailto:low_boon_siang@schools.gov.sg) 
 | [Norliah Bte Daroos(Mdm) ](mailto:norliah_bte_daroos@schools.gov.sg) |
 [Vivien Lim (Mdm)](mailto:vivien_lim:@schools.gov.sg) |
-[Muru (Mrs)](mailto:muru@schools.gov.sg) |
-   |   |   |
+|   |   |
 
 #### Allied Educators
 
