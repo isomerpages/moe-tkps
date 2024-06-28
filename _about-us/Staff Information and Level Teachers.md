@@ -240,7 +240,7 @@ School Management Committee
 | [Lim Poh Heng Rhoda (Mrs)](mailto:kua_rhoda@schools.gov.sg)| [Ho Chin Wern Heather (Ms)](mailto:Ho_Chin_Wern_Heather@schools.gov.sg) |  
 | [Poh Wee Hoon (Mdm)](mailto:poh_wee_hoon@schools.gov.sg) |  [Suhaili Binte Abdul Latif (Mdm)](mailto:Suhaili_A_Latif@schools.gov.sg) 
 |[Low Boon Siang(Mr)](mailto:low_boon_siang@schools.gov.sg) 
-| [Roy Wong (Mr)](mailto:roy_wong@schools.gov.sg) |
+| [Norliah Bte Daroos(Mdm) ](mailto:norliah_bte_daroos@schools.gov.sg) |
 [Vivien Lim (Mdm)](mailto:vivien_lim:@schools.gov.sg) |
 [Muru (Mrs)](mailto:muru@schools.gov.sg) |
    |   |   |
