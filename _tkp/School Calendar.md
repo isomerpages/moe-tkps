@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>SCHOOL TERMS AND HOLIDAYS FOR 2024</strong></h3>
-<p>(accurate as of 11 Jan 2024)</p>
+<p>(accurate as of 05 July 2024)</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>School Terms</strong>
@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tue 2 Jan1 to Fri 8 Mar</p>
+<p>Tue 2 Jan<sup>1 </sup>to Fri 8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -156,12 +156,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun 11 Feb*</p>
+<p>Sun 11 Feb<sup>2</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><em>*Mon, 12 Feb will be a public holiday and Tue, 13 Feb will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.</em>
+<p><em><sup>2</sup>Mon, 12 Feb will be a public holiday and Tue, 13 Feb will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.</em>
 </p>
 <p><em>Students will be dismissed at 10.30am on Fri, 9 Feb.</em>
 </p>
@@ -225,7 +226,8 @@ variant: tiptap
 <p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 9 Aug3</p>
+<p>Fri 9 Aug<sup>*</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -341,6 +343,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Tue 13 Aug – Wed 14 Aug</p>
+<p><em>P1-P5 students need not report to school</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -350,6 +354,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri 13 Sep</p>
+<p><em>P1-P5 students need not report to school</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -357,8 +363,13 @@ variant: tiptap
 <p>PSLE Written Examination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>HBL for selected levels to be confirmed</em>
+<p>Thu 26 Sept to Wed 2 Oct</p>
+<p><em>HBLfor P3 and P4 on selected dates:</em>
 </p>
+<p></p>
+<p>P3- Mon &amp; Tues, 30 Sep &amp; 1 Oct</p>
+<p>P4-Thu &amp; Fri, 26 &amp; 27 Sep</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -367,6 +378,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon 14 Oct – Wed 16 Oct</p>
+<p><em>All students need not report to school</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -376,6 +389,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed 6 Nov</p>
+<p><em>All students need not report to school</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -384,6 +399,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Thu 14 Nov</p>
+<p><em>Only students involved need not report to school</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -392,6 +409,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri 15 Nov</p>
+<p><em>Only students involved need not report to school</em>
+</p>
 </td>
 </tr>
 </tbody>
