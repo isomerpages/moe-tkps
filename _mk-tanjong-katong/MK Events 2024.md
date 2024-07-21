@@ -5,24 +5,17 @@ variant: tiptap
 description: ""
 ---
 <p>Chinese New Year Celebration 2024</p>
-<p><a href="/files/2024 MK files/Chinese_New_Year_Celebration__1___compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">CNY 01</a>
-</p>
-<p><a href="/files/2024 MK files/Chinese_New_Year_Celebration__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">CNY 02</a>
-</p>
-<p><a href="/files/2024 MK files/Chinese_New_Year_Celebration__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">CNY 03</a>
+<p><a href="https://drive.google.com/file/d/1uBs5yEQE1f5oxEo9j540pBR7TzD6uqhp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">CNY 2024</a>
 </p>
 <p>Hari Raya Celebration 2024</p>
-<p><a href="/files/2024 MK files/Hari_Raya_Celebrations_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Raya 01</a>
+<p><a href="/files/2024 MK files/Hari_Raya_Celebrations_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Raya 2024</a>
 </p>
 <p>Birthday Celebration</p>
-<p><a href="/files/2024 MK files/Birthday_Celebrations_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Birthday 2024</a>
+<p><a href="https://drive.google.com/file/d/1zkYP5Nm0jeitFVay2Di10sIC-rLPG_n8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Birthday</a>
 </p>
-<p>2024 Hari Raya Celebration</p>
-<p><a href="/files/2024 MK files/Hari_Raya_Celebrations_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Hari Raya</a>
-</p>
-<p>2024 Birthday Celebration</p>
-<p><a href="/files/2024 MK files/Birthday_Celebrations_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Birthday</a>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
