@@ -17,15 +17,9 @@ description: ""
 <p>Birthday Celebration</p>
 <p><a href="/files/2024 MK files/Birthday_Celebrations_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Birthday 2024</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>2024 Hari Raya Celebration</p>
 <p><a href="/files/2024 MK files/Hari_Raya_Celebrations_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Hari Raya</a>
 </p>
-<p></p>
 <p>2024 Birthday Celebration</p>
 <p><a href="/files/2024 MK files/Birthday_Celebrations_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Birthday</a>
 </p>
