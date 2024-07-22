@@ -9,3 +9,8 @@ description: ""
 </p>
 <p><a href="https://drive.google.com/file/d/1ok2hp8B5HnUohe9CNEWfVuS6U9G8RApc/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Routine for KCare</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1kniyq-0erWMQur0OPVV-FZjykhXU9ndX/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Life At MK</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
