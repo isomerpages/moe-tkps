@@ -399,7 +399,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Thu 14 Nov</p>
-<p><em>Only students involved need report to school</em>
+<p><em>Only students involved need to report to school</em>
 </p>
 </td>
 </tr>
@@ -409,7 +409,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri 15 Nov</p>
-<p><em>Only students involved need report to school</em>
+<p><em>Only students involved need to report to school</em>
 </p>
 </td>
 </tr>
