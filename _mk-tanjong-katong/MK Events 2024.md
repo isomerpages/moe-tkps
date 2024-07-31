@@ -4,8 +4,8 @@ permalink: /mk-events-2024/
 variant: tiptap
 description: ""
 ---
-<p>Life@MK</p>
-<p><a href="https://drive.google.com/file/d/1kniyq-0erWMQur0OPVV-FZjykhXU9ndX/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Life@MK</a>
+<p>LIFE@MK</p>
+<p><a href="https://drive.google.com/file/d/1kniyq-0erWMQur0OPVV-FZjykhXU9ndX/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">LIFE@MK</a>
 </p>
 <p></p>
 <p>Chinese New Year &amp; Hari Raya Celebration 2024</p>
