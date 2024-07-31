@@ -2,7 +2,6 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
-      - Testimonials.md
       - MK Events 2024.md
       - A Day at MOE Kindergarten at Tanjong Katong.md
       - MK Curriculum.md
@@ -12,4 +11,5 @@ collections:
       - Waitlist Application.md
       - Withdrawal Form.md
       - MK Staff Information.md
+      - Testimonials.md
       - Contact Us.md
