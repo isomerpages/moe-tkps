@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Parents
 ---
-<p>2025 Registration for Raffles Student Care Centre</p>
-<p></p>
+<p><strong>2025 Registration for Raffles Student Care Centre</strong>
+</p>
 <p>Dear P1/2025 Parents/Guardians,</p>
 <p>Raffles Student Care Services runs the school-based student care centre
 at TKP.</p>
