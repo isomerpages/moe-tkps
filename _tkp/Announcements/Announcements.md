@@ -9,8 +9,6 @@ variant: markdown
 
 Dear P1/2025 Parent,
 
-        
-
 Raffles Student Care Services runs the school-based student care centre at TKP. If you are keen on placing your P1 child in Raffles SCC @ TKP in 2025, please complete the form at this [link](Rafflesstudentcare.com/Interest) ([Rafflesstudentcare.com/Interest](lesstudentcare.com/Interest)%20an)) and they will get in touch with you shortly.
 
 Click [here](/files/tk%20raffles%20scc%20introductory%20letter%20to%20p1%202024.pdf) for the handout.
