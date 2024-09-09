@@ -2,14 +2,14 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
-      - MK Events 2024.md
-      - MK Openhouse 2024.md
-      - A Day at MOE Kindergarten at Tanjong Katong.md
       - MK Curriculum.md
-      - Uniform Matters.md
+      - MK Events 2024.md
+      - A Day at MOE Kindergarten at Tanjong Katong.md
       - Learning Environment.md
+      - MK Staff Information.md
+      - Testimonials.md
       - Family Handbook.md
+      - Uniform Matters.md
       - Waitlist Application.md
       - Withdrawal Form.md
-      - MK Staff Information.md
       - Contact Us.md
