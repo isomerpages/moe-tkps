@@ -22,17 +22,17 @@ sections:
           description: Highlight
           url: /tkp/announcements/
   - infobar:
-      title: P1 Orientation 2023 Slides
-      subtitle: NEW INFO
-      id: infobar
-      description: FOR MORE INFORMATION
-      button: CLICK HERE
-      url: /useful-information/parents/permalink/p1orientation2023
-  - infobar:
       title: 2025 Registration for Raffles Student Care Centre
       subtitle: New Announcement
       id: infobar
       description: For P1/2025 Parents/Guardians
       button: Click Next
       url: https://tanjongkatongpri.moe.edu.sg/tkp/announcements/
+  - infobar:
+      title: P1 Orientation 2023 Slides
+      subtitle: NEW INFO
+      id: infobar
+      description: FOR MORE INFORMATION
+      button: CLICK HERE
+      url: /useful-information/parents/permalink/p1orientation2023
 ---
