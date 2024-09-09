@@ -8,7 +8,6 @@ third_nav_title: Parents
 <p>2025 Registration for Raffles Student Care Centre</p>
 <p></p>
 <p>Dear P1/2025 Parents/Guardians,</p>
-<p>&nbsp;</p>
 <p>Raffles Student Care Services runs the school-based student care centre
 at TKP.</p>
 <p>If you are keen on placing your P1 child in Raffles SCC @ TKP in 2025,
