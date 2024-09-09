@@ -18,9 +18,9 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-information/teachers/useful-links-for-teachers/
-        - title: ""
-          description: ""
-          url: ""
+        - title: TKPS Highlight
+          description: Highlight
+          url: /tkp/announcements/
   - infobar:
       title: P1 Orientation 2023 Slides
       subtitle: NEW INFO
