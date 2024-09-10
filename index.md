@@ -18,9 +18,16 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-information/teachers/useful-links-for-teachers/
-        - title: ""
+        - title: TKPS Highlight
           description: ""
-          url: ""
+          url: /tkp/announcements/
+  - infobar:
+      title: 2025 Registration for Raffles Student Care Centre
+      subtitle: New Announcement
+      id: infobar
+      description: For P1/2025 Parents/Guardians
+      button: Click Next
+      url: https://tanjongkatongpri.moe.edu.sg/tkp/announcements/
   - infobar:
       title: P1 Orientation 2023 Slides
       subtitle: NEW INFO
