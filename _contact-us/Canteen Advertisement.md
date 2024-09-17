@@ -4,6 +4,53 @@ permalink: /canteenadvertisement/
 variant: tiptap
 description: ""
 ---
+<p><strong>Advertisement on the following stalls.</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Stalls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Economical Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/09/2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vegetarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/09/2024</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Application Procedure</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
