@@ -43,7 +43,7 @@ quality food with prices determined in consultation with the school.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide cooked food that
 meets the health/nutritional standards set by the Health Promotion Board
 (HPB) under the “Healthy Meals in Schools Program (HMSP)’ guidelines (see
-<a href="https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">Link to HPB website.</a>)</p>
+<a href="https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">link to HPB website.</a>)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to maintain high standard of
 food safety and personal hygiene.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Healthy and fit to operate the stall.</p>
