@@ -8,7 +8,7 @@ description: ""
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
 form. You may also request for a hardcopy from the School’s General Office.</p>
-<p><a href="/files/2024 Admin/AppExistingSch.pdf" rel="noopener nofollow" target="_blank">Download file</a>
+<p><a href="/files/AppExistingSch.pdf" rel="noopener nofollow" target="_blank">Download Application file.</a>
 </p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attached the following documents
