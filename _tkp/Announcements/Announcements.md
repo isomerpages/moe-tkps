@@ -34,9 +34,7 @@ Thank you.
 Dear Parents,  
   
 Please refer to the set of slides that was shared during the session for more information.  
-  
-[P1 Orientation 2023 slides](https://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/tkp/Dear%20Parents,%20%20Please%20refer%20to%20the%20set%20of%20slides%20that%20was%20shared%20during%20the%20session%20for%20more%20information.%20%20P1%20Orientation%202023%20slides%20%20Thank%20you.)  *(link not working)*
-  
+
 Thank you.
 
 ##### Celebrating Our Grands (COG)
@@ -67,9 +65,6 @@ Please&nbsp;[click here](https://form.gov.sg/#!/6271e2672f94820012af9121)&nbsp;t
 
 Dear parents/guardians, please be informed that students will be having their e-learning on 26 &amp; 27 May 2022 in line with PCTC/PTM sessions. Lesson packages will be uploaded for students to do their self-paced learning in Student Learning Space (SLS).
 
-Please&nbsp;[click here](http://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u742/Announcements/2022/E-Learning%20Day%20Schedule_Pri%201%20-%20Pri%203Updated%2021%20May%2022.docx)&nbsp;for P1-P3 E-Learning Day Schedule.
-
-Please&nbsp;[click here](http://tanjongkatongpri-moe-edu-sg-admin.cwp.sg/qql/slot/u742/Announcements/2022/E-Learning%20Day%20Schedule_Pri%204%20-%20Pri%206Updated%2021%20May%2022.docx)&nbsp;for P4-P6 E-Learning Day Schedule.
 
 ##### Donation Drive for Food From The Heart
 
