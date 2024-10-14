@@ -59,8 +59,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 89px;" height="auto" width="100%" alt="HRMS.jpg" src="/images/HRMS.jpeg">
 </div>
-<p><strong><a href="https://hrms.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>HRMS</u></a></strong>
-</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,8 +252,6 @@ variant: tiptap
 <p><a href="https://sites.google.com/g.nie.edu.sg/nievideomeetingplatforms/online-teaching-strategies" rel="noopener noreferrer nofollow" target="_blank">Online teaching strategies</a>
 </p>
 <p><a href="https://sites.google.com/g.nie.edu.sg/in-learning-resource-sites/home" rel="noopener noreferrer nofollow" target="_blank">Teaching and Learning Continuity</a>
-</p>
-<p><a href="https://singteach.nie.edu.sg/vsl-digital-learning" rel="noopener noreferrer nofollow" target="_blank">Digital learning in the time of a pandemic</a>
 </p>
 <p><a href="https://www.edutopia.org/article/blended-learning-built-teacher-expertise" rel="noopener noreferrer nofollow" target="_blank">Blended learning built on teacher expertise</a>
 </p>

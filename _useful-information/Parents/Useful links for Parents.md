@@ -34,10 +34,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block;" height="auto" width="100%" alt="iMTL.png" src="/images/iMTL.png">
-</div>
-<p><strong><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" rel="noopener noreferrer nofollow" target="_blank"><u>iMTL</u></a></strong>
+<p>
 <br>
 </p>
 </td>
