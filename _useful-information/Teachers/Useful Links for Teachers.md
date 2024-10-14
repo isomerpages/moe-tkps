@@ -3,65 +3,261 @@ title: Useful Links for Teachers
 permalink: /useful-information/teachers/useful-links-for-teachers/
 description: ""
 third_nav_title: Teachers
+variant: tiptap
 ---
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 890px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 101px;" class="ive_eobj_center ive_clickable" alt="ICON2.png" src="/images/ICON2.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://icon.moe.edu.sg/">ICON</a></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block;" class="ive_eobj_center ive_clickable" alt="Parents Gateway.bmp" src="/images/Parents%20Gateway.bmp"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://pg.moe.edu.sg/">Parents Gateway</a></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 257px; height: 73px;" class="ive_eobj_center ive_clickable" alt="MOE Intranet.png" src="/images/MOE%20Intranet.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="http://intranet.moe.gov.sg/Pages/Home.aspx">MOE Intranet</a></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 89px;" class="ive_eobj_center ive_clickable" alt="School Cockpit.png" src="/images/School%20Cockpit.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://schoolcockpit.moe.edu.sg/login">School Cockpit</a></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 58px;" class="ive_eobj_center ive_clickable" alt="OPAL 2.0.png" src="/images/OPAL%202.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DrBldC8-eIC_F-e8RGM-3o04S4nSy8K40Sx6Wxoq2sL0b0%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Dcxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DVAUPMJ-nM4JDNxR04tWEjyGRq6ailQE7DzQxdKz9KqM%26code_challenge_method%3DS256%26nonce%3DrBldC8-eIC_F-e8RGM-3o04S4nSy8K40Sx6Wxoq2sL0b0">OPAL 2.0</a></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 185px; height: 81px;" class="ive_eobj_center ive_clickable" alt="Academy of Singapore Teachers.jpg" src="/images/Academy%20of%20Singapore%20Teachers.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://academyofsingaporeteachers.moe.edu.sg/">Academy of Singapore Teachers</a></span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 89px;" class="ive_eobj_center ive_clickable" alt="HRMS.jpg" src="/images/HRMS.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://hrms.moe.gov.sg/">HRMS</a></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 236px; height: 89px;" class="ive_eobj_center ive_clickable" alt="SchoolBag.png" src="/images/SchoolBag.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://www.schoolbag.sg/">SchoolBag</a></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 184px; height: 89px;" class="ive_eobj_center ive_clickable" alt="SLS.jpg" src="/images/SLS.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="http://learning.moe.edu.sg/">SLS</a></span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 284px; height: 60px;" class="ive_eobj_center ive_clickable" alt="SEAB.png" src="/images/SEAB.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://www.seab.gov.sg/">SEAB</a></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 292px; height: 30px;" class="ive_eobj_center ive_clickable" alt="PaCGov.jpg" src="/images/PaCGov.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp">PAC@GOV</a></span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block;" class="ive_eobj_center ive_clickable" alt="Mesrc.png" src="/images/Mesrc.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://lms.wizlearn.com/LMS/Login_main.aspx">MESRC</a></span></div><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block;" class="ive_eobj_center ive_clickable" alt="iMTL.png" src="/images/iMTL.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login">iMTL</a><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 276px; height: 70px;" class="ive_eobj_center ive_clickable" alt="asknlearn.jpg" src="/images/asknlearn.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://lms.wizlearn.com/LMS/Login_main.aspx">Asknlearn</a></span><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 166px; height: 126px;" class="ive_eobj_center ive_clickable" alt="MOE.png" src="/images/MOE.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://www.moe.gov.sg/microsites/psle/">MOE PSLE</a></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 166px; height: 126px;" class="ive_eobj_center ive_clickable" alt="MOE.png" src="/images/MOE.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://www.moe.gov.sg/compass">MOE Compass</a></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 164px; height: 125px;" class="ive_eobj_center ive_clickable" alt="MOE.png" src="/images/MOE.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://www.moe.gov.sg/">MOE</a></span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">&nbsp;</span></div><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="TKP ICT Glossary Website.png" src="/images/TKP%20ICT%20Glossary%20Website.png"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://sites.google.com/moe.edu.sg/tkp-ict-glossary/home">TKP ICT Glossary Site</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;</td></tr></tbody></table>
-
-### Home-Based Learning Tips for Teachers
-
-#### MOE Resources
-
-1.  [Zoom User Manual](/files/Zoom%20User%20Manual.pdf)
-2.  [Zoom Do's and Don'ts](/files/Zoom%20Do's%20and%20Don'ts.pdf)
-3.  [Zoom Uninvited Guests](/files/Zoom%20Uninvited%20Guests.pdf)
-4.  [Zoom Security Measures](/files/Zoom%20Security%20Measures.pdf)
-5.  [Zoom Checklist for Video Conferencing](/files/Zoom%20Checklist%20for%20Video%20Conferencing.pdf)
-6.  [ICON Google Meet Guide](/files/ICON%20Google%20Meet%20Guide.pdf)
-7.  [ICON Google Meet and YouTube Live](/files/ICON%20Google%20Meet%20and%20YouTube%20Live.pdf)
-
-#### Additional Resources for Teachers
-
-[The teacher’s ultimate digital toolbox](https://www.nie.edu.sg/niews/june2020/the-teacher-ultimate-digital-toolbox.html)
-
-  
-
-[27 tips to set up your blended learning classroom](https://www.legendsoflearning.com/blog/27-tips-blended-learning)
-
-  
-
-[Video conference tips](https://sites.google.com/g.nie.edu.sg/nievideomeetingplatforms/video-conference-tips)
-
-  
-
-[Online teaching strategies](https://sites.google.com/g.nie.edu.sg/nievideomeetingplatforms/online-teaching-strategies)
-
-  
-
-[How to create engaging online learning amid Covid-19 pandemic: Lessons from Singapore](https://theconversation.com/how-to-create-engaging-online-learning-amid-covid-19-pandemic-lessons-from-singapore-138979)
-
-  
-
-[Teaching and Learning Continuity](https://sites.google.com/g.nie.edu.sg/in-learning-resource-sites/home)
-
-  
-
-[Digital learning in the time of a pandemic](https://singteach.nie.edu.sg/vsl-digital-learning)
-
-  
-
-[Covid-19: Practical tips for early years teaching and learning](https://www.teachermagazine.com.au/articles/covid-19-practical-tips-for-early-years-teaching-and-learning)
-
-  
-
-[Supporting the continuation of teaching and learning during the Covid-19 pandemic](http://www.oecd.org/education/Supporting-the-continuation-of-teaching-and-learning-during-the-COVID-19-pandemic.pdf)
-
-  
-
-[Covid-19: Will blended learning become the future of education?](https://eu-acerforeducation.acer.com/education-trends/covid-19-will-blended-learning-become-the-future-of-education)
-
-  
-
-[Blended learning built on teacher expertise](https://www.edutopia.org/article/blended-learning-built-teacher-expertise)
-
-  
-
-[Resources for Teaching Online due to School Closures](https://www.theedublogger.com/teaching-online-school-closures)
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 101px;" height="auto" width="100%" alt="ICON2.png" src="/images/ICON2.png">
+</div>
+<p><strong><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>ICON</u></a></strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block;" height="auto" width="100%" alt="Parents Gateway.bmp" src="/images/Parents%20Gateway.bmp">
+</div>
+<p><strong><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 257px; height: 73px;" height="auto" width="100%" alt="MOE Intranet.png" src="/images/MOE%20Intranet.png">
+</div>
+<p><strong><a href="http://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Intranet</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 89px;" height="auto" width="100%" alt="School Cockpit.png" src="/images/School%20Cockpit.png">
+</div>
+<p><strong><a href="https://schoolcockpit.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>School Cockpit</u></a></strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 58px;" height="auto" width="100%" alt="OPAL 2.0.png" src="/images/OPAL%202.png">
+</div>
+<p><strong><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DrBldC8-eIC_F-e8RGM-3o04S4nSy8K40Sx6Wxoq2sL0b0%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Dcxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DVAUPMJ-nM4JDNxR04tWEjyGRq6ailQE7DzQxdKz9KqM%26code_challenge_method%3DS256%26nonce%3DrBldC8-eIC_F-e8RGM-3o04S4nSy8K40Sx6Wxoq2sL0b0" rel="noopener noreferrer nofollow" target="_blank"><u>OPAL 2.0</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 185px; height: 81px;" height="auto" width="100%" alt="Academy of Singapore Teachers.jpg" src="/images/Academy%20of%20Singapore%20Teachers.jpeg">
+</div>
+<p><strong><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Academy of Singapore Teachers</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 89px;" height="auto" width="100%" alt="HRMS.jpg" src="/images/HRMS.jpeg">
+</div>
+<p><strong><a href="https://hrms.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>HRMS</u></a></strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 236px; height: 89px;" height="auto" width="100%" alt="SchoolBag.png" src="/images/SchoolBag.png">
+</div>
+<p><strong><a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SchoolBag</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 184px; height: 89px;" height="auto" width="100%" alt="SLS.jpg" src="/images/SLS.jpeg">
+</div>
+<p><strong><a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SLS</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 284px; height: 60px;" height="auto" width="100%" alt="SEAB.png" src="/images/SEAB.png">
+</div>
+<p>
+<br>
+</p>
+<p><strong><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a></strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 292px; height: 30px;" height="auto" width="100%" alt="PaCGov.jpg" src="/images/PaCGov.jpeg">
+</div>
+<p>
+<br>
+</p>
+<p><strong><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" rel="noopener noreferrer nofollow" target="_blank"><u>PAC@GOV</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block;" height="auto" width="100%" alt="Mesrc.png" src="/images/Mesrc.png">
+</div>
+<p><strong><a href="https://lms.wizlearn.com/LMS/Login_main.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>MESRC</u></a></strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 276px; height: 70px;" height="auto" width="100%" alt="asknlearn.jpg" src="/images/asknlearn.jpeg">
+</div>
+<p></p>
+<p><strong><a href="https://lms.wizlearn.com/LMS/Login_main.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Asknlearn</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 166px; height: 126px;" height="auto" width="100%" alt="MOE.png" src="/images/MOE.png">
+</div>
+<p><strong><a href="https://www.moe.gov.sg/microsites/psle/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE PSLE</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 166px; height: 126px;" height="auto" width="100%" alt="MOE.png" src="/images/MOE.png">
+</div>
+<p><strong><a href="https://www.moe.gov.sg/compass" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Compass</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 164px; height: 125px;" height="auto" width="100%" alt="MOE.png" src="/images/MOE.png">
+</div>
+<p><strong><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TKP ICT Glossary Website.png" src="/images/TKP%20ICT%20Glossary%20Website.png">
+</div>
+<p>
+<br>
+</p>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/tkp-ict-glossary/home" rel="noopener noreferrer nofollow" target="_blank"><u>TKP ICT Glossary Site</u></a></strong>
+</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Home-Based Learning Tips for Teachers</h3>
+<h4>MOE Resources</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Zoom%20User%20Manual.pdf" rel="noopener noreferrer nofollow" target="_blank">Zoom User Manual</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Zoom%20Do's%20and%20Don'ts.pdf" rel="noopener noreferrer nofollow" target="_blank">Zoom Do's and Don'ts</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Zoom%20Uninvited%20Guests.pdf" rel="noopener noreferrer nofollow" target="_blank">Zoom Uninvited Guests</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Zoom%20Security%20Measures.pdf" rel="noopener noreferrer nofollow" target="_blank">Zoom Security Measures</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Zoom%20Checklist%20for%20Video%20Conferencing.pdf" rel="noopener noreferrer nofollow" target="_blank">Zoom Checklist for Video Conferencing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/ICON%20Google%20Meet%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">ICON Google Meet Guide</a>
+</p>
+</li>
+<li>
+<p><a href="/files/ICON%20Google%20Meet%20and%20YouTube%20Live.pdf" rel="noopener noreferrer nofollow" target="_blank">ICON Google Meet and YouTube Live</a>
+</p>
+</li>
+</ol>
+<h4>Additional Resources for Teachers</h4>
+<p><a href="https://www.nie.edu.sg/niews/june2020/the-teacher-ultimate-digital-toolbox.html" rel="noopener noreferrer nofollow" target="_blank">The teacher’s ultimate digital toolbox</a>
+</p>
+<p><a href="https://www.legendsoflearning.com/blog/27-tips-blended-learning" rel="noopener noreferrer nofollow" target="_blank">27 tips to set up your blended learning classroom</a>
+</p>
+<p><a href="https://sites.google.com/g.nie.edu.sg/nievideomeetingplatforms/video-conference-tips" rel="noopener noreferrer nofollow" target="_blank">Video conference tips</a>
+</p>
+<p><a href="https://sites.google.com/g.nie.edu.sg/nievideomeetingplatforms/online-teaching-strategies" rel="noopener noreferrer nofollow" target="_blank">Online teaching strategies</a>
+</p>
+<p><a href="https://theconversation.com/how-to-create-engaging-online-learning-amid-covid-19-pandemic-lessons-from-singapore-138979" rel="noopener noreferrer nofollow" target="_blank">How to create engaging online learning amid Covid-19 pandemic: Lessons from Singapore</a>
+</p>
+<p><a href="https://sites.google.com/g.nie.edu.sg/in-learning-resource-sites/home" rel="noopener noreferrer nofollow" target="_blank">Teaching and Learning Continuity</a>
+</p>
+<p><a href="https://singteach.nie.edu.sg/vsl-digital-learning" rel="noopener noreferrer nofollow" target="_blank">Digital learning in the time of a pandemic</a>
+</p>
+<p><a href="https://www.teachermagazine.com.au/articles/covid-19-practical-tips-for-early-years-teaching-and-learning" rel="noopener noreferrer nofollow" target="_blank">Covid-19: Practical tips for early years teaching and learning</a>
+</p>
+<p><a href="http://www.oecd.org/education/Supporting-the-continuation-of-teaching-and-learning-during-the-COVID-19-pandemic.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting the continuation of teaching and learning during the Covid-19 pandemic</a>
+</p>
+<p><a href="https://eu-acerforeducation.acer.com/education-trends/covid-19-will-blended-learning-become-the-future-of-education" rel="noopener noreferrer nofollow" target="_blank">Covid-19: Will blended learning become the future of education?</a>
+</p>
+<p><a href="https://www.edutopia.org/article/blended-learning-built-teacher-expertise" rel="noopener noreferrer nofollow" target="_blank">Blended learning built on teacher expertise</a>
+</p>
+<p><a href="https://www.theedublogger.com/teaching-online-school-closures" rel="noopener noreferrer nofollow" target="_blank">Resources for Teaching Online due to School Closures</a>
+</p>
