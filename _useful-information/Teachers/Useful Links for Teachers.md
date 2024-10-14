@@ -254,17 +254,9 @@ variant: tiptap
 </p>
 <p><a href="https://sites.google.com/g.nie.edu.sg/nievideomeetingplatforms/online-teaching-strategies" rel="noopener noreferrer nofollow" target="_blank">Online teaching strategies</a>
 </p>
-<p><a href="https://theconversation.com/how-to-create-engaging-online-learning-amid-covid-19-pandemic-lessons-from-singapore-138979" rel="noopener noreferrer nofollow" target="_blank">How to create engaging online learning amid Covid-19 pandemic: Lessons from Singapore</a>
-</p>
 <p><a href="https://sites.google.com/g.nie.edu.sg/in-learning-resource-sites/home" rel="noopener noreferrer nofollow" target="_blank">Teaching and Learning Continuity</a>
 </p>
 <p><a href="https://singteach.nie.edu.sg/vsl-digital-learning" rel="noopener noreferrer nofollow" target="_blank">Digital learning in the time of a pandemic</a>
-</p>
-<p><a href="https://www.teachermagazine.com.au/articles/covid-19-practical-tips-for-early-years-teaching-and-learning" rel="noopener noreferrer nofollow" target="_blank">Covid-19: Practical tips for early years teaching and learning</a>
-</p>
-<p><a href="http://www.oecd.org/education/Supporting-the-continuation-of-teaching-and-learning-during-the-COVID-19-pandemic.pdf" rel="noopener noreferrer nofollow" target="_blank">Supporting the continuation of teaching and learning during the Covid-19 pandemic</a>
-</p>
-<p><a href="https://eu-acerforeducation.acer.com/education-trends/covid-19-will-blended-learning-become-the-future-of-education" rel="noopener noreferrer nofollow" target="_blank">Covid-19: Will blended learning become the future of education?</a>
 </p>
 <p><a href="https://www.edutopia.org/article/blended-learning-built-teacher-expertise" rel="noopener noreferrer nofollow" target="_blank">Blended learning built on teacher expertise</a>
 </p>
