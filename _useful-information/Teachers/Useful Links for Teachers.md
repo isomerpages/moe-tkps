@@ -255,8 +255,6 @@ variant: tiptap
 </p>
 <p><a href="https://sites.google.com/g.nie.edu.sg/in-learning-resource-sites/home" rel="noopener noreferrer nofollow" target="_blank">Teaching and Learning Continuity</a>
 </p>
-<p><a href="https://singteach.nie.edu.sg/vsl-digital-learning" rel="noopener noreferrer nofollow" target="_blank">Digital learning in the time of a pandemic</a>
-</p>
 <p><a href="https://www.edutopia.org/article/blended-learning-built-teacher-expertise" rel="noopener noreferrer nofollow" target="_blank">Blended learning built on teacher expertise</a>
 </p>
 <p><a href="https://www.theedublogger.com/teaching-online-school-closures" rel="noopener noreferrer nofollow" target="_blank">Resources for Teaching Online due to School Closures</a>
