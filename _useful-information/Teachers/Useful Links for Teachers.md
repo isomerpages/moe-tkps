@@ -159,9 +159,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -175,13 +173,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 166px; height: 126px;" height="auto" width="100%" alt="MOE.png" src="/images/MOE.png">
 </div>
-<p><strong><a href="https://www.moe.gov.sg/microsites/psle/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE PSLE</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 166px; height: 126px;" height="auto" width="100%" alt="MOE.png" src="/images/MOE.png">
-</div>
 <p><strong><a href="https://www.moe.gov.sg/compass" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Compass</u></a></strong>
 </p>
 </td>
@@ -191,6 +182,9 @@ variant: tiptap
 </div>
 <p><strong><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE</u></a></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
