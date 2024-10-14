@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Teachers
 variant: tiptap
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -43,29 +44,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 58px;" height="auto" width="100%" alt="OPAL 2.0.png" src="/images/OPAL%202.png">
 </div>
 <p><strong><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DrBldC8-eIC_F-e8RGM-3o04S4nSy8K40Sx6Wxoq2sL0b0%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Dcxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DVAUPMJ-nM4JDNxR04tWEjyGRq6ailQE7DzQxdKz9KqM%26code_challenge_method%3DS256%26nonce%3DrBldC8-eIC_F-e8RGM-3o04S4nSy8K40Sx6Wxoq2sL0b0" rel="noopener noreferrer nofollow" target="_blank"><u>OPAL 2.0</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 185px; height: 81px;" height="auto" width="100%" alt="Academy of Singapore Teachers.jpg" src="/images/Academy%20of%20Singapore%20Teachers.jpeg">
-</div>
-<p><strong><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Academy of Singapore Teachers</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,9 +61,7 @@ variant: tiptap
 </div>
 <p><strong><a href="https://hrms.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>HRMS</u></a></strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -92,10 +72,34 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 185px; height: 81px;" height="auto" width="100%" alt="Academy of Singapore Teachers.jpg" src="/images/Academy%20of%20Singapore%20Teachers.jpeg">
+</div>
+<p><strong><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Academy of Singapore Teachers</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 184px; height: 89px;" height="auto" width="100%" alt="SLS.jpg" src="/images/SLS.jpeg">
 </div>
 <p><strong><a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SLS</u></a></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -119,25 +123,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block;" height="auto" width="100%" alt="Mesrc.png" src="/images/Mesrc.png">
 </div>
 <p><strong><a href="https://lms.wizlearn.com/LMS/Login_main.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>MESRC</u></a></strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -149,9 +140,31 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TKP ICT Glossary Website.png" src="/images/TKP%20ICT%20Glossary%20Website.png">
+</div>
+<p></p>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/tkp-ict-glossary/home" rel="noopener noreferrer nofollow" target="_blank"><u>TKP ICT Glossary Site</u></a></strong>
+</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -182,24 +195,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TKP ICT Glossary Website.png" src="/images/TKP%20ICT%20Glossary%20Website.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong><a href="https://sites.google.com/moe.edu.sg/tkp-ict-glossary/home" rel="noopener noreferrer nofollow" target="_blank"><u>TKP ICT Glossary Site</u></a></strong>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
