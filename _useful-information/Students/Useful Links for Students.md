@@ -3,12 +3,80 @@ title: Useful Links for Students
 permalink: /useful-information/students/useful-links-for-students/
 description: ""
 third_nav_title: Students
+variant: tiptap
 ---
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 890px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block;" class="ive_eobj_center ive_clickable" alt="iMTL.png" src="/images/iMTL.png"><div style="margin: 0px; outline: 0px; padding: 20px 0px 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login">iMTL</a><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 113px;" class="ive_eobj_center ive_clickable" alt="SLS.jpg" src="/images/SLS.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="http://learning.moe.edu.sg/">SLS</a></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 276px; height: 70px;" class="ive_eobj_center ive_clickable" alt="asknlearn.jpg" src="/images/asknlearn.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 5px 0px 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://lms.wizlearn.com/LMS/Login_main.aspx">Asknlearn</a></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 164px; height: 125px;" class="ive_eobj_center ive_clickable" alt="MOE.png" src="/images/MOE.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://www.moe.gov.sg/">MOE</a></span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 423px; height: 54px;" class="ive_eobj_center ive_clickable" alt="discoveReads.png" width="100%" src="/images/discoveReads.png"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 15px 0px 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500; background-color: initial;" target="_blank" href="https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary">National Library Board (Primary)</a><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 116px; height: 116px;" class="ive_eobj_center" alt="logo.png" src="/images/tkp%20student%20icon.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(33, 8, 138); text-decoration: underline; font-weight: 500;" target="_blank" href="https://workspace.google.com/dashboard">TKP Student ICON</a></span></div></td></tr></tbody></table>
-
-  
-[Student iCON Onboarding Guide – TKP (Updated 28 Apr 21)](https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/Student%20iCON%20Onboarding%20Guide_TkpsUpdated%2028%20Apr%2021.pptx) (PPT file)  <br>
-[Video Conferencing with Zoom (students)](/files/Video%20Conferencing%20with%20Zoom%20students.pdf)<br>
-[10 Good Habits for Successful Home-based Learning Experience](/files/10%20Good%20Habits%20for%20Successful%20Home-based%20Learning%20Experience.pdf) <br>
-[How to keep up with your studies when you are away from school](/files/How%20to%20keep%20up%20with%20your%20studies%20when%20you%20are%20away%20from%20school.pdf) <br>
-[Reading during HBL (full)](/files/Reading%20during%20HBL%20full.pdf)
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 113px;" height="auto" width="100%" alt="SLS.jpg" src="/images/SLS.jpeg">
+</div>
+<p><strong><a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SLS</u></a></strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 276px; height: 70px;" height="auto" width="100%" alt="asknlearn.jpg" src="/images/asknlearn.jpeg">
+</div>
+<p>
+<br>
+</p>
+<p><strong><a href="https://lms.wizlearn.com/LMS/Login_main.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Asknlearn</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 164px; height: 125px;" height="auto" width="100%" alt="MOE.png" src="/images/MOE.png">
+</div>
+<p><strong><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 423px; height: 54px;" height="auto" width="100%" alt="discoveReads.png" src="/images/discoveReads.png">
+</div>
+<p>
+<br>
+</p>
+<p><strong><a href="https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary" rel="noopener noreferrer nofollow" target="_blank"><u>National Library Board (Primary)</u></a></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 116px; height: 116px;" height="auto" width="100%" alt="logo.png" src="/images/tkp%20student%20icon.png">
+</div>
+<p><strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>TKP Student ICON</u></a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://tanjongkatongpri.moe.edu.sg/qql/slot/u742/2020/Useful%20Links/Pupils/Useful%20Links%20for%20Pupils/Student%20iCON%20Onboarding%20Guide_TkpsUpdated%2028%20Apr%2021.pptx" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Guide – TKP (Updated 28 Apr 21)</a> (PPT
+file)
+<br><a href="/files/Video%20Conferencing%20with%20Zoom%20students.pdf" rel="noopener noreferrer nofollow" target="_blank">Video Conferencing with Zoom (students)</a>
+<br><a href="/files/10%20Good%20Habits%20for%20Successful%20Home-based%20Learning%20Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">10 Good Habits for Successful Home-based Learning Experience</a> 
+<br><a href="/files/How%20to%20keep%20up%20with%20your%20studies%20when%20you%20are%20away%20from%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">How to keep up with your studies when you are away from school</a> 
+<br><a href="/files/Reading%20during%20HBL%20full.pdf" rel="noopener noreferrer nofollow" target="_blank">Reading during HBL (full)</a>
+</p>
