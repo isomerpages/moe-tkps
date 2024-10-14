@@ -59,8 +59,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 89px;" height="auto" width="100%" alt="HRMS.jpg" src="/images/HRMS.jpeg">
 </div>
-<p><strong><a href="https://hrms.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>HRMS</u></a></strong>
-</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
