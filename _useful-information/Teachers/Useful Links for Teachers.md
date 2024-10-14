@@ -47,11 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 233px; height: 89px;" height="auto" width="100%" alt="School Cockpit.png" src="/images/School%20Cockpit.png">
-</div>
-<p><strong><a href="https://schoolcockpit.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>School Cockpit</u></a></strong>
-</p>
 <p>
 <br>
 </p>
