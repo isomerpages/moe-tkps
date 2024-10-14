@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Teachers
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -40,6 +41,9 @@ variant: tiptap
 <p><strong><a href="http://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Intranet</u></a></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -69,6 +73,9 @@ variant: tiptap
 <p><strong><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Academy of Singapore Teachers</u></a></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,6 +102,9 @@ variant: tiptap
 <p><strong><a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SLS</u></a></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -118,14 +128,9 @@ variant: tiptap
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 292px; height: 30px;" height="auto" width="100%" alt="PaCGov.jpg" src="/images/PaCGov.jpeg">
-</div>
-<p>
-<br>
-</p>
-<p><strong><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" rel="noopener noreferrer nofollow" target="_blank"><u>PAC@GOV</u></a></strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -153,6 +158,9 @@ variant: tiptap
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -175,6 +183,9 @@ variant: tiptap
 </div>
 <p><strong><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE</u></a></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -200,6 +211,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
