@@ -120,7 +120,7 @@ We hope the briefing has enabled better home-school link and stronger partnershi
 
 ##### Letters to Parents 2022
 
-Dear Parents, please&nbsp;[click](/tkp/announcements/letters-to-parents-2022)&nbsp;the subject header for our monthly newsletters for 2022.
+Dear Parents, please&nbsp;[click]&nbsp;the subject header for our monthly newsletters for 2022.
 
 ##### Schoolbag article featuring Science Lessons
 
@@ -128,19 +128,19 @@ Please click&nbsp;[here](/tkp/announcements/schoolbag-article-featuring-science-
 
 ##### \[Parent Kit\] Do’s and Don’ts to help manage examination stress!
 
-In this issue of Parent Kit, we provide you with practical tips to manage the examination stress, and invite you to hear from fellow parents how they support their children through examination periods. Click&nbsp;[here](/useful-information/parents/parent-kit/parent-kit-do-s-and-don-ts-to-help-manage-examination-stress)&nbsp;to find out more.
+In this issue of Parent Kit, we provide you with practical tips to manage the examination stress, and invite you to hear from fellow parents how they support their children through examination periods. 
 
 ##### \[Parent Kit\] My Independent Learner!
 
-To encourage and motivate more parents to support their children to be independent, we offer you tips on how you can give your child space to learn and grow in confidence. Please&nbsp;[click](/useful-information/parents/parent-kit/parent-kit-my-independent-learner)&nbsp;the subject head for more details.
+To encourage and motivate more parents to support their children to be independent, we offer you tips on how you can give your child space to learn and grow in confidence. 
 
 ##### \[Parent Kit\] Stay Home, Stay Safe, Stay Curious – School Holiday Edition
 
-Let’s continue to do our part to fight the virus as we stay home, stay safe and stay curious this season! Please&nbsp;[click](/useful-information/parents/parent-kit/parent-kit-stay-home-stay-safe-stay-curious-school-holiday-edition)&nbsp;the subject head for more details.
+Let’s continue to do our part to fight the virus as we stay home, stay safe and stay curious this season
 
 ##### \[Parent Kit\] Part 3: Stay Home, Stay Safe, Stay Curious
 
-Let us all learn together and adapt to the new challenges... Please&nbsp;[click](/useful-information/parents/parent-kit/parent-kit-part-3-stay-home-stay-safe-stay-curious)&nbsp;the subject head for more details.
+Let us all learn together and adapt to the new challenges... 
 
 ##### \[Parent Kit\] Part 2: Home-Based Learning – Don’t Worry, Be Steady!
 
@@ -154,6 +154,4 @@ Join MOE’s Facebook Live Session, “Ask Me Anything About…&nbsp;[Home-Based
 
 "We are all learning something new......" Please&nbsp;[click](/tkp/announcements/schoolbag-article-we-are-all-learning-something-new)&nbsp;the subject head for more details.
 
-##### COVID-19 Infection precautionary measures
 
-[COVID-19 Infection precautionary measures](/tkp/announcements/covid-19-infection-precautionary-measures)
