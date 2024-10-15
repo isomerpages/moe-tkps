@@ -2,6 +2,7 @@
 title: Home Based Learning Tips for Parents
 permalink: /useful-information/parents/useful-links-for-parents/home-based-learning-tips-for-parents/
 description: ""
+variant: markdown
 ---
 ### MOE Resources
 
@@ -65,12 +66,6 @@ description: ""
 
   
 
-[20 Awesome Activities to Keep Your Kids Active and Happy During School Holidays](https://www.thebetterindia.com/51439/children-activities-kids-happy-occupied-indoors-outdoors-summer-school-holidays)
-
-  
-
-[Home-based school holidays: Parents, here are some activities for the kids to enjoy](https://cnalifestyle.channelnewsasia.com/trending/school-holidays-activities-singapore-online-12693710)
-
-  
+[20 Awesome Activities to Keep Your Kids Active and Happy During School Holidays](https://www.thebetterindia.com/51439/children-activities-kids-happy-occupied-indoors-outdoors-summer-school-holidays)  
 
 [Office of Education Research, NIE NTU – Parenting tips during home-based learning](https://www.facebook.com/956153501089872/posts/3025448180827050/?vh=e&d=n)
