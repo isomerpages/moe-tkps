@@ -88,4 +88,20 @@ on the schedule and venue accordingly.</p>
 <br>The recreational squads train once a week on Fridays.
 <br>
 <br>Time: 3:30pm -5:30pm</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Senior_Girls_Team_Resize.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Football_Junior_Girls_Team_Resize.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>&lt;</p>
