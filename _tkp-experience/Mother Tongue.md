@@ -138,7 +138,6 @@ and Wushu exposed the pupils to various aspects of their traditional culture.''<
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MT_Photo_Chinese_Chess__Resize_1.jpg">
 </div>
 <p></p>
-<p></p>
 <h5>Interclass competitions</h5>
 <p>Across the different levels, there would be interclass competitions such
 as singing, writing etc. This is to provide a platform for healthy competition,
