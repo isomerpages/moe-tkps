@@ -123,6 +123,10 @@ dialects etc. All these activities help to arouse interest in the learning
 of the Chinese Culture.</p>
 <h5>2024 Chinese Challenge</h5>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Inter_school_competition_Resize.jpg">
+</div>
+<p></p>
 <h5>P5 Beijing Overseas Immersion</h5>
 <p>P5 Beijing Overseas Immersion takes place towards the end of term 3. A
 group of selected P5HCL students would be accompanied by Chinese Language
