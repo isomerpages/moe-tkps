@@ -139,9 +139,6 @@ and Wushu exposed the pupils to various aspects of their traditional culture.''<
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MT_Photo_Chinese_Fortnite_Picture__resize.jpg">
-</div>
 <h5>Interclass competitions</h5>
 <p>Across the different levels, there would be interclass competitions such
 as singing, writing etc. This is to provide a platform for healthy competition,
@@ -149,9 +146,12 @@ as well as arouse learning interest through the participation of the various
 activities.</p>
 <p><strong>P1</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Photo_Chinese_Fortnite_Picture__resize.jpg">
+</div>
 <p><strong>P3 &amp; P4</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrJCTGcGH5eull-QDEuRcTutJAlSJY5WqHZM-bUUrokYc6cI9_f7DtiRnRuexLdpkQJryGHunBUlrJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<p></p>
+<p></p>
 <p></p>
