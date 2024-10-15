@@ -35,7 +35,7 @@ values as they learn</p>
 <h3>Useful links:</h3>
 <p><a href="https://musicimpactglobal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://musicimpactglobal.com.sg/</a>
 </p>
-<h5> SYF 2024</h5>
+<h5>SYF 2024</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2024_Resize.jpg">
 </div>
@@ -45,12 +45,12 @@ values as they learn</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Mountbatten_Youth_Got_Talent__Showcase_Resize.jpg">
 </div>
 <p></p>
-<h5>2023 Prize Giving Ceremony Performance </h5>
+<h5>2023 Prize Giving Ceremony Performance</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Prize_Giving_Ceremony_Performance__resize.png">
 </div>
 <p></p>
-<h5>2023 Guitar Ensemble </h5>
+<h5>2023 Guitar Ensemble</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2024_Resize.jpg">
 </div>
