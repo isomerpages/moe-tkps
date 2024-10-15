@@ -110,7 +110,7 @@ activities related to the festival to engage the students. Students are
 encouraged to wear red that day to create the festive mood.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_Web_site_Resize_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_Web_site_Resize_2.jpg">
 </div>
 <h5>P4 Cultural Day Camp</h5>
 <p>Opportunities are created for our Primary 4 pupils to learn more about
