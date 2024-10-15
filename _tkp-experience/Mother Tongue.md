@@ -153,5 +153,8 @@ activities.</p>
 <p><strong>P3 &amp; P4</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Class_competition_Resize.jpg">
+</div>
 <p></p>
 <p></p>
