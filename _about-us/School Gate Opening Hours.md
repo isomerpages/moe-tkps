@@ -7,8 +7,9 @@ variant: tiptap
 <p>The school gates operating hours are as follows:</p>
 <p><strong>For Vehicles</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -32,6 +33,9 @@ variant: tiptap
 <p><strong>Remarks</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -47,9 +51,15 @@ variant: tiptap
 <br>2.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Entrance Gate for vehicles from 6.30 am to 7.45 am
-<br>* <strong>From 12.45 pm to 1.45 pm, no vehicle entry except for school buses only.</strong>
-</p>
+<p>*Entrance Gate for vehiclesfrom 6.40 am to 8.15 am.</p>
+<p><strong>*Guard</strong> from 6.40 am to 8.15 am.</p>
+<p></p>
+<p><strong>*Guard </strong>from 12.45 pm to 1.45 pm, no vehicle entry except
+for school buses only.</p>
+<p><strong>*Guard </strong>from 1.45 pm to 2.15 pm.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -70,8 +80,14 @@ pm to 7.00 pm
 <br>* <strong>No entry from 6.30 am to 7.45 am and 12.30 pm to 2.15 pm.</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
