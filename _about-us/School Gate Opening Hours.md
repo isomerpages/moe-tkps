@@ -65,7 +65,8 @@ for school buses only.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 1 (Mon to Fri except Wed)</p>
+<p>Gate 1</p>
+<p>(Mon to Fri except Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.00 pm</p>
@@ -151,8 +152,8 @@ am, 8.15 am to 12.45 pm and 2.15 pm to 7.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 3
-<br>(along Seraya Road)</p>
+<p>Gate 3</p>
+<p>(along Seraya Road)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30 am</p>
