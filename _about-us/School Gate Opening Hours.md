@@ -95,8 +95,9 @@ for school buses only.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Exit Gate for vehicles.&nbsp; *Entrance for vehicles from 6.00 to 6.40
-am, 8.15 am to 12.45 pm and 2.15 pm to 7.00 pm.</p>
+<p>*Exit Gate for vehicles.&nbsp;</p>
+<p>*Entrance for vehicles from 6.00 to 6.40 am, 8.15 am to 12.45 pm and 2.15
+pm to 7.00 pm.</p>
 <p>* <strong>No entry from 6.40 am to 8.15 am,12.45 pm to 2.15 pm.</strong>
 </p>
 <p>*Mon to Fri except Wed no entry from 4.00 pm to 4.30 pm and 5.00 pm to
