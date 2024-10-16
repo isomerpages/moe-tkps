@@ -206,7 +206,6 @@ am, 8.15 am to 12.45 pm and 2.15 pm to 7.00 pm.</p>
 <td rowspan="1" colspan="1">
 <p>*P3 &amp; P4 School Dismissal Parents’ Waiting Area</p>
 <p>*<strong>OSO /Teacher</strong> from 6.45 am to 7.30 am.</p>
-<p>&nbsp;</p>
 <p>*<strong>OSO / Teacher</strong> from 1.30 pm to 2.00 pm</p>
 <p>*<strong>Turnstile open – one-way exit only from 2.00 pm to 6.00 pm</strong>
 </p>
