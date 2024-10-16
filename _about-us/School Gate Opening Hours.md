@@ -7,7 +7,6 @@ variant: tiptap
 <p>*</p>
 <p><strong>For Vehicles</strong>
 </p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -121,6 +120,7 @@ am, 8.15 am to 12.45 pm and 2.15 pm to 7.00 pm.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>For Pedestrians</strong>
 </p>
 <table style="minWidth: 100px">
@@ -207,7 +207,7 @@ am, 8.15 am to 12.45 pm and 2.15 pm to 7.00 pm.</p>
 <p>*<strong>OSO /Teacher</strong> from 6.45 am to 7.30 am.</p>
 <p>&nbsp;</p>
 <p>*<strong>OSO / Teacher</strong> from 1.30 pm to 2.00 pm</p>
-<p>Ø&nbsp; <strong>Turnstile open – one-way exit only from 2.00 pm to 6.00 pm</strong>
+<p>*<strong>Turnstile open – one-way exit only from 2.00 pm to 6.00 pm</strong>
 </p>
 </td>
 </tr>
