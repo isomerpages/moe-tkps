@@ -33,13 +33,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 257px; height: 73px;" height="auto" width="100%" alt="MOE Intranet.png" src="/images/MOE%20Intranet.png">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TKP ICT Glossary Website.png" src="/images/TKP%20ICT%20Glossary%20Website.png">
 </div>
-<p><strong><a href="http://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Intranet</u></a></strong>
+<p></p>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/tkp-ict-glossary/home" rel="noopener noreferrer nofollow" target="_blank"><u>TKP ICT Glossary Site</u></a></strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,13 +138,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TKP ICT Glossary Website.png" src="/images/TKP%20ICT%20Glossary%20Website.png">
-</div>
 <p></p>
-<p><strong><a href="https://sites.google.com/moe.edu.sg/tkp-ict-glossary/home" rel="noopener noreferrer nofollow" target="_blank"><u>TKP ICT Glossary Site</u></a></strong>
-</p>
 <p></p>
 <p></p>
 </td>
