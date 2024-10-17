@@ -2,24 +2,232 @@
 title: School Gate Opening Hours
 permalink: /about-us/school-gate-opening-hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-The school gates operating hours are as follows:
-
-**For Vehicles**
-
-| **Gate No.**  | **Gates Opened**  | **Gates Closed**  | **Remarks**  |
-|:-:|---|---|---|
-| Gate 1<br>(along Seraya Road)  | 6.30 am<br>12.45 pm\*  | 7.45 am<br>2.15 pm  | *   Entrance Gate for vehicles from 6.30 am to 7.45 am<br>*   **From 12.45 pm to 1.45 pm, no vehicle entry except for school buses only.**  |
-| Gate 2<br>(along Seraya Road)  | 6.00 am  |7.00 pm   | *   Exit Gate for vehicles during peak hours<br>*   Entrance &amp; Exit Gate for vehicles from 7.30 am to 12.30 pm and 2.15 pm to 7.00 pm<br>*   **No entry from 6.30 am to 7.45 am and 12.30 pm to 2.15 pm.**  |
-|   |   |   |   |
-
-**For Pedestrians**
-
-| **Gate No.**  | **Gates Opened**  | **Gates Closed**  | **Remarks**  |
-|:-:|---|---|---|
-| Gate 3<br>(along Seraya Road)  | 6.30 am  | 7.00 pm  | *   P1 &amp; P2 school dismissal at Parents’ Waiting Area near Guard Post - parents’ pick up point.  |
-| Gate 5<br>(along Haig Road)  | 6.45 am<br>1.30 pm  | 7.30 am<br>2.00 pm  |  *   Please proceed to Gate 3 if you arrive after 7.30 am |
-| Gate 7<br>(along Fowlie Road)  | 6.45 am<br>1.30 pm  |  7.30 am<br>2.00 pm | *   Please proceed to Gate 3 if you arrive after 7.30 am<br>*   Turnstile use for exit till 6.00 p.m. only  |
-
-|   |   |   |   |
+<p>*</p>
+<p><strong>For Vehicles</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Gate No.</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Gates Opened</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Gates Closed</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gate 1</strong>
+</p>
+<p>(along Seraya Road)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.40 am</p>
+<p>12.45 pm</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.15 am</p>
+<p>2.15 pm</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*Entrance Gate for vehicles from 6.40 am to 8.15 am.</p>
+<p>*<strong>Guard </strong>from 6.40 am to 8.15 am.</p>
+<p>*<strong>Guard </strong>from 12.45 pm to 1.45 pm, no vehicle entry except
+for school buses only.</p>
+<p><strong>*Guard </strong>from 1.45 pm to 2.15 pm</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gate 1</strong>
+</p>
+<p>(Mon to Fri except Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.00 pm</p>
+<p>&nbsp;5.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.30 pm</p>
+<p>5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*<strong>Guard</strong> from 4.00 pm to 4.30 pm</p>
+<p>&nbsp;</p>
+<p>*<strong>Guard</strong> from 5.00 pm to 5.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gate 2</strong>
+</p>
+<p>(along Seraya Road)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 pm</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*Exit Gate for vehicles.&nbsp;</p>
+<p>*Entrance for vehicles from 6.00 to 6.40 am, 8.15 am to 12.45 pm and 2.15
+pm to 7.00 pm.</p>
+<p>* <strong>No entry from 6.40 am to 8.15 am,12.45 pm to 2.15 pm.</strong>
+</p>
+<p>*Mon to Fri except Wed no entry from 4.00 pm to 4.30 pm and 5.00 pm to
+5.30 pm</p>
+<p>*<strong>Guard </strong>from 6.00 am to 7.00 pm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gate 6</strong>
+</p>
+<p>(along Haig Rd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*For Fire Engine Access Only</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>For Pedestrians</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Gate No.</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Gates Opened</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Gates Closed</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gate 3</strong>
+</p>
+<p>(along Seraya Road)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>* P1 &amp; P2 school dismissal at Parents’ Waiting Area near Guard Post
+- parents’ pick up point.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gate 5</strong>
+</p>
+<p>(along <strong>Haig Road)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6.45 am.</strong>
+</p>
+<p><strong>1.30 pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7.30 am.</strong>
+</p>
+<p><strong>2.00 pm</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>*P5 &amp; P6 School Dismissal Parents’ Waiting Area</strong>
+</p>
+<p><strong>*OSO /Teacher from 6.45 am to 7.30 am.</strong>
+</p>
+<p><strong>*OSO/ Teacher from 1.30 pm to 2.00 pm.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gate 7</strong>
+</p>
+<p>(along Fowlie Road)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.45 am</p>
+<p>1.30 pm</p>
+<p>&nbsp;</p>
+<p>2.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am</p>
+<p>2.00 pm</p>
+<p>&nbsp;</p>
+<p>6.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*P3 &amp; P4 School Dismissal Parents’ Waiting Area</p>
+<p>*<strong>OSO /Teacher</strong> from 6.45 am to 7.30 am.</p>
+<p>*<strong>OSO / Teacher</strong> from 1.30 pm to 2.00 pm</p>
+<p>*<strong>Turnstile open – one-way exit only from 2.00 pm to 6.00 pm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>| | | | |</p>
