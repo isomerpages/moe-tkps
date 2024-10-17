@@ -35,7 +35,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 1</p>
+<p><strong>Gate 1</strong>
+</p>
 <p>(along Seraya Road)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +66,8 @@ for school buses only.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 1</p>
+<p><strong>Gate 1</strong>
+</p>
 <p>(Mon to Fri except Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +86,8 @@ for school buses only.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 2</p>
+<p><strong>Gate 2</strong>
+</p>
 <p>(along Seraya Road)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +110,8 @@ pm to 7.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 6</p>
+<p><strong>Gate 6</strong>
+</p>
 <p>(along Haig Rd)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +157,8 @@ pm to 7.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 3</p>
+<p><strong>Gate 3</strong>
+</p>
 <p>(along Seraya Road)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,27 +174,38 @@ pm to 7.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 5</p>
-<p>(along Haig Road)</p>
+<p><strong>Gate 5</strong>
+</p>
+<p>(along <strong>Haig Road)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.45 am.</p>
-<p>1.30 pm</p>
+<p><strong>6.45 am.</strong>
+</p>
+<p><strong>1.30 pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 am.</p>
-<p>2.00 pm</p>
-<p>&nbsp;</p>
+<p><strong>7.30 am.</strong>
+</p>
+<p><strong>2.00 pm</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*P5 &amp; P6 School Dismissal Parents’ Waiting Area</p>
-<p>*<strong>OSO /Teacher</strong> from 6.45 am to 7.30 am.</p>
-<p>*<strong>OSO/ Teacher</strong> from 1.30 pm to 2.00 pm.</p>
+<p><strong>*P5 &amp; P6 School Dismissal Parents’ Waiting Area</strong>
+</p>
+<p><strong>*OSO /Teacher from 6.45 am to 7.30 am.</strong>
+</p>
+<p><strong>*OSO/ Teacher from 1.30 pm to 2.00 pm.</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 7</p>
+<p><strong>Gate 7</strong>
+</p>
 <p>(along Fowlie Road)</p>
 </td>
 <td rowspan="1" colspan="1">
