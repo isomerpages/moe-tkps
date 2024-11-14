@@ -2,14 +2,11 @@
 title: CCA
 permalink: /tkp-experience/cca/
 description: ""
+variant: markdown
 ---
 <h4 style="color:green">Head of Department:</h4>
 
 <h3 style="color:black">Ms Serene Ng</h3>
-
-<h4 style="color:green">Subject Head:</h4>
-
-<h3 style="color:black">Mr Mohamed Faizal</h3>
 
 <h3 style="color:green">Department Vision</h3>
 
@@ -48,7 +45,7 @@ Ultimately, the category and exact CCA that a student opts for is up to the indi
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/"><img src="/images/ELDDC.jpeg" alt="English Language Drama & Debate Club (ELDDC)" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/"><div align="center"><strong>English Language Drama & Debate Club (ELDDC)</strong></div></a></td>
+    <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/"><img src="/images/ELDDC.jpeg" alt="English Language Drama &amp; Debate Club (ELDDC)" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/"><div align="center"><strong>English Language Drama &amp; Debate Club (ELDDC)</strong></div></a></td>
     <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/art-club/"><img src="/images/Art-Club.jpeg" alt="Art Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/art-club/"><div align="center"><strong>Art Club</strong></div></a></td>
     <td class="tg-0lax"><a href="/tkp-experience/cca/clubs/infocomm-club/"><img src="/images/Infocomm.jpeg" alt="Infocomm Club" width="400" height="300"></a><a href="/tkp-experience/cca/clubs/infocomm-club/"><div align="center"><strong>Inforcomm Club</strong></div></a></td>
   </tr>
