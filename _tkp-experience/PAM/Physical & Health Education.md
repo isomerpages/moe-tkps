@@ -3,14 +3,11 @@ title: Physical & Health Education
 permalink: /tkp-experience/pam/physical-n-health-education/
 description: ""
 third_nav_title: PAM
+variant: markdown
 ---
 #### Head of Department:  
 
 **Ms Serene Ng**
-
-#### Subject Head:
-
-**Mr Mohd Faizal**
 
 #### Department Vision
 
@@ -29,19 +26,19 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/3I%20approach.png" alt="Department Approach" style="width:85%;">  
+<img src="/images/3I%20approach.png" alt="Department Approach" style="width:85%;">  
   
-</body>
+
 
 The teaching of PE lessons follows the school’s 3I Approach for Teaching and Learning.
 
   
 
-To make **instructional** lessons more engaging and authentic, PE lessons aims to have high physical activity time, and many hands-on opportunities through high ratio of student to equipment ratio. Teachers uses effective demonstrations to help students understand concepts and skills.
+To make&nbsp;**instructional**&nbsp;lessons more engaging and authentic, PE lessons aims to have high physical activity time, and many hands-on opportunities through high ratio of student to equipment ratio. Teachers uses effective demonstrations to help students understand concepts and skills.
 
   
 
-Through the many opportunities for **interactive** platforms such as pair/group work and team games, students also learn skills in a fun and engaging manner. These are also key platforms to instill values of collaborative learning in the students.
+Through the many opportunities for&nbsp;**interactive**&nbsp;platforms such as pair/group work and team games, students also learn skills in a fun and engaging manner. These are also key platforms to instill values of collaborative learning in the students.
 
   
 
