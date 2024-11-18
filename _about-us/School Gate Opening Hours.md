@@ -72,7 +72,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 2</p>
+<p><strong>Gate 2</strong>
+</p>
 <p>(along Seraya Road)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +96,8 @@ pm to 7.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 6</p>
+<p><strong>Gate 6</strong>
+</p>
 <p>(along Haig Rd)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +143,8 @@ pm to 7.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 3</p>
+<p><strong>Gate 3</strong>
+</p>
 <p>(along Seraya Road)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +160,8 @@ Area near Guard Post.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 5</p>
+<p><strong>Gate 5</strong>
+</p>
 <p>(along Haig Road)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,7 +181,8 @@ Area near Guard Post.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 7</p>
+<p><strong>Gate 7</strong>
+</p>
 <p>(along Fowlie Road)</p>
 </td>
 <td rowspan="1" colspan="1">
