@@ -34,5 +34,5 @@ sections:
       id: infobar
       description: FOR MORE INFORMATION
       button: CLICK HERE
-      url: /useful-information/parents/permalink/p1orientation2024
+      url: /useful-information/parents/permalink/p1orientation2024/
 ---
