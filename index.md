@@ -29,10 +29,10 @@ sections:
       button: Click Next
       url: https://tanjongkatongpri.moe.edu.sg/tkp/announcements/
   - infobar:
-      title: P1 Orientation 2023 Slides
+      title: P1 Orientation 2024 Slides
       subtitle: NEW INFO
       id: infobar
       description: FOR MORE INFORMATION
       button: CLICK HERE
-      url: /useful-information/parents/permalink/p1orientation2023
+      url: /useful-information/parents/permalink/p1orientation2024
 ---
