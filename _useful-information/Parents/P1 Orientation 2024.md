@@ -1,20 +1,16 @@
 ---
 title: P1 Orientation 2024
 permalink: /useful-information/parents/permalink/p1orientation2024/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Parents
 ---
-Dear Parent/Guardian,
-
-Please click the link [here](/files/P1_Orientation_Slides_2023__For_School_Website_.pdf) to access the P1 Orientation 2023 slides that was shared during P1 Orientation Day. 
-
-Thank you.
-
-Other important links for P1, 2025,
-
-[2025 P1-2 Cyber Wellness](/files/Annex___Primary_1_2_Parents_Briefing_on_Cyber_Wellness_for_2025.pdf)
-
-[2025 P1 Orientation Parent Engagement](/files/Annex___2024_Primary_1_Orientation_Parent_Engagement_Deck.pdf)
-
-
+<p>Dear Parent/Guardian,</p>
+<p>Please click the <a href="https://drive.google.com/file/d/1u7MKf_IlV_BLtQXHoyhMTbqKX-k7f0XS/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>to
+access the P1 Orientation 2023 slides that was shared during P1 Orientation
+Day.</p>
+<p>Thank you.</p>
+<p>Other important links for P1, 2025,</p>
+<p>[2025 P1-2 Cyber Wellness]</p>
+<p><a href="/files/Annex___2024_Primary_1_Orientation_Parent_Engagement_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Parent Engagement</a>
+</p>
