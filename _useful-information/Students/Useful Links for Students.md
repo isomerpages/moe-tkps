@@ -28,16 +28,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><a href="https://lms.wizlearn.com/wizlearnlms/login/login.aspx" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 276px; height: 70px;" height="auto" width="100%" alt="asknlearn.jpg" src="/images/asknlearn.jpeg">
 </div>
-<p>
-<br>
+<p><a href="https://lms.wizlearn.com/wizlearnlms/login/login.aspx" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
-<p><strong><a href="https://lms.wizlearn.com/LMS/Login_main.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Asknlearn</u></a></strong>
+<p><strong><a href="https://lms.wizlearn.com/wizlearnlms/login/login.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Asknlearn</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
