@@ -4,13 +4,12 @@ permalink: /tkp/school-calendar/
 description: ""
 variant: tiptap
 ---
-<h3><strong>SCHOOL TERMS AND HOLIDAYS FOR 2024</strong></h3>
-<p>(accurate as of 05 July 2024)</p>
+<h3><strong>SCHOOL TERMS AND HOLIDAYS FOR 2025</strong></h3>
+<p>(accurate as of 18 December 2024)</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>School Terms</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -19,24 +18,23 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Semester I</strong>
-</p>
+<p>Semester I</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tue 2 Jan<sup>1 </sup>to Fri 8 Mar</p>
+<p>Term I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><sup>1</sup>Thu 2 Jan to Fri 14 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 18 Mar to Fri 24 May</p>
+<p>Term II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mon 24 Mar to Fri 30 May</p>
 </td>
 </tr>
 <tr>
@@ -46,23 +44,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 24 Jun to Fri 30 Aug</p>
+<p>Term III</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mon 30 Jun to Fri 5 Sep</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 9 Sep to Fri 15 Nov</p>
+<p>Term IV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mon 15 Sep to Fri 21 Nov</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>1 Pri 1 &amp; K1 will start school on Tue, 2 Jan 2024. Pri 2 to Pri 6 &amp; K2 will start school on Wed, 3 Jan 2024.</em>
+<p><em><sup>&nbsp;1 </sup>Pri 1 &amp; K1 will start school on Thu, 2 Jan 2025. Pri 2 to Pri 6 &amp; K2 will start school on Fri, 3 Jan 2025.</em>
 </p>
 </td>
 </tr>
@@ -84,38 +82,34 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Between Terms I &amp; II</strong>
-</p>
+<p>Between Terms I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 9 Mar to Sun 17 Mar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Between Semesters I &amp; II</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sat 25 May to Sun 23 Jun</p>
+<p>Sat 15 Mar to Sun 23 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Between Terms III &amp; IV</strong>
-</p>
+<p>Between Semesters I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 31 Aug to Sun 8 Sep</p>
+<p>Sat 31 May to Sun 29 Jun</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>At End of School Year</strong>
-</p>
+<p>Between Terms III &amp; IV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 16 Nov to Tue 31 Dec</p>
+<p>Sat 6 Sep to Sun 14 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>At End of School Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sat 22 Nov to Wed 31 Dec</p>
 </td>
 </tr>
 </tbody>
@@ -143,7 +137,7 @@ variant: tiptap
 <p>New Year’s Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 1 Jan</p>
+<p>Wed 1 Jan</p>
 </td>
 </tr>
 <tr>
@@ -151,20 +145,17 @@ variant: tiptap
 <p>Chinese New Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 10 Feb</p>
+<p>Wed 29 Jan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun 11 Feb<sup>2</sup>
-</p>
+<p>Thu 30 Jan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><em><sup>2</sup>Mon, 12 Feb will be a public holiday and Tue, 13 Feb will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.</em>
-</p>
-<p><em>Students will be dismissed at 10.30am on Fri, 9 Feb.</em>
+<p><em>&nbsp;</em>
 </p>
 </td>
 </tr>
@@ -175,18 +166,18 @@ variant: tiptap
 <p>Term II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Good Friday</p>
+<p>Hari Raya Puasa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 29 Mar</p>
+<p><em><sup>2</sup></em>Mon 31 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
+<p>Good Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 10 Apr</p>
+<p>Fri 18 Apr</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +185,7 @@ variant: tiptap
 <p>Labour Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 1 May</p>
+<p>Thu 1 May</p>
 </td>
 </tr>
 <tr>
@@ -202,12 +193,13 @@ variant: tiptap
 <p>Vesak Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 22 May</p>
+<p>Mon 12 May</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>&nbsp;</p>
+<p><em>&nbsp;</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +210,7 @@ variant: tiptap
 <p>Hari Raya Haji</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 17 Jun</p>
+<p><em><sup>3</sup></em>Sat 7 Jun</p>
 </td>
 </tr>
 <tr>
@@ -226,14 +218,12 @@ variant: tiptap
 <p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 9 Aug<sup>*</sup>
-</p>
+<p><sup>4</sup>Sat 9 Aug</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><em>3 Students will be dismissed at 10.30am on Thu, 8 Aug.</em>
-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +234,7 @@ variant: tiptap
 <p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 31 Oct</p>
+<p>Mon 20 Oct</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +242,7 @@ variant: tiptap
 <p>Christmas Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 25 Dec</p>
+<p>Thu 25 Dec</p>
 </td>
 </tr>
 </tbody>
@@ -274,8 +264,8 @@ variant: tiptap
 <p>Youth Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Sun 30 Jun</p>
-<p><em>Mon 1 Jul is a scheduled school holiday</em>
+<p>Sun 6 Jul</p>
+<p><em>Mon 7 Jul is a scheduled school holiday</em>
 </p>
 </td>
 </tr>
@@ -284,7 +274,7 @@ variant: tiptap
 <p>Teachers’ Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 30 Aug*</p>
+<p><sup>5</sup>Fri 5 Sep</p>
 </td>
 </tr>
 <tr>
@@ -292,13 +282,12 @@ variant: tiptap
 <p>Children’s Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 4 Oct<em>*</em>
-</p>
+<p><sup>6</sup>Fri 3 Oct</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>*Students will be dismissed at 10.30am on Thu, 29 Aug and 3 Oct.</em>
+<p><em><sup>5/6 </sup>Students will be dismissed at 10.30am on Thu, 4 Sep and 2 Oct.</em>
 </p>
 </td>
 </tr>
@@ -318,11 +307,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent-Child-Teacher</p>
-<p>Conferencing (PCTC)</p>
+<p>Parent-Child-Teacher Conferencing (PCTC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 23 May – Fri 24 May</p>
+<p>Thu 29 May – Fri 30 May</p>
 <p><em>HBL for all Levels</em>
 </p>
 </td>
@@ -332,7 +320,7 @@ variant: tiptap
 <p>Games On! (P4 to P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue 2 Jul – Wed 3 Jul</p>
+<p><sup>7</sup>Thu 3 Jul to Fri 4 Jul</p>
 <p><em>HBL for P1 to P3</em>
 </p>
 </td>
@@ -342,19 +330,18 @@ variant: tiptap
 <p>PSLE Oral Examination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue 13 Aug – Wed 14 Aug</p>
-<p><em>P1-P5 students need not report to school</em>
+<p>Tue 12 Aug – Wed 13 Aug</p>
+<p><em>P1 to P5 students need not report to school</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PSLE Listening</p>
-<p>Comprehension Examination</p>
+<p>PSLE Listening Comprehension Examination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 13 Sep</p>
-<p><em>P1-P5 students need not report to school</em>
+<p>Fri 19 Sep</p>
+<p><em>P1 to P5 students need not report to school</em>
 </p>
 </td>
 </tr>
@@ -363,12 +350,33 @@ variant: tiptap
 <p>PSLE Written Examination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 26 Sept to Wed 2 Oct</p>
-<p><em>HBLfor P3 and P4 on selected dates:</em>
+<p>Thu 25 Sep to Wed 1 Oct</p>
+<p><em>HBL for P3 and P4 on selected dates:</em>
 </p>
-<p></p>
-<p>P3- Mon &amp; Tues, 30 Sep &amp; 1 Oct</p>
-<p>P4-Thu &amp; Fri, 26 &amp; 27 Sep</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon &amp; Tue, 25 &amp; 26 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu &amp; Fri, 29 &amp; 30 Sep</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 </td>
 </tr>
@@ -377,7 +385,7 @@ variant: tiptap
 <p>PSLE Marking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 14 Oct – Wed 16 Oct</p>
+<p>Mon 13 Oct – Wed 15 Oct</p>
 <p><em>All students need not report to school</em>
 </p>
 </td>
@@ -388,7 +396,7 @@ variant: tiptap
 <p>MK Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 6 Nov</p>
+<p>Wed 12 Nov</p>
 <p><em>All students need not report to school</em>
 </p>
 </td>
@@ -398,7 +406,7 @@ variant: tiptap
 <p>Prize-Giving Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 14 Nov</p>
+<p>Thu 20 Nov</p>
 <p><em>Only students involved need to report to school</em>
 </p>
 </td>
@@ -408,7 +416,7 @@ variant: tiptap
 <p>P1 Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 15 Nov</p>
+<p>Fri 21 Nov</p>
 <p><em>Only students involved need to report to school</em>
 </p>
 </td>
@@ -429,10 +437,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year celebrations</p>
+<p>Lunar New Year celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 9 Feb</p>
+<p>Tue 28 Jan</p>
 </td>
 </tr>
 <tr>
@@ -440,7 +448,7 @@ variant: tiptap
 <p>National Day celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 8 Aug</p>
+<p>Fri 8 Aug</p>
 </td>
 </tr>
 <tr>
@@ -448,7 +456,7 @@ variant: tiptap
 <p>Teachers’ Day celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 29 Aug</p>
+<p>Thu 4 Sep</p>
 </td>
 </tr>
 <tr>
@@ -456,7 +464,7 @@ variant: tiptap
 <p>Children’s Day celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 3 Oct</p>
+<p>Thu 2 Oct</p>
 </td>
 </tr>
 </tbody>
