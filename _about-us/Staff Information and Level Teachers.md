@@ -386,7 +386,7 @@ variant: tiptap
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chui_jia_hui_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rudra M (Miss) </a>
+<p><a href="mailto:chui_jia_hui_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rudra M (Miss)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
