@@ -602,7 +602,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Shan_MENGDI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shan Mengdi (Ms)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -851,8 +852,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shan_MENGDI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shan Mengdi (Ms)</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
