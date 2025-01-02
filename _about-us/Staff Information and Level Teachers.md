@@ -896,7 +896,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hamidah_binti_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hamidah Osman (Mdm)</a>
+<p><a href="mailto:anissa_ferdaus_md_salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Anissa Ferdaus</a>
+</p>
+<p><a href="mailto:phang_li_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(Mdm)(HOD EL)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -975,9 +977,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anissa_ferdaus_md_salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Anissa Ferdaus</a>
-</p>
-<p><a href="mailto:phang_li_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(Mdm)(HOD EL)</a>
+<p><a href="mailto:hamidah_binti_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hamidah Osman (Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
