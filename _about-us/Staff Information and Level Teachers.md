@@ -1202,42 +1202,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_siew_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ho Siew Min (Mdm)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hoon_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan Hoon Hoon (Mdm)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_wee_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Poh Wee Hoon (Mdm)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:ren_yanjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ren Yanjie (Ms)</a>
 </p>
 </td>
@@ -1262,7 +1226,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Zheng Wanru (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lynette Lian Yunhua (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vanessa Tan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
