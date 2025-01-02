@@ -709,11 +709,11 @@ variant: tiptap
 <p>4 Altruism</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farhana_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Farah A. Malik(Mdm)</a>
+<p><a href="mailto:farah_abd_malik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Farah A. Malik(Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwek_yee_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Piragatheeswari (Ms)</a>
+<p><a href="mailto:piragatheeswari_sigamani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Piragatheeswari (Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -725,13 +725,13 @@ variant: tiptap
 <p>4 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_shini_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Aslinda Hamid</a>
+<p><a href="mailto:aslinda_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Aslinda Hamid</a>
 </p>
 <p><a href="mailto:soh_shini_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(Mdm)(AYH MP)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:meng_yuqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Halimah Lin(Mdm)</a>
+<p><a href="mailto:halimah_lin_ami@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Halimah Lin(Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -743,11 +743,11 @@ variant: tiptap
 <p>4 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_ying_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan Shufang (Mrs)</a>
+<p><a href="mailto:song_shu_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tang Shufang (Mrs)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chew_kuat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Serene Ng.(Ms)(HOD PE &amp; CCA)</a>
+<p><a href="mailto:serene_a_ng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Serene Ng.(Ms)(HOD PE &amp; CCA)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -759,11 +759,11 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kristel_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Islinana Mohd (Mdm)</a>
+<p><a href="mailto:isliana_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Islinana Mohd (Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tam_aileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel Wang(Ms)</a>
+<p><a href="mailto:rachel_wang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel Wang(Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -775,7 +775,7 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lo_sing_hui_sophia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mastura Ahmad (Mdm)</a>
+<p><a href="mailto:mastura_ahmad_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mastura Ahmad (Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -791,41 +791,12 @@ variant: tiptap
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suhaili_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shirlene Yeo(Ms)</a>
+<p><a href="mailto:yeo_shirlene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shirlene Yeo(Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faizal_mak_said@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Aisyah AB (Mdm)</a>
+<p><a href="mailto:aisyah_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Aisyah AB (Mdm)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Vanessa Tan</p>
-<p>(FTJC CL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lynette Lian(Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Zainon (FAJT Art)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muru (Mrs) (FAJT TL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Low Boon Siang (FAJT PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
