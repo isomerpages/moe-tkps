@@ -598,7 +598,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Vincent S David(Mr.)</a>
+<p><a href="mailto:vincent_david@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vincent S David(Mr.)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -647,7 +647,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Emily Yu(Miss)</a>
+<p><a href="mailto:Yu_Yuxian_Emily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Emily Yu(Miss)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -896,7 +896,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Hamidah Osman (Mdm)</a>
+<p><a href="mailto:hamidah_binti_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hamidah Osman (Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
