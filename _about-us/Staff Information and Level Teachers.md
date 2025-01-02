@@ -1209,7 +1209,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zheng Wanru (Ms)</p>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Zheng Wanru (Ms)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1220,7 +1221,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lynette Lian Yunhua (Ms)</p>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Lynette Lian Yunhua (Ms)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1231,7 +1233,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vanessa Tan (Ms)</p>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Vanessa Tan Suan Yen (Ms)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1250,17 +1253,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Pamela_Oon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pamela Oon (Mrs)</a>
@@ -1330,53 +1322,64 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4>Allied Educators</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_shi_kai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim Shi Kai (Mr)</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="nur_elviana_mohamed_salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur Elviana Binte Mohamed Salleh (Mdm)</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Allied Educators</h4>
-<p><a href="mailto:lim_shi_kai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim Shi Kai (Mr)</a>&nbsp;</p>
-<p>(School Counsellor)</p>
-<p><a href="nur_elviana_mohamed_salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur Elviana Binte Mohamed Salleh (Mdm)</a>
-</p>
-<p>(School Counsellor)</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_Yen_Ping_Evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee Yen Ping Evelyn (Ms)</a>&nbsp;</p>
-<p>(SEN Officer)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Nelia Soon (Ms)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="nur_amirah_mohammad_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur Amirah Binte Mohammad Noor (Ms)</a>
 </p>
-<p>(SEN Officer)</p>
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Nelia Soon (Ms)</a>&nbsp;</p>
-<p>(SEN Officer)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wasylah_saud_marie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wasylah Binte Saud Marie (Ms)</a>&nbsp;</p>
-<p>(SEN Officer)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
