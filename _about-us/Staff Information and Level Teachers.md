@@ -1323,7 +1323,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Neo Aidi (Ms)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
