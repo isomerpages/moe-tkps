@@ -265,15 +265,6 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:norhafisza_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Norhafisza Mohamed Noor (Ms)</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Primary 1</h4>
@@ -642,7 +633,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Meng Yuqi (Ms)</p>
 </td>
 </tr>
 <tr>
