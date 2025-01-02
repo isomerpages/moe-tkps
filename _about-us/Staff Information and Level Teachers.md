@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:hamidah_binti_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Hamida Binte Osman (Mdm)</u></a></strong>
+<p><strong><a href="mailto:hamidah_binti_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Hamidah Binte Osman (Mdm)</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -492,7 +492,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parathi (Mrs)</p>
+<p><a href="mailto:r_manoonmany_mrs_parathi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Parathi Manoonmany (Mrs)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -609,7 +610,7 @@ variant: tiptap
 <p>3 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Teo Wee Ling (Miss)(YH MP)</a>
+<p><a href="mailto:teo_wee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo Wee Ling (Miss)(YH MP)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -633,7 +634,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Meng Yuqi (Ms)</p>
+<p><a href="mailto:meng_yuqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Meng Yuqi (Ms)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -849,7 +851,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shan Mengdi (Ms)</p>
+<p><a href="mailto:Shan_MENGDI@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shan Mengdi (Ms)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1093,7 +1096,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:arlinah_arsad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Arlinah Bte Arsad (Mdm</a>)</p>
+<p><a href="mailto:arlinah_arsad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Arlinah Bte Arsad (Mdm)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:magayshvari_krishnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Magayshvari d/o Krishnasamy (Mdm)</a>
