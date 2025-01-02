@@ -1376,7 +1376,7 @@ variant: tiptap
 <p><a href="nur_amirah_mohammad_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur Amirah Binte Mohammad Noor (Ms)</a>
 </p>
 <p>(SEN Officer)</p>
-<p><a href="mailto:saleha_abu_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Saleha Abu Hassan (Mdm)</a>&nbsp;</p>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Nelia Soon (Ms)</a>&nbsp;</p>
 <p>(SEN Officer)</p>
 <p><a href="mailto:wasylah_saud_marie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wasylah Binte Saud Marie (Ms)</a>&nbsp;</p>
 <p>(SEN Officer)</p>
