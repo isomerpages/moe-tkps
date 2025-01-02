@@ -1299,7 +1299,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Low_Boon_Siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low Boon Siang (Mr)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1308,11 +1309,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Suhaili_A_Latif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suhaili Binte Abdul Latif (Mdm)</a>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Lynette Lian Yunhua (Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Vanessa Tan Suan Yen (Ms)</a>
+</p>
 </td>
 </tr>
 <tr>
