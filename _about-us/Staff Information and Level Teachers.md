@@ -1269,7 +1269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Zheng Wanru (Ms)</a>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Cheng Wan Jee (Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
