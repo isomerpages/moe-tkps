@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head, Lower Primary (P3 &amp; P4)</p>
+<p>Year Head, Middle Primary (P3 &amp; P4)</p>
 </td>
 </tr>
 <tr>
