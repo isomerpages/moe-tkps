@@ -456,7 +456,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noormala_ahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Normala A.(Mdm)</a>
+<p><a href="mailto:noormala_ahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Noormala A.(Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -501,7 +501,7 @@ variant: tiptap
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:de_souza_carolyn_june@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Coralyn De Souza (Mdm)</a>
+<p><a href="mailto:de_souza_carolyn_june@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Carolyn De Souza (Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -753,7 +753,7 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:isliana_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Islinana Mohd (Mdm)</a>
+<p><a href="mailto:isliana_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Isliana Mohd (Mdm)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1007,7 +1007,7 @@ variant: tiptap
 <p>6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:camelia_ortega@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Camelia Otega (Ms)</a>
+<p><a href="mailto:camelia_ortega@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Camelia Ortega (Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1029,7 +1029,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kumuda_kaliyaperumal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kamuda Vijay(Mrs)</a>
+<p><a href="mailto:kumuda_kaliyaperumal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kumuda Vijay(Mrs)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
