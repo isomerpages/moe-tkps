@@ -533,7 +533,7 @@ variant: tiptap
 <p>2 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ruo_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim Rouxin</a>
+<p><a href="mailto:lim_ruo_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Li Rou Xin</a>
 </p>
 <p><a href="mailto:sim_wei_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(Mrs)</a>
 </p>
