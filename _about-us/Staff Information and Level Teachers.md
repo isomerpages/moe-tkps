@@ -103,14 +103,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department, ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan_boon_tiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Tan Boon Tiong (Mr)</u></a></strong>
 <br>
 </p>
