@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>SCHOOL TERMS AND HOLIDAYS FOR 2025</strong></h3>
-<p>(accurate as of 18 December 2024)</p>
+<p>(accurate as of 01 February 2025)</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>School Terms</strong>
@@ -320,7 +320,7 @@ variant: tiptap
 <p>Games On! (P4 to P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>7</sup>Thu 3 Jul to Fri 4 Jul</p>
+<p><sup>7</sup>Thu 10 Jul to Fri 11 Jul</p>
 <p><em>HBL for P1 to P3</em>
 </p>
 </td>
@@ -330,7 +330,7 @@ variant: tiptap
 <p>PSLE Oral Examination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue 12 Aug – Wed 13 Aug</p>
+<p>Wed 13 Aug – Thu 14 Aug</p>
 <p><em>P1 to P5 students need not report to school</em>
 </p>
 </td>
@@ -340,7 +340,7 @@ variant: tiptap
 <p>PSLE Listening Comprehension Examination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 19 Sep</p>
+<p>Tue 16 Sep</p>
 <p><em>P1 to P5 students need not report to school</em>
 </p>
 </td>
