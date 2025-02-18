@@ -6,42 +6,38 @@ third_nav_title: Sports Group
 variant: tiptap
 ---
 <h5>Teacher IC:</h5>
-<h3>Mr Mohamed Ashiq Mohamed Hashim</h3>
+<h3>Mr Muhammad Faizal</h3>
 <h5>CCA Teachers:</h5>
-<h3>Mdm Nur Hafizah Bte Abdul Manan, Ms Camelia Ortega, Mdm Nur Sabrina Binte Harun, Mdm Lim Ruo Xin, Mrs Tang Shu Fang,&nbsp;&nbsp;Mrs Deborah Tan and Mr Mohamed Faizal</h3>
-<p>The key objective of football in TKP is to develop the love and interest
-of the sport in our students. It is also our key goal to help students
-to maximise their full potential and equip students with skills to do their
-best in any competitions.</p>
-<p>Our competitive squads are provided with opportunities to play against
-other schools in hopes to gain valuable experiences and team bonding. We
-believe that competing in football teaches the students more than the rules
-of play; it provides one with tools that translate into other aspects of
-their life.</p>
-<p>For our recreational squads, we aim to create a respectful, positive and
-healthy environment for our students to improve their individual technical
-skills, physical conditioning as well as to improve their understanding
-and appreciation of team play.</p>
-<p>Through the guidance expertise of our dedicated and experienced coaches
-and teachers. We not only focus on developing and honing the technical
-skills of our players, such as dribbling, passing and tackling, but also
-to develop them into responsible self-leaders and an active contributors
-to the society. Other values such as commitment, perseverance, confidence,
-respect and camaraderie are inculcated in the students to develop them
-to not just be competent players but better individuals.</p>
+<h4>Mr Jerald Wong</h4>
+<h4>Mdm Lim Ruo Xin</h4>
+<h4>Miss Tashalini K P Sathasivam</h4>
+<h4>Mdm Piragatheeswari Sigamani</h4>
+<h4>Mr Hoon Thing Ming</h4>
+<h4>Mr Jimmy Tan</h4>
+<h4>Mdm Aslinda Hamid</h4>
+<p>The football program at TKP aims to instill a love for the sport, help
+students maximize their potential, and equip them with skills for competitions.
+Competitive squads gain valuable experience and team bonding through matches,
+learning life skills beyond the game. Recreational and developmental squads
+focus on improving technical abilities, physical conditioning, and teamwork
+in a positive environment. Guided by dedicated coaches and teachers, players
+develop skills like dribbling, passing, and tackling while embracing values
+such as commitment, perseverance, respect, and camaraderie. The program
+nurtures responsible self-leaders and active contributors to society, shaping
+students into skilled players and well-rounded individuals.</p>
 <h4>Objectives</h4>
 <p>Football in TKP is made up of the Competitive squads, Recreational squads
 and the Developmental squads.</p>
 <h5>Key Objectives of the whole Programme:</h5>
 <ol data-tight="true" class="tight">
 <li>
-<p>To develop students’ passion in the sport</p>
+<p>Foster a passion for football among students.</p>
 </li>
 <li>
-<p>To develop students’ skills</p>
+<p>Develop students' technical skills and understanding of the game.</p>
 </li>
 <li>
-<p>To enable students to learn values such as teamwork and discipline</p>
+<p>Instill values such as teamwork, discipline, and sportsmanship.</p>
 </li>
 </ol>
 <h5>Key Outcomes of the whole Programme:</h5>
@@ -61,43 +57,51 @@ fair play, teamwork and discipline through playing football</p>
 </ol>
 <h4>CCA Schedule / Venue:</h4>
 <hr>
-<ol data-tight="true" class="tight">
-<li>
-<p>School Field @Seraya</p>
-</li>
-<li>
-<p>Home United Youth Football Academy (HYFA)</p>
-</li>
-</ol>
-<h5>Schedule:</h5>
-<p>The competitive and developmental squads train twice a week on Tuesdays
-and Fridays. However there will be occasions when the days are changed
-due to matches. The teacher in charge will update parents and students
-on the schedule and venue accordingly.</p>
+<p><strong>Recreational &amp; Developmental Squads:</strong>
+</p>
+<p><u>Primary 4 Boys</u>
+</p>
+<p>Day: Mondays and Fridays</p>
+<p>Time: 2.30 – 4.30pm</p>
+<p></p>
+<p><u>Primary 5 &amp; 6 Boys</u>
+</p>
+<p>Day: Fridays</p>
+<p>Time: 2.30 – 4.30pm</p>
+<p></p>
+<p><strong>Competitive Squads:</strong>
+</p>
+<p><u>Junior Boys Team</u>
+</p>
+<p>Day: Tuesdays and Thursdays</p>
+<p>Time: 2.30 – 4.30pm</p>
+<p><u>Senior Boys Team</u>
+</p>
+<p>Day: Monday and Wednesdays</p>
+<p>Time: 2.30 – 4.30pm</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Senior_Boys_Team_Resize_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football___Picture1.jpg">
 </div>
+<p>United and ready to conquer!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Football_Junior_Boys_Team__Reseize__1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football___Picture2.jpg">
 </div>
-<p></p>
-<p>Time: 3:30pm -5:30pm
-<br>
-<br>The recreational squads train once a week on Fridays.
-<br>
-<br>Time: 3:30pm -5:30pm</p>
-<p></p>
+<p>The boys looking excited yet anxious before a match.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Senior_Girls_Team_Resize.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football___Picture3.jpg">
 </div>
+<p>Getting into positions to defend.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football___Picture4.jpg">
+</div>
+<p>Senior Boys battling it out in the NSG matches.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Football_Junior_Girls_Team_Resize.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football___Picture5.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
