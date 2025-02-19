@@ -29,9 +29,7 @@ group practices and performances.</p>
 <p>Every Thursday</p>
 <p>2 p.m. to 4 p.m.</p>
 <p>Music Room 2</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture1.jpg">
 </div>
