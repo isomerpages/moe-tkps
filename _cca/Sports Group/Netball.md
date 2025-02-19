@@ -61,4 +61,3 @@ and values of sportsmanship through sports.</p>
 </div>
 <p></p>
 <p>Juniors learning from their Seniors during training.</p>
-<p></p>
