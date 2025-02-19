@@ -3,26 +3,45 @@ title: Chinese Dance
 permalink: /tkp-experience/cca/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-##### Teacher IC:
-
-### Mdm Su Tze-Han (Mrs Koh)
-
-##### CCA Teachers:
-
-### Miss Ng Li Hoon, Miss Hou Yingyu, Mdm Huang Cong
-
-The Chinese dance CCA group has always been a popular CCA&nbsp;choice for the students who are attracted by the graceful dance choreography and the colourful costumes worn by the members when they perform on stage. After joining the CCA, members learn that a lot of hard work is involved behind that glam on stage. They train for hours in order to perfect routines. In the past few years, there have been opportunities for students to showcase their talent in external performances such as Mountbatten GRC National Day Celebration, Marine Parade CC Dragon Boat Festival Celebration and school events such as Prize-Giving ceremony, Chinese New Year and International Friendship Day celebrations. The Chinese dance CCA has also been taking part in Singapore Youth Festival International Dance biennially.
-
-#### Objectives:
-
-1.  To nurture appreciation for Chinese cultural dance
-2.  To inculcate values of teamwork, discipline and perseverance
-
-#### CCA Schedule / Venue:
-
-Tuesday (3.30 p.m to 5.30 p.m) <br>
-Friday (2 p.m. to 4 p.m.) <br>
-Venue: Block F02-08 Dance Studio
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 846px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 421px; height: 364px;" class="ive_eobj_center" alt="1.jpg" src="/images/UCC%20SYF%202018.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Taken at UCC during SYF 2018</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 430px; height: 364px;" class="ive_eobj_center" alt="2.jpg" src="/images/TKP%20Prize%20Giving%20Day%202019.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Performing on TKP Prize Giving Day 2019</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 421px; height: 295px;" class="ive_eobj_center" alt="3.jpg" src="/images/Pupils%20doing%20warm%20up%20exercises.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Pupils doing warm up exercises</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 276px; height: 421px;" class="ive_eobj_center" alt="4.jpg" src="/images/Members%20practicing%20for%20hours%20just%20to%20perfect%20one%20pose.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.96px; color: rgb(65, 64, 66); font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Members practice for hours just to perfect that one pose</div></td></tr></tbody></table>
+<h4>Teacher IC:</h4>
+<p>Mdm Su Tze-Han (Mrs Koh)</p>
+<h4>CCA Teachers:</h4>
+<p>Mdm Huang Cong</p>
+<p>Mdm Lim Pei Yee</p>
+<p>The Chinese dance CCA group has always been a popular CCA&nbsp;choice
+for the students who are attracted by various opportunities to perform
+and compete, not forgetting the graceful dance choreography and beautiful
+costumes. After joining the CCA, members learn that a lot of hard work
+is involved behind that glam on stage. They train for hours in order to
+perfect routines and in the process, beautiful friendships are forged.
+TKP Chinese Dance are also frequently invited to external community events
+such as Marine Parade Cluster&nbsp; Chinese New Year Celebration, Mountbatten
+GRC National Day Celebration, Esplanade events and school events such as
+Prize-Giving ceremony, Chinese New Year and International Friendship Day
+celebrations. The Chinese dance CCA has also been taking part in Singapore
+Youth Festival International Dance biennially and achieved wonderful results,
+with the most recent 2024 Singapore Youth Festival, achieving Certificate
+of Distinction.</p>
+<h4>Objectives:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>To develop students’ skills and techniques in Chinese Dance and nurture
+appreciation for Chinese cultural dance.</p>
+</li>
+<li>
+<p>To create a positive environment when students can foster positive relationship
+with their peers through practice sessions, opportunities to compete &amp;
+perform.</p>
+</li>
+<li>
+<p>To inculcate values of teamwork, discipline and perseverance.</p>
+</li>
+</ol>
+<h4>CCA Schedule / Venue:</h4>
+<p>Every Monday,</p>
+<p>2pm to 4pm</p>
+<p>Dance Studio</p>
+<p></p>
+<p></p>
