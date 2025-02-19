@@ -99,9 +99,6 @@ fair play, teamwork and discipline through playing football</p>
 </div>
 <p>Senior Boys battling it out in the NSG matches.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football___Picture5.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
