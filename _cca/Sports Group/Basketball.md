@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sports Group
 ---
-<h4>Teacher I/C: </h4>
+<h4>Teacher I/C:</h4>
 <p>Ms Rachel Wang</p>
 <h4>CCA Teachers:</h4>
 <p>Mrs Jasmine Lim,</p>
@@ -38,7 +38,24 @@ passion for their sport.</p>
 <h4>CCA Schedule/Venue:</h4>
 <p>Every Tues or Thursday, 2pm to 4pm @ school</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_Picture1.jpg">
+</div>
+<p>League 5 Champions!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_Picture2.jpg">
+</div>
+<p>Pupils practicing basic passing skills!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_Picture3.jpg">
+</div>
+<p>Tier 1, 3<sup>rd</sup> placing for our Junior boys!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_Picture4.jpg">
+</div>
+<p>One TKP team! Including our teachers and Coach!</p>
 <h4></h4>
 <p></p>
