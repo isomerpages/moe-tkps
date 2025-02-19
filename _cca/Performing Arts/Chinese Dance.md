@@ -43,5 +43,29 @@ perform.</p>
 <p>Every Monday,</p>
 <p>2pm to 4pm</p>
 <p>Dance Studio</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_Picture5.jpg">
+</div>
+<p>Training hard together. It’s all about teamwork, discipline and perseverance.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_Picture6.jpg">
+</div>
+<p>Dancing with a beautiful view at Esplanade Dance Fiesta 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/ChineseDance_Picture7.jpg">
+</div>
+<p>This is where beautiful and meaningful relationships are forged.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_Picture8.jpg">
+</div>
+<p>Performance in TKP Lunar New Year (Blossom in Flowers)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_Picture9.jpg">
+</div>
+<p>Our dancers have many opportunities to perform</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_Picture10.jpg">
+</div>
+<p>Participating in Inter-schools dance exchange learning journey</p>
 <p></p>
