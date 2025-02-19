@@ -47,7 +47,6 @@ perform.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_Picture5.jpg">
 </div>
 <p>Training hard together. It’s all about teamwork, discipline and perseverance.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_Picture6.jpg">
 </div>
