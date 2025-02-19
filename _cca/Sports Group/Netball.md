@@ -43,12 +43,22 @@ and values of sportsmanship through sports.</p>
 </p>
 <p><a href="https://www.myactivesg.com/sports/netball" rel="noopener noreferrer nofollow" target="_blank">https://www.myactivesg.com/sports/netball</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Netball_Junior_Girls_Teamv_resize.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Netball_Senior_Girls_Team_Resize.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Netball_Picture1.jpg">
+</div>
+<p>Team huddle before a match</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Netball_Picture2.jpg">
+</div>
+<p>Students playing a game of attack and defense</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Netball_Picture3.jpg">
+</div>
+<p>Shooting the ball through the hoop to score.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Netball_Picture4.jpg">
 </div>
 <p></p>
+<p>Juniors learning from their Seniors during training.</p>
 <p></p>
