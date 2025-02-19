@@ -29,4 +29,30 @@ group practices and performances.</p>
 <p>Every Thursday</p>
 <p>2 p.m. to 4 p.m.</p>
 <p>Music Room 2</p>
-<p></p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture1.jpg">
+</div>
+<p>Final pose for SYF Performance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture2.jpg">
+</div>
+<p>Student Recognition Award for the International Dancers’ (formerly known
+as Modern Dancers) contributions for SYF.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture3.jpg">
+</div>
+<p>A success performance at the Marine Parade Dumpling Festival!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture4.jpg">
+</div>
+<p>Our final performance for the year – Prize Giving Ceremony!
+<br>
+</p>
+<p>
+<br>
+<br>
+</p>
+<p>Final pose for our SYF performance</p>
