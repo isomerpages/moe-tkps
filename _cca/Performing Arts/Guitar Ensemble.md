@@ -37,10 +37,25 @@ etc.</p>
 <p>Every Thursday,</p>
 <p>2pm to 4pm</p>
 <p>Band Room</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Ensemble/GuitarEnsemble_Picture1.jpg">
+</div>
+<p>Students performing during SYF2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Ensemble/GuitarEnsemble_Picture2.jpg">
+</div>
+<p>Group photo after performance at 2024 Mountbatten Youth Got Talent! Showcase</p>
 <p></p>
-<p></p>
-<p></p>
-<h5></h5>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Ensemble/GuitarEnsemble_Picture3.jpg">
+</div>
+<p>Student conductor for Prize-Giving Ceremony Performance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Ensemble/GuitarEnsemble_Picture4.jpg">
+</div>
+<p>Getting ready for Guitar Festival Showcase</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Ensemble/GuitarEnsemble_Picture5.jpg">
+</div>
+<p>Regular CCA practice session where students enjoy music making</p>
 <p></p>
