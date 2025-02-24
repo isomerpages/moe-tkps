@@ -34,5 +34,32 @@ the community.</p>
 <p>Every Monday,
 <br>2pm to 4pm
 <br>Music Room 1</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Picture1.jpg">
+</div>
+<p>A heartfelt and melodious performance by the choir at Mountbatten Youth
+Got Talent, showcasing their talent and harmony!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Picture2.jpg">
+</div>
+<p>Mountbatten Youth Talent Showcase featuring the TKPS Choir, shining brightly
+in their golden attire.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Picture3.jpg">
+</div>
+<p>Choir performing during SYF2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Picture4.jpg">
+</div>
+<p>Choir CCA members celebrate their stellar SYF performance at the School
+of the Arts (SOTA), Singapore choir performing during SYF2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Picture5.jpg">
+</div>
+<p>A lively performance filled with patriotic spirit, bringing smiles and
+energy to the stage alongside Singapore's beloved mascot!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Picture6.jpg">
+</div>
+<p>Choir participates in the Little Singing Festival.</p>
+<p>Choir participates in the Little Singing Festival.</p>
