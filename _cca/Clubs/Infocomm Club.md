@@ -3,33 +3,48 @@ title: Infocomm Club
 permalink: /tkp-experience/cca/clubs/infocomm-club/
 description: ""
 third_nav_title: Clubs
+variant: tiptap
 ---
-##### Teacher IC:
-
-### Mr Shen Baiyue
-
-##### CCA Teachers: 
-
-### Mdm Halimah Lin, Ms Tong Siew Poh,
-
-### Mr Hoon Thing Ming, Ms Nuraishah Mahmood
-
-The Infocomm Club CCA aims to excite students about Information Communication and Technology (ICT) in a fun and meaningful way by helping them to learn skills such as digital photography, animation, movie-making, audio production, video production and post-production skills. The Infocomm Club CCA leverages using the computer as a tool to aid in students' cognitive development. Students also contribute to the school by helping out by being photographers during in-house events.
-
-  
-
-The Infocomm Club offers students an exciting ICT programme. Under the guidance of our trainers and teachers, students learn “Beginner Programs” such as Microsoft Office Applications (Word Functions, Basic & Advance PowerPoint Presentation), Basic Photography, Movie Maker and “Advance Programs” such as Basic Flash Animation, Basic Videography, Website Creation, Advance Videography, Coding software.
-
-#### Objectives
-
-1.  To ignite the joy in learning meaningful ICT tools.
-2.  To equip students with relevant ICT skills.
-3.  To inculcate school values such as Respect, Responsibility, Perseverance, Integrity, Empathy and Discipline, and socio-emotional competencies such as Critical and Inventive Thinking and Communication, Collaboration & Information Skills.
-
-#### CCA Schedule / Venue:
-
-Fridays – 2 to 4pm
-
-  
-
-Venue: Computer Labs
+<h4>Teacher IC:</h4>
+<p>Mdm Halimah Lin</p>
+<h4>CCA Teachers:</h4>
+<p>Ms Anjana</p>
+<p>Mdm Kalai</p>
+<p>Ms Weng Si Ying</p>
+<p>Mdm Arlinah</p>
+<p>Ms Nuraishah</p>
+<p>The InfoComm Club merge the worlds of technology and creativity, offering
+a platform where students can explore, innovate, and grow. The club is
+a vibrant community where students dive into various aspects of information
+and communication technologies. Our activities include:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Digital Media Creation: Photography, Videography, and Video Editing.</p>
+</li>
+<li>
+<p>Coding: Micro:bit, Scratch 3.0 and PictoBlox AI.</p>
+</li>
+<li>
+<p>Robotics: LEGO Spike Prime and Micro:bit Strawbees.</p>
+</li>
+</ol>
+<h4>Objectives</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>To harness and allow students to use their skills in developing ICT within
+and outside the school environment.</p>
+</li>
+<li>
+<p>To help them become competent and confident users of ICT.</p>
+</li>
+<li>
+<p>To create a positive environment when students can foster positive relationship
+with their peers through various CCA sessions, opportunities to compete
+&amp; perform.</p>
+</li>
+</ol>
+<h4>CCA Schedule / Venue:</h4>
+<p>Every Thursday, 2pm to 4pm</p>
+<p>Computers Labs 1 and 2</p>
+<p></p>
+<p>Venue: Computer Labs</p>
