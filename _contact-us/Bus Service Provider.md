@@ -17,4 +17,3 @@ Fax: 62686620
 Email: transport@tongtar.com
 
 Bus Fares
-[Here](/files/school_bus_operator_and_fare_2025.pdf)
