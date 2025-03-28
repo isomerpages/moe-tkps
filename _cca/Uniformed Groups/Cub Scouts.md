@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>Teacher-in-charge</h4>
 <p>Mrs Tan Soo Ting</p>
-<h4>CCA Teachers:</h4>
+<h4>CCA Teachers</h4>
 <p>Ms Serene Soh, Ms Kristel Seet and Mr David Lee</p>
 <h5>Programme Style</h5>
 <p>The major feature of the Cub Scouts program is that it helps its members
