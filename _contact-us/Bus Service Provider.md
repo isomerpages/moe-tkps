@@ -10,9 +10,11 @@ Website: https://www.tongtar.com
 
 Click [here](https://www.tongtar.com/school-bus-registration/tanjong-katong/) for School Bus Application Form.
 
-
 Telephone: 62615537
 
 Fax: 62686620
 
 Email: transport@tongtar.com
+
+Bus Fares
+[Here](/files/School_Bus_Operator_and_Fare_2025.pdf)

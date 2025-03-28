@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h5>Teacher IC:</h5>
-<h3>Teacher-in-charge: Mrs Tan Soo Ting</h3>
-<h5>CCA Teachers:</h5>
-<h3>Ms Serene Soh, Ms Kristel Seet and Mr David Lee</h3>
+<h4>Teacher-in-charge</h4>
+<p>Mrs Tan Soo Ting</p>
+<h4>CCA Teachers</h4>
+<p>Ms Serene Soh, Ms Kristel Seet and Mr David Lee</p>
 <h5>Programme Style</h5>
 <p>The major feature of the Cub Scouts program is that it helps its members
 to build character and leadership. Scouting provides an informal education
