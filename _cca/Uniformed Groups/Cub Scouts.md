@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h4>Teacher-in-charge:</h4>
+<h4>Teacher-in-charge</h4>
 <p>Mrs Tan Soo Ting</p>
 <h4>CCA Teachers:</h4>
 <p>Ms Serene Soh, Ms Kristel Seet and Mr David Lee</p>
