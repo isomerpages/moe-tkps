@@ -257,6 +257,15 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="Iskandar_Hakim_Kamsani@schools.gov.sg" rel="noopener nofollow" target="_blank">Iskandar Hakim Kamsani (Mr)</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Primary 1</h4>
