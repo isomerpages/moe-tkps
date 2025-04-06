@@ -31,7 +31,7 @@ required. Please refer to the guide below.</p>
 <h4>Forgot your password?</h4>
 <p>Please refer to the guide below to self-reset your password when you forgot
 your password.</p>
-<p><a href="/files/Useful Information/MIMS_Forgot_Password_Guide.pdf" rel="noopener nofollow" target="_blank">MIMS - Forgot Password Guide</a>
+<p><a href="/files/Useful Information/MIMS_Forgot_Password_Guide.pdf" rel="noopener nofollow" target="_blank">MIMS - Forgot Password GuiMIMS - Forgot Password Guidede</a>
 </p>
 <p></p>
 <p></p>
