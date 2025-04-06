@@ -17,3 +17,9 @@ MIMS username and password.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Information/Students/TKP_MIMS_2025.png">
 </div>
 <p></p>
+<h4>MIMS Student <br>Self-Service Password Reset Service</h4>
+<p>With the MIMS Student Self-Service Password Reset Service, students would
+be able to perform the password reset yourself if they forget their password.</p>
+<p></p>
+<p></p>
+<p></p>
