@@ -20,6 +20,18 @@ MIMS username and password.</p>
 <h4>MIMS Student <br>Self-Service Password Reset Service</h4>
 <p>With the MIMS Student Self-Service Password Reset Service, students would
 be able to perform the password reset yourself if they forget their password.</p>
+<h4>How do I enable this?</h4>
+<p>You will need to perform a one-time set up of answers to challenge questions
+in your MIMS Portal to enable student self-service password reset when
+required. Please refer to the guide below.</p>
 <p></p>
+<p><a href="/files/Useful Information/MIMS_Enable_Self_Service_Password_Reset_Guide.pdf" rel="noopener nofollow" target="_blank">MIMS - Enable Self-Service Password Reset Guide</a>
+</p>
+<p></p>
+<h4>Forgot your password?</h4>
+<p>Please refer to the guide below to self-reset your password when you forgot
+your password.</p>
+<p><a href="/files/Useful Information/MIMS_Forgot_Password_Guide.pdf" rel="noopener nofollow" target="_blank">MIMS - Forgot Password Guide</a>
+</p>
 <p></p>
 <p></p>
