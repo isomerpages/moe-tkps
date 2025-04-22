@@ -62,4 +62,3 @@ energy to the stage alongside Singapore's beloved mascot!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Picture6.jpg">
 </div>
 <p>Choir participates in the Little Singing Festival.</p>
-<p>Choir participates in the Little Singing Festival.</p>
