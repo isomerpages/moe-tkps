@@ -82,5 +82,19 @@ scout events.</p>
 <p>The Singapore Scout Association Website:&nbsp;<a href="https://scout.sg/" rel="noopener noreferrer nofollow" target="_blank">https://scout.sg/</a>
 </p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub Scout/CubScout_Picture1.jpg">
+</div>
+<p>Hiking trip at Bukit Batok Nature Park.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub Scout/CubScout_Picture2.jpg">
+</div>
+<p>Frisbee game during East Zone Sports Day.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub Scout/CubScout_Picture3.jpg">
+</div>
+<p>National Day Observance Ceremony</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cub Scout/CubScount_Picture4.jpg">
+</div>
+<p>Outdoor camp cooking.</p>
