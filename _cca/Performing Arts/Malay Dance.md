@@ -31,3 +31,35 @@ as they learn to persevere together towards a common goal.</p>
 <p>PAL Room 1</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/MalayDance_Picture1.png">
+</div>
+<p></p>
+<p>Our SYF performance where we garnered the Distinction Award!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/MalayDance_Picture2.png">
+</div>
+<p>Our talented Malay dancers receiving the Student Recognition Award for
+our contributions and achievement at the SYF.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/MalayDance_Picture3.jpg">
+</div>
+<p>Another splendid performance at the Thomson-East Coast Line Opening Carnival!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/MalayDance_Picture4.jpg">
+</div>
+<p>Prize Giving Ceremony - The dancers mesmerized the audience again at our
+final performance of the year.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/MalayDance_Picture5.png">
+</div>
+<p>Working very hard together during our practice sessions but also having
+fun bonding as a team.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
