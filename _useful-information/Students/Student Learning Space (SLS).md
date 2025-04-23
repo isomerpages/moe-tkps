@@ -14,6 +14,20 @@ variant: tiptap
 <p><strong><u>Steps to Login to SLS</u></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Information/Students/GuidetologintoSLS_Slide1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Information/Students/GuidetologintoSLS_Slide2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Information/Students/GuidetologintoSLS_Slide3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Information/Students/GuidetologintoSLS_Slide4.jpg">
+</div>
+<p><a href="/files/Useful Information/Guide_to_Login_to_SLS.pdf" rel="noopener nofollow" target="_blank">Guide to Login to Student Learning Space (SLS)</a>
+</p>
 <p><strong><u>SLS Support for Home-based Learning</u></strong>
 </p>
 <p><strong>School Operating Hours</strong>
