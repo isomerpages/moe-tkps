@@ -47,4 +47,27 @@ with their peers through various CCA sessions, opportunities to compete
 <p>Every Thursday, 2pm to 4pm</p>
 <p>Computers Labs 1 and 2</p>
 <p></p>
-<p>Venue: Computer Labs</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Club/InfcommClub_Picture1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Club/InfocommClub_Picture2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Club/InfocommClub_Picture3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Club/InfocommClub_Picture4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Club/InfocommClub_Picture5.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Club/InfocommClub_Picture6.png">
+</div>
+<p></p>
