@@ -364,7 +364,7 @@ variant: tiptap
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon &amp; Tue, 25 &amp; 26 Sep</p>
+<p>Mon &amp; Tue, 29 &amp; 30 Sep</p>
 </td>
 </tr>
 <tr>
@@ -372,7 +372,7 @@ variant: tiptap
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu &amp; Fri, 29 &amp; 30 Sep</p>
+<p>Thu &amp; Fri, 25 &amp; 26 Sep</p>
 </td>
 </tr>
 </tbody>
