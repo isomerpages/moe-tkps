@@ -392,6 +392,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P1 Orientation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri 7 Nov<sup> Updated</sup>
+</p>
+<p><em>Only students involved need to report to school</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Results Processing Day</p>
 <p>MK Orientation</p>
 </td>
@@ -406,17 +417,8 @@ variant: tiptap
 <p>Prize-Giving Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 20 Nov</p>
-<p><em>Only students involved need to report to school</em>
+<p>Fri 21 Nov<sup> Updated</sup>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 Orientation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri 21 Nov</p>
 <p><em>Only students involved need to report to school</em>
 </p>
 </td>
