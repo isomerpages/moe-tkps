@@ -170,21 +170,6 @@ will try to accommodate every students’ choice of CCA.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="300" width="400" alt="Hockey" src="/images/Hockey.jpeg">
-</div>
-<p><strong><a href="/tkp-experience/cca/sports/hockey/" rel="noopener noreferrer nofollow" target="_blank">Hockey</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Uniformed Groups</h4>
