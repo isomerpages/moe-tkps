@@ -4,5 +4,5 @@ permalink: /mk-tanjong-katong/permalink/waitlistapplication/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://form.gov.sg/67a40f0b0bad842cc47cb8ba" rel="noopener noreferrer nofollow" target="_blank">Waitlist Application Form</a>
+<p><a href="https://form.gov.sg/682bd465d20c491e12470500" rel="noopener noreferrer nofollow" target="_blank">Waitlist Application Form</a>
 </p>
