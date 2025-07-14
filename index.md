@@ -35,4 +35,11 @@ sections:
       description: FOR MORE INFORMATION
       button: CLICK HERE
       url: /useful-information/parents/permalink/p1orientation2024/
+  - infobar:
+      title: 2025 ECHA Nomination Form
+      subtitle: NEW INFO
+      id: infobar
+      description: To download form
+      button: Click here
+      url: https://tanjongkatongpri.moe.edu.sg/echa-nomination-2025/
 ---
