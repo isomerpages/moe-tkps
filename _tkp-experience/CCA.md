@@ -66,17 +66,13 @@ will try to accommodate every students’ choice of CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="300" width="400" alt="Infocomm Club" src="/images/Infocomm.jpeg">
 </div>
-<p><strong><a href="/tkp-experience/cca/clubs/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">Inforcomm Club</a></strong>
+<p><strong><a href="/tkp-experience/cca/clubs/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">Infocomm Club</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="300" width="400" alt="Sports Recreation Club" src="/images/SRC.jpeg">
-</div>
-<p><strong><a href="/tkp-experience/cca/clubs/sports-recreation-club/" rel="noopener noreferrer nofollow" target="_blank">Sports Recreation Club</a></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
