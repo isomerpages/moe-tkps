@@ -18,9 +18,6 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-information/teachers/useful-links-for-teachers/
-        - title: TKPS Highlight
-          description: ""
-          url: /tkp/announcements/
   - infobar:
       title: 2025 Registration for Raffles Student Care Centre
       subtitle: New Announcement
