@@ -29,13 +29,6 @@ sections:
       button: Click Next
       url: https://tanjongkatongpri.moe.edu.sg/tkp/announcements/
   - infobar:
-      title: P1 Orientation 2024 Slides
-      subtitle: NEW INFO
-      id: infobar
-      description: FOR MORE INFORMATION
-      button: CLICK HERE
-      url: /useful-information/parents/permalink/p1orientation2024/
-  - infobar:
       title: 2025 ECHA Nomination Form
       subtitle: NEW INFO
       id: infobar
