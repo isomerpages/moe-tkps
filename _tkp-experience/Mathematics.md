@@ -5,12 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h5>Head of Department:</h5>
-<h3>Mrs Yeo Li Ling</h3>
+<p><strong>Mrs Yeo Li Ling</strong>
+</p>
 <h5>Level Head:</h5>
-<h3>Mr Jimmy Tan</h3>
+<p><strong>Mr Jimmy Tan</strong>
+</p>
 <h5>Senior Teachers:</h5>
-<h3>Mrs Tang Shu Fang and Mdm Nurhanin Bte Abdul Hamid</h3>
-<h4>Department Vision</h4>
+<p><strong>Mrs Tang Shu Fang and Mdm Nurhanin Bte Abdul Hamid</strong>
+</p>
+<p>Department Vision</p>
 <p><strong>A community of critical thinkers and Innovative problem solvers.</strong>
 </p>
 <h4>Department Mission</h4>
