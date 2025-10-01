@@ -4,17 +4,20 @@ permalink: /tkp-experience/cca/
 description: ""
 variant: tiptap
 ---
-<h3>Head of Department:</h3>
-<h3><strong>Ms Serene Ng</strong></h3>
-<h3>Subject Head:</h3>
-<h3><strong>Mr Muhammad Faizal Bin Mak Said</strong></h3>
-<h3>Department Vision</h3>
-<h4>L.E.A.P – Learn. Engage. Appreciate. Play</h4>
-<h3>Department Mission</h3>
+<h4>Head of Department:</h4>
+<p><strong>Ms Serene Ng</strong>
+</p>
+<h4>Subject Head:</h4>
+<p><strong>Mr Muhammad Faizal Bin Mak Said</strong>
+</p>
+<h4>Department Vision</h4>
+<p><strong>L.E.A.P – Learn. Engage. Appreciate. Play</strong>
+</p>
+<h4>Department Mission</h4>
 <p>To allow students to discover their interests and talents as they develop
 into well-rounded individuals instilled with values of leadership, discipline
 and team spirit</p>
-<h3>Department Approach</h3>
+<h4>Department Approach</h4>
 <p>Exposure and development of talent are the two main driving forces behind
 Tanjong Katong Primary School’s CCA programme. CCAs are conducted throughout
 the year, either once or twice a week depending on the needs and rigour
