@@ -4,16 +4,22 @@ permalink: /tkp-experience/mother-tongue/
 description: ""
 variant: tiptap
 ---
-<h5>Head of Department:</h5>
-<h3>Mr Tan Boon Tiong</h3>
-<h5>Subject Head:</h5>
-<h3>Mdm Arlinah Arsad (SH ML)</h3>
-<h3>Mdm Su Tze Han (SH CL)</h3>
-<h5>Senior Teacher:</h5>
-<h3>Ms Law Kim Hwee (ST CL)</h3>
-<h3>Mdm Magayshvari Krishnasamy (ST TL)</h3>
+<h4>Head of Department:</h4>
+<p><strong>Mr Tan Boon Tiong</strong>
+</p>
+<h4>Subject Head:</h4>
+<p><strong>Mdm Arlinah Arsad (SH ML)</strong>
+</p>
+<p><strong>Mdm Su Tze Han (SH CL)</strong>
+</p>
+<h4>Senior Teacher:</h4>
+<p><strong>Ms Law Kim Hwee (ST CL)</strong>
+</p>
+<p><strong>Mdm Magayshvari Krishnasamy (ST TL)</strong>
+</p>
 <h4>Department Vision:</h4>
-<h5>Passionate&nbsp;and&nbsp;self-driven&nbsp;learners of Mother Tongue language and Culture</h5>
+<p><strong>Passionate&nbsp;and&nbsp;self-driven&nbsp;learners of Mother Tongue language and Culture</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%;" height="auto" width="100%" alt="Mother Tongue Department Vision" src="/images/Mother%20Tongue.jpeg">
 </div>
