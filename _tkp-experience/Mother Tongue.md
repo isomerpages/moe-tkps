@@ -15,8 +15,6 @@ variant: tiptap
 <h4>Senior Teacher:</h4>
 <p><strong>Ms Law Kim Hwee (ST CL)</strong>
 </p>
-<p><strong>Mdm Magayshvari Krishnasamy (ST TL)</strong>
-</p>
 <h4>Department Vision:</h4>
 <p><strong>Passionate&nbsp;and&nbsp;self-driven&nbsp;learners of Mother Tongue language and Culture</strong>
 </p>
