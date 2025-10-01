@@ -11,8 +11,9 @@ variant: tiptap
 <p><strong>Mr Jimmy Tan</strong>
 </p>
 <h5>Senior Teachers:</h5>
-<p>Mrs Tang Shu Fang and Mdm Nurhanin Bte Abdul Hamid</p>
-<p>Department Vision</p>
+<p><strong>Mrs Tang Shu Fang and Mdm Nurhanin Bte Abdul Hamid</strong>
+</p>
+<h4>Department Vision</h4>
 <p><strong>A community of critical thinkers and Innovative problem solvers.</strong>
 </p>
 <h4>Department Mission</h4>
