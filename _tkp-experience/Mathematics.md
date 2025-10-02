@@ -4,12 +4,17 @@ permalink: /tkp-experience/mathematics/
 description: ""
 variant: tiptap
 ---
-<h5>Head of Department:</h5>
-<h3>Mrs Yeo Li Ling</h3>
-<h5>Level Head:</h5>
-<h3>Mr Jimmy Tan</h3>
-<h5>Senior Teachers:</h5>
-<h3>Mrs Tang Shu Fang and Mdm Nurhanin Bte Abdul Hamid</h3>
+<h4>Head of Department:</h4>
+<p><strong>Mrs Yeo Li Ling</strong>
+</p>
+<h4>Level Head:</h4>
+<p><strong>Mr Jimmy Tan</strong>
+</p>
+<h4>Senior Teachers:</h4>
+<p><strong>Mrs Tang Shu Fang </strong>
+</p>
+<p><strong>Mdm Nurhanin Bte Abdul Hamid</strong>
+</p>
 <h4>Department Vision</h4>
 <p><strong>A community of critical thinkers and Innovative problem solvers.</strong>
 </p>

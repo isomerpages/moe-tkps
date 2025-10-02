@@ -8,7 +8,8 @@ variant: tiptap
 <p><strong>Mdm Anissa Ferdaus Md Salleh</strong>
 </p>
 <h4>Level Head:</h4>
-<p>Mdm Sophia Lo Sing Hui</p>
+<p><strong>Mdm Sophia Lo Sing Hui</strong>
+</p>
 <h4>Department Vision</h4>
 <p><strong>Effective &amp; Affective Communicators</strong> 
 <br><strong>Confident Users of the English language</strong>

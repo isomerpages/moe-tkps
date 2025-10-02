@@ -4,12 +4,14 @@ permalink: /tkp-experience/ict/
 description: ""
 variant: tiptap
 ---
-<h3>Subject Head:<br>Ms Nuraishah Mahmood</h3>
-<h3>Department Vision:</h3>
+<h4>Subject Head:</h4>
+<p><strong>Ms Nuraishah Mahmood</strong>
+</p>
+<h4>Department Vision:</h4>
 <p><strong>1. An IT-enriched teaching and learning environment</strong> 
 <br><strong>2. A community of IT-savvy and passionate learners</strong>
 </p>
-<h3>Department Mission:</h3>
+<h4>Department Mission:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>To integrate the use of IT in curriculum, instruction and assessment</p>
@@ -27,7 +29,7 @@ and learning</p>
 and efficiency</p>
 </li>
 </ol>
-<h3>ICT in Education – Masterplan 4</h3>
+<h4>ICT in Education – Masterplan 4</h4>
 <h4>“Deepening Learning, Sharpening Practices”</h4>
 <h5>Focus</h5>
 <ol data-tight="true" class="tight">
