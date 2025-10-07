@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PAWI.gif
+      background: /images/Banner_Updated_7_Oct.gif
       key_highlights:
         - title: Announcements
           description: ""
