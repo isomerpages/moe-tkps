@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/MG_5405_resized__2_.jpg
+      background: /images/PAWI.gif
       key_highlights:
         - title: Announcements
           description: ""
