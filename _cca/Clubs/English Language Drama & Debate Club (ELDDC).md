@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Teacher IC:</h4>
 <p><strong>Mdm Farhana Bte Osman</strong>
 </p>
-<h4>CCA Teachers: </h4>
+<h4>CCA Teachers:</h4>
 <p><strong>Ms Joyce Chui</strong>
 </p>
 <p>Students in ELDDC went through a series of modules from debating and drama
