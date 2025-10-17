@@ -2,6 +2,7 @@
 title: School's Contact
 permalink: /contact-us/schools-contact/
 description: ""
+variant: markdown
 ---
 #### School Information
 
@@ -35,12 +36,6 @@ description: ""
   </tr>
   <tr>
     <td class="tg-hr73">Fax<br><span style="color:#282828;background-color:#FFF">6344 5370</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-0td6">HOD Room<br><span style="color:#282828;background-color:#F1F2F2">6346 0974</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-hr73">Staff Room<br><span style="color:#282828;background-color:#FFF">6346 0944 / 6344 6914</span><br></td>
   </tr>
   <tr>
     <td class="tg-e2vb"><span style="font-weight:bold;color:#FFF;background-color:#3A6E4E">E-Mail</span></td>
