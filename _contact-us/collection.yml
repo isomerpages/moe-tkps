@@ -2,7 +2,6 @@ collections:
   contact-us:
     output: true
     order:
-      - Canteen Advertisement.md
       - School's Contact.md
       - School Bookshop.md
       - Uniform.md
