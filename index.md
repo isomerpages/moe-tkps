@@ -19,10 +19,10 @@ sections:
           description: ""
           url: /useful-information/teachers/useful-links-for-teachers/
   - infobar:
-      title: 2025 Registration for Raffles Student Care Centre
+      title: 2026 Registration for Raffles Student Care Centre
       subtitle: New Announcement
       id: infobar
-      description: For P1/2025 Parents/Guardians
+      description: For P1/2026 Parents/Guardians
       button: Click Next
       url: https://tanjongkatongpri.moe.edu.sg/tkp/announcements/
   - infobar:
