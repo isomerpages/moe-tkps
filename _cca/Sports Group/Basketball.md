@@ -6,13 +6,17 @@ description: ""
 third_nav_title: Sports Group
 ---
 <h4>Teacher I/C:</h4>
-<p>Ms Rachel Wang</p>
+<p><strong>Ms Rachel Wang</strong>
+</p>
 <h4>CCA Teachers:</h4>
-<p>Mrs Jasmine Lim,</p>
-<p>Mdm Aisyah Abu Bakar,</p>
-<p>Mrs Gurmit Singh,</p>
-<p>Mr Tan Ejin.</p>
-<p>Ms Jasmine Eng</p>
+<p><strong>Mrs Jasmine Lim,</strong>
+</p>
+<p><strong>Mdm Aisyah Abu Bakar,</strong>
+</p>
+<p><strong>Mrs Gurmit Singh,</strong>
+</p>
+<p><strong>Ms Jasmine Eng</strong>
+</p>
 <p>The Basketball Co-Curricular Activity (CCA) at TKP was established in
 2022 and has quickly become a vibrant part of our school community. Under
 the dedicated guidance of our teachers in charge—Ms. Rachel Wang, Mrs.
