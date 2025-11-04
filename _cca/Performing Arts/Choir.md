@@ -6,10 +6,13 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p>Mdm Goh Yingshan</p>
+<p><strong>Mdm Goh Yingshan</strong>
+</p>
 <h4>CCA Teachers:</h4>
-<p>Ms Chin Ying Xin</p>
-<p>Mdm Shan Meng Di</p>
+<p><strong>Ms Chin Ying Xin</strong>
+</p>
+<p><strong>Mdm Shan Meng Di</strong>
+</p>
 <p>The TKP choir is a group of students who enjoy singing and sharing their
 love of music together. During practices, the members work hard to improve
 their vocal techniques with our instructors. The choir repertoire ranges
