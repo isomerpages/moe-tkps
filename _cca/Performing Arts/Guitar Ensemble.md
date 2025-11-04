@@ -6,9 +6,11 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p>Miss Seah Wen Hui</p>
+<p><strong>Miss Seah Wen Hui</strong>
+</p>
 <h4>CCA Teachers:&nbsp;</h4>
-<p>Madam Farah Bte Abd Malik,&nbsp;Mrs Tay Mei Leng</p>
+<p><strong>Madam Farah Bte Abd Malik,&nbsp;Mrs Tay Mei Leng</strong>
+</p>
 <hr>
 <p>Established in 2016, the Guitar Ensemble nurtures students’ musical talents
 and soft skills like teamwork and perseverance. Members work together to
