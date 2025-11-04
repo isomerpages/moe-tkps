@@ -5,16 +5,24 @@ description: ""
 third_nav_title: Sports Group
 variant: tiptap
 ---
-<h5>Teacher IC:</h5>
-<h3>Mr Muhammad Faizal</h3>
-<h5>CCA Teachers:</h5>
-<h4>Mr Jerald Wong</h4>
-<h4>Mdm Lim Ruo Xin</h4>
-<h4>Miss Tashalini K P Sathasivam</h4>
-<h4>Mdm Piragatheeswari Sigamani</h4>
-<h4>Mr Hoon Thing Ming</h4>
-<h4>Mr Jimmy Tan</h4>
-<h4>Mdm Aslinda Hamid</h4>
+<h4>Teacher IC:</h4>
+<p><strong>Mr Muhammad Faizal</strong>
+</p>
+<h4>CCA Teachers:</h4>
+<p><strong>Mr Jerald Wong</strong>
+</p>
+<p><strong>Mdm Lim Ruo Xin</strong>
+</p>
+<p><strong>Miss Tashalini K P Sathasivam</strong>
+</p>
+<p><strong>Mdm Piragatheeswari Sigamani</strong>
+</p>
+<p><strong>Mr Hoon Thing Ming</strong>
+</p>
+<p><strong>Mr Jimmy Tan</strong>
+</p>
+<p><strong>Mdm Aslinda Hamid</strong>
+</p>
 <p>The football program at TKP aims to instill a love for the sport, help
 students maximize their potential, and equip them with skills for competitions.
 Competitive squads gain valuable experience and team bonding through matches,
