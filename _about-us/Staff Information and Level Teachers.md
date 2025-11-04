@@ -1561,20 +1561,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:magayshvari_krishnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Magayshvari d/o Krishnasamy (Mdm)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Cheng Wan Jee (Ms)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ren_yanjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ren Yanjie (Ms)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:ummi_salamah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ummi Salamah Ismail (Mdm)</a>
 </p>
 </td>
@@ -1633,11 +1619,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shi_kai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim Shi Kai (Mr)</a>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
