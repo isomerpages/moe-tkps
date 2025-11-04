@@ -6,13 +6,19 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p>Mdm Halimah Lin</p>
+<p><strong>Mdm Halimah Lin</strong>
+</p>
 <h4>CCA Teachers:</h4>
-<p>Ms Anjana</p>
-<p>Mdm Kalai</p>
-<p>Ms Weng Si Ying</p>
-<p>Mdm Arlinah</p>
-<p>Ms Nuraishah</p>
+<p><strong>Ms Anjana</strong>
+</p>
+<p><strong>Mdm Kalai</strong>
+</p>
+<p><strong>Ms Weng Si Ying</strong>
+</p>
+<p><strong>Mdm Arlinah</strong>
+</p>
+<p><strong>Ms Nuraishah</strong>
+</p>
 <p>The InfoComm Club merge the worlds of technology and creativity, offering
 a platform where students can explore, innovate, and grow. The club is
 a vibrant community where students dive into various aspects of information
