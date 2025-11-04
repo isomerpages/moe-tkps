@@ -6,13 +6,19 @@ third_nav_title: Sports Group
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p>Mdm Carolyn June De Souza</p>
+<p><strong>Mdm Carolyn June De Souza</strong>
+</p>
 <h4>CCA Teachers:</h4>
-<p>Ms Meng Yu Qi</p>
-<p>Mdm Amalina</p>
-<p>Ms Emily Yu</p>
-<p>Mrs Sophia Lee</p>
-<p>Mrs Karen Ong</p>
+<p><strong>Ms Meng Yu Qi</strong>
+</p>
+<p><strong>Mdm Amalina</strong>
+</p>
+<p><strong>Ms Emily Yu</strong>
+</p>
+<p><strong>Mrs Sophia Lee</strong>
+</p>
+<p><strong>Mrs Karen Ong</strong>
+</p>
 <p>The Netball CCA sessions are offered to the girls to learn about the exciting
 team sport in a fun and engaging way. The students will develop the knowledge
 of skill, strategy and teamwork related Netball. They will also develop
