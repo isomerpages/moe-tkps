@@ -6,12 +6,13 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h4>Teacher-in-charge</h4>
-<p>Mr Sim Wei Sheng</p>
+<p><strong>Mr Sim Wei Sheng</strong>
+</p>
 <h4>CCA Teachers</h4>
-<p>Mrs Chiah Soo Ting</p>
-<p>Ms Serene Soh</p>
-<p>Ms Kristel Seet</p>
-<p></p>
+<p><strong>Mrs Chiah Soo Ting</strong>
+</p>
+<p><strong>Ms Serene Soh</strong>
+</p>
 <h5>Programme Style</h5>
 <p>The Cub Scouts experience encourages the holistic physical, mental, spiritual
 and social development with a strong emphasis on duty to country and helping
