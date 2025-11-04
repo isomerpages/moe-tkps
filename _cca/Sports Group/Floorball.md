@@ -6,13 +6,19 @@ third_nav_title: Sports Group
 variant: tiptap
 ---
 <h4>Teacher I/C:</h4>
-<p>Mdm Gail Li Ming Ai</p>
+<p><strong>Mdm Gail Li Ming Ai</strong>
+</p>
 <h4>CCA Teachers:</h4>
-<p>Mr Vincent David</p>
-<p>Mdm Isliana Mohamad</p>
-<p>Mdm Florence Tan</p>
-<p>Mrs Tang Shufang</p>
-<p>Ms Ashikin Tahir</p>
+<p><strong>Mr Vincent David</strong>
+</p>
+<p><strong>Mdm Isliana Mohamad</strong>
+</p>
+<p><strong>Mdm Florence Tan</strong>
+</p>
+<p><strong>Mrs Tang Shufang</strong>
+</p>
+<p><strong>Ms Ashikin Tahir</strong>
+</p>
 <p>TKP Floorball is an engaging, fast-paced sport where the pupils develop
 teamwork, coordination, and basic skills. Played with lightweight sticks
 and a plastic ball, pupils learn essential techniques like passing, shooting,
