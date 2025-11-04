@@ -6,9 +6,11 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p>Mdm Laila</p>
+<p><strong>Mdm Laila</strong>
+</p>
 <h4>CCA Teachers:</h4>
-<p>Mdm Noraini Bolhim</p>
+<p><strong>Mdm Noraini Bolhim</strong>
+</p>
 <p>TKP Malay dance is an expressive and vibrant art form that offers students
 a unique opportunity to immerse themselves in a variety of dance styles
 as they develop skills in rhythm and coordination. The CCA emphasizes discipline,
