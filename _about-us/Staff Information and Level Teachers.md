@@ -1185,8 +1185,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="mailto:magayshvari_krishnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Magayshvari d/o Krishnasamy (Mdm)</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
