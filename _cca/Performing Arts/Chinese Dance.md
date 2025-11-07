@@ -6,10 +6,13 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p>Mdm Su Tze-Han (Mrs Koh)</p>
+<p><strong>Mdm Su Tze-Han (Mrs Koh)</strong>
+</p>
 <h4>CCA Teachers:</h4>
-<p>Mdm Huang Cong</p>
-<p>Mdm Lim Pei Yee</p>
+<p><strong>Mdm Huang Cong</strong>
+</p>
+<p><strong>Mdm Lim Pei Yee</strong>
+</p>
 <p>The Chinese dance CCA group has always been a popular CCA&nbsp;choice
 for the students who are attracted by various opportunities to perform
 and compete, not forgetting the graceful dance choreography and beautiful

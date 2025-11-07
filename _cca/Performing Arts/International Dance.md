@@ -6,10 +6,11 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p>Mdm Chan Mei Teng</p>
+<p><strong>Mdm Chan Mei Teng</strong>
+</p>
 <h4>CCA Teachers:&nbsp;</h4>
-<p>Ms Mahendran Rudrarani
-<br>Mrs Manoonmany</p>
+<p><strong>Ms Mahendran Rudrarani <br>Mrs Manoonmany</strong>
+</p>
 <p></p>
 <p>TKP International dance offers students a dynamic and creative way to
 express themselves through movement. It combines contemporary dance styles,
