@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tkps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ong Chu Xian (Ms)</u></a></strong>
+<p><strong><a href="mailto:tkps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Shieh Siao Yan Carol (Mrs)</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
