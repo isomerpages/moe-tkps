@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mabel Liao Mei Bao (Ms)</strong>
+<p><strong><a href="Mabel_Liao_Mei_Bao@schools.gov.sg" rel="noopener nofollow" target="_blank">Mabel Liao Mei Bao (Ms)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Muhd Fadly Mohd Ariff (Mr)</strong>
+<p><strong><a href="muhamad_fadly_mohd_ariff@schools.gov.sg" rel="noopener nofollow" target="_blank">Muhd Fadly Mohd Ariff (Mr)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dayangku D. Nuurul Aida Fatima (Ms)</strong>
+<p><strong><a href="dayangku_nuurul_aida_fatima@schools.gov.sg" rel="noopener nofollow" target="_blank">Dayangku Nuurul Aida Fatima (Ms)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -578,7 +578,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mabel Liao Mei Bao (Ms)</strong>
+<p><a href="Mabel_Liao_Mei_Bao@schools.gov.sg" rel="noopener nofollow" target="_blank">Mabel Liao Mei Bao (Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -702,7 +702,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Nur Liyana Binte Saine (Ms)</strong>
+<p><a href="nur_liyana_saine@schools.gov.sg" rel="noopener nofollow" target="_blank">Nur Liyana Binte Saine (Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -740,7 +740,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ng Pei Ling (Mdm)</strong>
+<p><a href="ng_peiling@schools.gov.sg" rel="noopener nofollow" target="_blank">Ng Pei Ling (Mdm)</a>
 </p>
 </td>
 </tr>
@@ -812,7 +812,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Muhd Fadly Mohd Ariff (Mr)</strong>
+<p><a href="muhamad_fadly_mohd_ariff@schools.gov.sg" rel="noopener nofollow" target="_blank">Muhd Fadly Mohd Ariff (Mr)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -933,7 +933,7 @@ variant: tiptap
 <p>6 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Dayangku D. Nuurul Aida Fatima (Ms)</strong>
+<p><a href="dayangku_nuurul_aida_fatima@schools.gov.sg" rel="noopener nofollow" target="_blank">Dayangku Nuurul Aida Fatima (Ms)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1513,7 +1513,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Evelyn Chua Kim Soo (FAJT)</p>
+<p><a href="Evelyn_Chua_Kim_Choo_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Evelyn Chua Kim Soo (FAJT)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ummi_salamah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ummi Salamah Ismail (Mdm)</a>
