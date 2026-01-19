@@ -50,7 +50,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF TANJONG KATONG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024.</strong>
+<p><strong>OVERVIEW OF TANJONG KATONG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026.</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -96,14 +96,18 @@ from sexuality-related risks.</p>
 </ol>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_19_124917.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_2.png">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_19_124550.png">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sexuality_Education_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_19_124625.png">
 </div>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
@@ -115,8 +119,9 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an <a href="https://go.gov.sg/3mppcx" rel="noopener nofollow" target="_blank">Opt-out Form</a> by
-31/01/2025.</p>
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://form.gov.sg/6967117b3e1570c39b793122" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 31/01/2026.</p>
 <p></p>
 </li>
 <li>
