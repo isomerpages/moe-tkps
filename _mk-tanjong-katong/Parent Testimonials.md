@@ -4,11 +4,8 @@ permalink: /testimonials/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://drive.google.com/file/d/1F3GdnAhHaDaT7HQdY6_cuBI7Lzk4U8KJ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Parent's Testimonial 1</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1RStjjcFmRIes800zEIWpluS4WkfdwWxA/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Parent's Testimonial 2</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1nAkeuXTb-Uw9hRN3VX2TNqKizvOHoAvm/view?usp=sharing" rel="noopener nofollow" target="_blank">Parents Testimonial 3</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1jN5QWbJggAFTGfJkc2q-TnCPEWX_4FnM/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Children's Testimonial</a>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSH9O0YLKYDCbLyydTsgXNvllYIjqkqQC0AJ3C6T5nCDQpwRX0IwaP-ZbEa6KJ62Ke98UmIFDLozln_/pubembed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
+<p></p>
