@@ -4,8 +4,9 @@ permalink: /mk-tanjong-katong/permalink/mkstaffinformation/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -15,6 +16,9 @@ description: ""
 <th rowspan="1" colspan="3">
 <p><a href="https://drive.google.com/file/d/1MdIQ22GrgT2epUASj4YfKMZIs2qucL3W/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Our Dedicated Team</a>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -27,6 +31,9 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,11 +41,14 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head</p>
+<p>Deputy Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_sharbana_rennie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_sharbana_rennie@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -46,11 +56,14 @@ description: ""
 <p>Hoi Poh Yoke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language</p>
+<p>English Language Teacher Form Teacher of K2 Determined Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoi_poh_yoke@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">hoi_poh_yoke@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -64,6 +77,9 @@ description: ""
 <p><a href="mailto:nurul_asyiqin_samsudin@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">nurul_asyiqin_samsudin@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -75,6 +91,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_shang_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_shang_chin@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -88,6 +107,9 @@ description: ""
 <p><a href="mailto:ng_yu_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yu_zhen@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,6 +121,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadzirah_mohamed_omrul_hauk@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadzirah_mohamed_omrul_hauk@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -112,6 +137,9 @@ description: ""
 <p><a rel="noopener noreferrer nofollow" target="_blank">nuramelina_amin@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,6 +151,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sun_jing@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">sun_jing@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -136,6 +167,9 @@ description: ""
 <p><a href="mailto:chen_di@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">chen_di@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -147,6 +181,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_shuchan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_shuchan@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -160,6 +197,9 @@ description: ""
 <p><a href="mailto:wang_cuiping@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">wang_cuiping@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -172,6 +212,9 @@ description: ""
 <p><a href="mailto:fan_xiaoxi@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">fan_xiaoxi@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -183,6 +226,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norwyidayanti_wisam@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">norwyldayanti_wisam@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -197,6 +243,9 @@ description: ""
 </p>
 <p><a href="mailto:swetha_sri_kumaseran@schools.gov.sg%20" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
