@@ -4,18 +4,15 @@ permalink: /2025-k1-orientation-day/
 variant: tiptap
 description: ""
 ---
-<p><strong><em>2025 Orientation Day</em></strong>
-</p>
-<p><a href="https://drive.google.com/file/d/1Yi7ftpz8NJFdAuoqOVSJOYqfN-2SrauL/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 K1 Orientation Day</a>
-</p>
 <p></p>
-<p><strong><em>A Day at MK@TK</em></strong>
-</p>
-<p><a href="https://drive.google.com/file/d/1lxoSpRlSYstsYYFcYYV0oENTcJv9tVCP/view?usp=sharing" rel="noopener nofollow" target="_blank">A Day at MK@TK</a>
-</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWsR5f_aWAjdyQM-NdusQ9Qvo4xgfdQK8ObusZdKyCKfJwheJsP3GRim7hVe9llbGyxbVG9xnoqaar/pubembed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
 <p></p>
-<p><strong><em>A Day at KCare</em></strong>
-</p>
-<p><a href="https://drive.google.com/file/d/1nEldmFNjbdfBo2um2dQENWkqAEl7m5FE/view?usp=sharing" rel="noopener nofollow" target="_blank">A Day at Kcare</a>
-</p>
+<p></p>
+<h3><strong> <u>A Day @ MK</u></strong></h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4CRnR9OuVjM?si=Ee1N6VsR62bjncdw"></iframe>
+</div>
 <p></p>
