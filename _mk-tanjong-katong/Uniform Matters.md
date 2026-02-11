@@ -20,13 +20,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_MK_Uniform_2.jpg">
 </div>
-<p><strong>Links</strong>
+<p><strong><u>Links</u></strong>
 </p>
-<p>Beau Voix</p>
-<p><a href="https://beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://beauvoix.com.sg</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Beau Voix</a>
 </p>
-<p>Jeep Sing</p>
-<p><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Jeep Sing</a>
 </p>
 <p></p>
 <p></p>

@@ -3,14 +3,13 @@ collections:
     output: true
     order:
       - Open House.md
-      - 2025 K1 Orientation Day.md
-      - MK Curriculum.md
-      - MK Events 2024.md
+      - K1 Orientation.md
+      - MK Curriculum & Programmes.md
+      - MK Events.md
       - Learning Environment.md
       - MK Staff Information.md
-      - Testimonials.md
-      - Family Handbook.md
+      - Parent Testimonials.md
+      - Kcare.md
       - Uniform Matters.md
-      - Waitlist Application.md
-      - Withdrawal Form.md
+      - Admin Matters.md
       - Contact Us.md
