@@ -18,8 +18,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><a href="https://drive.google.com/file/d/1MdIQ22GrgT2epUASj4YfKMZIs2qucL3W/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Our Dedicated Team</a>
-</p>
+<p></p>
 </th>
 </tr>
 <tr>
