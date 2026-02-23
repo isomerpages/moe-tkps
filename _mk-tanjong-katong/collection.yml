@@ -2,13 +2,13 @@ collections:
   mk-tanjong-katong:
     output: true
     order:
-      - Parent Support Group.md
       - Open House.md
       - K1 Orientation.md
       - MK Curriculum & Programmes.md
       - MK Events.md
       - Learning Environment.md
       - MK Staff Information.md
+      - Parent Support Group.md
       - Parent Testimonials.md
       - KCare.md
       - Uniform Matters.md
