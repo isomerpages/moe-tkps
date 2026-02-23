@@ -1,5 +1,5 @@
 ---
-title: Kcare
+title: KCare
 permalink: /mk-tanjong-katong/permalink/kcare/
 variant: tiptap
 description: ""
