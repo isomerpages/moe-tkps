@@ -4,8 +4,8 @@ permalink: /tkp/school-calendar/
 description: ""
 variant: tiptap
 ---
-<h3><strong>SCHOOL TERMS AND HOLIDAYS FOR 2025</strong></h3>
-<p>(accurate as of 01 February 2025)</p>
+<h3><strong>SCHOOL TERMS AND HOLIDAYS FOR 2026</strong></h3>
+<p>(accurate as of 27 February 2026)</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>School Terms</strong>
