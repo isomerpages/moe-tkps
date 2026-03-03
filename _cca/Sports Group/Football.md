@@ -6,87 +6,73 @@ third_nav_title: Sports Group
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p><strong>Mr Muhammad Faizal</strong>
-</p>
-<h4>CCA Teachers:</h4>
 <p><strong>Mr Jerald Wong</strong>
 </p>
-<p><strong>Mdm Lim Ruo Xin</strong>
+<h4>CCA Teachers:</h4>
+<p><strong>Mdm Aisyah Abu Bakar</strong>
 </p>
-<p><strong>Miss Tashalini K P Sathasivam</strong>
+<p><strong>Mdm Amalina Mardhiah</strong>
 </p>
-<p><strong>Mdm Piragatheeswari Sigamani</strong>
-</p>
-<p><strong>Mr Hoon Thing Ming</strong>
-</p>
-<p><strong>Mr Jimmy Tan</strong>
+<p><strong>Miss Tan Yi Yun, Florence</strong>
 </p>
 <p><strong>Mdm Aslinda Hamid</strong>
 </p>
-<p>The football program at TKP aims to instill a love for the sport, help
-students maximize their potential, and equip them with skills for competitions.
-Competitive squads gain valuable experience and team bonding through matches,
-learning life skills beyond the game. Recreational and developmental squads
-focus on improving technical abilities, physical conditioning, and teamwork
-in a positive environment. Guided by dedicated coaches and teachers, players
-develop skills like dribbling, passing, and tackling while embracing values
-such as commitment, perseverance, respect, and camaraderie. The program
-nurtures responsible self-leaders and active contributors to society, shaping
-students into skilled players and well-rounded individuals.</p>
+<p><strong>Mr Muhd Faizal</strong>
+</p>
+<p>The Football Co-Curricular Activity (CCA) at Tanjong Katong Primary School
+aims to nurture students’ love for the sport while supporting their holistic
+development. The programme provides a structured and supportive environment
+where students are encouraged to discover their strengths, develop confidence,
+and strive towards their personal best.</p>
+<p>Through a balanced approach catering to different levels of participation,
+students develop fundamental football skills, physical fitness, and teamwork.
+They learn to work collaboratively, build resilience, and grow through
+shared experiences both on and off the field.</p>
+<p>Guided by dedicated coaches and teachers, students are instilled with
+values such as commitment, perseverance, respect, and camaraderie. The
+programme seeks to nurture responsible self-leaders and active contributors,
+shaping students into well-rounded individuals through the game of football.</p>
 <h4>Objectives</h4>
-<p>Football in TKP is made up of the Competitive squads, Recreational squads
-and the Developmental squads.</p>
-<h5>Key Objectives of the whole Programme:</h5>
-<ol data-tight="true" class="tight">
+<p>1.&nbsp;Develop Fundamental Football Skills by providing students with
+structured opportunities to learn and practice football techniques such
+as dribbling, passing, receiving, and shooting, laying a strong foundation
+for confident participation in the sport.</p>
+<p>2.&nbsp;Promote Teamwork, Discipline, and Sportsmanship through fostering
+positive character development by encouraging students to work collaboratively,
+follow rules, respect opponents, and display resilience and integrity both
+on and off the field.</p>
+<ol start="3" data-tight="true" class="tight">
 <li>
-<p>Foster a passion for football among students.</p>
-</li>
-<li>
-<p>Develop students' technical skills and understanding of the game.</p>
-</li>
-<li>
-<p>Instill values such as teamwork, discipline, and sportsmanship.</p>
-</li>
-</ol>
-<h5>Key Outcomes of the whole Programme:</h5>
-<ol data-tight="true" class="tight">
-<li>
-<p>Students should be able to master the basic techniques and skills of Football
-so as to play the game correctly</p>
-</li>
-<li>
-<p>Students should be able to play football at the recreational and competitive
-level for beginners and advanced players respectively</p>
-</li>
-<li>
-<p>Students should be able to demonstrate good sportsmanship and values of
-fair play, teamwork and discipline through playing football</p>
+<p>Nurture Passion and Identify Potential through cultivating students’ interest
+in football by creating an enjoyable and motivating environment, while
+also identifying and guiding those with talent towards school representation
+and higher levels of play.</p>
 </li>
 </ol>
 <h4>CCA Schedule / Venue:</h4>
 <hr>
-<p><strong>Recreational &amp; Developmental Squads:</strong>
+<p><strong>School Team Training:</strong>
 </p>
-<p><u>Primary 4 Boys</u>
+<p><u>Junior Boys</u>
 </p>
-<p>Day: Mondays and Fridays</p>
-<p>Time: 2.30 – 4.30pm</p>
-<p></p>
-<p><u>Primary 5 &amp; 6 Boys</u>
+<p>Tuesday: 3 – 5pm</p>
+<p>Thursday: 2 – 4pm</p>
+<p><u>Senior Boys</u>
 </p>
-<p>Day: Fridays</p>
-<p>Time: 2.30 – 4.30pm</p>
-<p></p>
-<p><strong>Competitive Squads:</strong>
+<p>Tuesday: 3 – 5pm</p>
+<p>Thursday: 3 – 5pm</p>
+<p><strong>Venue:</strong> Football Field (Report at the Parade Square)</p>
+<p><strong>Non-School Team Training:</strong>
 </p>
-<p><u>Junior Boys Team</u>
+<p><u>Primary 3 &amp; 4</u>
 </p>
-<p>Day: Tuesdays and Thursdays</p>
-<p>Time: 2.30 – 4.30pm</p>
-<p><u>Senior Boys Team</u>
+<p>Monday: 2 – 4pm</p>
+<p><u>Primary 5 &amp; 6</u>
 </p>
-<p>Day: Monday and Wednesdays</p>
-<p>Time: 2.30 – 4.30pm</p>
+<p>Monday: 3 – 5pm</p>
+<p><strong>Venue: </strong>Football Field (Report at the Parade Square)</p>
+<p><em>**Do take note that on days where training starts at 3pm, pupils who will still report to the teacher in charge at 2pm. These pupils will finish their schoolwork and assist the teachers and coaches with the 2pm session wherever possible until their training session begins.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football___Picture1.jpg">
