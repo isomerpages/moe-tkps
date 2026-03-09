@@ -6,29 +6,29 @@ description: ""
 third_nav_title: Sports Group
 ---
 <h4>Teacher I/C:</h4>
-<p><strong>Ms Rachel Wang</strong>
+<p><strong>Mrs Jasmine Lim</strong>
 </p>
 <h4>CCA Teachers:</h4>
-<p><strong>Mrs Jasmine Lim,</strong>
+<p><strong>Mdm Gail Li</strong>
 </p>
-<p><strong>Mdm Aisyah Abu Bakar,</strong>
+<p><strong>Mrs Gurmit Singh</strong>
 </p>
-<p><strong>Mrs Gurmit Singh,</strong>
+<p><strong>Ms Rachel Wang</strong>
 </p>
-<p><strong>Ms Jasmine Eng</strong>
+<p><strong>Mr Jimmy Tan</strong>
 </p>
-<p>The Basketball Co-Curricular Activity (CCA) at TKP was established in
-2022 and has quickly become a vibrant part of our school community. Under
-the dedicated guidance of our teachers in charge—Ms. Rachel Wang, Mrs.
-Jasmine Lim, Mdm. Aisyah Abu Bakar, and Ms. Sui Yang—our program has flourished.</p>
-<p>This year, we are proud to celebrate our achievements: the Junior Boys
-team secured 3rd place in Tier 1, while our first ever batch of Senior
-Boys team claimed 1st place in League 5. These accomplishments reflect
-the hard work and commitment of our players and coaches.</p>
-<p>CCA Training sessions are held every Tuesday and Thursday from 2:00 PM
-to 4:00 PM. We welcome all students interested in developing their skills,
-teamwork, and sportsmanship. Join us on the court and be part of our growing
-basketball community!</p>
+<p>The Basketball Co-Curricular Activity (CCA) at Tanjong Katong Primary
+School provides students with opportunities to learn and grow through the
+sport of basketball. Through regular training and participation in school-based
+activities, students develop fundamental basketball skills while learning
+the importance of teamwork, discipline, and perseverance.</p>
+<p>The CCA emphasises character development alongside physical fitness, encouraging
+students to demonstrate sportsmanship, resilience, and respect both on
+and off the court. Guided by dedicated coaches and teachers, students are
+nurtured in a supportive environment that promotes confidence, teamwork,
+and a positive attitude towards learning and improvement.</p>
+<p>The Basketball CCA welcomes students who are keen to be active, learn
+new skills, and contribute positively to the team and school community.</p>
 <h4>Objectives:</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -40,7 +40,28 @@ passion for their sport.</p>
 </li>
 </ol>
 <h4>CCA Schedule/Venue:</h4>
-<p>Every Tues or Thursday, 2pm to 4pm @ school</p>
+<p><strong>School Team Training:</strong>
+</p>
+<p><u>Junior Boys</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p>Thursday: 2 – 4pm</p>
+<p></p>
+<p><u>Senior Boys</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p>Thursday: 2 – 4pm</p>
+<p><strong>Venue:</strong> Basketball Court (Report at the Parade Square)</p>
+<p></p>
+<p><strong>Non-School Team Training:</strong>
+</p>
+<p><u>Primary 3 &amp; 5</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p><u>Primary 4 &amp; 6</u>
+</p>
+<p>Thursday: 2 – 4pm</p>
+<p><strong>Venue:</strong> Basketball Court (Report at the Parade Square)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_Picture1.jpg">
