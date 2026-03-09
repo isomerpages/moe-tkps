@@ -9,22 +9,22 @@ variant: tiptap
 <p><strong>Mdm Carolyn June De Souza</strong>
 </p>
 <h4>CCA Teachers:</h4>
-<p><strong>Ms Meng Yu Qi</strong>
+<p><strong>Mdm Tiffany Tan</strong>
 </p>
-<p><strong>Mdm Amalina</strong>
+<p><strong>Ms Emily Yu Yuxian</strong>
 </p>
-<p><strong>Ms Emily Yu</strong>
+<p><strong>Mdm Sophia Lo</strong>
 </p>
-<p><strong>Mrs Sophia Lee</strong>
-</p>
-<p><strong>Mrs Karen Ong</strong>
-</p>
-<p>The Netball CCA sessions are offered to the girls to learn about the exciting
-team sport in a fun and engaging way. The students will develop the knowledge
-of skill, strategy and teamwork related Netball. They will also develop
-physical fitness, coordination, and sportsmanship. We look forward to the
-National School Games every year, where a team is selected to represent
-our school.</p>
+<p>The Netball Co-Curricular Activity (CCA) at Tanjong Katong Primary School
+provides girls with opportunities to learn and enjoy the sport of netball
+in a fun and engaging environment. Through structured training, students
+develop fundamental netball skills, an understanding of game strategies,
+and the importance of teamwork.</p>
+<p>The programme also supports the development of physical fitness, coordination,
+and sportsmanship, while fostering confidence, resilience, and cooperation.
+Guided by dedicated coaches and teachers, students are encouraged to grow
+as responsible team players and demonstrate positive values both on and
+off the court.</p>
 <h4>Objectives</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -40,10 +40,25 @@ and values of sportsmanship through sports.</p>
 </li>
 </ol>
 <h4>CCA Schedule / Venue:</h4>
-<p>P4 Developmental Team: Monday 2pm-4pm (ISH) / Thursday 2pm-4pm (ISH)</p>
-<p>P4 &amp; P5 Junior Team: Tuesday 2pm-4pm (Parade Sq) / Thursday 2pm-4pm
-(ISH)</p>
-<p>P6 Senior Team: Monday 3pm-5pm (ISH) / Thursday 3pm-5pm (ISH)</p>
+<p><strong>School Team Training:</strong>
+</p>
+<p><u>Junior Girls</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p>Thursday: 2 – 4pm</p>
+<p><u>Senior Girls</u>
+</p>
+<p>Monday: 3 – 5pm</p>
+<p>Thursday: 3 – 5pm</p>
+<p><strong>Venue:</strong> ISH (Report at the Parade Square)</p>
+<p><strong>Non-School Team Training:</strong>
+</p>
+<p><u>Primary 3 &amp; 4</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p><strong>Venue: </strong>ISH (Report at the Parade Square)</p>
+<p><em>**Do take note that on days where training starts at 3pm, pupils who will still report to the teacher in charge at 2pm. These pupils will finish their schoolwork and assist the teachers and coaches with the 2pm session wherever possible until their training session begins.</em>
+</p>
 <h4>Useful links</h4>
 <p><a href="http://www.netball.org.sg/" rel="noopener noreferrer nofollow" target="_blank">www.netball.org.sg</a>
 </p>
