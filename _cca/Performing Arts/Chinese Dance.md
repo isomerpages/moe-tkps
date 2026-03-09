@@ -6,27 +6,20 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p><strong>Mdm Su Tze-Han (Mrs Koh)</strong>
-</p>
-<h4>CCA Teachers:</h4>
 <p><strong>Mdm Huang Cong</strong>
 </p>
-<p><strong>Mdm Lim Pei Yee</strong>
+<h4>CCA Teachers:</h4>
+<p><strong>Ms Lim Ruoxin</strong>
 </p>
-<p>The Chinese dance CCA group has always been a popular CCA&nbsp;choice
-for the students who are attracted by various opportunities to perform
-and compete, not forgetting the graceful dance choreography and beautiful
-costumes. After joining the CCA, members learn that a lot of hard work
-is involved behind that glam on stage. They train for hours in order to
-perfect routines and in the process, beautiful friendships are forged.
-TKP Chinese Dance are also frequently invited to external community events
-such as Marine Parade Cluster&nbsp; Chinese New Year Celebration, Mountbatten
-GRC National Day Celebration, Esplanade events and school events such as
-Prize-Giving ceremony, Chinese New Year and International Friendship Day
-celebrations. The Chinese dance CCA has also been taking part in Singapore
-Youth Festival International Dance biennially and achieved wonderful results,
-with the most recent 2024 Singapore Youth Festival, achieving Certificate
-of Distinction.</p>
+<p><strong>Mrs Koh Tze-han</strong>
+</p>
+<p><strong>Ms Goh Ya Di</strong>
+</p>
+<p>Chinese Dance CCA at Tanjong Katong Primary School offers students an
+opportunity to explore the elegance and cultural richness of traditional
+Chinese dance. Through training and performances, students develop discipline,
+confidence, and teamwork while gaining a deeper appreciation for the performing
+arts.</p>
 <h4>Objectives:</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -43,9 +36,12 @@ perform.</p>
 </li>
 </ol>
 <h4>CCA Schedule / Venue:</h4>
-<p>Every Monday,</p>
-<p>2pm to 4pm</p>
-<p>Dance Studio</p>
+<p><u>Primary 3 to 6</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p><strong>Venue:</strong> Music Rooms</p>
+<p><em>**Do take note that there might be practice sessions assigned on other days of the week on an ad-hoc basis to prepare the students for event/competition performances.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_Picture5.jpg">
 </div>

@@ -9,49 +9,66 @@ variant: tiptap
 <p><strong>Mdm Chan Mei Teng</strong>
 </p>
 <h4>CCA Teachers:&nbsp;</h4>
-<p><strong>Ms Mahendran Rudrarani <br>Mrs Manoonmany</strong>
+<p><strong>Mrs Parathi Manoonmany</strong>
 </p>
-<p></p>
-<p>TKP International dance offers students a dynamic and creative way to
-express themselves through movement. It combines contemporary dance styles,
-encouraging children to explore rhythm, coordination, and flexibility.
-Our CCA sessions fosters teamwork, confidence, and discipline, as students
-learn to collaborate on internal and external performances and routines.</p>
+<p><strong>Ms Rudrarani Mahendran</strong>
+</p>
+<p>The International Dance (Hip Hop) Co-Curricular Activity (CCA) at Tanjong
+Katong Primary School provides students with opportunities to express themselves
+through dynamic and creative movement. Through exposure to various Hip
+Hop dance styles, students develop rhythm, coordination, and confidence
+in performance.</p>
+<p>The programme emphasises teamwork, discipline, and perseverance, guiding
+students to work collaboratively while striving for excellence. Through
+regular training and performance opportunities, students build stage presence
+and self-confidence, while learning to express creativity and individuality
+through dance.</p>
+<p>The International Dance (Hip Hop) CCA nurtures students to become confident
+performers and well-rounded individuals who demonstrate commitment and
+passion for the performing arts.</p>
 <h3>Objectives</h3>
-<p>1. <strong>Promote Creativity and Expression - </strong>Encourage students
-to express their emotions and ideas through dance, fostering creativity
-and artistic appreciation.</p>
-<p>2. <strong>Build Confidence -</strong> Boost students' self-esteem as they
-perform and showcase their talents in front of peers, teachers, and audiences.</p>
-<p>3. <strong>Instill Teamwork and Discipline -</strong> Teach students the
-importance of collaboration, responsibility, and time management through
-group practices and performances.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Equip students with fundamental Hip Hop techniques, rhythm, coordination,
+and stage presence.</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Encourage students to explore movement as a form of personal and artistic
+expression through choreography and improvisation.</p>
+</li>
+<li>
+<p>Build students’ character through regular practice, collaboration, and
+commitment to group performances.</p>
+</li>
+</ol>
 <h3>CCA Schedule / Venue:</h3>
-<p>Every Thursday</p>
-<p>2 p.m. to 4 p.m.</p>
-<p>Music Room 2</p>
+<p><u>Primary 3 to 6</u>
+</p>
+<p>Thursday: 2 – 4pm</p>
+<p><strong>Venue: </strong>Music Rooms</p>
+<p><em>**Do take note that there might be practice sessions assigned on other days of the week on an ad-hoc basis to prepare the students for event/competition performances.</em>
+</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ID1.jpg">
 </div>
-<p>Final pose for SYF Performance</p>
+<p>Dance members practising hard to learn their new dance steps</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ID2.jpg">
 </div>
-<p>Student Recognition Award for the International Dancers’ (formerly known
-as Modern Dancers) contributions for SYF.</p>
+<p>First International Dance Performance of the year @ Mountbatten National
+Day Celebration</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ID3.jpg">
 </div>
-<p>A success performance at the Marine Parade Dumpling Festival!</p>
+<p>Our dance members during Student Recognition Assembly</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/International Dance/InternationalDance_Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ID4.jpg">
 </div>
-<p>Our final performance for the year – Prize Giving Ceremony!
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
-<p>Final pose for our SYF performance</p>
+<p>Performance at Deepavali Concert</p>

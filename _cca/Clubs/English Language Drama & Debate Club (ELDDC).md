@@ -6,38 +6,50 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h4>Teacher IC:</h4>
-<p><strong>Mdm Farhana Bte Osman</strong>
+<p><strong>Mrs Elizabeth Yeow</strong>
 </p>
 <h4>CCA Teachers:</h4>
+<p><strong>Ms Piragatheeswari D/O Sigamani</strong>
+</p>
 <p><strong>Ms Joyce Chui</strong>
 </p>
-<p>Students in ELDDC went through a series of modules from debating and drama
-to public speaking in the second semester. The modules provided students
-with the necessary skills to equip them in becoming confident speakers.</p>
-<p>In the drama module, students were introduced to oratory and drama skills
-– breathing and vocal techniques, poise, posture and non-verbal communication
-skills. The module also gave students opportunities to practise on improvisation
-exercises and other drama techniques including creating stage presence,
-movements, gesturing, facial expression and voice projection.</p>
-<p>The debating module allows for students to be trained in formulating and
-presenting arguments to go through motion which included teaching students
-on how to present evidence and structure debate arguments.</p>
-<p>In public speaking, students are given training on speech craft which
-focuses on speaking fundamentals that aims to develop students to become
-better speakers and gain confidence in all aspects of communication including
-written and impromptu speeches as well as active listening.</p>
+<p>The English Language Drama Club at Tanjong Katong Primary School provides
+students with opportunities to develop confidence in speaking, performing,
+and creative expression. Through drama-based activities, students explore
+storytelling, characterisation, movement, and voice, while learning to
+express ideas and emotions effectively.</p>
+<p>The programme exposes students to various aspects of the performing arts,
+helping them build stage presence, creativity, and self-confidence in a
+supportive and engaging environment. Students are encouraged to work collaboratively
+as they rehearse and perform, fostering teamwork, discipline, and perseverance.</p>
+<p>Through performances and enrichment experiences, the English Language
+Drama Club nurtures confident communicators and creative thinkers who are
+able to express themselves clearly and creatively.</p>
 <h4>Objectives</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>To build confident speakers.</p>
+<p>To develop students’ techniques in engaging in debate, making speeches,
+telling stories and growing their oratorical skills</p>
 </li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
 <li>
-<p>To promote communication skills in students.</p>
+<p>To nurture a warm and inviting environment when students can foster their
+love of theatre and the arts through the attendance of and participation
+in performances &nbsp;</p>
+</li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>To nurture and grow values of teamwork, discipline and perseverance through
+rehearsals and preparation for performances</p>
 </li>
 </ol>
 <h4>CCA Schedule / Venue:</h4>
-<p>Tuesdays
-<br>3.30 p.m. – 5.30 p.m.</p>
+<p><u>Primary 3 to 6</u>
+</p>
+<p>Thursday: 2 – 4pm</p>
+<p><strong>Venue:</strong> School Library</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,44 +58,35 @@ written and impromptu speeches as well as active listening.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 430px; height: 321px;" height="auto" width="100%" alt="1.jpg" src="/images/Presenting%20an%20argument.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL1.jpg">
 </div>
-<p>Presenting an argument</p>
+<p>Discussing contentious issues during a debate / speech-making practice!</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 430px; height: 321px;" height="auto" width="100%" alt="2.jpg" src="/images/Debate%20in%20motion.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL2.jpg">
 </div>
-<p>Debate in motion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 430px; height: 321px;" height="auto" width="100%" alt="3.jpg" src="/images/Preparing%20for%20motion.jpeg">
-</div>
-<p>Preparing for motion</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 429px; height: 321px;" height="auto" width="100%" alt="4.jpg" src="/images/Voice%20projecting%20practice.jpeg">
-</div>
-<p>Voice Projection Practice</p>
+<p>Watching a theatre musical performance on one of our Learning Journeys
+to the Esplanade Theatre!</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 430px; height: 310px;" height="auto" width="100%" alt="5.jpg" src="/images/Practising%20speech%20patterns.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL3.jpg">
 </div>
-<p>Practising speech patterns</p>
+<p>Our 2024 school debate team ready at the competition venue!</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 415px; height: 310px;" height="auto" width="100%" alt="6.jpg" src="/images/Movement%20exercise.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL4.jpg">
 </div>
-<p>Movement exercise</p>
+<p>Performing in front of the school for Teacher’s Day!</p>
 </td>
 </tr>
 </tbody>
