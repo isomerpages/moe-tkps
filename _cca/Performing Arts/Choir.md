@@ -11,19 +11,24 @@ variant: tiptap
 <h4>CCA Teachers:</h4>
 <p><strong>Ms Chin Ying Xin</strong>
 </p>
+<p><strong>Ms Ng Peiling</strong>
+</p>
 <p><strong>Mdm Shan Meng Di</strong>
 </p>
-<p>The TKP choir is a group of students who enjoy singing and sharing their
-love of music together. During practices, the members work hard to improve
-their vocal techniques with our instructors. The choir repertoire ranges
-from classical to contemporary pieces, with songs in various languages
-such as Japanese and Hungarian.</p>
-<p>Our choir had the opportunity to perform for various internal school celebrations,
-as well as external performances such as the Mountbatten GRC National Day
-Celebration. With these experiences, we hope to further develop the vocal
-talents of the members of the choir and share their joy of singing with
-the community.</p>
-<p></p>
+<p>The Choir Co-Curricular Activity (CCA) at Tanjong Katong Primary School
+brings together students who share a love for singing and music-making.
+Through regular practices, members are guided to develop their vocal techniques,
+musical awareness, and confidence in choral performance under the guidance
+of dedicated instructors.</p>
+<p>The choir explores a diverse repertoire that spans classical and contemporary
+music, including songs performed in various languages. Through ensemble
+singing, students learn to listen attentively, blend their voices, and
+work collaboratively as a unified group.</p>
+<p>Participation in performances provides students with valuable opportunities
+to showcase their talents, build stage confidence, and share the joy of
+music with the school and wider community. Through these experiences, the
+Choir CCA aims to nurture confident performers and well-rounded individuals
+with a strong appreciation for the performing arts.</p>
 <h4>Objectives:</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -34,9 +39,12 @@ the community.</p>
 </li>
 </ol>
 <h4>CCA Schedule / Venue:</h4>
-<p>Every Monday,
-<br>2pm to 4pm
-<br>Music Room 1</p>
+<p><u>Primary 3 to 6</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p><strong>Venue: </strong>Dance Studio &amp; Teaching Lab</p>
+<p><em>**Do take note that there might be practice sessions assigned on other days of the week on an ad-hoc basis to prepare the students for event/competition performances.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_Picture1.jpg">
 </div>
