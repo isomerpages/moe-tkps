@@ -13,50 +13,20 @@ variant: tiptap
 </p>
 <p><strong>Ms Serene Soh</strong>
 </p>
-<h5>Programme Style</h5>
-<p>The Cub Scouts experience encourages the holistic physical, mental, spiritual
-and social development with a strong emphasis on duty to country and helping
-other people.</p>
-<p>Outdoor-oriented activities, such as orienteering, hiking, campfire, outdoor
-camp cooking and tents pitching, help to build character and leadership.</p>
-<p>Songs singing and playing team-based games also ensure a balanced experience
-where they work collaboratively with their peers.</p>
-<h5><strong>Types of Activities</strong></h5>
-<p>Cub Scouts activities involve playing games of every sort to ensure a
-balanced training approach. Stories, in particular Kipling’s Jungle Book
-and other similar stories that involve adventure, romance, humour, history,
-religious stories etc., are used and help each Cub Scout to more easily
-understand the meaning of their Promise and Law through analogy, stories
-and plays. Songs singing and hands-on activities such as hiking, outdoor
-camp cooking and tents pitching are important to help children use their
-fingers and their heads to work collaboratively with their peers.</p>
-<h5>Progress Awards</h5>
-<p>Starting from this early development stages, Cub Scouts will aim to earn
-a series of Badges, which give them a knowledge of basic Scouting skills
-and mark achievements in areas such as camp craft, air and water activities,
-citizenship and improving the environment.</p>
-<p>The Cub Scouts Section Training Scheme is divided into 3 progress badges
-and a highest award:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bronze Arrow</p>
-</li>
-<li>
-<p>Silver Arrow</p>
-</li>
-<li>
-<p>Gold Arrow</p>
-</li>
-<li>
-<p>Akela Award</p>
-</li>
-</ul>
-<p>Each progress badge comprises tests for Citizenship, Leadership and Responsibility,
-Physical Skills, Self-Reliance, Adventure and Fun.</p>
-<p>The highest award in this section is the Akela Award, where a Cub Scout
-must hold the Gold Arrow and pass specific proficiency badges, show general
-knowledge of scouting and successfully complete an interview with the District
-Commissioner.</p>
+<p><strong>Ms Anjana</strong>
+</p>
+<p>The Cub Scouts Co-Curricular Activity (CCA) at Tanjong Katong Primary
+School provides students with opportunities for holistic development across
+the physical, mental, social, and moral domains. The programme places strong
+emphasis on character building, a sense of responsibility, and service
+to others.</p>
+<p>Through outdoor-oriented activities such as orienteering, hiking, campcraft,
+and simple outdoor cooking, students develop resilience, leadership, and
+practical life skills. These experiences encourage independence, teamwork,
+and problem-solving in real-world settings.</p>
+<p>Songs, group activities, and team-based games further support a balanced
+CCA experience, fostering camaraderie and collaboration as students learn
+to work effectively with their peers.</p>
 <h4>Objectives</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -64,10 +34,14 @@ Commissioner.</p>
 and directed towards satisfying the child’s innate need to face and overcome
 challenges.</p>
 </li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Self-developmental activities as vital components of the overall drive
 towards encouraging “Fun &amp; Discovery” amongst the Cubs.</p>
 </li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p>Group activities that are based on the natural sense of fun and enthusiasm
 of the age group. Thus the experience is achieved largely through games,
@@ -75,10 +49,10 @@ interaction in small groups and activities.</p>
 </li>
 </ol>
 <h4>CCA Schedule / Venue:</h4>
-<p>Day and Time:
-<br>Thursdays, 2pm to 4pm and selected Saturdays for hike / zonal or national
-scout events.</p>
-<p>Venue: Teaching lab / classroom / parade square</p>
+<p><u>Primary 3 to 6</u>
+</p>
+<p>Thursday: 2 – 4pm</p>
+<p><strong>Venue:</strong> Classrooms</p>
 <h4>Useful links</h4>
 <p>The Singapore Scout Association Website:&nbsp;<a href="https://scout.sg/" rel="noopener noreferrer nofollow" target="_blank">https://scout.sg/</a>
 </p>
