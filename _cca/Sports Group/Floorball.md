@@ -9,13 +9,11 @@ variant: tiptap
 <p><strong>Mr Vincent Subramaniam David</strong>
 </p>
 <h4>CCA Teachers:</h4>
-<p><strong>Mr Vincent David</strong>
-</p>
 <p><strong>Mdm Isliana Mohamad</strong>
 </p>
-<p><strong>Mdm Florence Tan</strong>
-</p>
 <p><strong>Mrs Tang Shufang</strong>
+</p>
+<p><strong>Ms Tashalini</strong>
 </p>
 <p><strong>Ms Ashikin Tahir</strong>
 </p>
@@ -39,7 +37,23 @@ skills as Floorball players.</p>
 </li>
 </ol>
 <h4>CCA Schedule / Venue:</h4>
-<p>Monday, Tuesday and Friday 2 to 4pm (ISH/MPH)</p>
+<p><strong>School Team Training:</strong>
+</p>
+<p><u>Junior Boys</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p>Thursday: 2 – 4pm</p>
+<p><u>Senior Boys</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p>Thursday: 2 – 4pm</p>
+<p><strong>Venue:</strong> School Hall (Report at the Parade Square)</p>
+<p><strong>Non-School Team Training:</strong>
+</p>
+<p><u>Primary 3 to 6</u>
+</p>
+<p>Monday: 2 – 4pm</p>
+<p><strong>Venue: </strong>School Hall (Report at the Parade Square)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Floorball_Senior_Boys_Team__Resize_1.jpg">
