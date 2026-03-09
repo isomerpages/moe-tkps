@@ -6,7 +6,7 @@ third_nav_title: Sports Group
 variant: tiptap
 ---
 <h4>Teacher I/C:</h4>
-<p><strong>Mdm Gail Li Ming Ai</strong>
+<p><strong>Mr Vincent Subramaniam David</strong>
 </p>
 <h4>CCA Teachers:</h4>
 <p><strong>Mr Vincent David</strong>
