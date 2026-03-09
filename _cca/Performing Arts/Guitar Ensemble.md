@@ -9,17 +9,17 @@ variant: tiptap
 <p><strong>Miss Seah Wen Hui</strong>
 </p>
 <h4>CCA Teachers:&nbsp;</h4>
-<p><strong>Madam Farah Bte Abd Malik,&nbsp;Mrs Tay Mei Leng</strong>
+<p><strong>Madam Farah Bte Abd Malik</strong>
+</p>
+<p><strong>Mrs Tay Mei Leng</strong>
 </p>
 <hr>
-<p>Established in 2016, the Guitar Ensemble nurtures students’ musical talents
-and soft skills like teamwork and perseverance. Members work together to
-play in harmony and showcase their growth through various internal and
-external performances. With dedication and discipline, they strive for
-excellence while sharing the joy of music with audiences.</p>
-<p>Whether strumming melodies or mastering challenging plucking pieces, the
-Guitar Ensemble inspires students to achieve excellence and find joy in
-music.</p>
+<p>Our Guitar Ensemble brings together young musicians to explore the joy
+of making music together. Students learn fundamental guitar techniques,
+develop rhythm and coordination, and perform a variety of songs as a group.
+Through weekly practices and various performances, members build confidence,
+teamwork skills, and a lifelong appreciation for music in a supportive,
+creative environment.</p>
 <h3>Objectives</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -36,17 +36,26 @@ etc.</p>
 </li>
 </ol>
 <h3>CCA Schedule / Venue:</h3>
-<p>Every Thursday,</p>
+<p><u>Main CCA Session</u>
+</p>
+<p>Thursday,</p>
+<p>2pm to 4pm</p>
+<p>Band Room</p>
+<p></p>
+<p><u>Ad-hoc Session</u>
+</p>
+<p>Monday,</p>
 <p>2pm to 4pm</p>
 <p>Band Room</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Ensemble/GuitarEnsemble_Picture1.jpg">
 </div>
 <p>Students performing during SYF2024</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Ensemble/GuitarEnsemble_Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GE1.jpg">
 </div>
-<p>Group photo after performance at 2024 Mountbatten Youth Got Talent! Showcase</p>
+<p>Students performing at EXPO for Marine Parade National Day Dinner 2025</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar Ensemble/GuitarEnsemble_Picture3.jpg">
