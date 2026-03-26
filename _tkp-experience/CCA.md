@@ -156,8 +156,6 @@ will try to accommodate every students’ choice of CCA.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
