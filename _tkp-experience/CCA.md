@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Head of Department:</h4>
-<p><strong>Mr Muhd Fadly Mohd Ariff </strong>
+<p><strong>Mr Muhd Fadly Mohd Ariff</strong>
 </p>
 <h4>Subject Head:</h4>
 <p><strong>Mr Muhammad Faizal Bin Mak Said</strong>
@@ -156,6 +156,7 @@ will try to accommodate every students’ choice of CCA.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
