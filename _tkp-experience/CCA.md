@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Head of Department:</h4>
-<p><strong>Ms Serene Ng</strong>
+<p><strong>Mr Muhd Fadly Mohd Ariff </strong>
 </p>
 <h4>Subject Head:</h4>
 <p><strong>Mr Muhammad Faizal Bin Mak Said</strong>
@@ -139,8 +139,9 @@ will try to accommodate every students’ choice of CCA.</p>
 </tbody>
 </table>
 <h4>Sports</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -151,7 +152,15 @@ will try to accommodate every students’ choice of CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="300" width="400" alt="Football" src="/images/Football.jpeg">
 </div>
-<p><strong><a href="/tkp-experience/cca/sports/football/" rel="noopener noreferrer nofollow" target="_blank">Football</a></strong>
+<p><strong><a href="/tkp-experience/cca/sports/football-boys/" rel="noopener noreferrer nofollow" target="_blank">Football (Boys)</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+</div>
+<p><strong><a href="/tkp-experience/cca/sports/football-girls/" rel="noopener noreferrer nofollow" target="_blank">Football (Girls)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
