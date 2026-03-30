@@ -1,6 +1,6 @@
 ---
-title: English Language Drama & Debate Club (ELDDC)
-permalink: /tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/
+title: English Language Drama Club (ELDC)
+permalink: /tkp-experience/cca/clubs/english-language-drama-club-eldc/
 description: ""
 third_nav_title: Clubs
 variant: tiptap
