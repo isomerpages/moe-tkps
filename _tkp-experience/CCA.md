@@ -55,7 +55,7 @@ will try to accommodate every students’ choice of CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="300" width="400" alt="English Language Drama &amp; Debate Club (ELDDC)" src="/images/ELDDC.jpeg">
 </div>
-<p><strong><a href="/tkp-experience/cca/clubs/english-language-drama-n-debate-club-elddc/" rel="noopener noreferrer nofollow" target="_blank">English Language Drama (ELDC)</a></strong>
+<p><strong><a href="/tkp-experience/cca/clubs/english-language-drama-club-eldc/" rel="noopener noreferrer nofollow" target="_blank">English Language Drama (ELDC)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
