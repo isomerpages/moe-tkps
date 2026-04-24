@@ -239,6 +239,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="mailto:Kannagee_Krishnamurthi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kannagee Krishnamurthi (Ms)</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="mailto:roslan_mohamed_pawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Roslan Bin Mohamed Pawi (Mr)</u></a></strong>
 </p>
 </td>
