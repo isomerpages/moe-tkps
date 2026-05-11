@@ -4,12 +4,6 @@ permalink: /tkp-experience/programme-for-active-learning-pal/
 description: ""
 variant: tiptap
 ---
-<h4>Department Head:</h4>
-<p><strong>Ms Serene Ng</strong>
-</p>
-<h4>PAL Co-ordinator:</h4>
-<p><strong>Miss Seah Wen Hui</strong>
-</p>
 <h4>Department Vision</h4>
 <p><strong>A Community of Individuals with a Love for Active Lifestyle and the Arts.</strong>
 </p>
