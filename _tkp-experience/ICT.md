@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Subject Head:</h4>
-<p><strong>Ms Nuraishah Mahmood</strong>
+<p><strong>Mdm Dayangku Nuurul Aida Fatima</strong>
 </p>
 <h4>Department Vision:</h4>
 <p><strong>1. An IT-enriched teaching and learning environment</strong> 
