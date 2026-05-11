@@ -6,7 +6,7 @@ third_nav_title: Student Management
 variant: tiptap
 ---
 <h4>Head of Department / Student Management:</h4>
-<p><strong>Mrs Kumuda Vijay</strong>
+<p><strong>Ms Jasmine Eng</strong>
 </p>
 <p>1 . UPBEAT</p>
 <p>This is a 3-day programme set aside on the first 3 days of the school
