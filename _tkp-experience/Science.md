@@ -10,9 +10,6 @@ variant: tiptap
 <h4>Subject Head:</h4>
 <p><strong>Mr Hoon Thing Ming</strong>
 </p>
-<h4>Senior Teacher:</h4>
-<p><strong>Mrs Aileen Tam</strong>
-</p>
 <h4>Department Vision</h4>
 <p><strong>Passion for Science.</strong> 
 <br><strong>Independent and Lifelong Learners.</strong>
