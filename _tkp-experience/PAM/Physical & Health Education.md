@@ -6,7 +6,7 @@ third_nav_title: PAM
 variant: tiptap
 ---
 <h4>Head of Department:</h4>
-<p><strong>Ms Serene Ng</strong>
+<p><strong>Mr Muhammad Fadly Bin Mohd Ariff</strong>
 </p>
 <h4>Subject Head:</h4>
 <p><strong>Mr Muhammad Faizal Bin Mak Said</strong>
