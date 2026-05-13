@@ -5,12 +5,6 @@ description: ""
 third_nav_title: PAM
 variant: tiptap
 ---
-<h4>Head of Department:</h4>
-<p><strong>Ms Serene Ng</strong>
-</p>
-<h4>Subject Head:</h4>
-<p><strong>Ms Jasmine Eng (Aesthetics)</strong>
-</p>
 <h4>Department Vision</h4>
 <p><strong>A Community of Individuals with a Love for Active Lifestyle and the Arts.</strong>
 </p>
