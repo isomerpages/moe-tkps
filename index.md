@@ -25,11 +25,4 @@ sections:
       description: For P1/2026 Parents/Guardians
       button: Click Next
       url: https://tanjongkatongpri.moe.edu.sg/tkp/announcements/
-  - infobar:
-      title: 2025 ECHA Nomination Form
-      subtitle: NEW INFO
-      id: infobar
-      description: To download form
-      button: Click here
-      url: https://tanjongkatongpri.moe.edu.sg/echa-nomination-2025/
 ---
